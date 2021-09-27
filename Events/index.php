@@ -988,7 +988,7 @@
                         <p><b>Effect</b>: Grants All Creation spell with a cost of 1000 mana.</p>
                         <p><img src="/realm/Factions/picks/AllCreation1000.png" align="middle"></p>
                         <p><b>Effect</b>: Increase production of all buildings based on your Mana Regeneration.</p>
-                        <p><b>Formula</b>: (0.15 * ln(1 + x) ^ 3.5 + 0.9 * x ^ 0.27)%, where x is your Mana Regeneration.</p>						
+                        <p><b>Formula</b>: (0.15 * ln(1 + x) ^ 3.5 + 0.9 * x ^ 0.27)%, where x is your Mana Regeneration.</p>
                         <p><b>Effect</b>: Also multiplicative increase Faction Coin find chance based on your Mana Regeneration.</p>
                         <p><b>Formula</b>: (5 * ln(1 + x) ^ 2.5 + 15 * x ^ 0.15)%, where x is your Mana Regeneration.</p>
                         <p><b>Note</b>: All Creation obtained this way cannot be tiered.</p>
@@ -1658,8 +1658,8 @@
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
                         <p><b>Effect</b>: Increase the production of all buildings by 1e6%.</p>
-                        <p><b>Notes</b>: If you got this upgrade in the past it will only show in purchased upgrades.</p>
-                        <p><b>Notes</b>: This upgrade does nothing.</p>
+                        <p><b>Note</b>: If you got this upgrade in the past it will only show in purchased upgrades.</p>
+                        <p><b>Note</b>: This upgrade does nothing.</p>
                     </div>
                 </div>
                 <div class="shelementwhole">
@@ -1763,7 +1763,7 @@
                         <p>It's Christmas time! The subjects of your Realm are sensing the aura of power in the air, inspiring them in their daily life and making them feel proud of your righteous leadership. Encouraged by your unmatched abilities as a ruler, they believed it would be appropriate to offer you a daily tribute for the duration of the Holidays.</p>
                         <p><b>Event Theme</b>: Snowballs. They will accumulate at a rate of 1 per minute, up to a maximum of 720 (12 hours). Collecting Snowballs will allow you to complete quests and increase your Avalanche upgrade bonus.</p>
                         <p>Every day you will receive a Christmas Present containing Snowballs or Rubies. Presents are required to complete quests and can only be retrieved once per day by going online.</p>
-                        <p><b>Notes</b>: The daily Christmas presents contains 1 Ruby or 200 Snowballs (every other present)</p>
+                        <p><b>Note</b>: The daily Christmas presents contains 1 Ruby or 200 Snowballs (every other present)</p>
                         <p><b>Event Bonus</b>: Total cumulative and permanent quest bonus at the end of the Event: 14%</p>
                         <p><b>Note</b>: If you didn't unlock all the Christmas feats last year, you have a chance to do so with this one! If you already did, you will be able to gain additional permanent production bonuses from completing all the quests again, and benefit from the massive bonus from the Avalanche upgrade once again.</p>
                         <p>You can find all this information in a guide by pressing the "?" button in the Event Panel.</p>
@@ -2930,8 +2930,8 @@
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
                         <p><b>Effect</b>: Increase the production of all buildings by 1e6%.</p>
-                        <p><b>Notes</b>: If you got this upgrade in the past it will only show in purchased upgrades.</p>
-                        <p><b>Notes</b>: This upgrade does nothing.</p>
+                        <p><b>Note</b>: If you got this upgrade in the past it will only show in purchased upgrades.</p>
+                        <p><b>Note</b>: This upgrade does nothing.</p>
                     </div>
                 </div>
                 <div class="shelementwhole">
@@ -3028,7 +3028,7 @@
                         <p>It's Christmas time! The subjects of your Realm are sensing the aura of power in the air, inspiring them in their daily life and making them feel proud of your righteous leadership. Encouraged by your unmatched abilities as a ruler, they believed it would be appropriate to offer you a daily tribute for the duration of the Holidays.</p>
                         <p><b>Event Theme</b>: Snowballs. They will accumulate at a rate of 1 per minute, up to a maximum of 720 (12 hours). Collecting Snowballs will allow you to complete quests and increase your Avalanche upgrade bonus.</p>
                         <p>Every day you will receive a Christmas Present containing Snowballs or Rubies. Presents are required to complete quests and can only be retrieved once per day by going online.</p>
-                        <p><b>Notes</b>: The daily Christmas presents contains 1 Ruby or 200 Snowballs (every other present)</p>
+                        <p><b>Note</b>: The daily Christmas presents contains 1 Ruby or 200 Snowballs (every other present)</p>
                         <p><b>Event Bonus</b>: Total cumulative and permanent quest bonus at the end of the Event: 14%</p>
                         <p><b>Note</b>: If you didn't unlock all the Christmas feats last year, you have a chance to do so with this one! If you already did, you will be able to gain additional permanent production bonuses from completing all the quests again, and benefit from the massive bonus from the Avalanche upgrade once again.</p>
                         <p>You can find all this information in a guide by pressing the "?" button in the Event Panel.</p>
@@ -3997,13 +3997,13 @@
                         <p><b>Kind</b>: Converter</p>
                         <p><b>Unlock / Price</b>: 3000 Common Eggs</p>
                         <p><b>Effect & Notes</b>: Exchange 3000 Common Eggs for 1 Unique Egg.</p>
-                        <p><b>Notes</b>: This disappears after you get your last Unique Egg.</p>
+                        <p><b>Note</b>: This disappears after you get your last Unique Egg.</p>
                         <hr>
                         <p><b><img src="/realm/Factions/picks/BuyUnique100Easter2017.png" alt="Buy Unique Egg" align="middle"> Buy Unique Egg</b></p>
                         <p><b>Kind</b>: Converter</p>
                         <p><b>Unlock / Price</b>: 100 Rare Eggs</p>
                         <p><b>Effect & Notes</b>: Exchange 100 Rare Eggs for 1 Unique Egg</p>
-                        <p><b>Notes</b>: This disappears after you get your last Unique Egg.</p>
+                        <p><b>Note</b>: This disappears after you get your last Unique Egg.</p>
                         <hr>
                         <p><b>Egg Hunter Quest</b></p>
                         <p><b>Note</b>: Each Quest step will increase your Event bonus, which will be added to your Cumulative Event bonus. (Total: 7%)</p>
@@ -4148,8 +4148,8 @@
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
                         <p><b>Effect</b>: Increase the production of all buildings by 1e6%.</p>
-                        <p><b>Notes</b>: If you got this upgrade in the past it will only show in purchased upgrades.</p>
-                        <p><b>Notes</b>: This upgrade does nothing.</p>
+                        <p><b>Note</b>: If you got this upgrade in the past it will only show in purchased upgrades.</p>
+                        <p><b>Note</b>: This upgrade does nothing.</p>
                     </div>
                 </div>
                 <div class="shelementwhole">
@@ -4243,7 +4243,7 @@
                         <p>It's Christmas time! The subjects of your Realm are sensing the aura of power in the air, inspiring them in their daily life and making them feel proud of your righteous leadership. Encouraged by your unmatched abilities as a ruler, they believed it would be appropriate to offer you a daily tribute for the duration of the Holidays.</p>
                         <p><b>Event Theme</b>: Snowballs. They will accumulate at a rate of 1 per minute, up to a maximum of 720 (12 hours). Collecting Snowballs will allow you to complete quests and increase your Avalanche upgrade bonus.</p>
                         <p>Every day you will receive a Christmas Present containing Snowballs or Rubies. Presents are required to complete quests and can only be retrieved once per day by going online.</p>
-                        <p><b>Notes</b>: The daily Christmas presents contains 1 Ruby or 200 Snowballs (every other present)</p>
+                        <p><b>Note</b>: The daily Christmas presents contains 1 Ruby or 200 Snowballs (every other present)</p>
                         <p><b>Event Bonus</b>: Total cumulative and permanent quest bonus at the end of the Event: 14%</p>
                         <p><b>Note</b>: If you didn't unlock all the Christmas feats last year, you have a chance to do so with this one! If you already did, you will be able to gain additional permanent production bonuses from completing all the quests again, and benefit from the massive bonus from the Avalanche upgrade once again.</p>
                         <p>You can find all this information in a guide by pressing the "?" button in the Event Panel.</p>
@@ -4967,13 +4967,13 @@
                         <p><b>Kind</b>: Converter</p>
                         <p><b>Unlock / Price</b>: 3000 Common Eggs</p>
                         <p><b>Effect & Notes</b>: Exchange 3000 Common Eggs for 1 Unique Egg.</p>
-                        <p><b>Notes</b>: This disappears after you get your last Unique Egg.</p>
+                        <p><b>Note</b>: This disappears after you get your last Unique Egg.</p>
                         <hr>
                         <p><b><img src="/realm/Factions/picks/BuyUnique100Easter2017.png" alt="Buy Unique Egg" align="middle"> Buy Unique Egg</b></p>
                         <p><b>Kind</b>: Converter</p>
                         <p><b>Unlock / Price</b>: 100 Rare Eggs</p>
                         <p><b>Effect & Notes</b>: Exchange 100 Rare Eggs for 1 Unique Egg</p>
-                        <p><b>Notes</b>: This disappears after you get your last Unique Egg.</p>
+                        <p><b>Note</b>: This disappears after you get your last Unique Egg.</p>
                         <hr>
                         <p><b>Egg Hunter Quest</b></p>
                         <p><b>Note</b>: Each Quest step will increase your Event bonus, which will be added to your Cumulative Event bonus. (Total: 7%)</p>
@@ -5111,8 +5111,8 @@
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
                         <p><b>Effect</b>: Increase the production of all buildings by 1e6%.</p>
-                        <p><b>Notes</b>: If you got this upgrade in the past it will only show in purchased upgrades.</p>
-                        <p><b>Notes</b>: This upgrade does nothing.</p>
+                        <p><b>Note</b>: If you got this upgrade in the past it will only show in purchased upgrades.</p>
+                        <p><b>Note</b>: This upgrade does nothing.</p>
                     </div>
                 </div>
                 <div class="shelementwhole">
@@ -5189,7 +5189,7 @@
                         <p>It's Christmas time! The subjects of your Realm are sensing the aura of power in the air, inspiring them in their daily life and making them feel proud of your righteous leadership. Encouraged by your unmatched abilities as a ruler, they believed it would be appropriate to offer you a daily tribute for the duration of the Holidays.</p>
                         <p><b>Event Theme</b>: Snowballs. They will accumulate at a rate of 1 per minute, up to a maximum of 480 (8 hours). Collecting Snowballs will allow you to complete quests and increase your Avalanche upgrade bonus.</p>
                         <p>Every day you will receive a Christmas Present containing Snowballs or Rubies. Presents are required to complete quests and can only be retrieved once per day by going online.</p>
-                        <p><b>Notes</b>: The daily Christmas presents contains 1 Ruby or 200 Snowballs (every other present)</p>
+                        <p><b>Note</b>: The daily Christmas presents contains 1 Ruby or 200 Snowballs (every other present)</p>
                         <p><b>Event Bonus</b>: Total cumulative and permanent quest bonus at the end of the Event: 14%</p>
                         <p><b>Note</b>: If you didn't unlock all the Christmas feats last year, you have a chance to do so with this one! If you already did, you will be able to gain additional permanent production bonuses from completing all the quests again, and benefit from the massive bonus from the Avalanche upgrade once again.</p>
                         <p>You can find all this information in a guide by pressing the "?" button in the Event Panel.</p>
@@ -5825,13 +5825,13 @@
                         <p><b>Kind</b>: Converter</p>
                         <p><b>Unlock / Price</b>: 3000 Common Eggs</p>
                         <p><b>Effect & Notes</b>: Exchange 3000 Common Eggs for 1 Unique Egg.</p>
-                        <p><b>Notes</b>: This disappears after you get your last Unique Egg.</p>
+                        <p><b>Note</b>: This disappears after you get your last Unique Egg.</p>
                         <hr>
                         <p><b><img src="/realm/Factions/picks/BuyUnique100Easter2017.png" alt="Buy Unique Egg" align="middle"> Buy Unique Egg</b></p>
                         <p><b>Kind</b>: Converter</p>
                         <p><b>Unlock / Price</b>: 100 Rare Eggs</p>
                         <p><b>Effect & Notes</b>: Exchange 100 Rare Eggs for 1 Unique Egg</p>
-                        <p><b>Notes</b>: This disappears after you get your last Unique Egg.</p>
+                        <p><b>Note</b>: This disappears after you get your last Unique Egg.</p>
                         <hr>
                         <p><b>Egg Hunter Quest</b></p>
                         <p><b>Note</b>: Each Quest step will increase your Event bonus, which will be added to your Cumulative Event bonus. (Total: 7%)</p>
@@ -5941,8 +5941,8 @@
                         <p><b>Kind</b>: Upgrade</p>
                         <p><b>Unlock / Price</b>: 1 Coin</p>
                         <p><b>Effect</b>: Increase the production of all buildings by 1e6%.</p>
-                        <p><b>Notes</b>: If you got this upgrade in the past it will only show in purchased upgrades.</p>
-                        <p><b>Notes</b>: This upgrade does nothing.</p>
+                        <p><b>Note</b>: If you got this upgrade in the past it will only show in purchased upgrades.</p>
+                        <p><b>Note</b>: This upgrade does nothing.</p>
                     </div>
                 </div>
                 <div class="shelementwhole">
@@ -6012,7 +6012,7 @@
                         <p>It's Christmas time! The subjects of your Realm are sensing the aura of power in the air, inspiring them in their daily life and making them feel proud of your righteous leadership. Encouraged by your unmatched abilities as a ruler, they believed it would be appropriate to offer you a daily tribute for the duration of the Holidays.</p>
                         <p><b>Event Theme</b>: Snowballs. They will accumulate at a rate of 1 per minute, up to a maximum of 480 (8 hours). Collecting Snowballs will allow you to complete quests and increase your Avalanche upgrade bonus.</p>
                         <p>Every day, you will also receive a Christmas Present (image) containing Snowballs or Rubies. Presents are required to complete quests and can only be retrieved once per day by going online.</p>
-                        <p><b>Notes</b>: The daily Christmas presents contains 1 Ruby and 200 or 500 Snowballs</p>
+                        <p><b>Note</b>: The daily Christmas presents contains 1 Ruby and 200 or 500 Snowballs</p>
                         <p><b>Event Bonus</b>: Total cumulative and permanent quest bonus at the end of the Event: 14</p>
                         <p><b>Note</b>: If you didn't unlock all the Christmas feats last year, you have a chance to do so with this one! If you already did, you will be able to gain additional permanent production bonuses from completing all the quests again, and benefit from the massive bonus from the Avalanche upgrade once again.</p>
                         <p>You can find all this information in a guide by pressing the "?" button in the Event Panel.</p>

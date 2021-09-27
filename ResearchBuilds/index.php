@@ -16,7 +16,7 @@
             <div class="shelementwhole">
                 <p onclick="shohid($(this));"><b><a href="#" onclick="return false;"><font color="DarkRed">Notes for R16</font></a></b></p>
                 <div class="autohide">
-                    <p><b>Notes</b></p>
+                    <p><b>Note</b></p>
                     <p>There is a relevant guide on how to go through the unlocking of the researches needed to start using research builds. (<a target="_blank" href="http://musicfamily.org/realm/R16Guide/"><b>R16 Research Guide</b></a>)</p>
                     <p>IMPORTANT: Although you unlock all researches at the end of R16, you do not use research until R17. Keep using Mercenary to finish R16 </p>
                     <p>All factions were used and tested, Goblin proved to be the best in a reasonable amount of time.</p>

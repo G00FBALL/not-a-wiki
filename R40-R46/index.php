@@ -88,8 +88,8 @@
 					<p>E135,E145,E250,E260,E320,E480,</p>
 					<p>A120,A250,A305,A375,A400,A545,</p>
 					<p>W120,W135,W200,W250,W400</p>
-					<p><b>Notes</b>: Meant for unlocking Reversed and tiered autocast.</p>
-					<p><b>Notes</b>: Estimated time to unlock tiered Autocast is 30 minutes</p>
+					<p><b>Note</b>: Meant for unlocking Reversed and tiered autocast.</p>
+					<p><b>Note</b>: Estimated time to unlock tiered Autocast is 30 minutes</p>
 				</div>
 			</div>
 		</div>
@@ -157,9 +157,9 @@
 					<p>E145,E330,E400,E410,E480,</p>
 					<p>A105,A120,A150,A250,A270,</p>
 					<p>W120,W150,W180,W320,W400</p>
-					<p>Notes: Swap A150->A330 if higher</p>
-					<p><b>Notes</b>: Gets to 3750 assistants instantly without Sun Force Assistants, the hard part is the 1e70 (10 Dvg) coins cost.</p>
-					<p><b>Notes</b>: Estimated time to 1e70 (10 Dvg) coins: 45 minutes at 1e30 (1 No) Gems without spell tiers.</p>
+					<p><b>Note</b>: Swap A150->A330 if higher</p>
+					<p><b>Note</b>: Gets to 3750 assistants instantly without Sun Force Assistants, the hard part is the 1e70 (10 Dvg) coins cost.</p>
+					<p><b>Note</b>: Estimated time to 1e70 (10 Dvg) coins: 45 minutes at 1e30 (1 No) Gems without spell tiers.</p>
 				</div>
 			</div>
 			<br />

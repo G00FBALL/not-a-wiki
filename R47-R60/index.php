@@ -76,13 +76,13 @@
 				<p>E145,E150,E200,E320,E330,</p>
 				<p>A105,A120,A250,A305,A400,</p>
 				<p>W150,W180,W260,W290,W320,W400</p>
-				<p><b>Notes</b>: R49+ swap E150->E460, E200->E1225.</p>
-				<p><b>Notes</b>: R50+ swap D55->D1275.</p>
-				<p><b>Notes</b>: R51+ swap C250->C1300, C500->C1325, A250->A270.</p>
-				<p><b>Notes</b>: R52+ swap D200->D1375, W320->W1375.</p>
-				<p><b>Notes</b>: R53+ swap E330->E1425</p>
-				<p><b>Notes</b>: R54+ swap S250->S1450.</p>
-				<p><b>Notes</b>: Time together Lightning Strike on Wyrm's den and Red Breath for maximal production.</p>
+				<p><b>Note</b>: R49+ swap E150->E460, E200->E1225.</p>
+				<p><b>Note</b>: R50+ swap D55->D1275.</p>
+				<p><b>Note</b>: R51+ swap C250->C1300, C500->C1325, A250->A270.</p>
+				<p><b>Note</b>: R52+ swap D200->D1375, W320->W1375.</p>
+				<p><b>Note</b>: R53+ swap E330->E1425</p>
+				<p><b>Note</b>: R54+ swap S250->S1450.</p>
+				<p><b>Note</b>: Time together Lightning Strike on Wyrm's den and Red Breath for maximal production.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -108,7 +108,7 @@
 				<p>E145,E320,E460,E1225,E1425,</p>
 				<p>A105,A120,A150,A305,A400,</p>
 				<p>W150,W180,W275,W400,W1375</p>
-				<p><b>Notes</b>: Swap S250->S305 if you have Tier 6 spells.</p>
+				<p><b>Note</b>: Swap S250->S305 if you have Tier 6 spells.</p>
 			</div>
 		</div>
 	</div>
@@ -153,8 +153,8 @@
 				<p>E135,E145,E250,E260,E1325,E1425,</p>
 				<p>A120,A250,A305,A400,A545,A1325,</p>
 				<p>W135,W180,W250,W400,W1375</p>
-				<p><b>Notes</b>: Do <b>NOT</b> buy dragon treaty until you have met the mana generated requirement.</p>
-				<p><b>Notes</b>: Estimated time 12-14 hours to 1e10 (10 B) mana generated.</p>
+				<p><b>Note</b>: Do <b>NOT</b> buy dragon treaty until you have met the mana generated requirement.</p>
+				<p><b>Note</b>: Estimated time 12-14 hours to 1e10 (10 B) mana generated.</p>
 			</div>
 		</div>
 	</div>

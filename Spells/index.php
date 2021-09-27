@@ -1172,7 +1172,7 @@
 <p><b>Requirements</b>: R130+, Djinn Bloodline</p>
 <p><b>Effect</b>: Activates a random vanilla or base alignment spell at tier 7 for 60 seconds. This spell's duration cannot be modified.</p>
 <p><b>Note</b>: Can not access Holy Frenzy regardless of alignment.</p>
-<p><b>Notes</b></p>
+<p><b>Note</b>:</p>
 <p><b>1</b>. Choosing this Bloodline or having/buying A400 with Djinn gives you the vanilla spell upgrades that enable the challenge reward when bought.</p>
 <p><b>2</b>. Cannot cast a spell that is already available.</p>
 <p><b>3</b>. The Spell Pool is 8 for Neutral factions, 7 for Good/Evil (-1 faction and -1 alignment spell)</p>

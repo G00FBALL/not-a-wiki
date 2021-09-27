@@ -46,7 +46,7 @@
 				<p><b>Note</b>: Swap E3250 with E145 at e18 (1 Qi) Gems+.</p>
 				<p><b>Note</b>: Swap C400 with C340 at e36 (1 Ud) Gems+.</p>
 				<p><b>Note</b>: Also buffs Titan Challenge 4.</p>
-				<p><b>Note</b>: At R154+, swap A3400 with A400 at 1e45 (1 Qad) Gems+</p> 
+				<p><b>Note</b>: At R154+, swap A3400 with A400 at 1e45 (1 Qad) Gems+</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -209,7 +209,7 @@
 				<p>E230,E320,E495,</p>
 				<p>A25,A400,A410,</p>
 				<p>W1,W135,W175,W405,W520,W590</p>
-				<p><b>Note</b>: This build <b>requires</b> a buffed W175 to quickly afford Djinn Treaty, run the "Early W175" buff build once until you have enough Hellfire Blast casts.</p> 
+				<p><b>Note</b>: This build <b>requires</b> a buffed W175 to quickly afford Djinn Treaty, run the "Early W175" buff build once until you have enough Hellfire Blast casts.</p>
 				<p><b>Note</b>: Swap E320 with E135 once you already have 2e8 (200 M) Hellfire Blast casts this Reincarnation.</p>
 				<p><b>Note</b>: R154+, e140 (100 Qiqag) Gems+ & long runs - swap E320 with E400.</p>
 				<p><b>Note</b>: A quick Spell casts buff (Spell buff build for 5 to 10 minutes) is helpful, more is not essential.</p>
@@ -529,14 +529,14 @@
 						<p><b>Note</b>: <b>Only for long inactive run</b> (1 day and more from ARC4, CL and game time combined):</p>
 						<p>- Replace Bloodline with Faceless and swap W205 with W1375.</p>
 						<p>- select another set of researches once available - S305,C250,D3350,E145,A120,W525.</p>
-						
+
 					</div>
 				</div>
 				<div class="shelementwhole">
 					<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Chaos Factions (Djinn Challenge 5)</a></b></p>
 					<div class="autohide">
 						<p><b>Range</b>: 1e70 (10 Dvg) Gems+</p>
-						<p><b>Notes</b>: Djinn Challenge 5 requires 88 casts of Fairy Chanting, Hellfire Blast, Brainwave, Maelstrom, Limited Wish and Catalyst.</p>
+						<p><b>Note</b>: Djinn Challenge 5 requires 88 casts of Fairy Chanting, Hellfire Blast, Brainwave, Maelstrom, Limited Wish and Catalyst.</p>
 						<p>Use Faceless to immediately get the Catalyst casts and Fairy to immediately get the Limited Wish casts.</p>
 						<p>Get the remaining spells with Reverse Autocasting or just wait.</p>
 					</div>
@@ -867,7 +867,7 @@
 				<p><b>Note</b>: Buff Excavation resets (50+).</p>
 				<p><b>Note</b>: Needs a few minutes to buy all Upgrades.</p>
 				<p><b>Note</b>: Build improves with access to Dragon Perk 5.</p>
-				<p><b>Note for R148+, DJC4</b>: Regular Angelline Demon runs (2 hours+) outperforms this build.</p> 
+				<p><b>Note for R148+, DJC4</b>: Regular Angelline Demon runs (2 hours+) outperforms this build.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">

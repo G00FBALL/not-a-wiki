@@ -72,7 +72,7 @@
                 <p>E25,E145,E410,</p>
                 <p>A250,A495,</p>
                 <p>W10,W400,W560</p>
-                <p><b>Notes</b>: Swap S400 for S3200 when you can afford DN11.</p>
+                <p><b>Note</b>: Swap S400 for S3200 when you can afford DN11.</p>
             </div>
         </div>
 		<div class="shelementwhole">
@@ -94,7 +94,7 @@
                 <p>E400,E410,</p>
                 <p>A50,A120,A495,</p>
                 <p>W225,W400,W560</p>
-                <p><b>Notes</b>: Takes estimated 10 to 30 minutes to buy Spiritual Surge 7.</p>
+                <p><b>Note</b>: Takes estimated 10 to 30 minutes to buy Spiritual Surge 7.</p>
             </div>
         </div>
 		<br />
@@ -142,7 +142,7 @@
 				<p>E25,E410,E3250,</p>
 				<p>A495,A3400,</p>
 				<p>W10,W560,W1375</p>
-				<p><b>Notes</b>: Swap A3400 with A250 and E3250 with E145 at 1e50 (100 Qid) Gems+.</p>
+				<p><b>Note</b>: Swap A3400 with A250 and E3250 with E145 at 1e50 (100 Qid) Gems+.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -164,7 +164,7 @@
                 <p>E400,E410,</p>
                 <p>A50,A120,A495,</p>
                 <p>W225,W400,W560</p>
-                <p><b>Notes</b>: Takes estimated 10 to 30 minutes to buy Spiritual Surge 7.</p>
+                <p><b>Note</b>: Takes estimated 10 to 30 minutes to buy Spiritual Surge 7.</p>
             </div>
         </div>
     </div>
@@ -214,7 +214,7 @@
                 <p>E320,E350,E1225,</p>
                 <p>A300,A1200,A3400,</p>
                 <p>W275,W1375,W1400</p>
-                <p><b>Notes</b>: Swap E320 with E290 if you need more excavations.</p>
+                <p><b>Note</b>: Swap E320 with E290 if you need more excavations.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -235,7 +235,7 @@
                 <p>E135,E410</p>
                 <p>A50,A120,A495,</p>
                 <p>W225,W560,W1375</p>
-                <p><b>Notes</b>: Can reach 7e9 (7 B) - 1e10 (10 B) mana regen.</p>
+                <p><b>Note</b>: Can reach 7e9 (7 B) - 1e10 (10 B) mana regen.</p>
             </div>
         </div>
     </div>
@@ -280,8 +280,8 @@
                 <p>E10,E400,E495,</p>
                 <p>A1,A175,A410,A590,A3400,</p>
                 <p>W50,W205,W405,W520</p>
-				<p><b>Notes</b>: Cast only Tax Collection until you get Dragon lineage.</p>
-				<p><b>Notes</b>: Run the build until 15 minutes after DW12 is bought at minimum.</p>
+				<p><b>Note</b>: Cast only Tax Collection until you get Dragon lineage.</p>
+				<p><b>Note</b>: Run the build until 15 minutes after DW12 is bought at minimum.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -322,7 +322,7 @@
                 <p>E135,E410,</p>
                 <p>A50,A120,A495,</p>
                 <p>W225,W400,W560</p>
-				<p><b>Notes</b>: Estimated Time to Primal Balance +10 is ?.</p>
+				<p><b>Note</b>: Estimated Time to Primal Balance +10 is ?.</p>
             </div>
         </div>
     </div>
@@ -352,8 +352,8 @@
                 <p>E145,E350,E1225,</p>
                 <p>A300,A1200,A3400,</p>
                 <p>W275,W1375,W1400</p>
-                <p><b>Notes</b>: Buffing W275 is highly recommended.</p>
-                <p><b>Notes</b>: Leveling Undead to L30 first is fastest (Estimated time 3-5 hours).</p>
+                <p><b>Note</b>: Buffing W275 is highly recommended.</p>
+                <p><b>Note</b>: Leveling Undead to L30 first is fastest (Estimated time 3-5 hours).</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -381,7 +381,7 @@
                 <p>E25,E320,E410,</p>
                 <p>A495,A3400,</p>
                 <p>W10,W560,W1375</p>
-				<p><b>Notes</b>: For Faceless Lineage, Swap D150 with D3350, and Elf set with Faceless set.</p>
+				<p><b>Note</b>: For Faceless Lineage, Swap D150 with D3350, and Elf set with Faceless set.</p>
             </div>
         </div>
     </div>

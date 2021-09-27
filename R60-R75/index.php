@@ -47,9 +47,9 @@
 				<p>E145,E320,E1225,E1325,E1425,</p>
 				<p>A105,A120,A270,A400,A545,</p>
 				<p>W150,W180,W275,W400,W1375</p>
-				<p><b>Notes</b>: Excavate for Titanline at low gems.</p>
-				<p><b>Notes</b>: Excavate for spell tiers (up to Dragons Breath tier 5 and Spiritual Surge tier 5) after Dragon. At higher gems excavate for Spiritual Surge tier 6 (use free excavation reset before abdicating if excavation count too high to setup the next run).</p>
-				<p><b>Notes</b>: Target Lighting Strike at Wyrm's den for maximum production.</p>
+				<p><b>Note</b>: Excavating for Titanline at low gems can be slightly faster.</p>
+				<p><b>Note</b>: Excavate for spell tiers (up to Dragons Breath tier 5 and Spiritual Surge tier 5) after Dragon. At higher gems excavate for Spiritual Surge tier 6 (use free excavation reset before abdicating if excavation count too high to setup the next run).</p>
+				<p><b>Note</b>: Target Lighting Strike at Wyrm's den for maximum production.</p>
 			</div>
 		</div>
 	</div>
@@ -93,7 +93,7 @@
 				<p>E290,E145,E1225,E1325,E1425,</p>
 				<p>A105,A120,A305,A400,A545,</p>
 				<p>W180,W275,W400,W1275,W1375</p>
-				<p><b>Notes</b>: After buying Dragon treaty excavate for the spell tiers.</p>
+				<p><b>Note</b>: After buying Dragon treaty excavate for the spell tiers.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -114,7 +114,7 @@
 				<p>E145,E290,E320,E1225,E1425,</p>
 				<p>A105,A120,A270,A305,A400,</p>
 				<p>W180,W275,W400,W1275,W1375</p>
-				<p><b>Notes</b>: Get Undeadline/Titanline to a high level (15-17) then abdicate and do their Lineage Perk 2 challenges.</p>
+				<p><b>Note</b>: Get Undeadline/Titanline to a high level (15-17) then abdicate and do their Lineage Perk 2 challenges.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -155,8 +155,8 @@
 				<p>E135,E145,E260,E290,E1225,E1425,</p>
 				<p>A120,A305,A400,A545,A1325,A1500,</p>
 				<p>W150,W180,W350,W400,W1375</p>
-				<p><b>Notes</b>: Do <b>NOT</b> buy dragon treaty until you have met the mana generated requirement.</p>
-				<p><b>Notes</b>: Takes estimated 6-7 hours for mana requirement. The hardest requirement is the 90k building requirement. Requires free excavations to excavate Spiritual Surge 6 and Dragon's Breath 5. Grand Balance tiers or amount of targets is irrelevant for this build.</p>
+				<p><b>Note</b>: Do <b>NOT</b> buy dragon treaty until you have met the mana generated requirement.</p>
+				<p><b>Note</b>: Takes estimated 6-7 hours for mana requirement. The hardest requirement is the 90k building requirement. Requires free excavations to excavate Spiritual Surge 6 and Dragon's Breath 5. Grand Balance tiers or amount of targets is irrelevant for this build.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -176,7 +176,7 @@
 				<p>E135,E145,E320,E1225,E1325,E1425,</p>
 				<p>A105,A120,A375,A400,A545,A1500,</p>
 				<p>W135,W180,W350,W400,W1375</p>
-				<p><b>Notes</b>: Excavate for Dragon's Breath 5 and abdicate shortly after.</p>
+				<p><b>Note</b>: Excavate for Dragon's Breath 5 and abdicate shortly after.</p>
 			</div>
 		</div>
 	</div>

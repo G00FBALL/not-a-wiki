@@ -1501,7 +1501,7 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v1.6.51, Apr 1, 2016, April Fools joke</a></b></p>
             <div class="autohide">
                 <p><b>Patch</b>: 1.6.51 - April 1 2016</p>
-                <p>Added a new secret upgrade. (NOTE: This upgrade no longer exists as it was only an April Fools joke!)</p>
+                <p>Added a new secret upgrade. (Note: This upgrade no longer exists as it was only an April Fools joke!)</p>
                 <p>Fixed an issue that caused Drow assistant to crawl on the game screen.</p>
             </div>
         </div>

@@ -48,7 +48,7 @@
                 <p>A30,A120,A270,A305,A400,</p>
                 <p>W1375</p>
                 <p><b>Additional</b>: S215,S330,S150,D525,E410,A250,A150,W180,W120,W150</p>
-                <p><b>Notes</b>: Reimport build when Limited Wish hits Spell duration. Don't reset Fairy Chanting, instead export/import your save to update the Spell durations.</p>
+                <p><b>Note</b>: Reimport build when Limited Wish hits Spell duration. Don't reset Fairy Chanting, instead export/import your save to update the Spell durations.</p>
                 <p><i>Combo for maximum production</i>: Maelstrom on HoL with assistants or Faction Coins. Catalyst on Gem Grinder. Limited Wish on Spell duration. DJC4 on 888% maximum Mana</p>
             </div>
         </div>
@@ -73,7 +73,7 @@
                 <p>E3300,E135,E495,E230,</p>
                 <p>A2950,A30,A120,A270,A305,A545,A10,</p>
                 <p>W135,W205,W275,W400,W1275,W1375,W150,W25,W180,</p>
-                <p><b>Notes</b>: Get Archonline before importing Researches. Reimport frequently to unlock each Research as Archonline grows.</p>
+                <p><b>Note</b>: Get Archonline before importing Researches. Reimport frequently to unlock each Research as Archonline grows.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -99,7 +99,7 @@
                 <p>A1500,A2950,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,</p>
                 <p>W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,</p>
                 <p>F5750</p>
-                <p><b>Notes</b>: Swap DN2->DM2, once you have 1h+ evil time this R.</p>
+                <p><b>Note</b>: Swap DN2->DM2, once you have 1h+ evil time this R.</p>
             </div>
         </div>
     </div>
@@ -129,7 +129,7 @@
                 <p>A30,A55,A105,A120,A135,A150,A175,A250,A270,A305,A375,A495,A545,A2950,</p>
                 <p>W25,W120,W135,W150,W175,W180,W250,W260,W275,W290,W330,W400,W590,W1275,W1375,</p>
                 <p>F5500</p>
-                <p><b>Notes</b>: Reset spells periodically, especially Fairy Chanting. Capable of 1e18 max mana/regeneration at e80 gems, requires buffing max Ziggurat count. Also allows TTC4 buffing.</p>
+                <p><b>Note</b>: Reset spells periodically, especially Fairy Chanting. Capable of 1e18 max mana/regeneration at e80 gems, requires buffing max Ziggurat count. Also allows TTC4 buffing.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -177,7 +177,7 @@
                 <p>A2950,A270,A5375,</p>
                 <p>W275,W1275,W1375,W400,W180,</p>
                 <p>F6000,F5500</p>
-                <p><b>Notes</b>: After buying A5375, buy A120 and A545</p>
+                <p><b>Note</b>: After buying A5375, buy A120 and A545</p>
             </div>
         </div>
     </div>
@@ -205,7 +205,7 @@
                 <p>A30,A120,A270,A305,A545,A2950,A1500,</p>
                 <p>W275,W1275,W1375,W400,W1400,</p>
                 <p>F5250</p>
-                <p><b>Notes</b>: Elfline -> A2950:Maker/Druid(?). Dragonline/Makersline -> Replace Dragon Breath/Infinite Spiral with Lightning Strike. Buff assistants, max Flesh Workshops Excavations and resets.</p>
+                <p><b>Note</b>: Elfline -> A2950:Maker/Druid(?). Dragonline/Makersline -> Replace Dragon Breath/Infinite Spiral with Lightning Strike. Buff assistants, max Flesh Workshops Excavations and resets.</p>
             </div>
         </div>
     </div>
@@ -230,7 +230,7 @@
                 <p>E135,E145,E320,E1325,</p>
                 <p>A120,A270,A305,A400,A1325,</p>
                 <p>W400,W1375</p>
-                <p><b>Notes</b>: Buff excavations/resets for best results</p>
+                <p><b>Note</b>: Buff excavations/resets for best results</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -250,8 +250,8 @@
                 <p>E50,E135,E145,E320,E400,E460,E1325,</p>
                 <p>A30,A55,A105,A120,A150,A250,A270,A305,A400,A495,A545,</p>
                 <p>W135,W1275,W1375</p>
-                <p><b>Notes</b>: Run this build for ~5 hours after completing clicks requirement
-                <p><b>Notes</b>: Relies on Limited Wish:spell duration increasing DN9. Don't reset spells, but import/export to update duration.</p>
+                <p><b>Note</b>: Run this build for ~5 hours after completing clicks requirement
+                <p><b>Note</b>: Relies on Limited Wish:spell duration increasing DN9. Don't reset spells, but import/export to update duration.</p>
             </div>
         </div>
     </div>

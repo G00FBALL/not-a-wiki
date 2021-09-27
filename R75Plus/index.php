@@ -30,8 +30,8 @@
 				<p>E135,E145,E200,E320,E330,</p>
 				<p>A105,A250,A305,A330,A400,</p>
 				<p>W150,W180,W290,W320,W330,W400</p>
-				<p><b>Notes</b>: If Fairyline is below L20 keep using Druidline Dragtan Starter in the previous section.</p>
-				<p><b>Notes</b>: Excavate for the royal exchanges to buy the lineage.</p>
+				<p><b>Note</b>: If Fairyline is below L20 keep using Druidline Dragtan Starter in the previous section.</p>
+				<p><b>Note</b>: Excavate for the royal exchanges to buy the lineage.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -51,9 +51,9 @@
 				<p>E145,E320,E1225,E1325,E1425,</p>
 				<p>A105,A120,A270,A400,A545,</p>
 				<p>W150,W180,W275,W400,W1375</p>
-				<p><b>Notes</b>: Excavate for Titanline at low gems.</p>
-				<p><b>Notes</b>: Excavate for spell tiers (up to Dragons Breath tier 5 and Spiritual Surge tier 5) after Dragon. At higher gems excavate for Spiritual Surge tier 6 (use free excavation reset before abdicating if excavation count too high to setup the next run).</p>
-				<p><b>Notes</b>: Target Lighting Strike at Wyrm's den for maximum production.</p>
+				<p><b>Note</b>: Excavating for Titanline at low gems can be slightly faster.</p>
+				<p><b>Note</b>: Excavate for spell tiers (up to Dragons Breath tier 5 and Spiritual Surge tier 5) after Dragon. At higher gems excavate for Spiritual Surge tier 6 (use free excavation reset before abdicating if excavation count too high to setup the next run).</p>
+				<p><b>Note</b>: Target Lighting Strike at Wyrm's den for maximum production.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -74,7 +74,7 @@
 				<p>E135,E145,E150,E200,E320,E330,</p>
 				<p>A105,A120,A250,A305,A330,A400,</p>
 				<p>W150,W180,W250,W290,W320,W330,W400</p>
-				<p><b>Notes</b>: Excavate for the royal exchanges to buy the lineage.</p>
+				<p><b>Note</b>: Excavate for the royal exchanges to buy the lineage.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -94,9 +94,9 @@
 				<p>E145,E320,E350,E1225,E1325,E1425,</p>
 				<p>A105,A120,A270,A305,A400,A545,</p>
 				<p>W150,W180,W275,W290,W400,W1375</p>
-				<p><b>Notes</b>: Excavate for Titanline at low gems.</p>
-				<p><b>Notes</b>: Excavate for spell tiers (up to Dragons Breath tier 5 and Spiritual Surge tier 5) after Dragon. At higher gems excavate for Spiritual Surge tier 6 (use free excavation reset before abdicating if excavation count too high to setup the next run).</p>
-				<p><b>Notes</b>: Target Lighting Strike at Wyrm's den for maximum production.</p>
+				<p><b>Note</b>: Excavating for Titanline at low gems can be slightly faster.</p>
+				<p><b>Note</b>: Excavate for spell tiers (up to Dragons Breath tier 5 and Spiritual Surge tier 5) after Dragon. At higher gems excavate for Spiritual Surge tier 6 (use free excavation reset before abdicating if excavation count too high to setup the next run).</p>
+				<p><b>Note</b>: Target Lighting Strike at Wyrm's den for maximum production.</p>
 			</div>
 		</div>
 	</div>
@@ -121,8 +121,8 @@
 				<p>E135,E145,E320,E1225,E1325,E1425,</p>
 				<p>A105,A120,A375,A400,A545,A1500,</p>
 				<p>W180,W250,W350,W400,W1375</p>
-				<p><b>Notes</b>: For buffing Titanline Faceless, making Merc entry easier.</p>
-				<p><b>Notes</b>: Excavate for Dragon's Breath T5 and abdicate shortly after.</p>
+				<p><b>Note</b>: For buffing Titanline Faceless, making Merc entry easier.</p>
+				<p><b>Note</b>: Excavate for Dragon's Breath T5 and abdicate shortly after.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -143,9 +143,9 @@
 				<p>E135,E320,E1225,E1325,E1425,</p>
 				<p>A105,A120,A305,A400,A545,</p>
 				<p>W135,W180,W250,W400,W1375</p>
-				<p><b>Notes</b>: Use if your FC3 is 123% or higher.</p>
-				<p><b>Notes</b>: For buffing Titanline Faceless, making Merc entry easier.</p>
-				<p><b>Notes</b>: Excavate for Dragon's Breath T5 and abdicate shortly after.</p>
+				<p><b>Note</b>: Use if your FC3 is 123% or higher.</p>
+				<p><b>Note</b>: For buffing Titanline Faceless, making Merc entry easier.</p>
+				<p><b>Note</b>: Excavate for Dragon's Breath T5 and abdicate shortly after.</p>
 			</div>
 		</div>
 	</div>
@@ -188,8 +188,8 @@
 				<p>E135,E320,E590,E1225,</p>
 				<p>A120,A270,A305,A1500,</p>
 				<p>W275,W400,W1275,W1375</p>
-				<p><b>Notes</b>: Buff W275 before running this build.</p>
-				<p><b>Notes</b>: Estimated 10 minutes for Secrets of the Warrior to unlock. Use Research template to get Fairy Lineage 25 afterwards.</p>
+				<p><b>Note</b>: Buff W275 before running this build.</p>
+				<p><b>Note</b>: Estimated 10 minutes for Secrets of the Warrior to unlock. Use Research template to get Fairy Lineage 25 afterwards.</p>
 				<p><b>Build has 3 stages:</b></p>
 				<p><b>1</b>: Gather faction coins for 400 Fairy Exchanges and buy Fairy Lineage (Cast Lightning Strike and Dragon's Breath on bronze, Tax Collection on gold).</p>
 				<p><b>2</b>: Buy Freemason's Hall (1e125 / 100 Qag), Appraisal Vantage (1e135 / 1 Qaqag) and cast all spells on bronze at the highest tier, Tax Collection/ Appraisal Vantage on gold.</p>
@@ -240,8 +240,8 @@
 				<p>E135,E320,E1225,E1425,</p>
 				<p>A30,A105,A175,A1500,</p>
 				<p>W150,W180,W275,W1375</p>
-				<p><b>Notes</b>: Swap GB1->FC3 and DW6->EL5 at 1e86 (100 Spvg) gems.</p>
-				<p><b>Notes</b>: Swap Lightning Strike->God's Hand at 1e88 (10 Ocvg) gems if you have God's Hand T6.</p>
+				<p><b>Note</b>: Swap GB1->FC3 and DW6->EL5 at 1e86 (100 Spvg) gems.</p>
+				<p><b>Note</b>: Swap Lightning Strike->God's Hand at 1e88 (10 Ocvg) gems if you have God's Hand T6.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -289,10 +289,10 @@
 				<p>E135,E320,E1225,E1425,</p>
 				<p>A30,A105,A1500,A2950,</p>
 				<p>W150,W180,W275,W1375</p>
-				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
-				<p><b>Notes</b>: Swap GB1->FC3 and DW6->EL5 at 1e86 (100 Spvg) gems.</p>
-				<p><b>Notes</b>: Swap Lightning Strike->God's Hand at 1e88 (10 Ocvg) gems if you have God's Hand T6.</p>
-				<p><b>Notes</b>: Swap W275->W3150 for R79+.</p>
+				<p><b>Note</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Note</b>: Swap GB1->FC3 and DW6->EL5 at 1e86 (100 Spvg) gems.</p>
+				<p><b>Note</b>: Swap Lightning Strike->God's Hand at 1e88 (10 Ocvg) gems if you have God's Hand T6.</p>
+				<p><b>Note</b>: Swap W275->W3150 for R79+.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -325,10 +325,10 @@
 				<p>E135,E1225,E1425,E3300,</p>
 				<p>A1200,A1500,A2950,A3400,</p>
 				<p>W150,W180,W400,W3150</p>
-				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
-				<p><b>Notes</b>: A1200 requires E3300 purchased to become available.</p>
-				<p><b>Notes</b>: Swap GB1->FC3 and DW6->EL5 at 1e86 (100 Spvg) gems.</p>
-				<p><b>Notes</b>: Swap Lightning Strike->God's Hand at 1e88 (10 Ocvg) gems if you have God's Hand T6.</p>
+				<p><b>Note</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Note</b>: A1200 requires E3300 purchased to become available.</p>
+				<p><b>Note</b>: Swap GB1->FC3 and DW6->EL5 at 1e86 (100 Spvg) gems.</p>
+				<p><b>Note</b>: Swap Lightning Strike->God's Hand at 1e88 (10 Ocvg) gems if you have God's Hand T6.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -356,12 +356,12 @@
 				<p>E135,E1225,E3250,E3300,</p>
 				<p>A120,A410,A1500,A2950,</p>
 				<p>W400,W525,W3050,W3150</p>
-				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
-				<p><b>Notes</b>: S50 and A410 requires E3300 purchased to become available.</p>
-				<p><b>Notes</b>: DG9 requires Dragon's Breath spell (Dragon Perk 2 purchased) to become available.</p>
-				<p><b>Notes</b>: Tiering every spell the build uses to T6 is highly recommended.</p>
-				<p><b>Notes</b>: At higher gems buffing TTC4, DM2 and FC3 when build slows down is recommended.</p>
-				<p><b>Notes</b>: Swap Night Time->Grand Balance if you have Primal Balance +10.</p>
+				<p><b>Note</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Note</b>: S50 and A410 requires E3300 purchased to become available.</p>
+				<p><b>Note</b>: DG9 requires Dragon's Breath spell (Dragon Perk 2 purchased) to become available.</p>
+				<p><b>Note</b>: Tiering every spell the build uses to T6 is highly recommended.</p>
+				<p><b>Note</b>: At higher gems buffing TTC4, DM2 and FC3 when build slows down is recommended.</p>
+				<p><b>Note</b>: Swap Night Time->Grand Balance if you have Primal Balance +10.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -385,10 +385,10 @@
 				<p>E135,E260,E1225,E1425,E3300,</p>
 				<p>A105,A1200,A1500,A2950,A3400,</p>
 				<p>W150,W180,W260,W400,W3150</p>
-				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
-				<p><b>Notes</b>: E260, A1200 and W260 requires E3300 purchased to become available.</p>
-				<p><b>Notes</b>: Excavate to set up the build.</p>
-				<p><b>Notes</b>: Start the build at 1e70 (10 Dvg) gems instead if you don't have God's Hand T6.</p>
+				<p><b>Note</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Note</b>: E260, A1200 and W260 requires E3300 purchased to become available.</p>
+				<p><b>Note</b>: Excavate to set up the build.</p>
+				<p><b>Note</b>: Start the build at 1e70 (10 Dvg) gems instead if you don't have God's Hand T6.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -412,10 +412,10 @@
 				<p>E135,E230,E1225,E3250,E3300,</p>
 				<p>A120,A410,A590,A1500,A2950,</p>
 				<p>W205,W400,W525,W3050,W3150</p>
-				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
-				<p><b>Notes</b>: S50 and A410 requires E3300 purchased to become available.</p>
-				<p><b>Notes</b>: DG9 requires Dragon's Breath spell (Dragon Perk 2 purchased) to become available.</p>
-				<p><b>Notes</b>: Benefits greatly from buffing TTC4, DM2 and FC3.</p>
+				<p><b>Note</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Note</b>: S50 and A410 requires E3300 purchased to become available.</p>
+				<p><b>Note</b>: DG9 requires Dragon's Breath spell (Dragon Perk 2 purchased) to become available.</p>
+				<p><b>Note</b>: Benefits greatly from buffing TTC4, DM2 and FC3.</p>
 			</div>
 		</div>
 	</div>
@@ -448,9 +448,9 @@
 				<p>E135,E1225,E3250,E3300,</p>
 				<p>A120,A305,A1500,A2950,</p>
 				<p>W1375,W1400,W3050,W3150</p>
-				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
-				<p><b>Notes</b>: S50 requires E3300 purchased to become available.</p>
-				<p><b>Notes</b>: Swap C3100->C400 if not unlocked.</p>
+				<p><b>Note</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Note</b>: S50 requires E3300 purchased to become available.</p>
+				<p><b>Note</b>: Swap C3100->C400 if not unlocked.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -478,10 +478,10 @@
 				<p>E135,E1225,E3250,E3300,</p>
 				<p>A120,A1500,A2950,A3400,</p>
 				<p>W1375,W1400,W3050,W3150</p>
-				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
-				<p><b>Notes</b>: Benefits from Holy Crusader growth and high Undead & Elf Lineage levels.</p>
-				<p><b>Notes</b>: Fairyline Neutral Merc has a naturally high assistant count, therefore automatically buffs W275 / Freemason Hall by itself. This build only performs slightly better than Neutral Merc.</p>
-				<p><b>Notes</b>: For R90+ add S305,C225,D25,E50,A545,W400.</p>
+				<p><b>Note</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Note</b>: Benefits from Holy Crusader growth and high Undead & Elf Lineage levels.</p>
+				<p><b>Note</b>: Fairyline Neutral Merc has a naturally high assistant count, therefore automatically buffs W275 / Freemason Hall by itself. This build only performs slightly better than Neutral Merc.</p>
+				<p><b>Note</b>: For R90+ add S305,C225,D25,E50,A545,W400.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -509,10 +509,10 @@
 				<p>E135,E1225,E3250,E3300,</p>
 				<p>A120,A1500,A2950,A3400,</p>
 				<p>W400,W1375,W1400,W3150</p>
-				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
-				<p><b>Notes</b>: Build is for generating enough mana for Primal Balance (Druid's challenge reward).</p>
-				<p><b>Notes</b>: Estimated 1 hour (R82-89) or 45 minutes (R90+) for Primal Balance +10.</p>
-				<p><b>Notes</b>: For R90+ add S215,C400,D1375,E320,A305,W275 and swap DG3->FC2 (Requires Veteran Figurine).</p>
+				<p><b>Note</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Note</b>: Build is for generating enough mana for Primal Balance (Druid's challenge reward).</p>
+				<p><b>Note</b>: Estimated 1 hour (R82-89) or 45 minutes (R90+) for Primal Balance +10.</p>
+				<p><b>Note</b>: For R90+ add S215,C400,D1375,E320,A305,W275 and swap DG3->FC2 (Requires Veteran Figurine).</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -535,10 +535,10 @@
 				<p>E135,E320,E1225,E3250,E3300,</p>
 				<p>A120,A305,A1500,A2950,A3400,</p>
 				<p>W400,W1375,W1400,W3050,W3150</p>
-				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
-				<p><b>Notes</b>: S50 requires E3300 purchased to become available.</p>
-				<p><b>Notes</b>: Alternative option to Mana Breeder Reactor for R90+. Gets Primal Balance +10 much slower but instead spends more time casting Lightning Strike and being Evil, thus buffing TTC4, DM2 and FC3. Helps future Evil Merc runs greatly.</p>
-				<p><b>Notes</b>: Estimated 2-3 (?) hours for Primal Balance +10.</p>
+				<p><b>Note</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Note</b>: S50 requires E3300 purchased to become available.</p>
+				<p><b>Note</b>: Alternative option to Mana Breeder Reactor for R90+. Gets Primal Balance +10 much slower but instead spends more time casting Lightning Strike and being Evil, thus buffing TTC4, DM2 and FC3. Helps future Evil Merc runs greatly.</p>
+				<p><b>Note</b>: Estimated 2-3 (?) hours for Primal Balance +10.</p>
 			</div>
 		</div>
 	</div>
@@ -570,8 +570,8 @@
 				<p>E135,E320,E590,E1225,</p>
 				<p>A120,A270,A305,A1500,</p>
 				<p>W275,W400,W1375,W1400</p>
-				<p><b>Notes</b>: Level Fairy Lineage up to at least L25 with We Shall Rise Again and get to R Gems first before running this build.</p>
-				<p><b>Notes</b>: If you're doing Dragon Lineage and already have Dragon Perk 2 unlocked, swap Dragon's Breath->God's Hand.</p>
+				<p><b>Note</b>: Level Fairy Lineage up to at least L25 with We Shall Rise Again and get to R Gems first before running this build.</p>
+				<p><b>Note</b>: If you're doing Dragon Lineage and already have Dragon Perk 2 unlocked, swap Dragon's Breath->God's Hand.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -595,7 +595,7 @@
 				<p>E135,E320,E1225,E3300,</p>
 				<p>A305,A1500,A2950,A3400,</p>
 				<p>W275,W400,W1375,W1400</p>
-				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Note</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -624,9 +624,9 @@
 				<p>E320,E1225,E3250,E3300,</p>
 				<p>A305,A1500,A2950,A3400,</p>
 				<p>W275,W400,W1375,W1400</p>
-				<p><b>Notes</b>: Always select the same lineage as your Bloodline, not A2950.</p>
-				<p><b>Notes</b>: Level Fairy Lineage up to at least L30 first before running this build.</p>
-				<p><b>Notes</b>: For Dragon Lineage swap Dragon's Breath->God's Hand and pick A2950: Elf instead.</p>
+				<p><b>Note</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Note</b>: Level Fairy Lineage up to at least L30 first before running this build.</p>
+				<p><b>Note</b>: For Dragon Lineage swap Dragon's Breath->God's Hand and pick A2950: Elf instead.</p>
 			</div>
 		</div>
 	</div>

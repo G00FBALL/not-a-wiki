@@ -202,7 +202,7 @@
                     <p><b>Requirements</b>: R130+</p>
                     <p><b>Effect</b>: Gain a new spell that costs 500,000 mana and lasts 1 minute as a fixed duration. Each time you cast it, it activates a vanilla or primary alignment spell at tier 7.</p>
                     <p><b><img src="http://musicfamily.org/realm/Factions/picks/CatalystSpell.png"></b></p>
-                    <p><b>Notes</b></p>
+                    <p><b>Note</b></p>
                     <p><b>1</b>. Spell comes with tier bonus.</p>
                     <p><b>2</b>. Choosing this Bloodline or having/buying A400 with Djinn gives you the vanilla spell upgrades that enable the challenge reward when bought.</p>
                     <p><b>3</b>. Cannot cast a spell that is already active</p>

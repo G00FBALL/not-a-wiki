@@ -201,7 +201,7 @@
                 <p>E50,E1325,</p>
                 <p>A30,A120,</p>
                 <p>W1375</p>
-                <p><b>Notes</b>: Estimated time of 2 minutes to unlock.</p>
+                <p><b>Note</b>: Estimated time of 2 minutes to unlock.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -223,7 +223,7 @@
                 <p>E25,E320,</p>
                 <p>A3400,</p>
                 <p>W10,W1375</p>
-                <p><b>Notes</b>: Estimated time of 1 hour to unlock.</p>
+                <p><b>Note</b>: Estimated time of 1 hour to unlock.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -245,8 +245,8 @@
                 <p>E1325,</p>
                 <p>A50,A400,</p>
                 <p>W225,W1375</p>
-                <p><b>Notes</b>: Get 400 Royal Exchanges for Druid Lineage, then cast all spells for unlock.</p>
-                <p><b>Notes</b>: Estimated time of ? to unlock (instant with Planetary Force and Angel set).</p>
+                <p><b>Note</b>: Get 400 Royal Exchanges for Druid Lineage, then cast all spells for unlock.</p>
+                <p><b>Note</b>: Estimated time of ? to unlock (instant with Planetary Force and Angel set).</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -268,7 +268,7 @@
                 <p>E1,E145,E225,</p>
                 <p>A10,A400,</p>
                 <p>W25,W1375</p>
-                <p><b>Notes</b>: Estimated time of almost instant.</p>
+                <p><b>Note</b>: Estimated time of almost instant.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -290,8 +290,8 @@
                 <p>E10,E3250,</p>
                 <p>A1,A175,A3400,</p>
                 <p>W50,W205</p>
-                <p><b>Notes</b>: Requires T7 spells to get enough offline bonus for unlock.</p>
-                <p><b>Notes</b>: Estimated time of ? to unlock.</p>
+                <p><b>Note</b>: Requires T7 spells to get enough offline bonus for unlock.</p>
+                <p><b>Note</b>: Estimated time of ? to unlock.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -313,7 +313,7 @@
                 <p>E230,E1325,</p>
                 <p>A25,A270,</p>
                 <p>W1,W175,W1275</p>
-                <p><b>Notes</b>: Almost instant after buying research and buildings.</p>
+                <p><b>Note</b>: Almost instant after buying research and buildings.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -335,7 +335,7 @@
                 <p>E275,E1325,</p>
                 <p>A3400,</p>
                 <p>W260,W1375</p>
-                <p><b>Notes</b>: Estimated time of 5 minutes to unlock.</p>
+                <p><b>Note</b>: Estimated time of 5 minutes to unlock.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -357,7 +357,7 @@
                 <p>E135,E260,</p>
                 <p>A251,A375,A400,</p>
                 <p>W350,W1375</p>
-                <p><b>Notes</b>: Estimated 30 minutes to unlock.</p>
+                <p><b>Note</b>: Estimated 30 minutes to unlock.</p>
             </div>
         </div>
     </div>

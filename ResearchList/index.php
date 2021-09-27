@@ -139,7 +139,7 @@
 					<p><b>Cost</b>: 225.2 OcQig (2.252e179)</p>
 					<p><b>Effect</b>: Increase the production of all buildings by a fraction of your Offline Production Bonus.</p>
 					<p><b>Formula</b>: (2.5 * log10(1 + x) ^ 2.5)%, where x is your (pre-Ascension) offline production bonus as a multiplier.</p>
-					<p><b>Notes</b>: This research is treated as an A1 upgrade for A-nerf purposes.</p>
+					<p><b>Note</b>: This research is treated as an A1 upgrade for A-nerf purposes.</p>
 					<hr>
 					<p><b>S330</b> - For All Factions</p>
 					<p><b>Research Name</b>: Reverberation</p>
@@ -625,7 +625,7 @@
 					<p><b>Cost</b>: 12.63 Dqag (1.263E130)</p>
 					<p><b>Effect</b>: Increase the production of all buildings based on your offline production bonus.</p>
 					<p><b>Formula</b>: (2.75 * log10(1 + x) ^ 2.75)%, where x is your offline production bonus multiplier.</p>
-					<p><b>Notes</b>: This research is treated as an A1 upgrade for A-nerf purposes.</p>
+					<p><b>Note</b>: This research is treated as an A1 upgrade for A-nerf purposes.</p>
 					<hr>
 					<p><b>D50</b> - For Elf</p>
 					<p><b>Research Name</b>: Hallowing</p>
@@ -1635,7 +1635,7 @@
 					<p><b>Cost</b>: 103.7 QaSxg (1.037E197)</p>
 					<p><b>Effect</b>: Increase the production of Spider Sanctuaries based on offline Bonus</p>
 					<p><b>Formula</b>: (3.25 * log10(1 + x) ^ 3.25)%, where x is offline production bonus multiplier.</p>
-					<p><b>Notes</b>: This research is treated as an A1 upgrade for A-nerf purposes.</p>
+					<p><b>Note</b>: This research is treated as an A1 upgrade for A-nerf purposes.</p>
 					<hr>
 					<p><b>W520</b> - For Drow</p>
 					<p><b>Research Name</b>: Stalking</p>

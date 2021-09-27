@@ -35,7 +35,7 @@
 <p>Once unlocked they will stay unlocked throughout all Abdications and Reincarnations.</p>
 <p>To affiliate with a Faction, you first need to choose their Alignment.</p>
 <p>This makes all the Factions of that alignment available, and you can then choose which one to join.</p>
-<p><b>Notes</b>: Vanilla and Neutral Factions are together referred as <b>Base Factions</b>.</p>
+<p><b>Note</b>: Vanilla and Neutral Factions are together referred as <b>Base Factions</b>.</p>
 <p><b>Note</b>: The icons used in the below section are the Faction's <b>Trade Treaties</b>, their first Faction upgrade.</p>
 <hr>
 <p><b>Good Factions</b></p>
@@ -115,7 +115,7 @@
 <p><b><a href="/realm/DwarfFaction">Dwarf</a></b></p>
 <p><a href="/realm/DwarfFaction"><img src="http://musicfamily.org/realm/Factions/picks/DwarvenTradeTreaty.png"></a></p>
 <p><b>Alignment: Good</b></p>
-<p><b>Unlock Requirement</b>: Sturdy Bearded Man's Quest (only needs to be bought once)</p> 
+<p><b>Unlock Requirement</b>: Sturdy Bearded Man's Quest (only needs to be bought once)</p>
 <p><b>Requirement</b>: Proof of Good Deed, Alliance upgrade of the Good Base Faction, Underworld Diplomacy (only R0-R2)</p>
 <p><b>Available</b>: R0-R99, R116-R219</p>
 <p><b>Cost</b> 3,000 Dwarven Coins</p>
@@ -123,7 +123,7 @@
 <p><b><a href="/realm/DrowFaction">Drow</a></b></p>
 <p><a href="/realm/DrowFaction"><img src="http://musicfamily.org/realm/Factions/picks/DrowTradeTreatyFactionUpgrade.png"></a></p>
 <p><b>Alignment: Evil</b></p>
-<p><b>Unlock Requirement</b>: Cloaked Shady Figure's Quest (only needs to be bought once)</p> 
+<p><b>Unlock Requirement</b>: Cloaked Shady Figure's Quest (only needs to be bought once)</p>
 <p><b>Requirement</b>: Proof of Evil Deed, Alliance upgrade of the Evil Base Faction, Underworld Diplomacy (only R0-R2)</p>
 <p><b>Available</b>: R0-R99, R116-R219</p>
 <p><b>Cost</b> 3,000 Drow Coins</p>
@@ -131,7 +131,7 @@
 <p><b><a href="/realm/DragonFaction">Dragon</a></b></p>
 <p><a href="/realm/DragonFaction"><img src="http://musicfamily.org/realm/Factions/picks/DragonsTradeTreatyFactionUpgrade.png"></a>
 <p><b>Alignment: Neutral</b></p>
-<p><b>Unlock Requirement</b>: Elder Dragon (only needs to be bought once)</p> 
+<p><b>Unlock Requirement</b>: Elder Dragon (only needs to be bought once)</p>
 <p><b>Requirement</b>: Proof of Neutrality, Alliance upgrade of the Neutral Base Faction</p>
 <p><b>Available</b>: R46-R99, R116-R219</p>
 <p><b>Cost</b>: 5 B (5e9) Dwarven & Drow Coins</p>
@@ -142,7 +142,7 @@
 <p>Mercenaries were added in the After-life expansion as an ultimate powerhouse.</p>
 <p>Combines the spells and upgrades from other factions to create custom cross-faction <a href="http://musicfamily.org/realm/MercBuilds"><b>mercenary builds</b></a>.</p>
 <p><b>Unlock Requirement R3+</b>: Mercenary Tribute (only needs to be bought once)</p>
-<p><b>Unlock Requirement R160+</b>: Mercenary Duel (only needs to be bought once)</p> 
+<p><b>Unlock Requirement R160+</b>: Mercenary Duel (only needs to be bought once)</p>
 <p><b>Available</b>: R3-R99, R160-R219</p>
 <p><b>Cost</b> 50 Spd (5e55), A1+: Free</p>
 <hr>
@@ -151,7 +151,7 @@
 <p><a href="/realm/ArchonFaction"><img src="http://musicfamily.org/realm/Factions/picks/ArchonTradeTreaty.png"></a>
 <p><b>Alignment: Order</b></p>
 <p>Increase your ability to boost your production immensely over long periods of time.</p>
-<p><b>Unlock Requirement</b>: Archon Quest (only needs to be bought once)</p> 
+<p><b>Unlock Requirement</b>: Archon Quest (only needs to be bought once)</p>
 <p><b>Requirement</b>: Proof of Order, Union upgrades of both Base & Prestige Faction</p>
 <p><b>Available</b>: R125-R219</p>
 <p><b>Cost</b>: 1 Oc (1e27) Angel & Undead Coins</p>
@@ -160,7 +160,7 @@
 <p><a href="/realm/DjinnFaction"><img src="http://musicfamily.org/realm/Factions/picks/DjinnTradeTreaty.png"></a></p>
 <p><b>Alignment: Chaos</b></p>
 <p>Granting you the ability to manipulate random outcomes to your advantage.</p>
-<p><b>Unlock Requirement</b>: Djinn Quest (only needs to be bought once)</p> 
+<p><b>Unlock Requirement</b>: Djinn Quest (only needs to be bought once)</p>
 <p><b>Requirement</b>: Proof of Chaos, Union upgrades of both Base & Prestige Faction</p>
 <p><b>Available</b>: R125-R219</p>
 <p><b>Cost</b>: 1 Oc (1e27) Fairy & Demon Coins</p>
@@ -169,7 +169,7 @@
 <p><a href="/realm/MakersFaction"><img src="http://musicfamily.org/realm/Factions/picks/MakersTradeTreaty.png"></a></p>
 <p><b>Alignment: Balance</b></p>
 <p>Increase your ability to dominate all your resources.</p>
-<p><b>Unlock Requirement</b>: Makers Quest (only needs to be bought once)</p> 
+<p><b>Unlock Requirement</b>: Makers Quest (only needs to be bought once)</p>
 <p><b>Requirement</b>: Proof of Balance, Union upgrades of both Base & Prestige Faction</p>
 <p><b>Available</b>: R125-R219</p>
 <p><b>Cost</b>: 1 Oc (1e27) Elven & Goblin Coins</p>

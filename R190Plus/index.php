@@ -43,9 +43,9 @@
           <p>E290,E1225,E10,E320,E460,E480,E1325,E25,E30,E80,</p>
           <p>A1,A55,A105,A135,A150,A175,A375,A545,A495,A590,A480,A330,A300,</p>
           <p>W205,W25,W50</p>
-          <p><b>Notes</b>: Used to get a meaningful gem count before doing buff runs and switching to the main 190-198 production build.</p> 
-          <p><b>Notes</b>: Import the primary template repeatedly as you earn more points until all researches listed have been picked (usually W5625 is the last one to get selected), then repeatedly import secondary researches. Wait for Catalyst to hit Gem Grinder for maximum production before abdicating.</p> 
-          <p><b>Notes</b>: As with other builds, reset all spells periodically to increase their duration and buff effects, especially Fairy chanting and Precognition.</p>
+          <p><b>Note</b>: Used to get a meaningful gem count before doing buff runs and switching to the main 190-198 production build.</p>
+          <p><b>Note</b>: Import the primary template repeatedly as you earn more points until all researches listed have been picked (usually W5625 is the last one to get selected), then repeatedly import secondary researches. Wait for Catalyst to hit Gem Grinder for maximum production before abdicating.</p>
+          <p><b>Note</b>: As with other builds, reset all spells periodically to increase their duration and buff effects, especially Fairy chanting and Precognition.</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -83,8 +83,8 @@
           <p>E1225,E320,E150,E200,E330,E350,E480,E145,E290,</p>
           <p>A305,A105,A150,A175,A250,</p>
           <p>W1375,W120,W150,W25,W180,</p>
-          <p><b>Notes</b>: Buff: max Ziggurats, max Flesh Workshops, TTC4, and optionally spells and assistants.</p>
-          <p><b>Notes</b>: Weaker than DPE, but requires no F6000 and can finish reincarnations up to R198 before DPE becomes usable.</p>
+          <p><b>Note</b>: Buff: max Ziggurats, max Flesh Workshops, TTC4, and optionally spells and assistants.</p>
+          <p><b>Note</b>: Weaker than DPE, but requires no F6000 and can finish reincarnations up to R198 before DPE becomes usable.</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -128,11 +128,11 @@
           <p>D25,D150,D320,</p>
           <p>E290,E1225,E10,E320,E460,E480,E1325,</p>
           <p>W120,W150,W25,W180</p>
-          <p><b>Notes</b>: This build is the strongest found so far in R190-198, but is only functional if you have spent more than the usual amount of time in those Rs. Use this if you have been inactive in an R for a longer period.</p> 
-          <p><b>Notes</b>: Switch DN2->DM2 when going for A5375.</p> 
-          <p><b>Notes</b>: Buff F6000, Ziggurats (This R), Flesh Workshops (This R), Mana produced, Assistants.</p> 
-          <p><b>Notes</b>: Requires approximately 46.5 hours (This Game, including time from Chronos Loading, F6000, and DM4) to be able to afford A5375 (7-10h time this R depending on facless lineage level). Rs up to 198 can be finished by the previous build before DPE can afford A5375.</p>
-          <p><b>Notes</b>: This build requires recasting spells occasionally, especially Fairy Chanting and Precognition.</p>
+          <p><b>Note</b>: This build is the strongest found so far in R190-198, but is only functional if you have spent more than the usual amount of time in those Rs. Use this if you have been inactive in an R for a longer period.</p>
+          <p><b>Note</b>: Switch DN2->DM2 when going for A5375.</p>
+          <p><b>Note</b>: Buff F6000, Ziggurats (This R), Flesh Workshops (This R), Mana produced, Assistants.</p>
+          <p><b>Note</b>: Requires approximately 46.5 hours (This Game, including time from Chronos Loading, F6000, and DM4) to be able to afford A5375 (7-10h time this R depending on facless lineage level). Rs up to 198 can be finished by the previous build before DPE can afford A5375.</p>
+          <p><b>Note</b>: This build requires recasting spells occasionally, especially Fairy Chanting and Precognition.</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -165,7 +165,7 @@
           <p>A30,A55,A105,A120,A135,A175,A250,A270,A305,A1500,A2950,</p>
           <p>W25,W175,W275,W400,W5125,</p>
           <p>F5750</p>
-          <p><b>Notes</b>: Buff Fairyset (1-2h+), mana produced, max assistants, F6000, max Flesh Workshops, highest mana regeneration, excavations/excavation resets this R. At e80+, switch to Brothel. Reset spells often.</p>
+          <p><b>Note</b>: Buff Fairyset (1-2h+), mana produced, max assistants, F6000, max Flesh Workshops, highest mana regeneration, excavations/excavation resets this R. At e80+, switch to Brothel. Reset spells often.</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -191,8 +191,8 @@
           <p>A30,A105,A120,A150,A270,A305,A545,A1500,A2950,</p>
           <p>W180,W275,W400,W5125,</p>
           <p>F5750</p>
-          <p><b>Notes</b>: Swap e5125+e320->e5375 if the run is longer than 30 min.</p>
-          <p><b>Notes</b>: Buff: F6000, Fairy time (2-12+ hours, increasing each R), Max Flesh Workshops, Max Brothels, assistants, mana produced. Recast Fairy Chanting periodically. Remember to max Call to Arms tiers.</p>
+          <p><b>Note</b>: Swap e5125+e320->e5375 if the run is longer than 30 min.</p>
+          <p><b>Note</b>: Buff: F6000, Fairy time (2-12+ hours, increasing each R), Max Flesh Workshops, Max Brothels, assistants, mana produced. Recast Fairy Chanting periodically. Remember to max Call to Arms tiers.</p>
         </div>
       </div>
     </div>
@@ -218,7 +218,7 @@
           <p>A30,A55,A105,A120,A135,A150,A200,A250,A305,A330,A400,A480,A3400,</p>
           <p>W120,W135,W150,W180,W200,W250,W400,W1375,W3150,</p>
           <p>F6000</p>
-          <p><b>Notes</b>: Run at the beginning of each R from R198-R219. Run length increases each R, anywhere from 1 hour to 1 day. Run needs to be online.</p>
+          <p><b>Note</b>: Run at the beginning of each R from R198-R219. Run length increases each R, anywhere from 1 hour to 1 day. Run needs to be online.</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -240,7 +240,7 @@
           <p>A30,A55,A105,A120,A135,A150,A200,A250,A270,A305,A330,A400,A480,A495,A545,A1325,</p>
           <p>W120,W135,W150,W180,W200,W250,W290,W320,W330,W400,W560,W1275,W1375,</p>
           <p>F5500</p>
-          <p><b>Notes</b>: Only needs to be run once in A3, preferably either in R206 after finishing 1 day each of evil/neutral/order/balance, or in R219. Increases combo strike count primarily through DJC1 and Drow challenge reward. <b>DO NOT</b> recast fairy chanting; instead, update its duration by exporting your save and reimporting it. This prevents the DJC1 effect from being reset. Benefits from buffing s5375 and d5625. Recommended value to aim for is ~300%</p>
+          <p><b>Note</b>: Only needs to be run once in A3, preferably either in R206 after finishing 1 day each of evil/neutral/order/balance, or in R219. Increases combo strike count primarily through DJC1 and Drow challenge reward. <b>DO NOT</b> recast fairy chanting; instead, update its duration by exporting your save and reimporting it. This prevents the DJC1 effect from being reset. Benefits from buffing s5375 and d5625. Recommended value to aim for is ~300%</p>
         </div>
       </div>
       <br/>
@@ -268,7 +268,7 @@
           <p>A5375,A270,A2950,A30,A120,</p>
           <p>W275,W400,W1275,W5625,</p>
           <p>F5250</p>
-          <p><b>Notes</b>: Needs enough F6000 to afford all Alchemy researches. After buying the listed researches, fill in with other researches to maximize production and DJ3.</p>
+          <p><b>Note</b>: Needs enough F6000 to afford all Alchemy researches. After buying the listed researches, fill in with other researches to maximize production and DJ3.</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -292,9 +292,9 @@
           <p>A120,A270,A2950,A5375,</p>
           <p>W275,W5625,W1275,W5125,</p>
           <p>F5250,F5500</p>
-          <p><b>Notes</b>: Use additional points for DJ3 buff</p>
-          <p><b>Notes</b>: Needs 2d F6000 and 1d evil time to afford all researches. Needs DWP1 buffed (tested at 300%).</p>
-          <p><b>Notes</b>: Should be able to reach up to 1e26 Max mana</p>
+          <p><b>Note</b>: Use additional points for DJ3 buff</p>
+          <p><b>Note</b>: Needs 2d F6000 and 1d evil time to afford all researches. Needs DWP1 buffed (tested at 300%).</p>
+          <p><b>Note</b>: Should be able to reach up to 1e26 Max mana</p>
         </div>
       </div>
       <br/>
@@ -321,7 +321,7 @@
           <p>A30,A55,A105,A120,A135,A175,A250,A270,A305,A1500,A2950,</p>
           <p>W25,W175,W275,W400,W5125,</p>
           <p>F5750</p>
-          <p><b>Notes</b>: Buff max assistants, mana produced, F6000</p>
+          <p><b>Note</b>: Buff max assistants, mana produced, F6000</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -368,8 +368,8 @@
           <p>A30,A55,A105,A120,A270,A305,A545,A1500,A2950,</p>
           <p>W180,W275,W400,W5125,</p>
           <p>F5750</p>
-          <p><b>Notes</b>: Buff F6000, max assistants</p>
-          <p><b>Notes</b>: At coin cap: DJ7->DJ9, DJ3->DM2, S researches->S5875?, F5750->F5250 if you have offline time. If you can still reach cap: Grand balance-> moon blessing</p>
+          <p><b>Note</b>: Buff F6000, max assistants</p>
+          <p><b>Note</b>: At coin cap: DJ7->DJ9, DJ3->DM2, S researches->S5875?, F5750->F5250 if you have offline time. If you can still reach cap: Grand balance-> moon blessing</p>
         </div>
       </div>
       <br/>
@@ -401,8 +401,8 @@
           <p>A2950,A270,A5375,</p>
           <p>W1275,W275,W5125,W400,W1375,</p>
           <p>F6000,F5500</p>
-          <p><b>Notes</b>: For multiple day F6000, buffing DM2 is recommended. Secondary researches to spend extra points on: S400,S2875,S180,C5125,C250,A120,A305,A3400,W3050</p>
-          <p><b>Notes</b>: Buy E3300 only when you're ready to abdicate. E3300 tanks the production of the build but massively boosts F6000. Buy any buildings that E3300 provides with the building cost reduction, refresh all spells and then abdicate.</p>
+          <p><b>Note</b>: For multiple day F6000, buffing DM2 is recommended. Secondary researches to spend extra points on: S400,S2875,S180,C5125,C250,A120,A305,A3400,W3050</p>
+          <p><b>Note</b>: Buy E3300 only when you're ready to abdicate. E3300 tanks the production of the build but massively boosts F6000. Buy any buildings that E3300 provides with the building cost reduction, refresh all spells and then abdicate.</p>
         </div>
       </div>
       <br/>
@@ -428,8 +428,8 @@
           <p>A2950,A270,A5375,</p>
           <p>W5625,W1275,W275,W400,W1375,W205,</p>
           <p>F5250</p>
-          <p><b>Notes</b>: After A5375: A30,A120,A305,A250,A1500</p>
-          <p><b>Notes</b>: Recommended F6000 10h to buy A5375</p>
+          <p><b>Note</b>: After A5375: A30,A120,A305,A250,A1500</p>
+          <p><b>Note</b>: Recommended F6000 10h to buy A5375</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -454,8 +454,8 @@
           <p>A30,A120,A270,A305,A2950,A3400,</p>
           <p>W205,W275,W400,W1275,W5625,</p>
           <p>F5250</p>
-          <p><b>Notes</b>: Maelstrom should target Hall of Legends on assistants. When Chaos Madness hits Faceless, export/import to reset durations. Wait until Chaos Madness hits Dragon for maximum assistants. Buff: spells cast, max Flesh Workshops, evil time this R.</p>
-          <p><b>Notes</b>: Save excavation resets during the R to use as many as possible during the run.</p>
+          <p><b>Note</b>: Maelstrom should target Hall of Legends on assistants. When Chaos Madness hits Faceless, export/import to reset durations. Wait until Chaos Madness hits Dragon for maximum assistants. Buff: spells cast, max Flesh Workshops, evil time this R.</p>
+          <p><b>Note</b>: Save excavation resets during the R to use as many as possible during the run.</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -480,8 +480,8 @@
           <p>A30,A55,A105,A250,A270,A305,A410,A1500,A2950,</p>
           <p>W1,W25,W275,W5625,</p>
           <p>F5250</p>
-          <p><b>Notes</b>: Run this build repeatedly after running the Dwarfline build to achieve highest assistant count.</p>
-          <p><b>Notes</b>: Maelstrom should target Hall of Legends on assistants. When Chaos Madness hits Faceless, export/import to reset durations. Wait until Chaos Madness hits Dragon for maximum assistants.</p>
+          <p><b>Note</b>: Run this build repeatedly after running the Dwarfline build to achieve highest assistant count.</p>
+          <p><b>Note</b>: Maelstrom should target Hall of Legends on assistants. When Chaos Madness hits Faceless, export/import to reset durations. Wait until Chaos Madness hits Dragon for maximum assistants.</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -506,7 +506,7 @@
           <p>A30,A120,A270,A305,A545,A1500,A2950,A250,</p>
           <p>W180,W275,W400,W1275,W1375,W150,W175,W200,W250,</p>
           <p>F5250</p>
-          <p><b>Notes</b>: Run multiple times to buff assistants more. Buff F6000 and mana produced. Recast Fairy Chanting often.</p>
+          <p><b>Note</b>: Run multiple times to buff assistants more. Buff F6000 and mana produced. Recast Fairy Chanting often.</p>
         </div>
       </div>
       <br/>
@@ -531,7 +531,7 @@
           <p>A5375,A270,A2950,A30,A120,A545,</p>
           <p>W1275,W5625,W275,W400,W1375,W205,</p>
           <p>F5250</p>
-          <p><b>Notes</b>: Requires ? F6000 (less than 6 hours). Buff FR12 (Titanline Fairy or Faceline Fairy (recommend for like 202-206)) and Mana produced, let grow until Catalyst hits Gem Grinder for maximum gains.</p>
+          <p><b>Note</b>: Requires ? F6000 (less than 6 hours). Buff FR12 (Titanline Fairy or Faceline Fairy (recommend for like 202-206)) and Mana produced, let grow until Catalyst hits Gem Grinder for maximum gains.</p>
         </div>
       </div>
       <br/>
@@ -557,8 +557,8 @@
           <p>A120,A250,A270,A305,A545,A1500,A2950,</p>
           <p>W175,W180,W275,W400,W1275,W1375,W1400,</p>
           <p>F5500</p>
-          <p><b>Notes</b>: Buff: max assistants, excavations/excavation resets, max labyrinths, spells cast, F6000. At ? F6000, substitute A3400 for A545</p>
-          <p><b>Notes</b>: Estimated time to completion ? hours.</p>
+          <p><b>Note</b>: Buff: max assistants, excavations/excavation resets, max labyrinths, spells cast, F6000. At ? F6000, substitute A3400 for A545</p>
+          <p><b>Note</b>: Estimated time to completion ? hours.</p>
         </div>
       </div>
       <br/>
@@ -589,7 +589,7 @@
           <p>A30,A105,A120,A150,A270,A305,A545,A1500,A2950,</p>
           <p>W180,W275,W400,W5125,</p>
           <p>F5750</p>
-          <p><b>Notes</b>: For buffing brothels switch Flesh Workshop->Brothel and AN4->FR4</p>
+          <p><b>Note</b>: For buffing brothels switch Flesh Workshop->Brothel and AN4->FR4</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -614,7 +614,7 @@
           <p>A30,A55,A105,A120,A135,A175,A250,A270,A305,A1500,A2950,</p>
           <p>W180,W275,W400,W5125,</p>
           <p>F5750</p>
-          <p><b>Notes</b>: Functions similarly to Benevolent Warchant. Recast spells periodically. Can substitute Mountain Palace for other unique buildings to buff their count after an initial run.</p>
+          <p><b>Note</b>: Functions similarly to Benevolent Warchant. Recast spells periodically. Can substitute Mountain Palace for other unique buildings to buff their count after an initial run.</p>
         </div>
       </div>
     </div>
@@ -643,9 +643,9 @@
           <p>A250,A120,A270,A305,A1500,A2950,</p>
           <p>W1275,W1375,W1400,W275,W400,</p>
           <p>F5750</p>
-          <p><b>Notes</b>: First level druidline to 72/73, then bring elfline up to par, then run druid for the highest level.</p>
-          <p><b>Notes</b>: Recast spells during Chaos Madness: Faceless for maximum duration to increase druid advanced heritage. Fill in with other researches for additional production for additional buildings.</p>
-          <p><b>Notes</b>: Recommended minimum buffs: 1hr minimum spell activity time, 1e6 excavations, 30 excavation resets, Flesh Workshops, 1e30 max assistants, 8hr evil time, 11hr F6000, 11hr Future Linkin, 1e92 gems, and Elf lineage</p>
+          <p><b>Note</b>: First level druidline to 72/73, then bring elfline up to par, then run druid for the highest level.</p>
+          <p><b>Note</b>: Recast spells during Chaos Madness: Faceless for maximum duration to increase druid advanced heritage. Fill in with other researches for additional production for additional buildings.</p>
+          <p><b>Note</b>: Recommended minimum buffs: 1hr minimum spell activity time, 1e6 excavations, 30 excavation resets, Flesh Workshops, 1e30 max assistants, 8hr evil time, 11hr F6000, 11hr Future Linkin, 1e92 gems, and Elf lineage</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -670,7 +670,7 @@
           <p>A270,A305,A1500,A2950,A55,A105,A120,A135,A150,A250,</p>
           <p>W275,W400,W1275,W1375,W1400,W25,W120,W135,W150,W175,W180,W200,W250,</p>
           <p>F5750</p>
-          <p><b>Notes</b>: Notes: If using Dragon/Makers lineage, swap in Lightning Strike as the remaining spell. Reset all your spells and reactivate them during Chaos Madness: Faceless, then most progress will be made during Chaos Madness: Archon or Chaos Madness: Titan. If you're doing titan, get Lightning Strike to hit Hall of Legends when you recast.</p>
+          <p><b>Note</b>: If using Dragon/Makers lineage, swap in Lightning Strike as the remaining spell. Reset all your spells and reactivate them during Chaos Madness: Faceless, then most progress will be made during Chaos Madness: Archon or Chaos Madness: Titan. If you're doing titan, get Lightning Strike to hit Hall of Legends when you recast.</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -694,9 +694,9 @@
           <p>A120,A270,A305,A545,A1500,A2950,</p>
           <p>W275,W400,W1275,W1375,W180,</p>
           <p>F5500</p>
-          <p><b>Notes</b>: Replace Titan Union with Drow Union if F6000 is less than ~80 hours. Buff AR8 (use DN9 if not using Druid lineage). Optimized for R206+, but can still quickly produce 75+ lineages with Mercenary Challenge 3 and no F6000. Level Druid lineage first.</p>
-          <p><b>Notes</b>: Buff: F6000, Future Linkin, Fairy time, spells cast, max assistants, clicks, excavations/excavation resets, max. Mountain Palaces, max Flesh Workshops, max Labyrinths.</p>
-          <p><b>Notes</b>: Dragon Lineage: Dragon's Breath -> Fairy Chanting, Maker Lineage: Elf A2950, Infinite Spiral -> Precognition
+          <p><b>Note</b>: Replace Titan Union with Drow Union if F6000 is less than ~80 hours. Buff AR8 (use DN9 if not using Druid lineage). Optimized for R206+, but can still quickly produce 75+ lineages with Mercenary Challenge 3 and no F6000. Level Druid lineage first.</p>
+          <p><b>Note</b>: Buff: F6000, Future Linkin, Fairy time, spells cast, max assistants, clicks, excavations/excavation resets, max. Mountain Palaces, max Flesh Workshops, max Labyrinths.</p>
+          <p><b>Note</b>: Dragon Lineage: Dragon's Breath -> Fairy Chanting, Maker Lineage: Elf A2950, Infinite Spiral -> Precognition
         </div>
       </div>
     </div>
@@ -724,8 +724,8 @@
           <p>A55,A120,A200,A250,A270,A305,A2950,A3400,</p>
           <p>W150,W205,W1275,W1375,W1400,W3150,</p>
           <p>F5750</p>
-          <p><b>Notes</b>: Works at e78 gems, possibly lower and Angel Lineage 66. Buff Flesh Workshops and Holy Sites. Buff F6000 to 3+ hours. Get A2950 and more expensive research first, fill in the rest to reach 50,000 research points spent as Archon allows you to. Max excavations/resets (this game) to buff C5625. Recast spells from time to time to extend their durations.</p>
-          <p><b>Notes</b>: <b>Do not buy Fairy/Elf/Goblin/Demon/Druid/Faceless/Makers/Djinn heritages/advanced heritages. Do not buy Chaos or Balance researches (i.e. C175, S180, W275, …)</b></p>
+          <p><b>Note</b>: Works at e78 gems, possibly lower and Angel Lineage 66. Buff Flesh Workshops and Holy Sites. Buff F6000 to 3+ hours. Get A2950 and more expensive research first, fill in the rest to reach 50,000 research points spent as Archon allows you to. Max excavations/resets (this game) to buff C5625. Recast spells from time to time to extend their durations.</p>
+          <p><b>Note</b>: <b>Do not buy Fairy/Elf/Goblin/Demon/Druid/Faceless/Makers/Djinn heritages/advanced heritages. Do not buy Chaos or Balance researches (i.e. C175, S180, W275, …)</b></p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -749,7 +749,7 @@
           <p>A25,A30,A55,A120,A135,A175,A270,A305,A375,A1500,A2950,</p>
           <p>W25,W135,W150,W175,W180,W250,W275,W290,W400,W1275,W1375,W1400,</p>
           <p>F5500</p>
-          <p><b>Notes</b>: Works at e70 gems and faceless lineage as low as 65. Reset brainwave and other spells to increment values tied to spell duration. Buff Ziggurats for DD10</p>
+          <p><b>Note</b>: Works at e70 gems and faceless lineage as low as 65. Reset brainwave and other spells to increment values tied to spell duration. Buff Ziggurats for DD10</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -775,12 +775,12 @@
           <p>A30,A120,A270,A2950,</p>
           <p>W400,W1275,</p>
           <p>F5500</p>
-          <p><b>Notes</b>: Cast everything bronze (except share benefits). Cast Share Benefits until you can buy all the upgrades. When ready to go, uncast everything and cast Share Benefits manually until faction chance goes to e12</p>
-          <p><b>Notes</b>: If you are missing Mana Regeneration: Add DD6 or/and cast Dragon Breath tier 5+</p>
-          <p><b>Notes</b>: If you are missing Max Mana : E1325 and DW6, get more Royal Exchanges, buff DJ3 (by buying small researches that don’t affect mana generation/faction find chance)</p>
-          <p><b>Notes</b>: If you are missing assistants : cast fairy chanting</p>
-          <p><b>Notes</b>: Might have have to remove some due to how buffed your run is, this was done without buffing anything (no spells, no assistants, no F6000, no excav reset)</p>
-          <p><b>Notes</b>: <b>Do not buy Art of the Crow upgrade</b></p>
+          <p><b>Note</b>: Cast everything bronze (except share benefits). Cast Share Benefits until you can buy all the upgrades. When ready to go, uncast everything and cast Share Benefits manually until faction chance goes to e12</p>
+          <p><b>Note</b>: If you are missing Mana Regeneration: Add DD6 or/and cast Dragon Breath tier 5+</p>
+          <p><b>Note</b>: If you are missing Max Mana : E1325 and DW6, get more Royal Exchanges, buff DJ3 (by buying small researches that don’t affect mana generation/faction find chance)</p>
+          <p><b>Note</b>: If you are missing assistants : cast fairy chanting</p>
+          <p><b>Note</b>: Might have have to remove some due to how buffed your run is, this was done without buffing anything (no spells, no assistants, no F6000, no excav reset)</p>
+          <p><b>Note</b>: <b>Do not buy Art of the Crow upgrade</b></p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -804,8 +804,8 @@
           <p>E135,E320,</p>
           <p>A2950,A305,</p>
           <p>W275,W400,W1375</p>
-          <p><b>Notes</b>: Buy A2950 before importing, don't buy: R power, challenge power, Holy Crusaders, UD heritage, FR and FC AH, Sun force, makers mask, Individual building upgrades (such as crop rotation for farms) except the Hall of Legends ones. Respec rubies before run if desired, otherwise, don't buy ruby power. Your 1 assistant comes from assistant squasher. Uncast dragon's breath and infinite spiral after getting enough FC.</p>
-          <p><b>Notes</b>: Buff excav resets, assistants</p>
+          <p><b>Note</b>: Buy A2950 before importing, don't buy: R power, challenge power, Holy Crusaders, UD heritage, FR and FC AH, Sun force, makers mask, Individual building upgrades (such as crop rotation for farms) except the Hall of Legends ones. Respec rubies before run if desired, otherwise, don't buy ruby power. Your 1 assistant comes from assistant squasher. Uncast dragon's breath and infinite spiral after getting enough FC.</p>
+          <p><b>Note</b>: Buff excav resets, assistants</p>
         </div>
       </div>
       <div class="shelementwhole">
@@ -825,8 +825,8 @@
               </p>
               <p>FR1,EL4,AN12,GB12,UD10,DM2,TT8,DD6,FC7,DN2,DW2,DW6,DG7,AR10,DJ7,MK5,</p>
               <p>SP:Fairy Chanting,SP:Infinite Spiral,UNN:DG,UNN:DW,</p>
-              <p><b>Notes</b>: Buff Excavation Resets, assistants to at least 1e32, and F6000.</p>
-              <p><b>Notes</b>: Should be able to buy enough buildings and exchanges shortly after buying all upgrades. Wait to buy Tyrant Garrison until after getting as many evil fortresses as possible.</p>
+              <p><b>Note</b>: Buff Excavation Resets, assistants to at least 1e32, and F6000.</p>
+              <p><b>Note</b>: Should be able to buy enough buildings and exchanges shortly after buying all upgrades. Wait to buy Tyrant Garrison until after getting as many evil fortresses as possible.</p>
             </div>
           </div>
           <div class="shelementwhole">
@@ -843,11 +843,11 @@
               </p>
               <p>FR4,EL7,AN12,GB12,UD10,DM9,TT8,DD6,FC3,DN2,DW2,DW6,DG4,AR10,DJ7,MK1,</p>
               <p>SP:Grand Balance,SP:Infinite Spiral,UNN:DN,UNN:TT</p>
-              <p><b>Notes</b>: Requires less stats than the standard build, but will likely be slower in normal circumstances due to chaos randomness. Use the standard build if you have e114+ gems and use this one if you have less.</p>
-              <p><b>Notes</b>: Don't buy freemason's hall; cycle maelstrom until the next cast will be targeting HoL with assistants and then stop casting; wait until chaos madness hits faceless lineage, and then re-enable autocasting on maelstrom and recast all other spells; let chaos madness hit elven lineage to gain FCs for royal exchanges; let chaos madness hit demon lineage for production to increase building count. Once inns are at around 65k, you may want to buy freemason's hall (and For Science! and Secret Exchange that it unlocks) to roughly double production and FC gain.</p>
-              <p><b>Notes</b>: Double buff F6000 and buff assistants/mana stats/excavation stats.</p>
+              <p><b>Note</b>: Requires less stats than the standard build, but will likely be slower in normal circumstances due to chaos randomness. Use the standard build if you have e114+ gems and use this one if you have less.</p>
+              <p><b>Note</b>: Don't buy freemason's hall; cycle maelstrom until the next cast will be targeting HoL with assistants and then stop casting; wait until chaos madness hits faceless lineage, and then re-enable autocasting on maelstrom and recast all other spells; let chaos madness hit elven lineage to gain FCs for royal exchanges; let chaos madness hit demon lineage for production to increase building count. Once inns are at around 65k, you may want to buy freemason's hall (and For Science! and Secret Exchange that it unlocks) to roughly double production and FC gain.</p>
+              <p><b>Note</b>: Double buff F6000 and buff assistants/mana stats/excavation stats.</p>
             </div>
-          </div>  
+          </div>
         </div>
       </div>
     </div>
