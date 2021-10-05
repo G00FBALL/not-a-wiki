@@ -9,7 +9,7 @@
     <p><b>Production Builds</b></p>
     <div class="category">
       <div class="shelementwhole">
-      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lazier DPE (Starter, R190-R198)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lazy DPE (Starter, R190-R198)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
         <div class="autohide">
           <p><b>Author</b>: Rade, based on Meirlu's DPE</p>
           <p><b>Requirement</b>: Mercenary Challenge 1</p>
@@ -49,7 +49,7 @@
         </div>
       </div>
       <div class="shelementwhole">
-        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R190-R198 Production</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
+        <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Penguin Deletion (R190-R198 Production)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
         <div class="autohide">
           <p><b>Author</b>: ensteffahn</p>
           <p><b>Requirement</b>: Mercenary Challenge 1</p>

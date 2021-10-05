@@ -53,7 +53,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R170-180 Production</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">The Reunion (R170-180 Production)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 0 - 1e65 (100 Vg) Gems</p>
@@ -77,7 +77,7 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Forbidden Grounds (R180-190 Production)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">The Reunion: Part Two (R180-190 Production)</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn, modified by Kain, Regulus</p>
                 <p><b>Requirement</b>: R180 artifacts</p>
