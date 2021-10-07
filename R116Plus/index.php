@@ -4,19 +4,18 @@
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
-<p style="color:red"><b>Most Builds are outdated as of v4.0. Use the <a target="_blank" href="https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</a> for build testing and crafting.</b></p>
 <br/>
 <div class="shlisting">
-    <p><b>Production Builds (R116-120 updated for v4.1.3)</b></p>
+    <p><b>Production Builds (R116-125)</b></p>
     <div class="category">
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Druidline Elves 0 - 1e33 (1 Dc)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116+ Druidline Elves 0 - 1e33 (1 Dc)</a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Ensteffahn (Pent switched artifact set for new version)</p>
+                <p><b>Author</b>: Ensteffahn, co authored by Pent</p>
                 <p><b>Range</b>: 0 Gems - 1e33 (1 Dc) Gems</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Druid</p>
-                <p><b>Artifact Set</b>: Dwarf (If you do not have it at R116, any set will do honestly.)</p>
+                <p><b>Artifact Set</b>: Dwarf (If you do not have it at R116, use Angel</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E410,E3250,A495,A3400,W10,W560,W1375">
@@ -29,8 +28,9 @@
 				<p>W10,W560,W1375</p>
             </div>
         </div>
+        <br/>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Goblinline Elves 1e33 - 1e49/50</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Goblinline Elves 1e33 (1 DC) - 1e50 (100 Qid)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn</p>
                 <p><b>Range</b>: 1e33 (1 Dc) Gems - 1e45 (1 Qad) Gems</p>
@@ -50,11 +50,11 @@
             </div>
         </div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Dragonline Angel 1e50+</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Dragonline Angel 1e50 (100 Qid)+</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: ensteffahn</p>
-                <p><b>Range</b>: 1e50 Gems+</p>
-                <p><b>Requirement</b>: Uniformity and TTC4 buffs</p>
+                <p><b>Range</b>: 1e50 (100 Qid) Gems+</p>
+                <p><b>Recomendation</b>: Uniformity and TTC4 buffs (100%+ and 400%+ at least)</p>
                 <p><b>Faction</b>: Angel</p>
                 <p><b>Bloodline</b>: Dragon</p>
                 <p><b>Artifact Set</b>: Angel</p>
@@ -71,74 +71,54 @@
                 <p><b>Note</b>: Can take a little to build up. Runs can take ~2h close to reincarnation amount of gems</p>
             </div>
         </div>
-		<br />
+		<br/>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R121+ Druidline Elves 0 - 1e33 (1 Dc)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R121+ Facelessline Elves 1e33 (1 Dc) - 1e60 (1 Nod)</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Ensteffahn</p>
-				<p><b>Range</b>: 0 - 1e33 (1 Dc) Gems</p>
-				<p><b>Faction</b>: Elf</p>
-				<p><b>Bloodline</b>: Druid</p>
-				<p><b>Artifact Set</b>: Elf</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E410,E3250,A495,A3400,W10,W560,W1375">
-				</p>
-				<p>S175,S3200,</p>
-				<p>C1,C225,C340,C405,C520,C590,</p>
-				<p>D50,D435,D1375,</p>
-				<p>E25,E410,E3250,</p>
-				<p>A495,A3400,</p>
-				<p>W10,W560,W1375</p>
-			</div>
-		</div>
-		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R121+ Facelessline Elves 1e33 (1 Dc) - 1e64 (10 Vg)</a></b></p>
-			<div class="autohide">
-				<p><b>Author</b>: Enstaffahn, Rellikrellik</p>
-				<p><b>Range</b>: 1e33 (1 Dc) 1e33 (1 Dc) - 1e64 (10 Vg) Gems</p>
+				<p><b>Author</b>: Enstaffahn, Rellikrellik, Pent</p>
+				<p><b>Range</b>: 1e33 (1 Dc) 1e33 (1 Dc) - 1e60 (1 Nod) Gems</p>
 				<p><b>Requirement</b>: All Advanced Heritages</p>
 				<p><b>Faction</b>: Elf</p>
 				<p><b>Bloodline</b>: Faceless</p>
-				<p><b>Artifact Set</b>: Elf</p>
+				<p><b>Artifact Set</b>: Dwarf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E410,E3250,A495,A3400,W10,W560,W1375">
-				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A250,A495,W10,W560,W1375">
-					<b>1e50 (100 Qid) Gems+</b>
+					<input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A495,A3400,W10,W560,W1375">
 				</p>
 				<p>S175,S3200,</p>
 				<p>C1,C225,C340,C405,C520,C590,</p>
 				<p>D50,D435,D1375,</p>
-				<p>E25,E410,E3250,</p>
+				<p>E25,E145,E410,</p>
 				<p>A495,A3400,</p>
 				<p>W10,W560,W1375</p>
-				<p><b>Note</b>: Swap A3400 with A250 and E3250 with E145 at 1e50 (100 Qid) Gems+.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R121+ Druidline Angel 1e64 (10 Vg)+</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R121+ Dragonline Angel 1e60 (1 Nod)+</a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Glenniss2, Iluxa4000</p>
-                <p><b>Range</b>: 1e64 (10 Vg) Gems+</p>
-				<p><b>Requirement</b>: Primal Balance +10, All Advanced Heritages</p>
+                <p><b>Author</b>: ensteffahn</p>
+                <p><b>Range</b>: 1e60 (1 Nod) Gems+</p>
+                <p><b>Recomendation</b>: Uniformity and TTC4 buffs (100%+ and 400%+ at least)</p>
                 <p><b>Faction</b>: Angel</p>
-                <p><b>Bloodline</b>: Druid</p>
-                <p><b>Artifact Set</b>: Elf</p>
+                <p><b>Bloodline</b>: Dragon</p>
+                <p><b>Artifact Set</b>: Angel</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E400,E410,A50,A120,A495,W225,W400,W560">
+                    <input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E145,E410,A50,A120,A495,W180,W225,W560">
+				</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S10,S3200,C25,C340,C405,C520,D1,D175,D435,D590,D1375,E145,E410,A50,A120,A495,W180,W225,W560">
+                    <b>1e67 (10 Uvg)+</b>
 				</p>
                 <p>S10,S3200,</p>
                 <p>C25,C400,C405,C520,</p>
                 <p>D1,D175,D435,D590,D1375,</p>
-                <p>E400,E410,</p>
+                <p>E145,E410,</p>
                 <p>A50,A120,A495,</p>
-                <p>W225,W400,W560</p>
-                <p><b>Note</b>: Takes estimated 10 to 30 minutes to buy Spiritual Surge 7.</p>
+                <p>W180,W225,W560</p>
+                <p><b>Note</b>: 1e65 (100 Vg) switch from Angel set to Dwarf set</p>
+                <p><b>Note</b>: 1e67 (10 Uvg) switch C400 to C340</p>
             </div>
         </div>
     </div>
@@ -166,10 +146,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ancestral Hourglass (updated v4.1.3)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Ancestral Hourglass</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Xoneris</p>
-                <p><b>Range</b>: 1e55+</p>
+                <p><b>Range</b>: 1e55 (10 Spd)+</p>
                 <p><b>Faction</b>: Faceless</p>
                 <p><b>Bloodline</b>: Titan</p>
                 <p><b>Artifact Set</b>: Goblin</p>
@@ -183,7 +163,7 @@
                 <p>E320,E350,E1225,</p>
                 <p>A300,A1200,A3400,</p>
                 <p>W275,W1375,W1400</p>
-                <p><b>Note</b>: I was running a quick W275 Buff build before this one to reach ~1e9 assistants with undeadline fairy dwarf set.</p>
+                <p><b>Note</b>: I was running a quick W275 Buff build before this one to reach ~1e9 assistants</p>
                 <p><b>Note</b>: As much Gems as possible because the multiplicate increase to FC from Lightning Strike is based on Gems you own.</p>
                 <p><b>Note</b>: The above build brought me to about a 0.12% chance for Ancestral Hourglass.</p>
             </div>
@@ -298,8 +278,8 @@
         </div>
     </div>
     <br/>
-    <p><b>Lineage level 30 Builds R120+ (updated for v4.1.3)</b></p>
-    <p><b>Note</b>: Start with dragonline and go from there</p>
+    <p><b>Lineage level 30 Builds R120+</b></p>
+    <p><b>Note</b>: Start with Dragonline and go from there</p>
     <div class="category">
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblin lineage leveler (L30) (for all but goblin and drowline)</a></b></p>
@@ -308,9 +288,9 @@
                 <p><b>Range</b>: 1e64 (10 Vg) Gems+</p>
 				<p><b>Requirements</b>: Future Linkin, Ancestral Hourglass</p>
                 <p><b>Faction</b>: Goblin/Drow</p>
-                <p><b>Bloodline</b>: Start with dragonline, then rest. Doesn't work for goblin or drow</p>
-                <p><b>Artifact Set</b>: Dragon should use dwarfset</p>
-                <p><b>Artifact Set</b>: Titan should use angelset</p>
+                <p><b>Bloodline</b>: Start with Dragonline, then rest. Doesn't work for Goblin or Drow</p>
+                <p><b>Artifact Set</b>: Dragon should use Dwarfset</p>
+                <p><b>Artifact Set</b>: Titan should use Angelset</p>
                 <p><b>Artifact Set</b>: Everything else should use matching bloodline set for FC bonus</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
