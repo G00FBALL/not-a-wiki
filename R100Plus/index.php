@@ -62,10 +62,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R111-R115), 0 - 1e33 (1 Dc)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elves (R111-R115), 0 - 1e36 (1 Ud)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
-                <p><b>Range</b>: 0 - 1e33 (1 Dc) Gems<</p>
+                <p><b>Range</b>: 0 - 1e36 (1 Ud) Gems</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Druid</p>
                 <p><b>Artifact Set</b>: Angel</p>
@@ -84,10 +84,10 @@
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Elves (R111-R115), 1e33 - 1e48 (1 Dc - 1 Qid)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Elves (R111-R115), 1e36 - 1e48 (1 Ud - 1 Qid)</a></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Sad</p>
-                <p><b>Range</b>: 1e33 - 1e48 (1 Dc - 1 Qid) Gems</p>
+                <p><b>Range</b>: 1e36 - 1e48 (1 Ud - 1 Qid) Gems</p>
                 <p><b>Faction</b>: Elf</p>
                 <p><b>Bloodline</b>: Goblin</p>
                 <p><b>Artifact Set</b>: Angel</p>
@@ -179,7 +179,7 @@
         </div>
     </div>
     <br/>
-	<p style="color:blue"><b>All Builds below are still not updated for v4.0, most are roughly the same, but be aware.</b></p>
+	<p style="color:blue"><b>All Builds below have not been updated since 3.8, most of them still work, but be aware.</b></p>
     <p><b>Unique Building 2 Quest Unlock</b></p>
     <div class="category">
         <div class="shelementwhole">
