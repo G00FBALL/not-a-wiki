@@ -469,7 +469,7 @@
           <p><b>Artifact Set</b>: Faceless</p>
           <p>
             <button onclick="myFunction($(this))">Copy Build</button>
-            <input type="text" value="EL12,AN4,AN5,GB4,UD7,UD10,DM2,DD11,FC3,DN2,DN9,DW7,DW12,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DN,S180,S200,S400,S500,S5875,C175,C250,C340,C400,C5625,D200,D275,D290,D330,D3350,E135,E145,E230,E290,E320,E3300,A30,A120,A270,A305,A2950,A3400,W205,W275,W400,W1275,W5625,F5250">
+            <input type="text" value="EL12,AN4,AN5,AN12,UD7,UD10,DM2,DM4,FC3,DN2,DN9,DW7,DW12,AR2,DJ5,DJ9,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DN,S5875,C175,C250,C400,C5125,D10,D25,D55,D200,D275,D290,D320,D330,D3350,E135,E145,E230,E320,E480,E495,E3300,A30,A55,A105,A250,A270,A305,A410,A1500,A2950,W1,W25,W275,W5625,F5250">
           </p>
           <p>EL12,AN4,AN5,AN12,UD7,UD10,DM2,DM4,FC3,DN2,DN9,DW7,DW12,AR2,DJ5,DJ9,</p>
           <p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DN,</p>
