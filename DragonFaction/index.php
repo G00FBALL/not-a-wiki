@@ -209,9 +209,9 @@
         <p><b>Proof of Balance</b>: Multiplicatively increase Maximum Mana based on your current Lineage level.</p>
         <p><b>Formula</b>: (1.3 * x ^ 1.3)%, where x is Lineage level.</p>
         <br/>
-        <p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend on (ln(x)) where x is FC chance (even for Unique, odd for Non-Unique).</p>
-        <p><b>Formula</b>: Non-Unique: (0.2 * x ^ 0.8)%, where x is the amount of assistants owned.</p>
-        <p><b>Formula</b>: Unique: (0.6 * x ^ 0.6)%, where x is the amount of assistants owned.</p>
+        <p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend on floor(ln(1+x)) where x is FC chance (even for Unique, odd for Non-Unique).</p>
+        <p><b>Formula</b>: Non-Unique: (5 * x ^ 0.8)%, where x is the amount of assistants owned.</p>
+        <p><b>Formula</b>: Unique: (0.2 * x ^ 0.8)%, where x is the amount of assistants owned.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/FangFood.png" align="middle"><b> Fang Food</b></p>
         <p><b>Cost</b>: 10 Dtg (1e100)</p>

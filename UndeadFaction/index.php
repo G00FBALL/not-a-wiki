@@ -145,7 +145,7 @@
         <p><b>Cost</b>: 1 Qi (1e18) Undead Coins</p>
         <p><b>Effect Requirement</b>: R111+</p>
         <p><b>Effect</b>: Increase the production of Unique Buildings based on your Offline Bonus.</p>
-        <p><b>Formula</b>: (100 * ln(1 + x) ^ 2.25)%, where x is offline bonus multiplier.</p>
+        <p><b>Formula</b>: (300 * ln(1 + x) ^ 3)%, where x is offline bonus multiplier.</p>
         <p><b>Effect</b>: Grants access to Union Upgrades.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/FleshServants.png" alt="Flesh Servants" align="middle"> <b>Flesh Servants</b></p>
