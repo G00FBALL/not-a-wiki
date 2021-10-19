@@ -143,7 +143,7 @@
 					<hr>
 					<p><b>S330</b> - For All Factions</p>
 					<p><b>Research Name</b>: Reverberation</p>
-					<p><b>Requirement</b>: Research Cryomancy (A200) & Weather Control (D225)</p>
+					<p><b>Requirement</b>: Research Cryomancy (S200) & Weather Control (D225)</p>
 					<p><b>Cost</b>: 6.443 Sxg (6.443e183)</p>
 					<p><b>Effect</b>: Increase the production of all buildings based on the number of active spells you have. You must have at least 3 active spells to generate a bonus.</p>
 					<p><b>Formula</b>: (3000 * 2 ^ (x - 3))%, where x is the number of currently active spells (capped at 300 spells).</p>
