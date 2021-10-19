@@ -147,7 +147,7 @@
         <p><b>Effect Requirement</b>: R111+</p>
         <p><b>Effect</b>: Grants access to Union Upgrades.</p>
         <p><b>Effect</b>: Increase click production based on faction coins found this Reincarnation.</p>
-        <p><b>Formula</b>: (3 * ln(1 + x) ^ 3)%, where x is Faction Coins found this Reincarnation.</p>
+        <p><b>Formula</b>: (ln(1 + x) ^ 3)%, where x is Faction Coins found this Reincarnation.</p>
         <p><b>Effect</b>: Also autoclicks 10 times per second.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" alt="Wooden Dices" align="middle"> <b>Wooden Dice</b></p>

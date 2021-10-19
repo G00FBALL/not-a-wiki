@@ -94,7 +94,7 @@
 <p><b>Cost</b>: 1 Qi (1e18) Undead Coins</p>
 <p><b>Effect Requirement</b>: R111+</p>
 <p><b>Effect</b>: Increase the production of Unique Buildings based on your Offline Bonus.</p>
-<p><b>Formula</b>: (100 * ln(1 + x) ^ 2.25)%, where x is offline bonus multiplier.</p>
+<p><b>Formula</b>: (300 * ln(1 + x) ^ 3)%, where x is offline bonus multiplier.</p>
 <p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshServants.png" alt="Flesh Servants" align="middle"> <b>Flesh Servants</b></p>
@@ -355,7 +355,7 @@
 <p><b>Effect Requirement</b>: R111+</p>
 <p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <p><b>Effect</b>: Increase click production based on faction coins found this Reincarnation.</p>
-<p><b>Formula</b>: (3 * ln(x) ^ 3)%, where x is Faction Coins found this Reincarnation.</p>
+<p><b>Formula</b>: (ln(1 + x) ^ 3)%, where x is Faction Coins found this Reincarnation.</p>
 <p><b>Effect</b>: Also autoclicks 10 times per second.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" alt="Wooden Dices" align="middle"> <b>Wooden Dice</b></p>
@@ -451,7 +451,7 @@
 <p><b>Cost</b>: 1 Qi (1e18) Elven and Demon Coins</p>
 <p><b>Effect Requirement</b>: R111+</p>
 <p><b>Effect</b>: Increase the production of Non-Unique buildings based on your total Lineage level and the maximum amount of Grand Balance targets.</p>
-<p><b>Formula</b>: (5 * ((x * y) / 2.5)), where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
+<p><b>Formula</b>: (3 * x ^ 1.03 * y ^ 1.5)%, where x is total Lineage levels and y is amount of buildings targeted by Grand Balance (maximum is 11).</p>
 <p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BuildingVines.png" alt="Building Vines" align="middle"> <b>Building Vines</b></p>
@@ -600,9 +600,9 @@
 <p><b>Proof of Balance</b>: Multiplicatively increase max mana based on your current Lineage level.</p>
 <p><b>Formula</b>: (1.3 * x ^ 1.3), where x is Lineage level.</p>
 <br/>
-<p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend on (ln(x)) where x is FC chance (even for Unique, odd for Non-Unique).</p>
-<p><b>Formula</b>: Non-Unique (0.2 * x ^ 0.8), where x is assistant count.</p>
-<p><b>Formula</b>: Unique (0.6 * x ^ 0.6), where x is assistant count.</p>
+<p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend on floor(ln(1+x)) where x is FC chance (even for Unique, odd for Non-Unique).</p>
+<p><b>Formula</b>: Non-Unique: (5 * x ^ 0.8)%, where x is the amount of assistants owned.</p>
+<p><b>Formula</b>: Unique: (0.2 * x ^ 0.8)%, where x is the amount of assistants owned.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FangFood.png" align="middle"><b> Fang Food</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>

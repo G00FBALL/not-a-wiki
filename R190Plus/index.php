@@ -685,7 +685,7 @@
             <button onclick="myFunction($(this))">Copy Build</button>
             <input type="text" value="EL7,AN4,AN5,AN11,DD3,UD7,TT10,DD6,FC2,FC3,DW7,UD10,DW12,AR8,MK1,MK6,SP:Dragon's Breath,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,UNN:DW,S200,S5625,C175,C400,C5375,D275,D290,D200,D330,E135,E320,E5375,A120,A270,A305,A545,A1500,A2950,W275,W400,W1275,W1375,F5500">
           </p>
-          <p>EL7,AN4,AN5,AN11,GB3,UD7,TT10,DD6,FC2,FC3,DW7,UD10,DW12,AR8,MK1,MK6,</p>
+          <p>EL7,AN4,AN5,AN11,DD3,UD7,TT10,DD6,FC2,FC3,DW7,UD10,DW12,AR8,MK1,MK6,</p>
           <p>SP:Dragon's Breath,SP:Infinite Spiral,UB:Dragon Pasture,UNN:DG,UNN:TT,</p>
           <p>S200,S5625,</p>
           <p>C175,C400,C5375,</p>
@@ -777,7 +777,7 @@
           <p>F5500</p>
           <p><b>Note</b>: Cast everything bronze (except share benefits). Cast Share Benefits until you can buy all the upgrades. When ready to go, uncast everything and cast Share Benefits manually until faction chance goes to e12</p>
           <p><b>Note</b>: If you are missing Mana Regeneration: Add DD6 or/and cast Dragon Breath tier 5+</p>
-          <p><b>Note</b>: If you are missing Max Mana : E1325 and DW6, get more Royal Exchanges, buff DJ3 (by buying small researches that don’t affect mana generation/faction find chance)</p>
+          <p><b>Note</b>: If you are missing Max Mana : E1325 and DW6, get more Royal Exchanges, buff DJ3 (by buying small researches that don't affect mana generation/faction find chance)</p>
           <p><b>Note</b>: If you are missing assistants : cast fairy chanting</p>
           <p><b>Note</b>: Might have have to remove some due to how buffed your run is, this was done without buffing anything (no spells, no assistants, no F6000, no excav reset)</p>
           <p><b>Note</b>: <b>Do not buy Art of the Crow upgrade</b></p>
@@ -794,10 +794,10 @@
           <p><b>Artifact Set</b>: Angel</p>
           <p>
             <button onclick="myFunction($(this))">Copy Build</button>
-            <input type="text" value="EL1,EL7,EL8,EL10,EL11,AN5,AN11,GB4,UD7,DD3,DN2,AR8,AR10,MK1,MK5,SP:Dragon’s Breath,SP:Infinite Spiral,UB:Arboreal City,S175,S400,S1275,S200,C105,C175,C250,C340,C400,C590,D150,D200,D275,D290,D525,D1375,E135,E320,A2950,A305,W275,W400,W1375">
+            <input type="text" value="EL1,EL7,EL8,EL10,EL11,AN5,AN11,GB4,UD7,DD3,DN2,AR8,AR10,MK1,MK5,SP:Dragon's Breath,SP:Infinite Spiral,UB:Arboreal City,S175,S400,S1275,S200,C105,C175,C250,C340,C400,C590,D150,D200,D275,D290,D525,D1375,E135,E320,A2950,A305,W275,W400,W1375">
           </p>
           <p>EL1,EL7,EL8,EL10,EL11,AN5,AN11,GB4,UD7,DD3,DN2,AR8,AR10,MK1,MK5,</p>
-          <p>SP:Dragon’s Breath,SP:Infinite Spiral,UB:Arboreal City,</p>
+          <p>SP:Dragon's Breath,SP:Infinite Spiral,UB:Arboreal City,</p>
           <p>S175,S400,S1275,S200,</p>
           <p>C105,C175,C250,C340,C400,C590,</p>
           <p>D150,D200,D275,D290,D525,D1375,</p>

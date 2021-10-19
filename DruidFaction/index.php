@@ -180,7 +180,7 @@
         <p><b>Cost</b>: 1 Qi (1e18) Elven and Demon Coins</p>
         <p><b>Effect Requirement</b>: R111+</p>
         <p><b>Effect</b>: Increase the production of Non-Unique buildings based on your total Lineage level and the maximum amount of Grand Balance targets.</p>
-        <p><b>Formula</b>: (5 * ((x * y) / 2.5))%, where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
+        <p><b>Formula</b>: (3 * x ^ 1.03 * y ^ 1.5)%, where x is total Lineage levels and y is amount of buildings targeted by Grand Balance (maximum is 11).</p>
         <p><b>Effect</b>: Grants access to Union Upgrades.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/BuildingVines.png" alt="Building Vines" align="middle"> <b>Building Vines</b></p>
