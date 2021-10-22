@@ -6,10 +6,142 @@
     <?php include "../scripts/header.html"; ?>
         <h6>All Changes and Additions</h6>
         <br/>
-<p><b>V4.1.1 July 19, 2021</b></p>
+<p><b>V4.2.0 October ??, 2021</b></p>
 <br/>
-<p><b>Added</b>: New Goblin Invasion Event Feat.</p>
+<p><b>Events</b></p>
+<p><b>New Halloween Event Feat</b>: Check event page after event starts.</p>
 <hr>
+<p><b>Added Prestige Factions for Ascension 4</b></p>
+	<p><b>Requirement</b>: R240+, Base Faction's Alliance Upgrades purchased.</p>
+<br/>
+<p><b>Prestige Alliance Upgrades Faction Coin costs increased</b>.</p>
+	<p><b>Trade Treaties</b>: 1 Oc (1e27)</p>
+	<p><b>Friendship Pacts</b>: 1 Dc (1e33)</p>
+	<p><b>Alliances</b>: 1 Dd (1e39)</p>
+	<p><b>Unions</b>: 1 Qad (1e45)</p>
+<p><b>Note</b>: Prestige Alliance Upgrades grant no extra budget.</p>
+<br/>
+<p><b>Prestige Faction Upgrades costs increased</b>.</p>
+	<p><b>Cost Formula</b>: (1e114 * (1,000 ^ (x - 1)) * (1,000 ^ (0.5 * floor((x - 1) / 3) * floor(((x - 1) / 3) + 1)))), where x is which upgrade this is (1,2,3, etc).</p>
+	<table class="numtable">
+		<tr>
+			<th>Faction Upgrade</th>
+			<th>Coin Cost</th>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>1e114</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>1e117</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>1e120</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>1e126</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>1e129</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>1e32</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>1e141</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>1e144</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>1e147</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>1e159</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>1e162</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>1e165</td>
+		</tr>
+
+	</table>
+<br/>
+<p><b>Prestige Legacies</b>: Available from R220+, higher base cost than Base Legacies.</p>
+	<p><b>Coin Cost</b>: (1e105 * (1,000 ^ (x ^ 2 - x))), where x is your current Legacy container.</p>
+	<p><b>Faction Coin Cost</b>: (1e45 * (1,000 ^ ( 0.5 * ( x ^ 2 - x)))), where x is your current Legacy container.</p>
+	<table class="numtable">
+		<tr>
+			<th>Legacy Number</th>
+			<th>Coin Cost</th>
+			<th>Faction Coin Cost</th>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>1e105</td>
+			<td>1e45</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>1e111</td>
+			<td>1e48</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>1e123</td>
+			<td>1e54</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>1e141</td>
+			<td>1e63</td>
+		</tr>
+	</table>
+<hr>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 <p><b>Balance Changes</b></p>
 <br/>
 <p><b>DM2</b> (Devil Tyrant)</p>
