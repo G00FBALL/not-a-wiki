@@ -79,7 +79,7 @@
 
 	</table>
 <br/>
-<p><b>Prestige Legacies</b>: Available from R220+, higher base cost than Base Legacies.</p>
+<p><b>Prestige Legacies</b>: Available from R220+, higher base cost than base Legacies.</p>
 	<p><b>Coin Cost</b>: (1e105 * (1,000 ^ (x ^ 2 - x))), where x is your current Legacy container.</p>
 	<p><b>Faction Coin Cost</b>: (1e45 * (1,000 ^ ( 0.5 * ( x ^ 2 - x)))), where x is your current Legacy container.</p>
 	<table class="numtable">
@@ -110,7 +110,31 @@
 		</tr>
 	</table>
 <hr>
-	
+<p><b>3 New Lore Artifacts</b>: 1 for each prestige faction, unlocking their set's second effect.</p>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenAnvilArtifact.png" align="middle"> Dwarven Anvil</b></p>
+	<p><b>Hint</b>: Dwarven clicks!</p>
+	<p><b>Description</b>: Every dwarven child is required to bring this to school every day.</p>
+	<p><b>Requirement</b>: R240+, 10,000 excavations, play as Dwarf.</p></p>
+	<p><b>Chance</b>: (ln(1 + x) / 10,000)%, where x is your number of clicks in this Reincarnation.</p></p>
+	<p><b>Dwarf Set 2nd Effect</b>: Multiplicatively increase Mana regen based on time spent in this game.</p>
+	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your time spent in this game in seconds.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/StilettoHeelArtifact.png" align="middle"> Stiletto Heel</b></p>
+	<p><b>Hint</b>: A drow trade.</p>
+	<p><b>Description</b>: Drow make the most beautiful underground females.</p>
+	<p><b>Requirement</b>: R240+, 10,000 excavations, play as Drow.</p></p>
+	<p><b>Chance</b>: (x / 10,000)%, where x is the number of Royal Exchanges you have.</p>
+	<p><b>Drow Set 2nd effect</b>: Spells cast count more based on time spent as Evil in this Reincarnation.</p>
+	<p><b>Formula</b>: (6 * ln(1 + x) ^ 1.2)%, where x is time spent as Evil in this Reincarnation in seconds.</p>
+<br/>
+<p><b><img src="http://musicfamily.org/realm/Factions/picks/EyeOfTheDragonArtifact.png" align="middle"> Eye Of The Dragon</b></p>
+	<p><b>Hint</b>: Draconic Assistants.</p>
+	<p><b>Description</b>: The ultimate thrill of the fight.</p>
+	<p><b>Requirement</b>: R220+, 10,000 excavations, play as Dragon</p></p>
+	<p><b>Chance</b>: (ln(1 + x) / 10,000)%, where x is the highest amount of assistants you had in this Reincarnation.</p></p>
+	<p><b>Dragon Set 2nd effect</b>: All alignment spells gain 1 additional Tier and all spells activity time count more based on the amount of excavations you made, including resets.</p>
+	<p><b>Formula</b>: (0.25 * (x * (y + 1)) ^ 0.5)%, where x is excavations made, and y is your number of resets in this game.</p>
+<hr>
 	
 	
 	
