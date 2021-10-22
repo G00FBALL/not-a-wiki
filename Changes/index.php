@@ -135,23 +135,97 @@
 	<p><b>Dragon Set 2nd effect</b>: All alignment spells gain 1 additional Tier and all spells activity time count more based on the amount of excavations you made, including resets.</p>
 	<p><b>Formula</b>: (0.25 * (x * (y + 1)) ^ 0.5)%, where x is excavations made, and y is your number of resets in this game.</p>
 <hr>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+<p><b>New Researches</b></p>
+<p><b>Spellcraft</b></p>
+<p><b>S13125</b> (Fantasia)</p>
+	<p><b>Effect</b>: Multiplicatively increase assistants based on mana produced in this game.</p>
+	<p><b>Formula</b>: (2 * ln(x) ^ 2)%, where x is your mana produced this game.</p>
+<br/>
+<p><b>S13500</b> (Legerdemain)</p>
+	<p><b>Effect</b>: Mana produced counts more based on the amount of Faction Coins found in this game.</p>
+	<p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is the amount of Faction Coins found this game.</p>
+<br/>
+<p><b>Craftsmanship</b></p>
+<p><b>C13125</b> (Pottery)</p>
+	<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of active spells.</p>
+	<p><b>Formula</b>: (9 * x ^ 0.9)%, where x is the number of active spells.</p>
+<br/>
+<p><b>C13500</b> (Assembly Line)</p>
+	<p><b>Effect</b>: Increase the production of Non-Unique buildings based on the amount of assistants you own.</p>
+	<p><b>Formula</b>: (0.75 * x ^ 0.25)%, where x is the number of assistants you own.</p>
+<br/>
+<p><b>Divine</b></p>
+<p><b>D13125</b> (Asceticism)</p>
+	<p><b>Effect</b>: Neutral Buildings also count as both Good and Evil buildings. Non-Unique buildings also count as Unique buildings.</p>
+	<p><b>Note</b>: Neutral Buildings in this instance refers to only Farms, Inns, Blacksmiths and Hall of Legends.</p>
+	<p><b>Note</b>: The second effect is only applied to effects that specifically check for Unique Buildings, such as Lineage Perk 3s. The Non-Unique Buildings will still only count as Non-Unique when it comes to building modifiers, such as E135.</p>
+	<p>Essentially, effects that are "...based on the amount of Unique Buildings" are now "...based on your total amount of buildings".</p>
+<br/>
+<p><b>D13500</b> (Afterlife)</p>
+	<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on the highest amount of Mana Regeneration you had in this Reincarnation.</p>
+	<p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is the highest Mana Regeneration you had this Reincarnation.</p>
+<br/>
+<p><b>Economics</b></p>
+<p><b>E13125</b> (Discount)</p>
+	<p><b>Effect</b>: Reduce Royal Exchange, Excavation and Building cost multipliers. All spells cost 50% less mana to cast.</p>
+	<p><b>Reduction</b>: -0.02 for all three.</p>
+<br/>
+<p><b>E13500</b> (Recession)</p>
+	<p><b>Effect</b>: Gain all Lineage base effects that match your alignments, up to a maximum of level 25.</p>
+	<p><b>Note</b>: This will reduce the level of all lineages you do not pick to 25 for the current run (including lineages that don't match your alignments), which will lower the effectiveness of upgrades based on those lineage levels.</p>
+<br/>
+<p><b>Alchemy</b></p>
+<p><b>A13125</b> (Cinnabar)</p>
+	<p><b>Effect</b>: All spells activity time counts more based on Tax Collection casts in this game.</p>
+	<p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is the number of Tax Collections cast this game.</p>
+<br/>
+<p><b>A13500</b> (Lunafaction)</p>
+	<p><b>Effect</b>: All Balance spells can be cast up to 3 tier above their maximum. Increase Offline production based on the maximum amount of time spent as Balance in this Reincarnation.</p>
+	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is the maximum time spent as Balance this reincarnation in seconds.</p>
+	<p><b>Note</b>: All Creation can be cast up to Tier 5 (This research overrides Dragon Set 2). Moon Blessing, Goblin’s Greed and Grand Balance can be cast up to Tier 10. Infinite Spiral can be cast up to Tier 4.</p>
+<br/>
+<p><b>Warfare</b></p>
+<p><b>W13125</b> (Artillery)</p>
+	<p><b>Effect</b>: Increase all spell duration based on the highest amount of spells cast in this Reincarnation.</p>
+	<p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is the highest number of spells cast in a single run this Reincarnation.</p>
+<br/>
+<p><b>W13500</b> (Backfire)</p>
+	<p><b>Effect</b>: Increase the production of Evil buildings based on time spent as Good, the production of Chaos buildings based on time spent as Order, and the production of Chaos Evil buildings as the sum of time spent as Good and Order. Also increases the production of Good and Order buildings based on Evil and Chaos in the same way.</p>
+	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is the respective time stat in seconds.</p>
+	<p><b>Note</b>: Buildings only receive the highest effect (That is, if the building is Evil/Chaos, it only gets the Evil/Chaos bonus, not the Evil or the Chaos individual bonuses).</p>
+	<p><b>Note</b>: The Good/Evil alignment of a building applies normally, while the Order/Chaos alignment of a building only applies to Base Faction's Unique Buildings (both UB1 and UB2) and Elite Unique Buildings</p>
+<br/>
+<p><b>Forbidden</b></p>
+<p><b>F13250</b> (Taboo)</p>
+	<p><b>Effect</b>: Increase the production of all buildings based on the amount of faction upgrades different than your own.</p>
+	<p><b>Formula</b>: (1.2 * x ^ 1.2)%, where x is the number of faction upgrades you have that are not part of your faction.</p>
+	<p><b>Note</b>: Faction upgrades in this instance refers to only the main 12 faction upgrades (that you get via Legacies), Lineage Perks, Advanced Heritages and such are not counted toward this research.</p>
+<br/>
+<p><b>F13750</b></p>
+	<p><b>Effect</b>: Increase Offline production based on the maximum amount of assistants you had in this Reincarnation.</p>
+	<p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is the highest number of assistants you had this Reincarnation.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Research
+
+
+Effect: 
+Formula: 
+
+Effect: 
+Formula: 
 	
 	
 	
