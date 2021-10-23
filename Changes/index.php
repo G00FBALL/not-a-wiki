@@ -226,8 +226,8 @@
 <p><b>Demon</b></p>
 <p><b>DM2</b> (Devil Tyrant)</p>
 <p><b>Effect</b>: The three highest building tiers count more based on time spent as Evil in this Reincarnation.</p>
-<p><b>Old Formula</b>: (0.4 * x ^ 0.6)%, where x is time spent as Evil this Reincarnation.</p>
-<p><b>New Formula</b>: (1.2 * x ^ 0.4)%, where x is time spent as Evil this Reincarnation.</p>	
+<p><b>Old Formula</b>: (0.4 * x ^ 0.6)%, where x is time spent as Evil this Reincarnation in seconds.</p>
+<p><b>New Formula</b>: (1.2 * x ^ 0.4)%, where x is time spent as Evil this Reincarnation in seconds.</p>	
 <br/>
 <p><b>Dwarven</b></p>
 <p><b>DN3</b> (Mining Prodigies)</p>
@@ -252,9 +252,9 @@
 <p>DG3 swapped places with DG8, formulas changed.</p>
 <p><b>DG1</b> (Dragonscales)</p>
 <p><b>Old Effect</b>: Increase the production of Stone Pillars, Labyrinth and Hall of Legends based on the total amount of time spent as Neutral.</p>
-<p><b>Old Formula</b>: ((1.25 * t) ^ 0.55)%, where t is the total amount of time spent as Neutral in minutes (this R).</p>
+<p><b>Old Formula</b>: ((1.25 * (x / 60)) ^ 0.55)%, where x is time spent as Neutral this Reincarnation in seconds.</p>
 <p><b>New Effect</b>: Increase the production of all buildings based on the amount of time spent as Neutral in this Reincarnation. Effect is increased on Stone Pillars, Labyrinths and Hall Of Legends.</p>
-<p><b>New Formula</b>: ((x / 60) ^ 0.5)%, where x is your neutral time in seconds. This is multiplied by 10 on Stone Pillars, Labyrinths and Hall of Legends.</p>		
+<p><b>New Formula</b>: ((x / 60) ^ 0.5)%, where x is time spent as Neutral this Reincarnation in seconds. This is multiplied by 10 on Stone Pillars, Labyrinths and Hall of Legends.</p>		
 <br/>
 <p><b>DG2</b> Iron Flight</p>
 <p><b>Old Effect</b>: Increase the production of Iron Stronghold by 2000% when affected by any Spell.</p>
@@ -270,11 +270,11 @@
 <br/>
 <p><b>DG4</b> (Dragonborn)</p>
 <p><b>Old Effect</b>: Increase assistants production based on time spent affiliated with Dragons.</p>
-<p><b>Old Formula</b>: (0.75 * (x ^ 0.55))%, where x is time spent with Dragons (All Time).</p>
+<p><b>Old Formula</b>: (0.75 * (x ^ 0.55))%, where x is time spent with Dragons in seconds (All Time).</p>
 <p><b>New Effect</b>: Increase assistants additively and multiplicatively, and their production, based on time spent affiliated with Dragons.</p>
-<p><b>New Formula (Additive)</b>: +(60 * x ^ 0.4), where x is time spent as Dragons (All Time).</p>
-<p><b>New Formula (Multiplicative)</b>: (0.5 * x ^ 0.25)%, where x is time spent as Dragons (All Time).</p>
-<p><b>New Formula (Production)</b>: (0.8 * x ^ 0.4)%, where x is time spent as Dragons (All Time).</p>
+<p><b>New Formula (Additive)</b>: +(60 * x ^ 0.4), where x is time spent as Dragons in seconds (All Time).</p>
+<p><b>New Formula (Multiplicative)</b>: (0.5 * x ^ 0.25)%, where x is time spent as Dragons in seconds (All Time).</p>
+<p><b>New Formula (Production)</b>: (0.8 * x ^ 0.4)%, where x is time spent as Dragons in seconds (All Time).</p>
 <p><b>Note</b>: All formulas are unaffected by “Time counts more” effects.</p> 
 <br/>
 <p><b>DG6</b> (Sharp Claws)</p>
@@ -306,16 +306,16 @@
 <br/>
 <p><b>DG11</b> (Wyrm's Rest)</p>
 <p><b>Old Effect</b>: Gain assistants based on the amount of time spent as Dragon this Reincarnation.</p>
-<p><b>Old Formula</b>: +(15 * x ^ 0.65), where x is time spent as Dragon this Reincarnation.</p>
+<p><b>Old Formula</b>: +(15 * x ^ 0.65), where x is time spent as Dragon this Reincarnation in seconds.</p>
 <p><b>New Effect</b>: Remove 1 Ascension penalty from Royal Exchange bonus. Also gives Dragon's Breath White Breath a multiplicative effect on assistants based on time spent as dragons.</p>
-<p><b>New Formula</b>: (3 * ln(1 + x) ^ 1.5)%, where x is time spent as Dragon this Reincarnation.</p>
+<p><b>New Formula</b>: (3 * ln(1 + x) ^ 1.5)%, where x is time spent as Dragon this Reincarnation in seconds.</p>
 <p><b>Note</b>: Unlike other coloured breath effects which stack cumulatively with extra breaths, the multiplicative white breath effect stacks multiplicatively with extra white breaths.</p>
 <br/>
 <p><b>Makers</b></p>
 <p><b>MK8</b> (Past Trade)</p>
 <p><b>Old Effect</b>:Remove 1 Ascension penalty from Royal Exchange Bonus. </p>
 <p><b>New Effect</b>: Multiplicatively increase production bonus from Gems based on the time spent on your longest game session in this Reincarnation.</p>
-<p><b>New Formula</b>: (0.65 * x ^ 0.65)%, where x is your longest game session in this Reincarnation.</p>
+<p><b>New Formula</b>: (0.65 * x ^ 0.65)%, where x is your longest game session this Reincarnation in seconds.</p>
 <br/>
 <hr>
 <p><b>Unions</b></p>
@@ -333,8 +333,8 @@
 <br/>
 <p><b>Drow Chaos Union</b></p>
 <p><b>Effect</b>: Increase the production of a specific building tier, depending on the amount of buildings you own, based on time spent offline in this Reincarnation.</p>
-<p><b>Old Formula</b>: (8 * x ^ 0.8)%, where x is time spent offline this Reincarnation.</p>
-<p><b>New Formula</b>: (0.666 * x ^ 0.666)%, where x is time spent offline this Reincarnation.</p>
+<p><b>Old Formula</b>: (8 * x ^ 0.8)%, where x is time spent offline this Reincarnation in seconds.</p>
+<p><b>New Formula</b>: (0.666 * x ^ 0.666)%, where x is time spent offline this Reincarnation in seconds.</p>
 <br/>
 <p><b>Drow Balance Union</b></p>
 <p><b>Effect</b>: Multiplicatively Increase Maximum Mana based on Tax Collections cast this game.</p>
@@ -353,28 +353,108 @@
 <p><b>Old Formula</b>: (1.3 * x ^ 1.3)%, where x is your current Lineage level.</p>
 <p><b>New Formula</b>: (7 * x ^ 0.9)%, where x is your current Lineage level.</p>
 <br/>
-
-
-
-
-<p><b>Undead</b></p>
-<p><b>DG</b> ()</p>
-<p><b>Old Effect</b>: </p>
-<p><b>Old Formula</b>: </p>
-<p><b>New Effect</b>: </p>
-<p><b>New Formula</b>: </p>
-<p><b>Note</b>: </p>
+<hr>
+<p><b>Spells & Spell Effects</b></p>
+<p><b>Dragon’s Breath</b> (Dragon)</p>
+<p><b><font color="white">White Breath</font></b></p>
+<p><b>Effect</b>: Temporarily increase the amount of assistants based on total time spent being neutral.</p>
+<p><b>Old Formula</b>: (1.35 * floor(x / 60) ^ 0.7), where x is time spent as neutral this Reincarnation in seconds.</p>
+<p><b>New Formula</b>: (3 * floor(x / 60) ^ 0.7), where x is time spent as neutral this Reincarnation in seconds.</p>
 <br/>
-
-
-
-
-
-
-
-
-
-
+<hr>
+<p><b>Challenges</b></p>
+<p><b>Dragon</b></p>
+<p><b>Dragon Challenge 1</b> (Sky Monarch)</p>
+<p><b>Old Effect</b>: Mutiplicatively increase faction coin chance by 12% per Lightning Strike tier bought.</p>
+<p><b>New Effect</b>: Multiplicatively increase Faction Coin chance based on Lightning Strike activity time in this game.</p>
+<p><b>New Formula</b>: (0.7 * x ^ 0.7)%, where x is your Lightning Strike activity time in this game in seconds.</p>
+<br/>
+<p><b>Dragon Challenge 5</b> (Ancient Incantation)</p>
+<p><b>Old Effect</b>: Tax Collections are 20% more powerful for every spell tier you have active.</p>
+<p><b>New Effect</b>: Increase Tax Collection worth in seconds based on the amount of active spells.</p>
+<p><b>New Formula</b>: (30 * x ^ 0.8)%, where x is the number of active spells.</p>
+<br/>
+<hr>
+<p><b>Unique Buildings</b></p>
+<p><b>Dwarven Forge</b> (Dwarf UB1)</p>
+<p><b>Effect</b>: Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana regen and unlocking more unique perks for the building.</p>
+<p><b>Old Formula</b>: (80 * x ^ 0.8)%, where x is your Mana per Second stat.</p>
+<p><b>New Formula</b>: (300 * x ^ 0.6)%, where x is your Mana per Second stat.</p>
+<br/>
+<hr>
+<p><b>Research</b></p>
+<p><b>Warfare</b></p>
+<p><b>W11875</b> (Scouting)</p>
+<p><b>Effect</b>: Buildings count more based on the maximum amount of Grand Balance targets you had in this Reincarnation.</p>
+<p><b>Old Formula</b>: (1.25 * x ^ 1.25)%, where x is the maximum amount of Grand Balance targets you had in this Reincarnation.</p>
+<p><b>New Formula</b>: (x ^ 0.9)%, where x is the maximum amount of Grand Balance targets you had in this Reincarnation.</p>
+<br/>
+<hr>
+<p><b>Lineage</b></p>
+<p><b>Fairy</b></p>
+<p><b>Fairy Perk 4</b></p>
+<p><b>Effect</b>: While Fairy Chanting is active, further increase your temporary assistants based on its duration.</p>
+<p><b>Old Formula</b>: (2.5 * x ^ 0.5)%, where x is Fairy Chanting duration in seconds.</p>
+<p><b>New Formula</b>: (2.5 * x ^ 0.25)%, where x is Fairy Chanting duration in seconds.</p>
+<br/>
+<p><b>Dwarf</b></p>
+<p><b>Dwarven Perk 3</b></p>
+<p><b>Effect</b>: Excavations and Artifacts count more based on the amount of Unique Buildings you own.</p>
+<p><b>Old Formula</b>: (0.5 * x ^ 0.5)%, where x is the number of Unique Buildings you own.</p>
+<p><b>New Formula</b>: (0.58 * x ^ 0.58)%, where x is the number of Unique Buildings you own.</p>
+<br/>
+<hr>
+<p><b>Artifact Sets</b></p>
+<p><b>Fairy</b></p>
+<p><b>Fairy Set 1</b></p>
+<p><b>Effect</b>: Farms, Inns and Blacksmiths count more based on the amount of time spent with Fairies in this Reincarnation.</p>
+<p><b>Old Formula</b>: (0.7 * ln(1 + x) ^ 3)%, where x is time spent with Fairies this Reincarnation in seconds.</p>
+<p><b>New Formula</b>: (2 * ln(1 + x) ^ 1.5)%, where x is time spent with Fairies this Reincarnation in seconds.</p>
+<br/>
+<p><b>Drow</b></p>
+<p><b>Drow Set 1</b></p>
+<p><b>Old Effect</b>: Increase the production of Unique Buildings based on Evil spells cast in this Reincarnation.</p>
+<p><b>Old Formula</b>: (0.45 * x ^ 0.45)%, where x is total evil spells cast Reincarnation.</p>
+<p><b>New Effect</b>: Remove Ascension penalties from Royal Exchange bonus, starting from 0 and removing more levels of penalty over time, and increase their production based on the amount of Gems you own.</p>
+<p><b>New Formula (Penalties Reduction)</b>: (round((0.3 * x / 3600) ^ 0.5) - 1), where x is playtime this game.</p>
+	<table class="numtable">
+		<tr>
+			<th>Penalties Removed</th>
+			<th>Time</th>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>7 Hours 30 Minutes</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>20 Hours 50 Minutes</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>1 Day 16 Hours 50 Minutes</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>2 Days 19 Hours 30 Minutes</td>
+		</tr>
+	</table>
+<p><b>Note</b>: Unaffected by Set power bonuses.</p>
+<p><b>New Formula (Production)</b>: (ln(1 + x) ^ 2)%, where x is gems owned.</p>
+<br/>
+<hr>
+<p><b>Other Changes</b></p>
+<p><b>Uniformity</b></p>
+<p><b>Effect</b>: Increases the production of all buildings based on time spent as the least used alignment.</p>
+<p><b>Old Formula</b>: (0.75 * x ^ 0.75)%, where x is time spent with your least used alignment (primary or secondary) in seconds.</p>
+<p><b>New Formula</b>: (x ^ 0.75)%, where x is time spent with your least used alignment (primary or secondary) in seconds.</p>
+<br/>
+<p><b>MAD Quests</b> (Archon, Djinn, Makers unlocks)</p>
+<p>Alignment spells activity time requirement reduced from 2 days to 1 day.</p>
+<br/>
+<p><b>Advanced Heritage Unlocks</b></p>
+<p>Faction spells activity time requirement reduced from 8 hours to 6 hours.</p>
+<br/>
 <hr>
 <br/>
 <p><b>Old Patches</b></p>
