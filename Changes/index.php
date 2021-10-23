@@ -109,6 +109,7 @@
 			<td>1e63</td>
 		</tr>
 	</table>
+<br/>
 <hr>
 <p><b>3 New Lore Artifacts</b>: 1 for each prestige faction, unlocking their set's second effect.</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenAnvilArtifact.png" align="middle"> Dwarven Anvil</b></p>
@@ -133,7 +134,8 @@
 	<p><b>Requirement</b>: R220+, 10,000 excavations, play as Dragon</p></p>
 	<p><b>Chance</b>: (ln(1 + x) / 10,000)%, where x is the highest amount of assistants you had in this Reincarnation.</p></p>
 	<p><b>Dragon Set 2nd effect</b>: All alignment spells gain 1 additional Tier and all spells activity time count more based on the amount of excavations you made, including resets.</p>
-	<p><b>Formula</b>: (0.25 * (x * (y + 1)) ^ 0.5)%, where x is excavations made, and y is your number of resets in this game.</p>
+	<p><b>Formula</b>: (0.25 * (x * (y + 1)) ^ 0.5)%, where x is the number of excavations made, and y is your number of resets in this game.</p>
+<br/>
 <hr>
 <p><b>New Researches</b></p>
 <p><b>Spellcraft</b></p>
@@ -199,49 +201,149 @@
 <p><b>F13250</b> (Taboo)</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on the amount of faction upgrades different than your own.</p>
 	<p><b>Formula</b>: (1.2 * x ^ 1.2)%, where x is the number of faction upgrades you have that are not part of your faction.</p>
-	<p><b>Note</b>: Faction upgrades in this instance refers to only the main 12 faction upgrades (that you get via Legacies), Lineage Perks, Advanced Heritages and such are not counted toward this research.</p>
+	<p><b>Note</b>: Faction upgrades in this instance refers to only the main 12 faction upgrades (that you get via Legacies). Lineage Perks, Advanced Heritages and such are not counted toward this research.</p>
 <br/>
 <p><b>F13750</b></p>
 	<p><b>Effect</b>: Increase Offline production based on the maximum amount of assistants you had in this Reincarnation.</p>
 	<p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is the highest number of assistants you had this Reincarnation.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	Research
-
-
-Effect: 
-Formula: 
-
-Effect: 
-Formula: 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+<br/>
+<hr>
 <p><b>Balance Changes</b></p>
 <br/>
+<p><b>Reincarnation Power</b></p>
+<p><b>R180 Power</b></p>
+	<p><b>Removed</b>: R180 power is DEAD.</p>
+	<p><b>Old Effect</b>: Increase the production of all buildings based on Reincarnations made.</p>
+	<p><b>Old Formula</b>: (150 * R)%.</p>
+<br/>
+<hr>
+<p><b>Faction Upgrades</b></p>
+<p><b>Undead</b></p>
+<p><b>UD7</b> (Dead Fields)</p>
+<p><b>Old Effect</b>: Buildings count 100% more.</p>
+<p><b>New Effect</b>: Buildings count 75% more.</p>
+<br/>
+<p><b>Demon</b></p>
+<p><b>DM2</b> (Devil Tyrant)</p>
+<p><b>Effect</b>: The three highest building tiers count more based on time spent as Evil in this Reincarnation.</p>
+<p><b>Old Formula</b>: (0.4 * x ^ 0.6)%, where x is time spent as Evil this Reincarnation.</p>
+<p><b>New Formula</b>: (1.2 * x ^ 0.4)%, where x is time spent as Evil this Reincarnation.</p>	
+<br/>
+<p><b>Dwarven</b></p>
+<p><b>DN3</b> (Mining Prodigies)</p>
+<p><b>Old Effect</b>: Increase the production of all buildings based on the total amount of Excavations you made.</p>
+<p><b>Old Formula</b>: (9 * x ^ 0.9)%, where x is the current amount of excavations.</p>
+<p><b>New Effect</b>: Increase the production of all buildings based on the amount of Excavations you made, including resets, in this Reincarnation.</p>
+<p><b>New Formula</b>: (60 * (x * max(1, 0.5 * y) ^ 0.5))%, where x is the number of excavations made this reincarnation, y is the number of excavation resets in this reincarnation.</p>	
+<br/>
+<p><b>DN11</b> (Stonetalking)</p>
+<p><b>Effect</b>: Increase the production of all buildings based on the highest between max mana and mana regeneration.</p>
+<p><b>Old Formula</b>: (0.055 * max(x, y) ^ 0.55)%, where x is Maximum Mana and y is Mana Regeneration.</p>
+<p><b>New Formula</b>: (2 * ln(1 + max(x,y)) ^ 2)%, where x is Maximum Mana and y is Mana Regeneration.</p>	
+<br/>
+<p><b>Drow</b></p>
+<p><b>DW9</b> (Blade Dance)</p>
+<p><b>Old Effect</b>: Increase the production of all buildings based on Combo Strike casts in this game.</p>
+<p><b>Old Formula</b>: (30 * x ^ 0.9)%, where x is Combo Strike casts in this game.</p>
+<p><b>New Effect</b>: Increase the production of all buildings based on Combo Strike counter in this game.</p>
+<p><b>New Formula</b>: (100 + 80 * x ^ 0.4)%, where x is your Combo Strike counter.</p>	
+<br/>
+<p><b>Dragon</b></p>
+<p>DG3 swapped places with DG8, formulas changed.</p>
+<p><b>DG1</b> (Dragonscales)</p>
+<p><b>Old Effect</b>: Increase the production of Stone Pillars, Labyrinth and Hall of Legends based on the total amount of time spent as Neutral.</p>
+<p><b>Old Formula</b>: ((1.25 * t) ^ 0.55)%, where t is the total amount of time spent as Neutral in minutes (this R).</p>
+<p><b>New Effect</b>: Increase the production of all buildings based on the amount of time spent as Neutral in this Reincarnation. Effect is increased on Stone Pillars, Labyrinths and Hall Of Legends.</p>
+<p><b>New Formula</b>: ((x / 60) ^ 0.5)%, where x is your neutral time in seconds. This is multiplied by 10 on Stone Pillars, Labyrinths and Hall of Legends.</p>		
+<br/>
+<p><b>DG2</b> Iron Flight</p>
+<p><b>Old Effect</b>: Increase the production of Iron Stronghold by 2000% when affected by any Spell.</p>
+<p><b>New Effect</b>: Increase the production of Iron Stronghold by 200% per spell affecting it.</p>		
+<p><b>Note</b>: Each instance of spell effects count as one spell (represented by the spell effect icons on the building icons). This includes Red, Green & Black Breath, A150 and D400.</p> 
+<br/>
+<p><b>DG3</b> (Eternal Wisdom)</p>
+<p><b>New Name</b>: Imposing Presence</p>
+<p><b>Old Effect</b>: Increase the production of all buildings based on Royal Exchange bonus.</p>
+<p><b>Old Formula</b>: (2 * x ^ 1.15)%, where x is individual Royal Exchange bonus.</p>
+<p><b>New Effect</b>: Increase Mana Regeneration based on the amount of neutral buildings you own.</p>
+<p><b>New Formula</b>: +(0.5 * x ^ 0.5), where x is the number of neutral buildings owned.</p>
+<br/>
+<p><b>DG4</b> (Dragonborn)</p>
+<p><b>Old Effect</b>: Increase assistants production based on time spent affiliated with Dragons.</p>
+<p><b>Old Formula</b>: (0.75 * (x ^ 0.55))%, where x is time spent with Dragons (All Time).</p>
+<p><b>New Effect</b>: Increase assistants additively and multiplicatively, and their production, based on time spent affiliated with Dragons.</p>
+<p><b>New Formula (Additive)</b>: +(60 * x ^ 0.4), where x is time spent as Dragons (All Time).</p>
+<p><b>New Formula (Multiplicative)</b>: (0.5 * x ^ 0.25)%, where x is time spent as Dragons (All Time).</p>
+<p><b>New Formula (Production)</b>: (0.8 * x ^ 0.4)%, where x is time spent as Dragons (All Time).</p>
+<p><b>Note</b>: All formulas are unaffected by “Time counts more” effects.</p> 
+<br/>
+<p><b>DG6</b> (Sharp Claws)</p>
+<p><b>Old Effect</b>: Gain additional assistants based on clicks made in this game.</p>
+<p><b>Old Formula</b>: +(1.35 * x ^ 0.35), where x is clicks made in this game.</p>
+<p><b>New Effect</b>: Increase Royal Exchange Bonus and Faction Coin find Chance based on clicks made in this game.</p>
+<p><b>New Formula</b>: (0.8 * x ^ 0.4)%, where x is the number of clicks this game.</p>
+<p><b>Note</b>: Both effects are multiplicative.</p>
+<br/>
+<p><b>DG7</b> (Ancient Hunger)</p>
+<p><b>Old Effect</b>: Increase Maximum Mana based on the amount of Faction Coins found in this game.</p>
+<p><b>Old Formula</b>: +floor(45 * ln(1 + x) ^ 1.45), where x is faction coins found this game.</p>
+<p><b>New Effect</b>: Increase Maximum Mana additively and multiplicatively based on the amount of Faction Coins found in this game.</p>
+<p><b>New Formula (Additive)</b>: +(20 * ln(1 + x) ^ 2), where x is faction coins found this game.</p>
+<p><b>New Formula (Multiplicative)</b>: (0.75 * ln(1 + x) ^ 1.25)%, where x is faction coins found this game.</p>
+<br/>
+<p><b>DG8</b> (Imposing Presence)</p>
+<p><b>New Name</b>: Eternal Wisdom</p>
+<p><b>Old Effect</b>: Increase Mana Regeneration based on the amount of neutral buildings you own.</p>
+<p><b>Old Formula</b>: +(0.1 * floor(x ^ 0.5)), where x is the number of neutral buildings owned.</p>
+<p><b>New Effect</b>: Increase the production of all buildings based on Royal Exchange bonus.</p>
+<p><b>New Formula</b>: (1.5 * x ^ 0.95)%, where x is individual Royal Exchange bonus.</p>
+<br/>
+<p><b>DG10</b> (Fang Food)</p>
+<p><b>Old Effect</b>: Multiplicatively increase Mana Regeneration based on the highest amount of Dragon Pastures you built in this Reincarnation.</p>
+<p><b>Old Formula</b>: (0.65 * x ^ 0.65)%, where x is the highest amount of Dragon Pastures owned this Reincarnation.</p>
+<p><b>New Effect</b>: Multiplicatively increase Mana Regeneration and assistants based on the highest amount of Dragon Pastures you built in this Reincarnation.</p>
+<p><b>New Formula</b>: (0.5 * x ^ 0.5)%, where x is the highest amount of Dragon Pastures owned this Reincarnation.</p>
+<br/>
+<p><b>DG11</b> (Wyrm's Rest)</p>
+<p><b>Old Effect</b>: Gain assistants based on the amount of time spent as Dragon this Reincarnation.</p>
+<p><b>Old Formula</b>: +(15 * x ^ 0.65), where x is time spent as Dragon this Reincarnation.</p>
+<p><b>New Effect</b>: Remove 1 Ascension penalty from Royal Exchange bonus. Also gives Dragon's Breath White Breath a multiplicative effect on assistants based on time spent as dragons.</p>
+<p><b>New Formula</b>: (3 * ln(1 + x) ^ 1.5)%, where x is time spent as Dragon this Reincarnation.</p>
+<p><b>Note</b>: Unlike other coloured breath effects which stack cumulatively with extra breaths, the multiplicative white breath effect stacks multiplicatively with extra white breaths.</p>
+<br/>
+<p><b>Makers</b></p>
+<p><b>MK8</b> (Past Trade)</p>
+<p><b>Old Effect</b>:Remove 1 Ascension penalty from Royal Exchange Bonus. </p>
+<p><b>New Effect</b>: Multiplicatively increase production bonus from Gems based on the time spent on your longest game session in this Reincarnation.</p>
+<p><b>New Formula</b>: (0.65 * x ^ 0.65)%, where x is your longest game session in this Reincarnation.</p>
+<br/>
+
+
+
+
+<p><b>Undead</b></p>
+<p><b>DG</b> ()</p>
+<p><b>Old Effect</b>: </p>
+<p><b>Old Formula</b>: </p>
+<p><b>New Effect</b>: </p>
+<p><b>New Formula</b>: </p>
+<p><b>Note</b>: </p>
+<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p><b>DM2</b> (Devil Tyrant)</p>
 <p><b>Effect</b>: The three highest building tiers count more based on time spent as Evil in this Reincarnation.</p>
 <p><b>Old Formula</b>: (0.6 * x ^ 0.6)%, where x is time spent as Evil this Reincarnation.</p>
