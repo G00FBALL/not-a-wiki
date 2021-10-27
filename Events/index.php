@@ -19,8 +19,8 @@
         </p>
 		<script>
 			var currentTime = new Date().getTime();
-			var countDownDate1 = new Date("September 23, 2021 12:01:00 UTC").getTime();
-			var countDownDate2 = new Date("September 30, 2021 18:59:00 UTC").getTime();
+			var countDownDate1 = new Date("October 29, 2021 12:01:00 UTC").getTime();
+			var countDownDate2 = new Date("November 05, 2021 19:59:00 UTC").getTime();
 			var x = setInterval(function() {
 				var now = new Date().getTime();
 				var distance = countDownDate1 - now;
