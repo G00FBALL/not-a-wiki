@@ -13,35 +13,54 @@
 		<p>This unlocks those 3 faction upgrades for purchase for their normal coin cost (see faction upgrade costs at <a href="/realm/Ascension4" research="Ascension 4"><b>Ascension 4</b></a>).</p>
 		<p>You can purchase more Legacies for a progressively increasing cost.</p>
 		<p>The current limit is 4 Legacy Container - not including the special one granted by the Research Relativity (F11750).</p>
+		<p><b>Note</b>: While the Container from Relativity is free to purchase, the granted upgrades still have their normal coin cost. It also does not influence the cost of the other container.</p>
+		<p><b>Base Faction (R220+)</b>:</p>
 		<p><b>Coin Cost</b>: (1e72 * (1,000 ^ (x ^ 2 - x))), where x is your current Legacy container.</p>
 		<p><b>Faction Coin Cost</b>: (1e33 * (1,000 ^ ( 0.5 * ( x ^ 2 - x)))), where x is your current Legacy container.</p>
-		<p><b>Note</b>: While the Container from Relativity is free to purchase, the granted upgrades still have their normal coin cost. It also does not influence the cost of the other container.</p>
+		<br/>
+		<p><b>Prestige Faction (R240+)</b>:</p>
+		<p><b>Coin Cost</b>: (1e105 * (1,000 ^ (x ^ 2 - x))), where x is your current Legacy container.</p>
+		<p><b>Faction Coin Cost</b>: (1e45 * (1,000 ^ ( 0.5 * ( x ^ 2 - x)))), where x is your current Legacy container.</p>
 		<center>
 			<table class="numtable" style="color: black;">
 				<tr>
-					<th>Legacy</th>
-					<th>Coin Cost</th>
-					<th>Faction Coin Cost</th>
+					<th></th>
+					<th colspan="2">Base Faction</th>
+					<th colspan="2">Prestige Faction</th>
+				<tr>
+					<td>Legacy</td>
+					<td>Sapphire</td>
+					<td>Faction Coin</td>
+					<td>Sapphire</td>
+					<td>Faction Coin</td>
 				</tr>
 				<tr>
 					<td>1</td>
 					<td>1 Tvg (1e72)</td>
 					<td>1 Dc (1e33)</td>
+					<td>1 Qatg (1e105)</td>
+					<td>1 Qad (1e45)</td>					
 				</tr>
 				<tr>
 					<td>2</td>
 					<td>1 Qivg (1e78)</td>
 					<td>1 Ud (1e36)</td>
+					<td>1 Sxtg (1e111)</td>
+					<td>1 Qid (1e48)</td>
 				</tr>
 				<tr>
 					<td>3</td>
 					<td>1 Novg (1e90)</td>
 					<td>1 Td (1e42)</td>
+					<td>1 Qag (1e123)</td>
+					<td>1 Spd (1e54)</td>
 				</tr>
 				<tr>
 					<td>4</td>
 					<td>1 Qitg (1e108)</td>
 					<td>1 Sxd (1e51)</td>
+					<td>1 Sxqag (1e141)</td>
+					<td>1 Vg (1e63)</td>
 				</tr>
 			</table>
 		</center>

@@ -60,7 +60,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MiningProdigiesFactionUpgrade.png" align="middle"> Mining Prodigies</b></p>
         <p><b>Cost</b>: 500 Qad (5e47)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of Excavations you made, including resets, in this Reincarnation.</p>
-        <p><b>Formula</b>: (60 * (x * max(1, 0.5 * y) ^ 0.5))%, where x is the number of Excavations made and y is the number of Excavation Resets both this Reincarnation.</p>
+        <p><b>Formula</b>: (40 * (x * max(1 , 2 * y) ^ 0.4))%, where x is the number of excavations made this Reincarnation, y is the number of excavation resets in this Reincarnation.</p>	
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenFriendshipPactFactionUpgrade.png" align="middle"> Dwarven Friendship Pact</b></p>
@@ -75,12 +75,12 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/IndestructibleTreasureFactionUpgrade.png" align="middle"> Indestructible Treasure</b></p>
         <p><b>Cost</b>: 500 Qid (5e50)</p>
         <p><b>Effect</b>: Increase clicking reward based on the amount of buildings you own.</p>
-        <p><b>Formula</b>: (0.5 * x ^ 0.65)%, where x is your Buildings Owned (This Game) stat.</p>
+        <p><b>Formula</b>: (0.5 * x ^ 0.65)%, where x is the amount of buildings you own.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BeardedAssistantsFactionUpgrade.png" align="middle"> Bearded Assistants</b></p>
         <p><b>Cost</b>: 5 Sxd (5e51)</p>
         <p><b>Effect</b>: Increase the production of assistants based on how long their beard is (it grows over time!).</p>
-        <p><b>Formula</b>:  (x ^ 0.7)%, where x is your Playtime (This Game) stat in seconds.</p>
+        <p><b>Formula</b>:  (x ^ 0.7)%, where x is time spent this game.</p>
         <hr>
         <p><b>Tier 3 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenAllianceFactionUpgrade.png" align="middle"> Dwarven Alliance</b></p>
@@ -90,7 +90,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BattlehammersFactionUpgrade.png" align="middle"> Battlehammers</b></p>
         <p><b>Cost</b>: 500 Sxd (5e53)</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of Dwarven Coins found in this game.</p>
-        <p><b>Formula</b>: (1.5 * ln(1 + x) ^ 2.5))%, where x is your Dwarven Coins Gained (This Game) stat.</p>
+        <p><b>Formula</b>: (2 * ln(1 + x) ^ 2))%, where x is the amount of Dwarven Coins found in this game.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicResistanceFactionUpgrade.png" align="middle"> Magic Resistance</b></p>
         <p><b>Cost</b>: 5 Spd (5e54)</p>
@@ -99,7 +99,7 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/OverwatchFactionUpgrade.png" align="middle"> Overwatch</b></p>
         <p><b>Cost</b>: 50 Spd (5e55)</p>
-        <p><b>Effect</b>: Increase Maximum Mana based on the duration of your longest spell (Additive).</p>
+        <p><b>Effect</b>: Increase Maximum Mana based on the duration of your longest spell.</p>
         <p><b>Formula</b>: +(50 + 35 * x ^ 0.7), where x is the duration of your longest spell.</p>
         <hr>
         <p><img src="http://musicfamily.org/realm/Factions/picks/DwarvenHeritage.png" alt="Dwarven Heritage" align="middle"><b> Dwarven Heritage</b></p>

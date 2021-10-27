@@ -198,7 +198,7 @@
 				<p><b>Mercenary Template</b>: DN3</p>
 				<p><b>Cost</b>: 500 Qad (5e47)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the amount of Excavations you made, including resets, in this Reincarnation.</p>
-				<p><b>Formula</b>: (60 * (x * max(1, 0.5 * y) ^ 0.5))%, where x is the number of Excavations and y is the number of Excavation resets both this Reincarnation.</p>
+				<p><b>Formula</b>: (40 * (x * max(1 , 2 * y) ^ 0.4))%, where x is the number of excavations made this Reincarnation, y is the number of excavation resets in this Reincarnation.</p>	
 				<hr>
 				<h6>Drow</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldTyrannyFactionUpgrade.png" align="middle"> Underworld Tyranny</b></p>
@@ -231,7 +231,7 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/IronFlightFactionUpgrade.png" align="middle"> Iron Flight</b></p>
 				<p><b>Mercenary Template</b>: DG2</p>
 				<p><b>Cost</b>: 50 Uvg (5.0e67)</p>
-				<p><b>New Effect</b>: Increase the production of Iron Stronghold by 200% per spell affecting it.</p>
+				<p><b>Effect</b>: Increase the production of Iron Stronghold by 200% per spell affecting it.</p>
 				<p><b>Note</b>: Each instance of spell effects count as one spell (represented by the spell effect icons on the building icons). This includes Red, Green & Black Breath, A150 and D400.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalWisdomFactionUpgrade.png" align="middle"> Imposing Presence</b></p>
@@ -483,20 +483,20 @@
 				<p><b>Mercenary Template</b>: DN5</p>
 				<p><b>Cost</b>: 500 Qid (5e50)</p>
 				<p><b>Effect</b>: Increase clicking reward based on the amount of buildings you own.</p>
-				<p><b>Formula</b>: (0.5 * x ^ 0.65)%, where x is your Buildings Owned (This Game) stat.</p>
+				<p><b>Formula</b>: (0.5 * x ^ 0.65)%, where x is the amount of buildings you own.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/BeardedAssistantsFactionUpgrade.png" align="middle"> Bearded Assistants</b></p>
 				<p><b>Mercenary Template</b>: DN6</p>
 				<p><b>Cost</b>: 5 Sxd (5e51)</p>
 				<p><b>Effect</b>: Increase the production of assistants based on how long their beard is (it grows over time!).</p>
-				<p><b>Formula</b>: (x ^ 0.7)%, where x is your Playtime (This Game) stat in seconds.</p>
+				<p><b>Formula</b>: (x ^ 0.7)%, where x is time spent this game.</p>
 				<hr>
 				<h6>Drow</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ManaAddictsFactionUpgrade.png" align="middle"> Mana Addicts</b></p>
 				<p><b>Mercenary Template</b>: DW4</p>
 				<p><b>Cost</b>: 50 Qid (5e49)</p>
 				<p><b>Effect</b>: Mana regeneration increases over time.</p>
-				<p><b>Formula</b>: (2.5 + 0.25 * x ^ 0.5), where x is your Play Time (This Game) stat in seconds.</p>
+				<p><b>Formula</b>: +(2.5 + 0.25 * x ^ 0.5), where x is your Play Time (This Game) stat in seconds.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/BloodSacrificesFactionUpgrade.png" align="middle"> Blood Sacrifices</b></p>
 				<p><b>Mercenary Template</b>: DW5</p>
@@ -765,7 +765,7 @@
 				<p><b>Mercenary Template</b>: DN7</p>
 				<p><b>Cost</b>: 500 Sxd (5e53)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the amount of Dwarven Coins found in this game.</p>
-				<p><b>Formula</b>: (1.5 * ln(1 + x) ^ 2.5))%, where x is your Dwarven Coins Gained (This Game) stat.</p>
+				<p><b>Formula</b>: (2 * ln(1 + x) ^ 2))%, where x is the amount of Dwarven Coins found in this game.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/MagicResistanceFactionUpgrade.png" align="middle"> Magic Resistance</b></p>
 				<p><b>Mercenary Template</b>: DN8</p>
@@ -776,7 +776,7 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/OverwatchFactionUpgrade.png" align="middle"> Overwatch</b></p>
 				<p><b>Mercenary Template</b>: DN9</p>
 				<p><b>Cost</b>: 50 Spd (5e55)</p>
-				<p><b>Effect</b>: Increase Maximum Mana based on the duration of your longest spell (Additive).</p>
+				<p><b>Effect</b>: Increase Maximum Mana based on the duration of your longest spell.</p>
 				<p><b>Formula</b>: +(50 + 35 * x ^ 0.7), where x is the duration of your longest spell.</p>
 				<hr>
 				<h6>Drow</h6>
