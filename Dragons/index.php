@@ -9,7 +9,8 @@
 <p>"The Titan leader has approached you with an offer you cannot refuse: Use the help of your Draconic allies to guard his domain and lightning itself will enchant your riches."</p>
 <p><b>Requirements</b>: Titan as Base Faction, Dragon as Prestige Faction, Reincarnations 48+, Dragon's Roar upgrade purchased, Titan, Druid, Faceless, Dwarven and Drow Challenge 1 completed.</p>
 <p><b>Challenge</b>: Have 6,500 Halls of Legends.</p>
-<p><b>Effect</b>: Mutiplicatively increase faction coin chance by 12% per Lightning Strike tier bought.</p>
+<p><b>Effect</b>: Multiplicatively increase Faction Coin chance based on Lightning Strike activity time in this game.</p>
+<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your Lightning Strike activity time in this game in seconds.</p>
 <p><b>Upgrade</b>: Works with Titan+Dragon</p>
 <hr>
 <H6 id="DragonDC2"></h6><p><b>Dragon Challenge 2</b>:</p>
@@ -46,7 +47,8 @@
 <p>"You have affiliated with many magical races in the past, but none as potent as the Dragons, whose very breath is among the strongest of forces. There might be some way for your wizards to exploit this."</p>
 <p><b>Requirements</b>: Titan, Druid or Faceless as Base Faction, Dragon as Prestige Faction, Reincarnation 60+, Dragon Unique Building, Dwarven and Drow challenge 5 and Dragon challenge 4 completed.</p>
 <p><b>Challenge</b>: Have 5 spells active at tier 5.</p>
-<p><b>Effect</b>: Tax Collections are 20% more powerful for every spell tier you have active.</p>
+<p><b>Effect</b>: Increase Tax Collection worth in seconds based on the amount of active spells.</p>
+<p><b>Formula</b>: (30 * x ^ 0.8)%, where x is the number of active spells.</p>
 <p><b>Upgrade</b>: Works with Good+Dwarves, Evil+Drow and Neutral+Dragon</p>
 <hr>
 <H6 id="DragonDC6"></h6><p><b>Dragon Challenge 6</b>:

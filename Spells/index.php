@@ -991,8 +991,8 @@
 <br>
 <p><b><font color="darkblue">Blue</font></b>: Increase your mana regeneration by 200%</p>
 <br>
-<p><b><font color="white">White</font></b>: Temporarily increase the amount of assistants based on total time spent being neutral.</p>
-<p><b><font color="white">Formula</font></b>: (1.35 * floor(x / 60) ^ 0.7), where x is time as neutral this R in seconds.</p>
+<p><b><font color="white">White</font></b>: Temporarily increase the amount of assistants based on total time spent being Neutral.</p>
+<p><b><font color="white">Formula</font></b>: +(3 * floor(x / 60) ^ 0.7), where x is time spent as Neutral this Reincarnation in seconds.</p>
 <br>
 <p><b><font color="black">Black</b></font>: Increase the production of all buildings based on Dragon's Breath activity time.</p>
 <p><b><font color="black">Formula</font></b>: (0.5 * x ^ 0.75)%, where x is Dragon's Breath activity time.</p>
