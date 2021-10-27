@@ -16,70 +16,112 @@
 		<p>You will lose access to Mercenaries, Prestige and Elite Factions.</p>
 		<p><b><font color="red">Make sure to have all trophies regarding them before ascending.<font></b></p>
 		</br>
-		<p>All Researches from A0 and A1 (<5000) as well as normal Heritages will become inaccessible. This includes the Mercenary Badge.</p>
+		<p>All Researches from A0 and A1 (Research number less than 5000) as well as normal Heritages will become inaccessible. This includes the Mercenary Badge.</p>
 		<p>Ascension 4 will give you access to Legacies.</p>
-		</br>
 		<hr>
-		<p>Faction Treaties Faction Coin Costs are increased in A4.</p>
+		<p>Faction Coin Costs of Faction Treaties are increased in A4.</p>
+		<table class="numtable" style="color: black;">
 		<p><b>Trade Treaties</b>: 1 Qa (1e15)</p>
 		<p><b>Friendship Pact</b>: 1 Sx (1e21)</p>
 		<p><b>Alliance</b>: 1 Oc (1e27)</p>
 		<p><b>Union</b>: 1 Dc (1e33)</p>
-		</br>
+
+
+
+			<tr>
+				<th>Faction Upgrade</th>
+				<th>Base Faction (R220+)</th>
+				<th>Prestige Faction (R240+)</th>
+			</tr>
+			<tr>
+				<td>Trade Treaties</td>
+				<td>1 Qa (1e15)</td>
+				<td>1 Oc (1e27)</td>
+			</tr>
+			<tr>
+				<td>Friendship Pact</td>
+				<td>1 Sx (1e21)</td>
+				<td>1 Dc (1e33)</td>
+			</tr>
+			<tr>
+				<td>Alliance</td>
+				<td>1 Oc (1e27)</td>
+				<td>1 Dd (1e39)</td>
+			</tr>
+			<tr>
+				<td>Union</td>
+				<td>1 Dc (1e33)</td>
+				<td>1 Qad (1e45)</td>
+			</tr>
+		</table>
 		<p>Faction Upgrades cost Sapphire Coins in A4.</p>
-			<p><b>Cost Formula</b>: (1e51 * (1,000 ^ (x - 1)) * (1,000 ^ (0.5 * floor((x - 1) / 3) * floor(((x - 1) / 3) + 1)))), where x is which upgrade this is (1,2,3, etc).</p>	
+			<p><b>Cost Formula for Base Faction</b>: (1e51 * (1,000 ^ (x - 1)) * (1,000 ^ (0.5 * floor((x - 1) / 3) * floor(((x - 1) / 3) + 1)))), where x is which upgrade this is (1,2,3, etc).</p>
+			<p><b>Cost Formula for Prestige Faction</b>: (1e114 * (1,000 ^ (x - 1)) * (1,000 ^ (0.5 * floor((x - 1) / 3) * floor(((x - 1) / 3) + 1)))), where x is which upgrade this is (1,2,3, etc).</p>
 			<table class="numtable" style="color: black;">
 				<tr>
 					<th>Faction Upgrade</th>
-					<th>Coin Cost</th>
+					<th>Base Faction (R220+)</th>
+					<th>Prestige Faction (R240+)</th>
 				</tr>
 				<tr>
 					<td>1</td>
 					<td>1e51</td>
+					<td>1e114</td>
 				</tr>
 				<tr>
 					<td>2</td>
 					<td>1e54</td>
+					<td>1e117</td>
 				</tr>
 				<tr>
 					<td>3</td>
 					<td>1e57</td>
+					<td>1e120</td>
 				</tr>
 				<tr>
 					<td>4</td>
 					<td>1e63</td>
+					<td>1e126</td>
 				</tr>
 				<tr>
 					<td>5</td>
 					<td>1e66</td>
+					<td>1e129</td>
 				</tr>
 				<tr>
 					<td>6</td>
 					<td>1e69</td>
+					<td>1e132</td>
 				</tr>
 				<tr>
 					<td>7</td>
 					<td>1e78</td>
+					<td>1e141</td>
 				</tr>
 				<tr>
 					<td>8</td>
 					<td>1e81</td>
+					<td>1e144</td>
 				</tr>
 				<tr>
 					<td>9</td>
 					<td>1e84</td>
+					<td>1e147</td>
 				</tr>
 				<tr>
 					<td>10</td>
 					<td>1e96</td>
+					<td>1e159</td>
 				</tr>
 				<tr>
 					<td>11</td>
 					<td>1e99</td>
+					<td>1e162</td>
 				</tr>
 				<tr>
 					<td>12</td>
 					<td>1e102</td>
+					<td>1e165</td>
 				</tr>		
 			</table>
 		<br/>	

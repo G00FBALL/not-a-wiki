@@ -6,7 +6,7 @@
     <?php include "../scripts/header.html"; ?>
         <h6>All Changes and Additions</h6>
         <br/>
-<p><b>V4.2.0 October ??, 2021</b></p>
+<p><b>V4.2.0 October 27th, 2021</b></p>
 <br/>
 <p><b>Events</b></p>
 <p><b>New Halloween Event Feat</b>: Check event page after event starts.</p>
@@ -14,14 +14,14 @@
 <p><b>Added Prestige Factions for Ascension 4</b></p>
 	<p><b>Requirement</b>: R240+, Base Faction's Alliance Upgrades purchased.</p>
 <br/>
-<p><b>Prestige Alliance Upgrades Faction Coin costs increased</b>.</p>
+<p><b>Prestige Alliance Upgrades Faction are higher compared to Base Faction</b>.</p>
 	<p><b>Trade Treaties</b>: 1 Oc (1e27)</p>
 	<p><b>Friendship Pacts</b>: 1 Dc (1e33)</p>
 	<p><b>Alliances</b>: 1 Dd (1e39)</p>
 	<p><b>Unions</b>: 1 Qad (1e45)</p>
-<p><b>Note</b>: Prestige Alliance Upgrades grant no extra budget.</p>
+<p><b>Note</b>: Prestige Alliance Upgrades grant no extra Research Budget.</p>
 <br/>
-<p><b>Prestige Faction Upgrades costs increased</b>.</p>
+<p><b>Prestige Faction Upgrades costs are higher compared to Base Faction</b>.</p>
 	<p><b>Cost Formula</b>: (1e114 * (1,000 ^ (x - 1)) * (1,000 ^ (0.5 * floor((x - 1) / 3) * floor(((x - 1) / 3) + 1)))), where x is which upgrade this is (1,2,3, etc).</p>
 	<table class="numtable">
 		<tr>
@@ -30,53 +30,52 @@
 		</tr>
 		<tr>
 			<td>1</td>
-			<td>1e114</td>
+			<td>1 Sptg (1e114)</td>
 		</tr>
 		<tr>
 			<td>2</td>
-			<td>1e117</td>
+			<td>1 Octg (1e117)</td>
 		</tr>
 		<tr>
 			<td>3</td>
-			<td>1e120</td>
+			<td>1 Notg (1e120)</td>
 		</tr>
 		<tr>
 			<td>4</td>
-			<td>1e126</td>
+			<td>1 Uqag (1e126)</td>
 		</tr>
 		<tr>
 			<td>5</td>
-			<td>1e129</td>
+			<td>1 Dqag (1e129)</td>
 		</tr>
 		<tr>
 			<td>6</td>
-			<td>1e32</td>
+			<td>1 Tqag (1e132)</td>
 		</tr>
 		<tr>
 			<td>7</td>
-			<td>1e141</td>
+			<td>1 Sxqag (1e141)</td>
 		</tr>
 		<tr>
 			<td>8</td>
-			<td>1e144</td>
+			<td>1 Spqag (1e144)</td>
 		</tr>
 		<tr>
 			<td>9</td>
-			<td>1e147</td>
+			<td>1 Ocqag (1e147)</td>
 		</tr>
 		<tr>
 			<td>10</td>
-			<td>1e159</td>
+			<td>1 DQig (1e159)</td>
 		</tr>
 		<tr>
 			<td>11</td>
-			<td>1e162</td>
+			<td>1 TQig (1e162)</td>
 		</tr>
 		<tr>
 			<td>12</td>
-			<td>1e165</td>
+			<td>1 QaQig (1e165)</td>
 		</tr>
-
 	</table>
 <br/>
 <p><b>Prestige Legacies</b>: Available from R220+, higher base cost than base Legacies.</p>
@@ -90,40 +89,40 @@
 		</tr>
 		<tr>
 			<td>1</td>
-			<td>1e105</td>
-			<td>1e45</td>
+			<td>1 Qatg (1e105)</td>
+			<td>1 Qad (1e45)</td>
 		</tr>
 		<tr>
 			<td>2</td>
-			<td>1e111</td>
-			<td>1e48</td>
+			<td>1 Sxtg (1e111)</td>
+			<td>1 Qid (1e48)</td>
 		</tr>
 		<tr>
 			<td>3</td>
-			<td>1e123</td>
-			<td>1e54</td>
+			<td>1 Qag (1e123)</td>
+			<td>1 Spd (1e54)</td>
 		</tr>
 		<tr>
 			<td>4</td>
-			<td>1e141</td>
-			<td>1e63</td>
+			<td>1 Sxqag (1e141)</td>
+			<td>1 Vg (1e63)</td>
 		</tr>
 	</table>
 <br/>
 <hr>
-<p><b>3 New Lore Artifacts</b>: 1 for each prestige faction, unlocking their set's second effect.</p>
+<p><b>3 New Lore Artifacts</b>: 1 for each prestige faction, unlocking their set's second effect (currently <b>bugged, not unlockable</b>).</p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenAnvilArtifact.png" align="middle"> Dwarven Anvil</b></p>
 	<p><b>Hint</b>: Dwarven clicks!</p>
 	<p><b>Description</b>: Every dwarven child is required to bring this to school every day.</p>
-	<p><b>Requirement</b>: R240+, 10,000 excavations, play as Dwarf.</p></p>
-	<p><b>Chance</b>: (ln(1 + x) / 10,000)%, where x is your number of clicks in this Reincarnation.</p></p>
+	<p><b>Requirement</b>: R240+, Dwarven Faction, 10,000+ Excavations</p>
+	<p><b>Chance</b>: (ln(1 + x) / 10,000)%, where x is your number of clicks in this Reincarnation.</p>
 	<p><b>Dwarf Set 2nd Effect</b>: Multiplicatively increase Mana regen based on time spent in this game.</p>
 	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your time spent in this game in seconds.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StilettoHeelArtifact.png" align="middle"> Stiletto Heel</b></p>
 	<p><b>Hint</b>: A drow trade.</p>
 	<p><b>Description</b>: Drow make the most beautiful underground females.</p>
-	<p><b>Requirement</b>: R240+, 10,000 excavations, play as Drow.</p></p>
+	<p><b>Requirement</b>: R240+, Drow Faction, 10,000+ Excavations</p>
 	<p><b>Chance</b>: (x / 10,000)%, where x is the number of Royal Exchanges you have.</p>
 	<p><b>Drow Set 2nd effect</b>: Spells cast count more based on time spent as Evil in this Reincarnation.</p>
 	<p><b>Formula</b>: (6 * ln(1 + x) ^ 1.2)%, where x is time spent as Evil in this Reincarnation in seconds.</p>
@@ -131,17 +130,22 @@
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EyeOfTheDragonArtifact.png" align="middle"> Eye Of The Dragon</b></p>
 	<p><b>Hint</b>: Draconic Assistants.</p>
 	<p><b>Description</b>: The ultimate thrill of the fight.</p>
-	<p><b>Requirement</b>: R220+, 10,000 excavations, play as Dragon</p></p>
-	<p><b>Chance</b>: (ln(1 + x) / 10,000)%, where x is the highest amount of assistants you had in this Reincarnation.</p></p>
+	<p><b>Requirement</b>: R220+, Dragon Faction, 10,000+ Excavations</p>
+	<p><b>Chance</b>: (ln(1 + x) / 10,000)%, where x is the highest amount of assistants you had in this Reincarnation.</p>
 	<p><b>Dragon Set 2nd effect</b>: All alignment spells gain 1 additional Tier and all spells activity time count more based on the amount of excavations you made, including resets.</p>
 	<p><b>Formula</b>: (0.25 * (x * (y + 1)) ^ 0.5)%, where x is the number of excavations made, and y is your number of resets in this game.</p>
-<br/>
+<hr>
+<p><b>1 New Trophy</b>: <img src="http://musicfamily.org/realm/Factions/picks/ExpertCombinator.png" align="middle"> <b>Expert Combinator</b></p>
+	<p><b>Requirement</b>: R240+, Purchase Legacies from 6 different factions in a single game (currently <b>not unlockable</b>).</p>
+	<p><b>Cost</b>: 10 Dtg (1e100)</p>
+	<p><b>Effect</b>: Increase the production of all buildings when playing a Prestige Faction based on time spent with the least used alignment.</p>
+	<p><b>Formula</b>: (x)%, where x is time spent with your least used alignment.</p>
 <hr>
 <p><b>New Researches</b></p>
 <p><b>Spellcraft</b></p>
 <p><b>S13125</b> (Fantasia)</p>
 	<p><b>Effect</b>: Multiplicatively increase assistants based on mana produced in this game.</p>
-	<p><b>Formula</b>: (2 * ln(x) ^ 2)%, where x is your mana produced this game.</p>
+	<p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is your mana produced this game.</p>
 <br/>
 <p><b>S13500</b> (Legerdemain)</p>
 	<p><b>Effect</b>: Mana produced counts more based on the amount of Faction Coins found in this game.</p>
@@ -203,7 +207,7 @@
 	<p><b>Formula</b>: (1.2 * x ^ 1.2)%, where x is the number of faction upgrades you have that are not part of your faction.</p>
 	<p><b>Note</b>: Faction upgrades in this instance refers to only the main 12 faction upgrades (that you get via Legacies). Lineage Perks, Advanced Heritages and such are not counted toward this research.</p>
 <br/>
-<p><b>F13750</b></p>
+<p><b>F13750</b> (The Unseen)</p>
 	<p><b>Effect</b>: Increase Offline production based on the maximum amount of assistants you had in this Reincarnation.</p>
 	<p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is the highest number of assistants you had this Reincarnation.</p>
 <br/>
@@ -234,12 +238,17 @@
 <p><b>Old Effect</b>: Increase the production of all buildings based on the total amount of Excavations you made.</p>
 <p><b>Old Formula</b>: (9 * x ^ 0.9)%, where x is the current amount of excavations.</p>
 <p><b>New Effect</b>: Increase the production of all buildings based on the amount of Excavations you made, including resets, in this Reincarnation.</p>
-<p><b>New Formula</b>: (60 * (x * max(1, 0.5 * y) ^ 0.5))%, where x is the number of excavations made this reincarnation, y is the number of excavation resets in this reincarnation.</p>	
+<p><b>New Formula</b>: (40 * (x * max(1 , 2 * y) ^ 0.4))%, where x is the number of excavations made this Reincarnation, y is the number of excavation resets in this Reincarnation.</p>	
+<br/>
+<p><b>DN7</b> (Battlehammers)</p>
+<p><b>Effect</b>: Increase the production of all buildings based on the amount of Dwarven Coins found in this game.</p>
+<p><b>Old Formula</b>: (1.5 * ln(1 + x) ^ 2.5))%, where x is the amount of Dwarven Coins found in this game.</p>
+<p><b>New Formula</b>: (2 * ln(1 + x) ^ 2))%, where x is the amount of Dwarven Coins found in this game.</p>
 <br/>
 <p><b>DN11</b> (Stonetalking)</p>
 <p><b>Effect</b>: Increase the production of all buildings based on the highest between max mana and mana regeneration.</p>
-<p><b>Old Formula</b>: (0.055 * max(x, y) ^ 0.55)%, where x is Maximum Mana and y is Mana Regeneration.</p>
-<p><b>New Formula</b>: (2 * ln(1 + max(x,y)) ^ 2)%, where x is Maximum Mana and y is Mana Regeneration.</p>	
+<p><b>Old Formula</b>: (0.055 * max(x , y) ^ 0.55)%, where x is Maximum Mana and y is Mana Regeneration.</p>
+<p><b>New Formula</b>: (2 * ln(1 + max(x , y)) ^ 2)%, where x is Maximum Mana and y is Mana Regeneration.</p>	
 <br/>
 <p><b>Drow</b></p>
 <p><b>DW9</b> (Blade Dance)</p>
@@ -349,7 +358,7 @@
 <p><b>New Formula (Non-Unique)</b>: (2.4 * x ^ 0.4)%, where x is assistants owned.</p>
 <br/>
 <p><b>Dragon Balance Union</b></p>
-<p><b>Effect</b>: Multiplicatively increase max mana based on your current Lineage level.</p>
+<p><b>Effect</b>: Multiplicatively increase your Maximum Mana based on your current Lineage level.</p>
 <p><b>Old Formula</b>: (1.3 * x ^ 1.3)%, where x is your current Lineage level.</p>
 <p><b>New Formula</b>: (7 * x ^ 0.9)%, where x is your current Lineage level.</p>
 <br/>
@@ -358,8 +367,8 @@
 <p><b>Dragon’s Breath</b> (Dragon)</p>
 <p><b><font color="white">White Breath</font></b></p>
 <p><b>Effect</b>: Temporarily increase the amount of assistants based on total time spent being neutral.</p>
-<p><b>Old Formula</b>: (1.35 * floor(x / 60) ^ 0.7), where x is time spent as neutral this Reincarnation in seconds.</p>
-<p><b>New Formula</b>: (3 * floor(x / 60) ^ 0.7), where x is time spent as neutral this Reincarnation in seconds.</p>
+<p><b>Old Formula</b>: +(1.35 * floor(x / 60) ^ 0.7), where x is time spent as neutral this Reincarnation.</p>
+<p><b>New Formula</b>: +(30 * x ^ 0.7), where x is time spent as neutral this Reincarnation.</p>
 <br/>
 <hr>
 <p><b>Challenges</b></p>
@@ -367,7 +376,7 @@
 <p><b>Dragon Challenge 1</b> (Sky Monarch)</p>
 <p><b>Old Effect</b>: Mutiplicatively increase faction coin chance by 12% per Lightning Strike tier bought.</p>
 <p><b>New Effect</b>: Multiplicatively increase Faction Coin chance based on Lightning Strike activity time in this game.</p>
-<p><b>New Formula</b>: (0.7 * x ^ 0.7)%, where x is your Lightning Strike activity time in this game in seconds.</p>
+<p><b>New Formula</b>: (0.7 * x ^ 0.7)%, where x is your Lightning Strike activity time in this game.</p>
 <br/>
 <p><b>Dragon Challenge 5</b> (Ancient Incantation)</p>
 <p><b>Old Effect</b>: Tax Collections are 20% more powerful for every spell tier you have active.</p>
@@ -377,9 +386,9 @@
 <hr>
 <p><b>Unique Buildings</b></p>
 <p><b>Dwarven Forge</b> (Dwarf UB1)</p>
-<p><b>Effect</b>: Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana regen and unlocking more unique perks for the building.</p>
-<p><b>Old Formula</b>: (80 * x ^ 0.8)%, where x is your Mana per Second stat.</p>
-<p><b>New Formula</b>: (300 * x ^ 0.6)%, where x is your Mana per Second stat.</p>
+<p><b>Effect</b>: Upgrade Blacksmiths to Dwarven Forges, boosting their production based on Mana Regeneration and unlocking more unique perks for the building.</p>
+<p><b>Old Formula</b>: (80 * x ^ 0.8)%, where x is your Mana Regeneration.</p>
+<p><b>New Formula</b>: (300 * x ^ 0.6)%, where x is your Mana Regeneration.</p>
 <br/>
 <hr>
 <p><b>Research</b></p>
