@@ -12,19 +12,20 @@
         <p>Your research points in each branch are limited by the amount of Reincarnations you have.</p>
         <hr>
         <p><b>The Facilities & Related Factions</b></p>
-        <p>Each Facility is related to several Factions: Vanilla factions are related to one facility, Neutral to two, Prestige to three, and Mercenary to one. Each facility increases the production of the related Faction's production according to following formula.</p>
-        <p><b>RP Production Formula</b>: (100000 * (1 + 0.01 * x ^ 0.7))%, where x is RP total of facility affinities.</p>
+        <p>Each Facility is related to several Factions: Vanilla factions are related to one facility, Neutral to two, Prestige to three, and Mercenary to one. Each facility increases the production of the related Faction's based on Research Points invested (see next section).</p>
+        <p><b>Production Bonus</b>: (100000 * (1 + 0.01 * x ^ 0.7))%, where x is the amount of Research Points invested in the facility.</p>
         <p><b>Secrets Production Bonus</b>: 1000%</p>
-        <p><b>Facility cost</b>: 10 Notg (1e121) coins, 1M (1e6) Faction Coins of the related faction(s).</p>
+        <p><b>Facility cost</b>: 10 Notg (1e121) coins, 1 M (1e6) Faction Coins of the related faction(s).</p>
         <hr>
-        <b><center>Research Facilities and Upgrades</center></b>
-		<p>At each reincarnation level, you will get Research Points (RP) equal to your Reincarnation number to upgrade each facility, RP is maxed at 5000 at R100. The RP upgrade cost increases according to the following formula.</p>
-		<p><b>RP Cost A0 (1 - 780)</b>: Formula: (1e126 * 1.5 ^ x) Coins and ((x + 1) ^ 3) Faction Coins</p>
-		<p><b>RP Cost A1 (781 - 5000)</b>: Formula: (1e42 * 1.147 ^ (x - 780)) and ((x + 1) ^ 3) Faction Coins</p>
-		<p><b>RP Cost A3 (5001 - 7000)</b>: Formula: (1e126 * 1.75 ^ ((x - 5000) * 0.1)) and (10 * (x + 1) ^ 10) Faction Coins</p>
-		<p><b>RP Cost A4 (7001 - 13000)</b>: Formula: (1.4 ^ (0.1 * (x - 7000))) and (10 * 1.15 ^ (0.03 * x) Faction Coins</p>
-		<p><b>Available RPs Formula (A0, A1)</b>: ((x + 1) * x / 2)</p>
-		<p><b>Available RPs Formula (A3, R175-R190 and A4, R220-R238)</b>: (5000 + (125 * (x - 174))</p>
+        <p><b>Research Points</b></p>
+		<p>With increasing number of Reincarnations, you can spend more Research Points (RP) to upgrade each facility. The available Research Points per facility are based on the number of Reincarnations made.</p>
+		<p><b>Formula (A0, A1)</b>: ((x + 1) * x / 2), where x is the number of Reincarnations made.</p>
+		<p><b>Formula (A3 [R175-R190], and A4 [R220-R246])</b>: (5000 + (125 * (x - 174)), where x is the number of Reincarnations made.</p>
+		<p>The RP upgrade cost increases according to the following formulas (x is the number of to be invested RP).</p>
+		<p><b>A0 (1 - 780)</b>:<br> Coins: (1e126 * 1.5 ^ x)<br> Faction Coins: ((x + 1) ^ 3)</p>
+		<p><b>A1 (781 - 5000)</b>:<br> Formula: (1e42 * 1.147 ^ (x - 780))<br> Faction Coins: ((x + 1) ^ 3)</p>
+		<p><b>A3 (5001 - 7000)</b>:<br> Formula: (1e126 * 1.75 ^ ((x - 5000) / 10))<br> Faction Coins: (10 * (x + 1) ^ 10)</p>
+		<p><b>A4 (7001 - 14000)</b>:<br> Formula: (1.4 ^ (0.1 * (x - 7000)))<br> Faction Coins: (10 * 1.15 ^ (0.03 * x)</p>
 		<p><b><center>Research Slots/Budget</center></b></p>
 		<p><b>R16-R99 (A0, A1)</b>: You get a limited number of Research slots for each facility, depending on what upgrades you have you can have up to 6 slots for each facility.</p>
 		<p><b>R100-R159 (A2)</b>: You get 1 Research slot for each facility, and A0 and A1 research slot upgrades are removed, however, faction researches are free and take no slots.</p>
