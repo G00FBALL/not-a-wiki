@@ -23,91 +23,12 @@
 <br/>
 <p><b>Prestige Faction Upgrades costs are higher compared to Base Faction</b>.</p>
 	<p><b>Cost Formula</b>: (1e114 * (1,000 ^ (x - 1)) * (1,000 ^ (0.5 * floor((x - 1) / 3) * floor(((x - 1) / 3) + 1)))), where x is which upgrade this is (1,2,3, etc).</p>
-	<table class="numtable">
-		<tr>
-			<th>Faction Upgrade</th>
-			<th>Coin Cost</th>
-		</tr>
-		<tr>
-			<td>1</td>
-			<td>1 Sptg (1e114)</td>
-		</tr>
-		<tr>
-			<td>2</td>
-			<td>1 Octg (1e117)</td>
-		</tr>
-		<tr>
-			<td>3</td>
-			<td>1 Notg (1e120)</td>
-		</tr>
-		<tr>
-			<td>4</td>
-			<td>1 Uqag (1e126)</td>
-		</tr>
-		<tr>
-			<td>5</td>
-			<td>1 Dqag (1e129)</td>
-		</tr>
-		<tr>
-			<td>6</td>
-			<td>1 Tqag (1e132)</td>
-		</tr>
-		<tr>
-			<td>7</td>
-			<td>1 Sxqag (1e141)</td>
-		</tr>
-		<tr>
-			<td>8</td>
-			<td>1 Spqag (1e144)</td>
-		</tr>
-		<tr>
-			<td>9</td>
-			<td>1 Ocqag (1e147)</td>
-		</tr>
-		<tr>
-			<td>10</td>
-			<td>1 DQig (1e159)</td>
-		</tr>
-		<tr>
-			<td>11</td>
-			<td>1 TQig (1e162)</td>
-		</tr>
-		<tr>
-			<td>12</td>
-			<td>1 QaQig (1e165)</td>
-		</tr>
-	</table>
 <br/>
-<p><b>Prestige Legacies</b>: Available from R220+, higher base cost than base Legacies.</p>
+<p><b>Legacies</b></p>
+<p>Increased Maximum amount of Legacies from 4 to 9</p>
+<p>Added Prestige Legacies</b>: Available from R220+, higher cost than base Legacies.</p>
 	<p><b>Coin Cost</b>: (1e105 * (1,000 ^ (x ^ 2 - x))), where x is your current Legacy container.</p>
 	<p><b>Faction Coin Cost</b>: (1e45 * (1,000 ^ ( 0.5 * ( x ^ 2 - x)))), where x is your current Legacy container.</p>
-	<table class="numtable">
-		<tr>
-			<th>Legacy Number</th>
-			<th>Coin Cost</th>
-			<th>Faction Coin Cost</th>
-		</tr>
-		<tr>
-			<td>1</td>
-			<td>1 Qatg (1e105)</td>
-			<td>1 Qad (1e45)</td>
-		</tr>
-		<tr>
-			<td>2</td>
-			<td>1 Sxtg (1e111)</td>
-			<td>1 Qid (1e48)</td>
-		</tr>
-		<tr>
-			<td>3</td>
-			<td>1 Qag (1e123)</td>
-			<td>1 Spd (1e54)</td>
-		</tr>
-		<tr>
-			<td>4</td>
-			<td>1 Sxqag (1e141)</td>
-			<td>1 Vg (1e63)</td>
-		</tr>
-	</table>
 <br/>
 <hr>
 <p><b>3 New Lore Artifacts</b>: 1 for each prestige faction, unlocking their set's second effect (currently <b>bugged, not unlockable</b>).</p>
@@ -116,8 +37,8 @@
 	<p><b>Description</b>: Every dwarven child is required to bring this to school every day.</p>
 	<p><b>Requirement</b>: R240+, Dwarven Faction, 10,000+ Excavations</p>
 	<p><b>Chance</b>: (ln(1 + x) / 10,000)%, where x is your number of clicks in this Reincarnation.</p>
-	<p><b>Dwarf Set 2nd Effect</b>: Multiplicatively increase Mana regen based on time spent in this game.</p>
-	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your time spent in this game in seconds.</p>
+	<p><b>Dwarf Set 2nd Effect</b>: Multiplicatively increase Mana Regeneration based on time spent in this game.</p>
+	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your time spent in this game.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/StilettoHeelArtifact.png" align="middle"> Stiletto Heel</b></p>
 	<p><b>Hint</b>: A drow trade.</p>
@@ -125,7 +46,7 @@
 	<p><b>Requirement</b>: R240+, Drow Faction, 10,000+ Excavations</p>
 	<p><b>Chance</b>: (x / 10,000)%, where x is the number of Royal Exchanges you have.</p>
 	<p><b>Drow Set 2nd effect</b>: Spells cast count more based on time spent as Evil in this Reincarnation.</p>
-	<p><b>Formula</b>: (6 * ln(1 + x) ^ 1.2)%, where x is time spent as Evil in this Reincarnation in seconds.</p>
+	<p><b>Formula</b>: (6 * ln(1 + x) ^ 1.2)%, where x is time spent as Evil in this Reincarnation.</p>
 <br/>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/EyeOfTheDragonArtifact.png" align="middle"> Eye Of The Dragon</b></p>
 	<p><b>Hint</b>: Draconic Assistants.</p>
@@ -135,8 +56,9 @@
 	<p><b>Dragon Set 2nd effect</b>: All alignment spells gain 1 additional Tier and all spells activity time count more based on the amount of excavations you made, including resets.</p>
 	<p><b>Formula</b>: (0.25 * (x * (y + 1)) ^ 0.5)%, where x is the number of excavations made, and y is your number of resets in this game.</p>
 <hr>
-<p><b>1 New Trophy</b>: <img src="http://musicfamily.org/realm/Factions/picks/ExpertCombinator.png" align="middle"> <b>Expert Combinator</b></p>
-	<p><b>Requirement</b>: R240+, Purchase Legacies from 6 different factions in a single game (currently <b>not unlockable</b>).</p>
+<p><b>1 New Trophy</b>:</p>
+	<p><img src="http://musicfamily.org/realm/Factions/picks/ExpertCombinator.png" align="middle"> <b>Expert Combinator</b></p>
+	<p><b>Requirement</b>: R240+, Purchase Legacies from 6 different factions in a single game.</p>
 	<p><b>Cost</b>: 10 Dtg (1e100)</p>
 	<p><b>Effect</b>: Increase the production of all buildings when playing a Prestige Faction based on time spent with the least used alignment.</p>
 	<p><b>Formula</b>: (x)%, where x is time spent with your least used alignment.</p>
@@ -390,6 +312,10 @@
 <p><b>Old Formula</b>: (80 * x ^ 0.8)%, where x is your Mana Regeneration.</p>
 <p><b>New Formula</b>: (300 * x ^ 0.6)%, where x is your Mana Regeneration.</p>
 <br/>
+<p><b>Dragon Pastures</b> (Dragon UB2)</p>
+<p><b>Effect</b>: Upgrade Farm to Dragon Pastures, boosting their production based on your max mana and unlocking more unique perks for the building.
+<p><b>Old Formula</b>: (0.63 * x ^ 0.63)%, where x is your Maximum Mana.
+<p><b>New Formula</b>: (0.7 * x ^ 0.7)%, where x is your Maximum Mana.
 <hr>
 <p><b>Research</b></p>
 <p><b>Warfare</b></p>
@@ -417,15 +343,16 @@
 <p><b>Fairy</b></p>
 <p><b>Fairy Set 1</b></p>
 <p><b>Effect</b>: Farms, Inns and Blacksmiths count more based on the amount of time spent with Fairies in this Reincarnation.</p>
-<p><b>Old Formula</b>: (0.7 * ln(1 + x) ^ 3)%, where x is time spent with Fairies this Reincarnation in seconds.</p>
-<p><b>New Formula</b>: (2 * ln(1 + x) ^ 1.5)%, where x is time spent with Fairies this Reincarnation in seconds.</p>
+<p><b>Old Formula</b>: (0.7 * ln(1 + x) ^ 3)%, where x is time spent with Fairies in this Reincarnation.</p>
+<p><b>New Formula</b>: (2 * ln(1 + x) ^ 1.5)%, where x is time spent with Fairies in this Reincarnation.</p>
 <br/>
 <p><b>Drow</b></p>
 <p><b>Drow Set 1</b></p>
 <p><b>Old Effect</b>: Increase the production of Unique Buildings based on Evil spells cast in this Reincarnation.</p>
 <p><b>Old Formula</b>: (0.45 * x ^ 0.45)%, where x is total evil spells cast Reincarnation.</p>
-<p><b>New Effect</b>: Remove Ascension penalties from Royal Exchange bonus, starting from 0 and removing more levels of penalty over time, and increase their production based on the amount of Gems you own.</p>
-<p><b>New Formula (Penalties Reduction)</b>: (round((0.3 * x / 3600) ^ 0.5) - 1), where x is playtime this game.</p>
+<p><b>New Effect</b>: Remove Ascension penalties from Royal Exchange bonus, starting from 0 and removing more levels of penalty over time and increase their production based on the amount of Gems you own.</p>
+<p><b>New Formula</b>: (log10(1 + x) ^ 2)%, where x is the amount of Gems you own.</p>
+<p><b>New Penalties Reduction</b>: (round((0.3 * x / 3600) ^ 0.5) - 1), where x is playtime this game.</p>
 	<table class="numtable">
 		<tr>
 			<th>Penalties Removed</th>
@@ -449,7 +376,6 @@
 		</tr>
 	</table>
 <p><b>Note</b>: Unaffected by Set power bonuses.</p>
-<p><b>New Formula (Production)</b>: (ln(1 + x) ^ 2)%, where x is gems owned.</p>
 <br/>
 <hr>
 <p><b>Other Changes</b></p>

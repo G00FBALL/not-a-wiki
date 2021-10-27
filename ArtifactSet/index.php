@@ -14,7 +14,7 @@
 			<p><img src='http://musicfamily.org/realm/Factions/picks/FairySet.png' align='middle'><b> Fairy Set</b></p>
 			<p><b>Requirement</b>: R100+, Pink Carrot, Bottled Voice, Silk Cloth</p>
 			<p><b>Effect</b>: Farms, Inns and Blacksmiths count more based on the amount of time spent with Fairies in this Reincarnation.</p>
-			<p><b>Formula</b>: (0.7 * ln(1 + x) ^ 3)%, where x is time spent with Fairies in This Reincarnation in seconds.</p>
+			<p><b>Formula</b>: (2 * ln(1 + x) ^ 1.5)%, where x is time spent with Fairies in this Reincarnation.</p>
 			<p><b>Second Effect Requirement</b>: R220+, Glowing Wing</p>
 			<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on the amount of Good Buildings owned.</p>
 			<p><b>Formula</b>: (x ^ 0.5)%, where x is the amount of Good Buildings you own.</p>
@@ -99,18 +99,29 @@
 			<p><b>Requirement</b>: R116+, Dwarven Bow, Stone Tankard, Beard Hair</p>
 			<p><b>Effect</b>: Multiplicatively increase Assistants based on your Royal Exchange bonus.</p>
 			<p><b>Formula</b>: (8 * x ^ 0.4)%, where x is Royal Exchange bonus.</p>
+			<p><b>Second Effect Requirement</b>: R240+, Dwarven Anvil</p>
+			<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on time spent in this game.</p>
+			<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your time spent in this game.</p>
 			" coords="10,190,64,244" shape="rect">
 			<area href="#Drow" target="" research="
 			<p><img src='http://musicfamily.org/realm/Factions/picks/DrowSet.png' align='middle'><b> Drow Set</b></p>
 			<p><b>Requirement</b>: R116+, Ceremonial Dagger, Arachnid Figurine, Poison Vial</p>
-			<p><b>Effect</b>: Increase the production of Unique Buildings based on Evil spells cast in this Reincarnation.</p>
-			<p><b>Formula</b>: (0.45 * x ^ 0.45)%, where x is total evil spells cast Reincarnation.</p>
+			<p><b>Effect</b>: Remove Ascension penalties from Royal Exchange bonus, starting from 0 and removing more levels of penalty over time and increase their production based on the amount of Gems you own.</p>
+			<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is the amount of Gems you own.</p>
+			<p><b>Penalties Reduction</b>: (round((0.3 * x / 3600) ^ 0.5) - 1), where x is playtime this game.</p>
+			<p><b>Note</b>: Penalty Reduction unaffected by Set power bonuses.</p>
+			<p><b>Second Effect Requirement</b>: R240+, Stiletto Heel</p>
+			<p><b>Effect</b>: Spells cast count more based on time spent as Evil in this Reincarnation.</p>
+			<p><b>Formula</b>: (6 * ln(1 + x) ^ 1.2)%, where x is time spent as Evil in this Reincarnation.</p>
 			" coords="70,190,124,244" shape="rect">
 			<area href="#Dragon" target="" research="
 			<p><img src='http://musicfamily.org/realm/Factions/picks/DragonSet.png' align='middle'><b> Dragon Set</b></p>
 			<p><b>Requirement</b>: R116+, Dragon Fang, Dragon Soul, Dragon Scale</p>
 			<p><b>Effect</b>: Increase the duration of all spells based on spells cast in this Reincarnation.</p>
 			<p><b>Formula</b>: (1.25 * ln(1 + x) ^ 1.25)%, where x is spells cast in this Reincarnation.</p>
+			<p><b>Second Effect Requirement</b>: R240+, Eye of the Dragon</p>
+			<p><b>Effect</b>: All alignment spells gain 1 additional Tier and all spells activity time count more based on the amount of excavations you made, including resets.</p>
+			<p><b>Formula</b>: (0.25 * (x * (y + 1)) ^ 0.5)%, where x is the number of excavations made, and y is your number of resets in this game.</p>
 			" coords="130,190,184,244" shape="rect">
 			<area href="#Mercenary" target="" research="
 			<p><img src='http://musicfamily.org/realm/Factions/picks/MercenarySet.png' align='middle'><b> Mercenary Set</b></p>
@@ -124,7 +135,7 @@
 		<p><img src="http://musicfamily.org/realm/Factions/picks/FairySet.png" align="middle"><b> Fairy Set</b></p>
 		<p><b>Requirement</b>: R100+, Pink Carrot, Bottled Voice, Silk Cloth</p>
 		<p><b>Effect</b>: Farms, Inns and Blacksmiths count more based on the amount of time spent with Fairies in this Reincarnation.</p>
-		<p><b>Formula</b>: (0.7 * ln(1 + x) ^ 3)%, where x is time spent with Fairies in This Reincarnation in seconds.</p>
+		<p><b>Formula</b>: (2 * ln(1 + x) ^ 1.5)%, where x is time spent with Fairies in this Reincarnation.</p>
 		<p><b>Second Effect Requirement</b>: R220+, Glowing Wing</p>
 		<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on the amount of Good Buildings owned.</p>
 		<p><b>Formula</b>: (x ^ 0.5)%, where x is the amount of Good Buildings you own.</p>
@@ -209,18 +220,51 @@
 		<p><b>Requirement</b>: R116+, Dwarven Bow, Stone Tankard, Beard Hair</p>
 		<p><b>Effect</b>: Multiplicatively increase Assistants based on your Royal Exchange bonus.</p>
 		<p><b>Formula</b>: (8 * x ^ 0.4)%, where x is Royal Exchange bonus.</p>
+		<p><b>Second Effect Requirement</b>: R240+, Dwarven Anvil</p>
+		<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on time spent in this game.</p>
+		<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your time spent in this game.</p>
 		<br/>
 		<H6 id="Drow"></h6>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/DrowSet.png" align="middle"><b> Drow Set</b></p>
 		<p><b>Requirement</b>: R116+, Ceremonial Dagger, Arachnid Figurine, Poison Vial</p>
-		<p><b>Effect</b>: Increase the production of Unique Buildings based on Evil spells cast in this Reincarnation.</p>
-		<p><b>Formula</b>: (0.45 * x ^ 0.45)%, where x is total evil spells cast Reincarnation.</p>
+		<p><b>Effect</b>: Remove Ascension penalties from Royal Exchange bonus, starting from 0 and removing more levels of penalty over time and increase their production based on the amount of Gems you own.</p>
+		<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is the amount of Gems you own.</p>
+		<p><b>Penalty Reduction</b>: (round((0.3 * x / 3600) ^ 0.5) - 1), where x is playtime this game.</p>
+		<table class="numtable">
+			<tr>
+				<th>Penalties Removed</th>
+				<th>Time</th>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td>7 Hours 30 Minutes</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>20 Hours 50 Minutes</td>
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>1 Day 16 Hours 50 Minutes</td>
+			</tr>
+			<tr>
+				<td>4</td>
+				<td>2 Days 19 Hours 30 Minutes</td>
+			</tr>
+		</table>
+		<p><b>Note</b>: Penalty Reduction unaffected by Set power bonuses.</p>
+		<p><b>Second Effect Requirement</b>: R240+, Stiletto Heel</p>
+		<p><b>Effect</b>: Spells cast count more based on time spent as Evil in this Reincarnation.</p>
+		<p><b>Formula</b>: (6 * ln(1 + x) ^ 1.2)%, where x is time spent as Evil in this Reincarnation.</p>
 		<br/>
 		<H6 id="Dragon"></h6>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/DragonSet.png" align="middle"><b> Dragon Set</b></p>
 		<p><b>Requirement</b>: R116+, Dragon Fang, Dragon Soul, Dragon Scale</p>
 		<p><b>Effect</b>: Increase the duration of all spells based on spells cast in this Reincarnation.</p>
 		<p><b>Formula</b>: (1.25 * ln(1 + x) ^ 1.25)%, where x is spells cast in this Reincarnation.</p>
+		<p><b>Second Effect Requirement</b>: R240+, Eye of the Dragon</p>
+		<p><b>Effect</b>: All alignment spells gain 1 additional Tier and all spells activity time count more based on the amount of excavations you made, including resets.</p>
+		<p><b>Formula</b>: (0.25 * (x * (y + 1)) ^ 0.5)%, where x is the number of excavations made, and y is your number of resets in this game.</p>
 		<br/>
 		<H6 id="Mercenary"></h6>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/MercenarySet.png" align="middle"><b> Mercenary Set</b></p>

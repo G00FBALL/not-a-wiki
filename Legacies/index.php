@@ -17,14 +17,13 @@
 		<p><b>Base Faction (R220+)</b>:</p>
 		<p><b>Coin Cost</b>: (1e72 * (1,000 ^ (x ^ 2 - x))), where x is your current Legacy container.</p>
 		<p><b>Faction Coin Cost</b>: (1e33 * (1,000 ^ ( 0.5 * ( x ^ 2 - x)))), where x is your current Legacy container.</p>
-		<br/>
 		<p><b>Prestige Faction (R240+)</b>:</p>
-		<p><b>Coin Cost</b>: (1e105 * (1,000 ^ (x ^ 2 - x))), where x is your current Legacy container.</p>
+		<p><b>Coin Cost</b>: (1e135 * (1,000 ^ (x ^ 2 - x))), where x is your current Legacy container.</p>
 		<p><b>Faction Coin Cost</b>: (1e45 * (1,000 ^ ( 0.5 * ( x ^ 2 - x)))), where x is your current Legacy container.</p>
 		<center>
 			<table class="numtable" style="color: black;">
 				<tr>
-					<th></th>
+					<th border="none"></th>
 					<th colspan="2">Base Faction</th>
 					<th colspan="2">Prestige Faction</th>
 				<tr>
@@ -39,7 +38,7 @@
 					<td>1 Tvg (1e72)</td>
 					<td>1 Dc (1e33)</td>
 					<td>1 Qatg (1e105)</td>
-					<td>1 Qad (1e45)</td>					
+					<td>1 Qad (1e45)</td>
 				</tr>
 				<tr>
 					<td>2</td>
@@ -62,6 +61,41 @@
 					<td>1 Sxqag (1e141)</td>
 					<td>1 Vg (1e63)</td>
 				</tr>
+				<tr>
+					<td>5</td>
+					<td>1 Tqag (1e132)</td>
+					<td>1 Vg (1e63)</td>
+					<td>1 QaSxg (1e195)</td>
+					<td>1 Qavg (1e75)</td>
+				</tr>
+				<tr>
+					<td>6</td>
+					<td>1 TQig (1e162)</td>
+					<td>1 Qivg (1e78)</td>
+					<td>1 QaSpg (1e225)</td>
+					<td>1 Novg (1e90)</td>
+				</tr>
+				<tr>
+					<td>7</td>
+					<td>1 QiSxg (1e198)<td>
+					<td>1 Utg (1e96)</td>
+					<td>1 SxOcg (1e261)</td>
+					<td>1 Qitg (1e108)</td>
+				</tr>
+				<tr>
+					<td>8</td>
+					<td>1 NoSpg (1e240)</td>
+					<td>1 Octg (1e117)</td>
+					<td>1 C (1e303)</td>
+					<td>1 Dqag (1e129)</td>
+				</tr>
+				<tr>
+					<td>9</td>
+					<td>1 QiNog (1e288)</td>
+					<td>1 Sxqag (1e141)</td>
+					<td>INF</td>
+					<td>1 Qig (1e153)</td>
+				</tr>				
 			</table>
 		</center>
 		<hr>
