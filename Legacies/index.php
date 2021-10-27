@@ -348,7 +348,7 @@
 		<p><b>Zombie Apocalypse</b></p>
         <p><b>Effect</b>: Gain assistants additively based on the total amount of time spent offline in this Reincarnation.</p>
         <p><b>Formula</b>: +(21 * x ^ 0.7), where x is offline time in seconds this Reincarnation.</p>
-			" coords="190,260,244,304" shape="rect">
+			" coords="190,250,244,304" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/EvilConquerorsFactionUpgrade.png align=middle><b> Demon Bronze Legacy</b></p>
 		<p><b>Torture Chambers</b></p>
@@ -362,7 +362,7 @@
 		<p><b>Evil Conquerors</b></p>
         <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of Hell Portals you built in this Reincarnation.</p>
         <p><b>Formula</b>: (4 * x ^ 0.8)%, where x is the highest amount of Hell Portals you built this Reincarnation.</p>
-			" coords="10,320,64,364" shape="rect">
+			" coords="10,310,64,364" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/DemonicPresenceFactionUpgrade.png align=middle><b> Demon Silver Legacy</b></p>
 		<p><b>Lava Pits</b></p>
@@ -376,7 +376,7 @@
 		<p><b>Demonic Presence</b></p>
         <p><b>Effect</b>: Increase the maximum Mana additively based on Evil spells cast in this game (additive).</p>
         <p><b>Formula</b>: +(6 * x ^ 0.4), where x is Evil spells cast this game.</p>
-			" coords="70,320,124,364" shape="rect">
+			" coords="70,310,124,364" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/VeryBadGuysFactionUpgrade.png align=middle><b> Demon Gold Legacy</b></p>
 		<p><b>Infernal Magic</b></p>
@@ -390,7 +390,7 @@
 		<p><b>Very Bad Guys</b></p>
         <p><b>Effect</b>: Increase the production of Heaven's Gate / Hell Portals / Ancient Pyramid (based on your Alignment) based on the highest amount of Hell Portals you built in this Reincarnation.</p>
         <p><b>Formula</b>: (4 * x ^ 0.8)%, where x is the highest amount of Hell Portals you built this Reincarnation.</p>
-			" coords="130,320,184,364" shape="rect">
+			" coords="130,310,184,364" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/Devastation.png align=middle><b> Demon Diamond Legacy</b></p>
 		<p><b>Abyssal Furnance</b></p>
@@ -404,7 +404,7 @@
 		<p><b>Devastation</b></p>
         <p><b>Effect</b>: Increase production of three highest building tiers based on mana regen.</p>
         <p><b>Formula</b>: (2.5 * ln(1 + x) ^ 2.5)%, where x is Mana Regeneration.</p>
-			" coords="190,320,244,364" shape="rect">
+			" coords="190,310,244,364" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/TitanObeliskFactionUpgrade.png align=middle><b> Titan Bronze Legacy</b></p>
 		<p><b>Colossal Forge</b></p>
@@ -418,7 +418,7 @@
 		<p><b>Titan Obelisk</b></p>
         <p><b>Effect</b>: Increase Faction Coin find chance additively based on time spent as Neutral in this Reincarnation.</p>
         <p><b>Formula</b>: +(3 * x ^ 0.7)%, where x is time spent as Neutral this Reincarnation.</p>
-			" coords="10,380,64,424" shape="rect">
+			" coords="10,370,64,424" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/TitanSizedWallsFactionUpgrade.png align=middle><b> Titan Silver Legacy</b></p>
 		<p><b>Titan Drill</b></p>
@@ -431,7 +431,7 @@
 		<p><b>Titan Sized Walls</b></p>
         <p><b>Effect</b>: Increase Hall of Legends production based on the amount of assistants you own.</p>
         <p><b>Formula</b>: (20 + 2.15 * ln(1 + x) ^ 2.15)%, where x is the amount of assistants you own.</p>
-			" coords="70,380,124,424" shape="rect">
+			" coords="70,370,124,424" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/OversizedLegendsFactionUpgrade.png align=middle><b> Titan Gold Legacy</b></p>
 		<p><b>Cyclopean Strength</b></p>
@@ -444,7 +444,7 @@
         <p><b>Effect</b>: Reduce Hall of Legends building cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
         <p><b>Effect</b>: Also increase the production of assistants based on the amount of Halls of Legends built.</p>
         <p><b>Formula</b>: (6 * x ^ 0.6)%, where x is the amount of Hall of Legends built.</p>
-			" coords="130,380,184,424" shape="rect">
+			" coords="130,370,184,424" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/ColossusKingdom.png align=middle><b> Titan Diamond Legacy</b></p>
 		<p><b>Giant Market</b></p>
@@ -458,7 +458,7 @@
 		<p><b>Colossus Kingdom</b></p>
         <p><b>Effect</b>: Gain assistants additively based on total time spent as Order in this Reincarnation.</p>
         <p><b>Formula</b>: +(25 * x ^ 0.7), where x is seconds this Reincarnation.</p>
-			" coords="190,380,244,424" shape="rect">
+			" coords="190,370,244,424" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/NaturalRecyclingFactionUpgrade.png align=middle><b> Druid Bronze Legacy</b></p>
 		<p><b>Druidic Vocubulary</b></p>
@@ -472,7 +472,7 @@
 		<p><b>Natural Recycling</b></p>
         <p><b>Effect</b>: Increase Faction Coin find chance additively and multiplicatively based on the amount of the total buildings you own.</p>
         <p><b>Formula</b>: (0.4 x ^ 0.4), where x is total buildings built. (additively and multiplicatively)</p>
-			" coords="10,440,64,484" shape="rect">
+			" coords="10,430,64,484" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/ShapeshiftingFactionUpgrade.png align=middle><b> Druid Silver Legacy</b></p>
 		<p><b>Earthly Bond</b></p>
@@ -486,7 +486,7 @@
 		<p><b>Shapeshifting</b></p>
         <p><b>Effect</b>: Increase Mana Regeneration additively based on the amount of assistants you own.</p>
         <p><b>Formula</b>: +(1.3 * x ^ 0.7), where x is the amount of assistants you own.</p>
-			" coords="70,440,124,484" shape="rect">
+			" coords="70,430,124,484" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/BuildingJungleFactionUpgrade.png align=middle><b> Druid Gold Legacy</b></p>
 		<p><b>Mabinogion</b></p>
@@ -500,7 +500,7 @@
 		<p><b>Building Jungle</b></p>
         <p><b>Effect</b>: Increase the production of each building based on the amount of buildings of the same type. </p>
         <p><b>Formula</b>: (1.5 * x ^ 0.9)%, where x is the amount of buildings of the same type.</p>
-			" coords="130,440,184,484" shape="rect">
+			" coords="130,430,184,484" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/GroveFarming.png align=middle><b> Druid Diamond Legacy</b></p>
 		<p><b>Building Vines</b></p>
@@ -516,7 +516,7 @@
 		<p><b>Grove Farming</b></p>
         <p><b>Effect</b>: Increase the production of all buildings based on their tier. Middle tiers get better bonuses.</p>
         <p><b>Formula</b>: (0.75 * ((6 - abs(6 - T)) ^ 5)), where T is building tier.</p>
-			" coords="190,440,244,484" shape="rect">
+			" coords="190,430,244,484" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/DeepMemoryFactionUpgrade.png align=middle><b> Faceless Bronze Legacy</b></p>
 		<p><b>Territorial Expanse</b></p>
@@ -530,7 +530,7 @@
 		<p><b>Deep Memory</b></p>
         <p><b>Effect</b>: Multiplicatively increase assistants based on the time spent on your longest game session in this Reincarnation.</p>
 		<p><b>Formula</b>: (0.3 * x ^ 0.7)%, where x is your Playtime (Longest Session) stat this Reincarnation.</p>
-			" coords="10,500,64,544" shape="rect">
+			" coords="10,490,64,544" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/OvergrowthFactionUpgrade.png align=middle><b> Faceless Silver Legacy</b></p>
 		<p><b>Gold Synthesis</b></p>
@@ -544,7 +544,7 @@
 		<p><b>Overgrowth</b></p>
         <p><b>Effect</b>: Increases production based on the highest amount of buildings purchased in a single game this R.</p>
 		<p><b>Formula</b>: (0.8 * x ^ 0.8)%, where x is your Buildings Owned (Max) stat.</p>
-			" coords="70,500,124,544" shape="rect">
+			" coords="70,490,124,544" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/HiveMindFactionUpgrade.png align=middle><b> Faceless Gold Legacy</b></p>
 		<p><b>Magical Treasure</b></p>
@@ -558,7 +558,7 @@
 		<p><b>Hive Mind</b></p>
         <p><b>Effect</b>: Increases production based on total time spent affiliated with Faceless. Persists through Reincarnations.</p>
 		<p><b>Formula</b>: (x ^ 0.5)%, where x is total time spent as Faceless in seconds (all time).</p>
-			" coords="130,500,184,544" shape="rect">
+			" coords="130,490,184,544" shape="rect">
 			<area research="
 		<p><img src=http://musicfamily.org/realm/Factions/picks/DimensionDoor.png align=middle><b> Faceless Diamond Legacy</b></p>
 		<p><b>Primal Knowledge</b></p>
@@ -572,7 +572,10 @@
 		<p><b>Dimension Door</b></p>
         <p><b>Effect</b>: Increase the production of all buildings based on the highest amount of Maximum Mana you had in this Reincarnation.</p>
         <p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is highest max mana this R.</p>
-			" coords="190,500,244,544" shape="rect">
+			" coords="190,490,244,544" shape="rect">
+		<area research="
+		<p><b>Currently under Construction!</b></p>
+			" coords="10,550,244,724" shape="rect">
 		</map>
 		<map name="Combo-map">
 			<area href="#FR-EL" research="

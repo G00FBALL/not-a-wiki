@@ -216,6 +216,7 @@
 					" coords="3,3,56,56" shape="rect">
 					<area research="
 					<p><b><img src='/realm/Factions/picks/RubyShineUpgrade.png' align='middle'> Ruby Shine</b></p>
+					<p><b>Type</b>: Feat</p>					
 					<p><b>Requirement</b>: Play during the Ruby Shine event.</p>
 					<p><b>Effect</b>: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.</p>
 					<p><b>Formula</b>: (x ^ 1.15)%, where x is Rubies owned.</p>
@@ -314,6 +315,7 @@
 					<area research="
 					<p><b>Valentines 2020</b></p>
 					<p><b><img src='/realm/Factions/picks/FairyLove.png' align='middle'> Fairy Love</b></p>
+					<p><b>Type</b>: Feat</p>					
 					<p><b>Requirement</b>: While affiliated with the fairies, click 1000 times during the Valentine event.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
 					" coords="3,123,56,176" shape="rect">
@@ -349,12 +351,14 @@
 					<area research="
 					<p><b>Easter 2018</b></p>
 					<p><b><img src='/realm/Factions/picks/BunnyHelpers2018.png' align='middle'> Bunny Helpers</b></p>
+					<p><b>Type</b>: Feat</p>
 					<p><b>Requirement</b>: Collect at least 480 Eggs with a single click while having exactly 480 assistants.</p>
 					<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
 					" coords="303,123,356,176" shape="rect">
 					<area research="
 					<p><b>Easter 2019</b></p>
 					<p><b><img src='/realm/Factions/picks/ChocolateEgg2019.png' align='middle'> Chocolate Egg</b></p>
+					<p><b>Type</b>: Feat</p>
 					<p><b>Requirement</b>: Collect at least 480 Eggs with a single click while having at least 3 active spells.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 					<p><b>Effect</b>: Increase base clicking reward by 100% and clicks once per second.</p>
@@ -364,12 +368,14 @@
 					<area research="
 					<p><b>Easter 2020</b></p>
 					<p><b><img src='/realm/Factions/picks/Eggsceptional.png' align='middle'> Eggsceptional</b></p>
+					<p><b>Type</b>: Feat</p>
 					<p><b>Requirement</b>: Collect a full stack of 720 Eggs at any time during the Easter event.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
 					" coords="3,183,56,236" shape="rect">
 					<area research="
 					<p><b>Easter 2021</b></p>
 					<p><b><img src='/realm/Factions/picks/RottenEgg2021.png' align='middle'> Rotten Egg</b></p>
+					<p><b>Type</b>: Feat</p>
 					<p><b>Requirement</b>: Collect a full stack of 720 Eggs while being affiliated with the Undead.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 					<p><b>Effect</b>: Increase offline production by 100%.</p></p>
