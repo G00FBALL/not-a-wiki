@@ -53,8 +53,8 @@
 			<table class="numtable" style="color: black;">
 				<tr>
 					<th>Faction Upgrade</th>
-					<th>Base Faction (R220+)</th>
-					<th>Prestige Faction (R240+)</th>
+					<th>Base Faction</th>
+					<th>Prestige Faction</th>
 				</tr>
 				<tr>
 					<td>1</td>

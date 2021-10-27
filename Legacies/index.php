@@ -14,10 +14,10 @@
 		<p>You can purchase more Legacies for a progressively increasing cost.</p>
 		<p>The current limit is 4 Legacy Container - not including the special one granted by the Research Relativity (F11750).</p>
 		<p><b>Note</b>: While the Container from Relativity is free to purchase, the granted upgrades still have their normal coin cost. It also does not influence the cost of the other container.</p>
-		<p><b>Base Faction (R220+)</b>:</p>
+		<p><b>Base Faction Legacies</b>:</p>
 		<p><b>Coin Cost</b>: (1e72 * (1,000 ^ (x ^ 2 - x))), where x is your current Legacy container.</p>
 		<p><b>Faction Coin Cost</b>: (1e33 * (1,000 ^ ( 0.5 * ( x ^ 2 - x)))), where x is your current Legacy container.</p>
-		<p><b>Prestige Faction (R240+)</b>:</p>
+		<p><b>Prestige Faction Legacies</b>:</p>
 		<p><b>Coin Cost</b>: (1e135 * (1,000 ^ (x ^ 2 - x))), where x is your current Legacy container.</p>
 		<p><b>Faction Coin Cost</b>: (1e45 * (1,000 ^ ( 0.5 * ( x ^ 2 - x)))), where x is your current Legacy container.</p>
 		<center>
@@ -77,7 +77,7 @@
 				</tr>
 				<tr>
 					<td>7</td>
-					<td>1 QiSxg (1e198)<td>
+					<td>1 QiSxg (1e198)</td>
 					<td>1 Utg (1e96)</td>
 					<td>1 SxOcg (1e261)</td>
 					<td>1 Qitg (1e108)</td>
