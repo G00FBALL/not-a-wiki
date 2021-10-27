@@ -1134,7 +1134,7 @@
 	<p><b>Requirement</b>: R242+</p>
 	<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on the highest amount of Mana Regeneration you had in this Reincarnation.</p>
 	<p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is the highest Mana Regeneration you had this Reincarnation.</p>
-	" coords="212,590,154,630" shape="rect">
+	" coords="212,590,254,630" shape="rect">
 		<area research="<p><b>E1</b> - For Goblin</p>
 	<p><b>Research Name</b>: Coinage</p>
 	<p><b>Cost</b>: 750 Qag (7.50e125)</p>
@@ -1705,14 +1705,14 @@
 		<area research="<p><b>A11375</b> - For All Factions</p>
 	<p><b>Research Name</b>: Azoth</p>
 	<p><b>Requirement</b>: R225+</p>
-	<p><b>Effect</b>: Increase clicking reward based on mana regeneration.</p>
-	<p><b>Formula</b>: (2 * log10(1 + x) ^ 2)%, where x is mana regeneration.</p>
+	<p><b>Effect</b>: Increase clicking reward based on Mana regeneration.</p>
+	<p><b>Formula</b>: (2 * log10(1 + x) ^ 2)%, where x is Mana regeneration.</p>
 	" coords="2,1010,42,1050" shape="rect">
 		<area research="<p><b>A11625</b> - For All Factions</p>
 	<p><b>Research Name</b>: Anima Mundi</p>
 	<p><b>Requirement</b>: R227+</p>
 	<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on Faction Coins found in this Reincarnation.</p>
-	<p><b>Formula</b>: (0.5 * log10(1 + x) ^ 2)%, where x is factiom coins found this R.</p>
+	<p><b>Formula</b>: (0.4 * log10(1 + x) ^ 2)%, where x is Faction Coins found in this Reincarnation.</p>
 	" coords="44,1010,84,1050" shape="rect">
 		<area research="<p><b>A11875</b> - For All Factions</p>
 	<p><b>Research Name</b>: Liquefaction</p>
@@ -2025,7 +2025,7 @@
 	<p><b>Requirement</b>: R239+</p>
 	<p><b>Effect</b>: Increase all spell duration based on the highest amount of spells cast in this Reincarnation.</p>
 	<p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is the highest number of spells cast in a single run this Reincarnation.</p>
-	" coords="128,1220,168,1260" shape="rect">
+	" coords="170,1220,210,1260" shape="rect">
 		<area research="<p><b>W13500</b> - For All Factions</p>
 	<p><b>Research Name</b>: Backfire</p>
 	<p><b>Requirement</b>: R242+</p>
@@ -2033,7 +2033,7 @@
 	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is the respective time stat in seconds.</p>
 	<p><b>Note</b>: Buildings only receive the highest effect (That is, if the building is Evil/Chaos, it only gets the Evil/Chaos bonus, not the Evil or the Chaos individual bonuses).</p>
 	<p><b>Note</b>: The Good/Evil alignment of a building applies normally, while the Order/Chaos alignment of a building only applies to Base Faction's Unique Buildings (both UB1 and UB2) and Elite Unique Buildings</p>
-	" coords="128,1220,168,1260" shape="rect">
+	" coords="212,1220,254,1260" shape="rect">
 		<area research="<p><b>F5250</b> - For All Factions</p>
 	<p><b>Research Name</b>: Dreamwalking</p>
 	<p><b>Requirement</b>: R176+, Forgotten Relic, Forbidden artifact and upgrade.</p>

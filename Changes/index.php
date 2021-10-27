@@ -390,6 +390,9 @@
 <p><b>Advanced Heritage Unlocks</b></p>
 <p>Faction spells activity time requirement reduced from 8 hours to 6 hours.</p>
 <br/>
+<p><b>Twisted Nether</b>: Twisting Nether was adding points to the sum of Lineage levels, not per individual Lineage. This has been fixed.</p>
+<br>
+<p><b>Focused Thoughts (Faceless Challenge Reward)</b>: Spell activity time count more upgrades now interact with Brainwave's headstart.</p>
 <hr>
 <br/>
 <p><b>Old Patches</b></p>

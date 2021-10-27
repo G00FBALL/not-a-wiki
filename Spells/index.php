@@ -984,7 +984,7 @@
 <p><b>Cost</b>: 1500 Mana - <b>Duration</b>: 20 seconds</p>
 <p><b>Effect</b>: Activates one of the following effects at random for 20 seconds.</p>
 <p><b><font color="darkred">Red</font></b>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.</p>
-<p><b><font color="darkred">Formula</font></b>: (2 * (ln(1 + x) ^ 2)%, where x is Faction Coins found in this game.</p>
+<p><b><font color="darkred">Formula</font></b>: (2 * (ln(1 + x) ^ 2)%, where x is the amount of Faction Coins found in this game.</p>
 <br>
 <p><b><font color="darkgreen">Green</font></b>: Increase the production of all buildings based on the amount of spells cast in this game. Higher bonuses are provided to lower building tiers.</p>
 <p><b><font color="darkgreen">Formula</font></b>: (0.01 * x ^ 0.625 * (11 - T) ^ 5)%, where x is spells cast (this game) and T is the building tier. (1 for Farms, 11 for Hall of Legends).</p>
@@ -992,7 +992,7 @@
 <p><b><font color="darkblue">Blue</font></b>: Increase your mana regeneration by 200%</p>
 <br>
 <p><b><font color="white">White</font></b>: Temporarily increase the amount of assistants based on total time spent being Neutral.</p>
-<p><b><font color="white">Formula</font></b>: +(3 * floor(x / 60) ^ 0.7), where x is time spent as Neutral this Reincarnation in seconds.</p>
+<p><b><font color="white">Formula</font></b>: +(30 * x ^ 0.7), where x is time spent as Neutral this Reincarnation</p>
 <br>
 <p><b><font color="black">Black</b></font>: Increase the production of all buildings based on Dragon's Breath activity time.</p>
 <p><b><font color="black">Formula</font></b>: (0.5 * x ^ 0.75)%, where x is Dragon's Breath activity time.</p>
@@ -1000,7 +1000,7 @@
 <p><b>Spell Trophy & Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png" align="middle"> <b>Dragon's Roar</b></p>
 <p><b>Requirement</b>: Cast Dragon's Breath while having at least 4 other active spells.</p>
 <p><b>Effect</b>: Dragon's Breath multiplicatively increases Faction Coin find chance based on its duration.</p>
-<p><b>Formula</b>: (6 * x ^ 0.6), where x is duration in seconds.</p>
+<p><b>Formula</b>: (6 * x ^ 0.6)%, where x is its duration.</p>
 <p><b>Upgrade Cost</b>: 10 Dd (1e40), A2+ Free</p>
 <p><b>Challenge Upgrade</b>: <img src="http://musicfamily.org/realm/Factions/picks/PrismaticBreathChallenges.png" align="middle"> <b>Prismatic Breath</b> (R63+)</p>
 <p><b>Effect</b>: While all 5 breaths are active, Reincarnations count 50% more.</p>

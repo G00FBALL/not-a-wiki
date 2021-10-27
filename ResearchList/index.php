@@ -1506,14 +1506,14 @@
 					<p><b>A11375</b> - For All Factions</p>
 					<p><b>Research Name</b>: Azoth</p>
 					<p><b>Requirement</b>: R225+</p>
-					<p><b>Effect</b>: Increase clicking reward based on mana regeneration.</p>
-					<p><b>Formula</b>: (2 * log10(1 + x) ^ 2)%, where x is mana regeneration</p>
+					<p><b>Effect</b>: Increase clicking reward based on Mana Regeneration.</p>
+					<p><b>Formula</b>: (2 * log10(1 + x) ^ 2)%, where x is Mana Regeneration</p>
 					<hr>
 					<p><b>A11625</b> - For All Factions</p>
 					<p><b>Research Name</b>: Anima Mundi</p>
 					<p><b>Requirement</b>: R227+</p>
 					<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on Faction Coins found in this Reincarnation.</p>
-					<p><b>Formula</b>: (0.5 * log10(1 + x) ^ 2)%, where x is factiom coins found this R</p>
+					<p><b>Formula</b>: (0.4 * log10(1 + x) ^ 2)%, where x is Faction Coins found in this Reincarnation.</p>
 					<hr>
 					<p><b>A11875</b> - For All Factions</p>
 					<p><b>Research Name</b>: Liquefaction</p>
