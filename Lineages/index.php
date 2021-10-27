@@ -245,7 +245,7 @@
 		<p><img src="http://musicfamily.org/realm/Factions/picks/FairyPerk4.png" align="middle"><b> Fairy Perk 4</b></p>
 		<p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
 		<p><b>Effect</b>: While Fairy Chanting is active, further increase your temporary assistants based on its duration.</p>
-		<p><b>Formula</b>: (2.5 * x ^ 0.5)%, where x is Fairy Chanting duration in seconds.</p>
+		<p><b>Formula</b>: (2.5 * x ^ 0.25)%, where x is Fairy Chanting duration in seconds.</p>
 		<br/>
 		<p><b>Level 40</b></p>
 		<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyPerk5.png" align="middle"> Fairy Perk 5</b></p>
@@ -609,7 +609,7 @@
 		<p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk3.png" align="middle"><b> Dwarven Perk 3</b></p>
 		<p><b>Requirement</b>: Reach Lineage Level 20</p>
 		<p><b>Effect</b>: Excavations and Artifacts count more based on the amount of Unique Buildings you own.</p>
-		<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is the amount of Unique Buildings you own.</p>
+		<p><b>Formula</b>: (0.58 * x ^ 0.58)%, where x is the number of Unique Buildings you own.</p>
 		<br/>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/DwarfGrandChampionTrophy.png" align="middle"> <b>Dwarven Grand Champion Trophy</b></p>
 		<p><b>Requirement</b>: Upgrade Dwarven Lineage to level 20 and purchase 3 Dwarven Lineage perks.</p>

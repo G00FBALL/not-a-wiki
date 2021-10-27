@@ -151,7 +151,7 @@
         <hr>
         <p><b>Ascension 2 - R100+</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedTitanHeritage.png" align="middle"> Advanced Titan Heritage</b></p>
-        <p><b>Requirements</b>: Titan Master trophy 8 hours activity time (This Game) of Lightning Strike.</p>
+        <p><b>Requirements</b>: Titan Master trophy 6 hours activity time (This Game) of Lightning Strike.</p>
         <p><b>Cost</b>: 1 Sp (1e24) Angel and Goblin Coins</p>
         <p><b>Effect</b>: Increase maximum mana based on the amount of Royal Exchanges purchased.</p>
         <p><b>Formula</b>: (0.85 * ln(1 + x) ^ 1.15)%, where x is Royal Exchanges purchased.</p>

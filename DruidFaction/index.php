@@ -150,7 +150,7 @@
         <hr>
         <p><b>Ascension 2 - R100+</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDruidHeritage.png" align="middle"> Advanced Druid Heritage</b></p>
-        <p><b>Requirements</b>: Druid Master trophy and 8 hours activity time (This Game) of Grand Balance.</p>
+        <p><b>Requirements</b>: Druid Master trophy and 6 hours activity time (This Game) of Grand Balance.</p>
         <p><b>Cost</b>: 1 Sp (1e24) Elven and Demon Coins</p>
         <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells durations.</p>
         <p><b>Formula</b>: (9 * x ^ 0.3)%, where x is the sum of all your spell durations.</p>

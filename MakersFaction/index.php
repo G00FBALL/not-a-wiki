@@ -33,7 +33,7 @@
         <p><b>Effect</b>: Increase the production of Non-Unique buidings by 10000% and gain +50,000 assistants.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersQuest.png" align="middle"> Makers Quest</b></p>
-        <p><b>Requirements</b>: R125+, Collect all 3 Stone Fragments and accumulate 2 days of All Creation activity time in this Reincarnation.</p>
+        <p><b>Requirements</b>: R125+, Collect all 3 Stone Fragments and accumulate 1 day of All Creation activity time in this Reincarnation.</p>
         <p><b>Cost</b>: 1 Ocqag (1e147)</p>
         <p><b>Effect</b>: Unlocks Makers Faction</p>
         <br/>
@@ -113,8 +113,8 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/PastTrade.png" align="middle"> Past Trade</b></p>
         <p><b>Cost</b>: 100 TQig (1e164)</p>
-        <p><b>Effect</b>: Remove 1 Ascension penalty from Royal Exchange Overall Bonus.</p>
-        <p><b>Note</b>: Stacks with E1225 for no A-nerf.</p>
+        <p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the time spent on your longest game session in this Reincarnation.</p>
+        <p><b>Formula</b>: (0.65 * x ^ 0.65)%, where x is your longest game session this Reincarnation in seconds.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/StructuralStability.png" align="middle"> Structural Stability</b></p>
         <p><b>Cost</b>: 1 QaQig (1e165)</p>

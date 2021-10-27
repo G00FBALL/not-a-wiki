@@ -59,8 +59,8 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/MiningProdigiesFactionUpgrade.png" align="middle"> Mining Prodigies</b></p>
         <p><b>Cost</b>: 500 Qad (5e47)</p>
-        <p><b>Effect</b>: Increase the production of all buildings based on the total amount of Excavations you made.</p>
-        <p><b>Formula</b>: (9 * x ^ 0.9)%, where x is the number of excavations you've purchased.</p>
+        <p><b>Effect</b>: Increase the production of all buildings based on the amount of Excavations you made, including resets, in this Reincarnation.</p>
+        <p><b>Formula</b>: (60 * (x * max(1, 0.5 * y) ^ 0.5))%, where x is the number of Excavations made and y is the number of Excavation Resets both this Reincarnation.</p>
         <hr>
         <p><b>Tier 2 Upgrades</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenFriendshipPactFactionUpgrade.png" align="middle"> Dwarven Friendship Pact</b></p>
@@ -119,7 +119,7 @@
         <p>Upgrade Blacksmiths to Dwarven Forges, boosting their production based on mana regen and unlocking more unique perks for the building.</p>
         <p><b>Requirements</b>: Dwarven Forge Quest</p>
         <p><b>Cost</b>: 10 USxg (1e187)</p>
-        <p><b>Formula</b>: (80 * x ^ 0.8)%, where x is your Mana per Second stat.</p>
+        <p><b>Formula</b>: (300 * x ^ 0.6)%, where x is your Mana per Second stat.</p>
         <p><b>Effect</b>: Unlocks Dwarven Unique Buildings.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EarthCoreArtifactFactionUpgrade.png" align="middle"> Earth Core Artifact</b></p>
@@ -148,7 +148,7 @@
         <hr>
         <p><b>Ascension 2 - R116+</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDwarvenHeritage.png" align="middle"> Advanced Dwarven Heritage</b></p>
-        <p><b>Requirements</b>: Dwarf Master trophy and 8 hours activity time (This Game) of Diamond Pickaxe.</p>
+        <p><b>Requirements</b>: Dwarf Master trophy and 6 hours activity time (This Game) of Diamond Pickaxe.</p>
         <p><b>Cost</b>: 1 Sp (1e24) Dwarven Coins</p>
         <p><b>Effect</b>: Increase the production of all buildings based on the amount of current excavations and excavation resets. (This R).</p>
         <p><b>Formula</b>: (0.025 * (x * (1 + y)) ^ 0.65)%, where x is current excavations and y is free and ruby excavation resets this R </p>
@@ -194,8 +194,8 @@
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/StonetalkingUnionUpgrade2.png" align="middle"><b> Stonetalking</b></p>
         <p><b>Cost</b>: 100 Qitg (1e110)</p>
-        <p><b>Effect</b>: Increase the production of all buildings based on the highest between max mana and mana regeneration.</p>
-        <p><b>Formula</b>: (0.055 * max(x, y) ^ 0.55)%, where x is Maximum Mana and y is Mana Regeneration.</p>
+        <p><b>Effect</b>: Increase the production of all buildings based on the highest between Maximum Mana and Mana Regeneration.</p>
+        <p><b>Formula</b>: (2 * ln(1 + max(x,y)) ^ 2)%, where x is Maximum Mana and y is Mana Regeneration</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/RefinedMineralsUnionUpgrade3.png" align="middle"><b> Refined Minerals</b></p>
         <p><b>Cost</b>: 1 Notg (1e120)</p>

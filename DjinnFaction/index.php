@@ -33,7 +33,7 @@
         <p><b>Effect</b>: Multiplicatively increase Maximum Mana by 150%.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnQuest.png" align="middle"> Djinn Quest</b></p>
-        <p><b>Requirements</b>: R125+, Collect all 3 Crystal Fragments and accumulate 2 days of Maelstrom activity time in this Reincarnation.</p>
+        <p><b>Requirements</b>: R125+, Collect all 3 Crystal Fragments and accumulate 1 day of Maelstrom activity time in this Reincarnation.</p>
         <p><b>Cost</b>: 1 Ocqag (1e147)</p>
         <p><b>Effect</b>: Unlocks Djinn Faction</p>
         <br/>

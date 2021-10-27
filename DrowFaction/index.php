@@ -101,8 +101,8 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BladeDanceFactionUpgrade.png" align="middle"> Blade Dance</b></p>
         <p><b>Cost</b>: 50 Spd (5e55)</p>
-        <p><b>Effect</b>: Increase the production of all buildings based on Combo Strike casts in this game.</p>
-        <p><b>Formula</b>: (30 * x ^ 0.9)%, where x is Combo Strike casts in this game.</p>
+        <p><b>Effect</b>: Increase the production of all buildings based on Combo Strike counter in this game.</p>
+        <p><b>Formula</b>: (100 + 80 * x ^ 0.4)%, where x is your Combo Strike counter.</p>
         <hr>
         <p><img src="http://musicfamily.org/realm/Factions/picks/DrowHeritage.png" alt="Drow Heritage" align="middle"><b> Drow Heritage</b></p>
         <p><b>Requirements</b>: Drow Champion Trophy</p>
@@ -151,7 +151,7 @@
         <hr>
         <p><b>Ascension 2 - R116+</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDrowHeritage.png" align="middle"> Advanced Drow Heritage</b></p>
-        <p><b>Requirements</b>: Drow Master trophy and 8 hours activity time (This Game) of Combo Strike.</p>
+        <p><b>Requirements</b>: Drow Master trophy and 6 hours activity time (This Game) of Combo Strike.</p>
         <p><b>Cost</b>: 1 Sp (1e24) Drow Coins</p>
         <p><b>Effect</b>: Increase the production of all buildings based on offline bonus and time spent in this game.</p>
         <p><b>Formula</b>: (0.0008 * log10(1 + x) * y ^ 0.8)%, where x offline bonus and y is time spent this game.</p>
@@ -185,10 +185,10 @@
         <p><b>Formula</b>: (0.1 * x ^ 0.85)%, where x is your Maximum Mana.</p>
         <br/>
         <p><b>Proof of Balance</b>: Multiplicatively Increase Maximum Mana based on Tax Collections cast this game.</p>
-        <p><b>Formula</b>: (0.07 * ln(1 + x) ^ 2.7)%, where x is Tax Collections cast this game.</p>
+        <p><b>Formula</b>: (0.05 * ln(1 + x) ^ 2.5)%, where x is Tax Collections cast this game.</p>
         <br/>
         <p><b>Proof of Chaos</b>: Increase the production of a specific building tier, depending on the amount of buildings you own, based on time spent offline in this Reincarnation.</p>
-        <p><b>Production Formula</b>: (8 * x ^ 0.8)%, where x is time offline this Reincarnation.</p>
+        <p><b>Production Formula</b>: (0.666 * x ^ 0.666)%, where x is time spent offline this Reincarnation in seconds.</p>
         <p><b>Chosen Building Tier Formula</b>: (1 + x % 11), where x is total building count this game (unaffected by count more upgrades).</p>
         <br/>
         <p><b>Union Upgrades</b></p>

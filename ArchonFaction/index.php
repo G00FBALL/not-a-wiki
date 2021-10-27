@@ -33,7 +33,7 @@
         <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance by 500%.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonQuest.png" align="middle"> Archon Quest</b></p>
-        <p><b>Requirement</b>: R125+, Collect all 3 Iron Fragments and accumulate 2 days of Temporal Flux activity time in this Reincarnation.</p>
+        <p><b>Requirement</b>: R125+, Collect all 3 Iron Fragments and accumulate 1 day of Temporal Flux activity time in this Reincarnation.</p>
         <p><b>Cost</b>: 1 Ocqag (1e147)</p>
         <p><b>Effect</b>: Unlocks Archon Faction</p>
         <br/>

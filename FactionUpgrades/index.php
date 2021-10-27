@@ -116,7 +116,7 @@
 				<p><b>Mercenary Template</b>: DM2</p>
 				<p><b>Cost</b>: 500 M (5e8)</p>
 				<p><b>Effect</b>: The three highest building tiers count more based on time spent as Evil in this Reincarnation.</p>
-				<p><b>Formula</b>: (0.4 * x ^ 0.6)%, where x is time spent as Evil this R.</p>
+				<p><b>Formula</b>: (1.2 * x ^ 0.4)%, where x is time spent as Evil this Reincarnation in seconds.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/EvilConquerorsFactionUpgrade.png" align="middle"> Evil Conquerors</b></p>
 				<p><b>Mercenary Template</b>: DM3</p>
@@ -197,8 +197,8 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/MiningProdigiesFactionUpgrade.png" align="middle"> Mining Prodigies</b></p>
 				<p><b>Mercenary Template</b>: DN3</p>
 				<p><b>Cost</b>: 500 Qad (5e47)</p>
-				<p><b>Effect</b>: Increase the production of all buildings based on the total amount of Excavations you made.</p>
-				<p><b>Formula</b>: (9 * x ^ 0.9)%, where x is the number of excavations you've purchased.</p>
+				<p><b>Effect</b>: Increase the production of all buildings based on the amount of Excavations you made, including resets, in this Reincarnation.</p>
+				<p><b>Formula</b>: (60 * (x * max(1, 0.5 * y) ^ 0.5))%, where x is the number of Excavations and y is the number of Excavation resets both this Reincarnation.</p>
 				<hr>
 				<h6>Drow</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldTyrannyFactionUpgrade.png" align="middle"> Underworld Tyranny</b></p>
@@ -225,19 +225,20 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonscalesFactionUpgrade.png" align="middle"> Dragonscales</b></p>
 				<p><b>Mercenary Template</b>: DG1</p>
 				<p><b>Cost</b>: 5 Uvg (5.0e66)</p>
-				<p><b>Effect</b>: Increase the production of Stone Pillars, Labyrinth and Hall of Legends based on the total amount of time spent as Neutral.</p>
-				<p><b>Formula</b>: ({(1.25 * t / 60) ^ 0.55)}%) where t is total amount of time spent as Neutral.</p>
+				<p><b>Effect</b>: Increase the production of all buildings based on the amount of time spent as Neutral in this Reincarnation. Effect is increased on Stone Pillars, Labyrinths and Hall Of Legends.</p>
+				<p><b>Formula</b>: ((x / 60) ^ 0.5)%, where x is time spent as Neutral this Reincarnation in seconds. This is multiplied by 10 on Stone Pillars, Labyrinths and Hall of Legends.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/IronFlightFactionUpgrade.png" align="middle"> Iron Flight</b></p>
 				<p><b>Mercenary Template</b>: DG2</p>
 				<p><b>Cost</b>: 50 Uvg (5.0e67)</p>
-				<p><b>Effect</b>: Increase the production of Iron Stronghold by 2000% when affected by any Spell.</p>
+				<p><b>New Effect</b>: Increase the production of Iron Stronghold by 200% per spell affecting it.</p>
+				<p><b>Note</b>: Each instance of spell effects count as one spell (represented by the spell effect icons on the building icons). This includes Red, Green & Black Breath, A150 and D400.</p>
 				<br/>
-				<p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalWisdomFactionUpgrade.png" align="middle"> Eternal Wisdom</b></p>
+				<p><b><img src="http://musicfamily.org/realm/Factions/picks/EternalWisdomFactionUpgrade.png" align="middle"> Imposing Presence</b></p>
 				<p><b>Mercenary Template</b>: DG3</p>
 				<p><b>Cost</b>: 500 Uvg (5.0e68)</p>
-				<p><b>Effect</b>: Increase the production of all buildings based on Royal Exchange bonus.</p>
-				<p><b>Formula</b>: ({2 * (x ^ 1.15)}%) where x is Royal Exchange bonus.</p>
+				<p><b>Effect</b>: Increase Mana Regeneration based on the amount of Neutral buildings you own.</p>
+				<p><b>Formula</b>: +(0.5 * x ^ 0.5), where x is the number of Neutral buildings owned.</p>
 				<hr>
 				<h6>Archon</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/StarTrading.png" align="middle"> Star Trading</b></p>
@@ -512,8 +513,11 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonbornFactionUpgrade.png" align="middle"> Dragonborn</b></p>
 				<p><b>Mercenary Template</b>: DG4</p>
 				<p><b>Cost</b>: 50 Dvg (5.0e70)</p>
-				<p><b>Effect</b>: Increase assistants production based on time spent affiliated with Dragons.</p>
-				<p><b>Formula</b>: {0.75 * (x ^ 0.55)}% where x is amount of time spent with Dragons.</p>
+				<p><b>Effect</b>: Increase assistants additively and multiplicatively, and their production, based on time spent affiliated with Dragons.</p>
+				<p><b>Formula (Additive)</b>: +(60 * x ^ 0.4), where x is time spent as Dragons in seconds (All Time).</p>
+				<p><b>Formula (Multiplicative)</b>: (0.5 * x ^ 0.25)%, where x is time spent as Dragons in seconds (All Time).</p>
+				<p><b>Formula (Production)</b>: (0.8 * x ^ 0.4)%, where x is time spent as Dragons in seconds (All Time).</p>
+				<p><b>Note</b>: All formulas are unaffected by “Time counts more” effects.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/BountifulHoardFactionUpgrade.png" align="middle"> Bountiful Hoard</b></p>
 				<p><b>Mercenary Template</b>: DG5</p>
@@ -524,8 +528,8 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/SharpClawsFactionUpgrade.png" align="middle"> Sharp Claws</b></p>
 				<p><b>Mercenary Template</b>: DG6</p>
 				<p><b>Cost</b>: 5 Tvg (5e72 DC)</p>
-				<p><b>Effect</b>: Gain additional assistants based on clicks made in this game.</p>
-				<p><b>Formula</b>: (1.35 * x ^ 0.35), where x is clicks made in this game.</p>
+				<p><b>Effect</b>: Multiplicatively increase both Royal Exchange Bonus and Faction Coin find Chance based on Clicks made in this game.</p>
+				<p><b>Formula</b>: (0.8 * x ^ 0.4)%, where x is the number of Clicks this game.</p>
 				<hr>
 				<h6>Archon</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/Constellation.png" align="middle"> Constellation</b></p>
@@ -667,7 +671,7 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadFieldsFactionUpgrade.png" align="middle"> Dead Fields</b></p>
 				<p><b>Mercenary Template</b>: UD7</p>
 				<p><b>Cost</b>: 5 Qa (5e15)</p>
-				<p><b>Effect</b>: Buildings count 100% more.</p>
+				<p><b>Effect</b>: Buildings count 75% more.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/TirelessWorkersFactionUpgrade.png" align="middle"> Tireless Workers</b></p>
 				<p><b>Mercenary Template</b>: UD8</p>
@@ -791,21 +795,22 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/BladeDanceFactionUpgrade.png" align="middle"> Blade Dance</b></p>
 				<p><b>Mercenary Template</b>: DW9</p>
 				<p><b>Cost</b>: 50 Spd (5e55)</p>
-				<p><b>Effect</b>: Increase the production of all buildings based on Combo Strike casts in this game.</p>
-				<p><b>Formula</b>: (30 * x ^ 0.9), where x is Combo Strike casts in this game.</p>
+				<p><b>Effect</b>: Increase the production of all buildings based on Combo Strike counter in this game.</p>
+				<p><b>Formula</b>: (100 + 80 * x ^ 0.4)%, where x is your Combo Strike counter.</p>
 				<hr>
 				<h6>Dragon</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/AncientHungerFactionUpgrade.png" align="middle"> Ancient Hunger</b></p>
 				<p><b>Mercenary Template</b>: DG7</p>
 				<p><b>Cost</b>: 500 Tvg (5.0e74)</p>
-				<p><b>Effect</b>: Increase maximum mana based on the amount of Faction Coins found in this game.</p>
-				<p><b>Formula</b>: floor(45 * ln(1 + x) ^ 1.45) where x is amount of FCs found (This Game).</p>
+				<p><b>Effect</b>: Increase Maximum Mana additively and multiplicatively based on the amount of Faction Coins found in this game.</p>
+				<p><b>Formula (Additive)</b>: +(20 * ln(1 + x) ^ 2), where x is Faction Coins found this game.</p>
+				<p><b>Formula (Multiplicative)</b>: (0.75 * ln(1 + x) ^ 1.25)%, where x is Faction Coins found this game.</p>
 				<br/>
-				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ImposingPresenceFactionUpgrade.png" align="middle"> Imposing Presence</b></p>
+				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ImposingPresenceFactionUpgrade.png" align="middle"> Eternal Wisdom</b></p>
 				<p><b>Mercenary Template</b>: DG8</p>
 				<p><b>Cost</b>: 5 Qavg (5.0e75)</p>
-				<p><b>Effect</b>: Increase mana regeneration based on the amount of neutral buildings you own.</p>
-				<p><b>Formula</b>: (0.1 * floor(x ^ 0.5)) where x is amount of neutral buildings.</p>
+				<p><b>Effect</b>: Increase the production of all buildings based on Royal Exchange bonus.</p>
+				<p><b>Formula</b>: (1.5 * x ^ 0.95)%, where x is individual Royal Exchange bonus.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/ChromaticScalesFactionUpgrade.png" align="middle"> Chromatic Scales</b></p>
 				<p><b>Mercenary Template</b>: DG9</p>
@@ -862,8 +867,8 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/PastTrade.png" align="middle"> Past Trade</b></p>
 				<p><b>Mercenary Template</b>: MK8</p>
 				<p><b>Cost</b>: 100 TQig (1e164)</p>
-				<p><b>Effect</b>: Remove 1 Ascension penalty from Royal Exchange Overall Bonus.</p>
-				<p><b>Note</b>: Stacks with E1225 for no A-nerf.</p>
+				<p><b>Effect</b>: Multiplicatively increase production bonus from Gems based on the time spent on your longest game session in this Reincarnation.</p>
+				<p><b>Formula</b>: (0.65 * x ^ 0.65)%, where x is your longest game session this Reincarnation in seconds.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/StructuralStability.png" align="middle"> Structural Stability</b></p>
 				<p><b>Mercenary Template</b>: MK9</p>
@@ -1095,8 +1100,8 @@
 				<p><b>Mercenary Template</b>: DN11</p>
 				<p><b>Requirement</b>: R116+, Dwarven Union</p>
 				<p><b>Cost</b>: 100 Qitg (1e110)</p>
-				<p><b>Effect</b>: Increase the production of all buildings based on the highest between max mana and mana regeneration.</p>
-				<p><b>Formula</b>: (0.055 * max(x, y) ^ 0.55), where x is max mana and y is mana regen.</p>
+				<p><b>Effect</b>: Increase the production of all buildings based on the highest between Maximum Mana and Mana Regeneration.</p>
+				<p><b>Formula</b>: (2 * ln(1 + max(x,y)) ^ 2)%, where x is Maximum Mana and y is Mana Regeneration.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/RefinedMineralsUnionUpgrade3.png" align="middle"> Refined Minerals</b></p>
 				<p><b>Mercenary Template</b>: DN12</p>
@@ -1132,22 +1137,23 @@
 				<p><b>Mercenary Template</b>: DG10</p>
 				<p><b>Requirement</b>: R116+, Dragon Union</p>
 				<p><b>Cost</b>: 10 Dtg (1e100)</p>
-				<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on the highest amount of Dragon Pastures you built in this Reincarnation.</p>
-				<p><b>Formula</b>: (0.65 * x ^ 0.65)%, where x is the highest amount of Dragon Pastures you built in this Reincarnation.</p>
+				<p><b>Effect</b>: Multiplicatively increase Mana Regeneration and assistants based on the highest amount of Dragon Pastures you built in this Reincarnation.</p>
+				<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is the highest amount of Dragon Pastures owned this Reincarnation.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sRest.png" align="middle"> Wyrm's Rest</b></p>
 				<p><b>Mercenary Template</b>: DG11</p>
 				<p><b>Requirement</b>: R116+, Dragon Union</p>
 				<p><b>Cost</b>: 100 Qitg (1e110)</p>
-				<p><b>Effect</b>: Gain assistants based on the amount of time spent as Dragon this Reincarnation.</p>
-				<p><b>Formula</b>: (15 * x ^ 0.65), where x is time spent as Dragon this Reincarnation.</p>
+				<p><b>Effect</b>: Remove 1 Ascension penalty from Royal Exchange bonus. Also gives Dragon's Breath White Breath a multiplicative effect on Assistants based on time spent as Dragons.</p>
+        <p><b>Formula</b>: (3 * ln(1 + x) ^ 1.5)%, where x is time spent as Dragon this Reincarnation in seconds.</p>
+        <p><b>Note</b>: The multiplicative White Breath effect stacks multiplicatively with extra White Breaths.</p>
 				<br/>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/DraconicSupremacy.png" align="middle"> Draconic Supremacy</b></p>
 				<p><b>Mercenary Template</b>: DG12</p>
 				<p><b>Requirement</b>: R116+, Dragon Union</p>
 				<p><b>Cost</b>: 1 Notg (1e120)</p>
-				<p><b>Effect</b>: Increase the production of all buildings based on your max mana.</p>
-				<p><b>Formula</b>: (20 * ln(1 + x) ^ 2)%, where x is your maximum mana.</p>
+				<p><b>Effect</b>: Increase the production of all buildings based on your Maximum Mana.</p>
+				<p><b>Formula</b>: (20 * ln(1 + x) ^ 2)%, where x is your Maximum Mana.</p>
 				<hr>
 				<h6>Archon</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/PurityofForm.png" align="middle"> Purity of Form</b></p>

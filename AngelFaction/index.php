@@ -116,7 +116,7 @@
 		<p><b>Ascension 2 - R100+</b></p>
 		<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedAngelicHeritage.png" align="middle"> Advanced Angelic Heritage</b></p>
 		<p><b>Cost</b>: 1 Sp (1e24) Angel Coins</p>
-		<p><b>Requirements</b>: Angel Master trophy and 8 hours activity time (This Game) of God's Hand.</p>
+		<p><b>Requirements</b>: Angel Master trophy and 6 hours activity time (This Game) of God's Hand.</p>
 		<p><b>Effect</b>: Increase Mana Regeneration additively based on the amount of spells cast in this game.</p>
 		<p><b>Formula</b>: +(5 * x ^ 0.25), where x is spells cast this game.</p>
 		<p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
