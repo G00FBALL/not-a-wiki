@@ -32,7 +32,7 @@
             <th>Cost in Faction Coins</th>
         </tr>
         <tr class="calc">
-            <td><input id="reinc" type="number" min="16" max="238" style="text-align: center; background-color: #b3bcc6;" value="16"></td>
+            <td><input id="reinc" type="number" min="16" max="246" style="text-align: center; background-color: #b3bcc6;" value="16"></td>
             <td id="rp"></td>
             <td id="Coins"></td>
             <td id="Gems"></td>

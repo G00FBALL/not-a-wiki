@@ -606,7 +606,7 @@
 		<p><b>Hint</b>: Dwarven clicks!</p>
 		<p><b>Description</b>: Every dwarven child is required to bring this to school every day.</p>
 		<p><b>Requirement</b>: R240+, Dwarven Faction, 10,000+ Excavations (<b>currently BUGGED, NOT UNLOCKABLE</b>)</p>
-		<p><b>Chance</b>: (ln(1 + x) / 10,000)%, where x is your number of clicks in this Reincarnation.</p>
+		<p><b>Chance</b>: (log10(1 + x) / 10,000)%, where x is your number of clicks in this Reincarnation.</p>
 		<p><b>Dwarf Set 2nd Effect</b>: Multiplicatively increase Mana regen based on time spent in this game.</p>
 		<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your time spent in this game in seconds.</p>
 		<hr>
@@ -622,7 +622,7 @@
 		<p><b>Hint</b>: Draconic Assistants.</p>
 		<p><b>Description</b>: The ultimate thrill of the fight.</p>
 		<p><b>Requirement</b>: R220+, Dragon Faction, 10,000+ Excavations (<b>currently BUGGED, NOT UNLOCKABLE</b>)</p>
-		<p><b>Chance</b>: (ln(1 + x) / 10,000)%, where x is the highest amount of assistants you had in this Reincarnation.</p>
+		<p><b>Chance</b>: (log10(1 + x) / 10,000)%, where x is the highest amount of assistants you had in this Reincarnation.</p>
 		<p><b>Dragon Set 2nd effect</b>: All alignment spells gain 1 additional Tier and all spells activity time count more based on the amount of excavations you made, including resets.</p>
 		<p><b>Formula</b>: (0.25 * (x * (y + 1)) ^ 0.5)%, where x is the number of excavations made, and y is your number of resets in this game.</p>
 		<?php include "../scripts/footer.html"; ?>
