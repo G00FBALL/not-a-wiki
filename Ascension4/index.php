@@ -17,7 +17,6 @@
 		<p><b><font color="red">Make sure to have all trophies regarding them before ascending.<font></b></p>
 		</br>
 		<p>All Researches from A0 and A1 (Research number less than 5000) as well as normal Heritages will become inaccessible. This includes the Mercenary Badge.</p>
-		<p>Ascension 4 will give you access to Legacies.</p>
 		<hr>
 		<p>Faction Coin Costs of Faction Treaties are increased in A4.</p>
 		<table class="numtable" style="color: black;">
