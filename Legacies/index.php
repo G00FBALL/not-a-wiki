@@ -12,7 +12,7 @@
 		<p>With each Legacy Container you can choose a Legacy (equal to the set of 3 faction upgrades of the same tier) that doesn't match your current faction.</p>
 		<p>This unlocks those 3 faction upgrades for purchase for their normal coin cost (see faction upgrade costs at <a href="/realm/Ascension4" research="Ascension 4"><b>Ascension 4</b></a>).</p>
 		<p>You can purchase more Legacies for a progressively increasing cost.</p>
-		<p>The current limit is 4 Legacy Container - not including the special one granted by the Research Relativity (F11750).</p>
+		<p>The current limit is 9 Legacy Container - not including the special one granted by the Research Relativity (F11750).</p>
 		<p><b>Note</b>: While the Container from Relativity is free to purchase, the granted upgrades still have their normal coin cost. It also does not influence the cost of the other container.</p>
 		<p><b>Base Faction Legacies</b>:</p>
 		<p><b>Coin Cost</b>: (1e72 * (1,000 ^ (x ^ 2 - x))), where x is your current Legacy container.</p>
@@ -494,7 +494,7 @@
         <p><b>Effect</b>: Increases Royal Exchanges production bonus by an additional 100% each, and reduces Royal Exchange cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.09 isntead of 1.1.</p>
         <p></p>
 		<p><b>Oversized Legends</b></p>
-        <p><b>Effect</b>: Reduce Hall of Legends building cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
+        <p><b>Effect</b>: Reduce Hall of Legends building cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.14 instead of 1.15.</p>
         <p><b>Effect</b>: Also increase the production of assistants based on the amount of Halls of Legends built.</p>
         <p><b>Formula</b>: (6 * x ^ 0.6)%, where x is the amount of Hall of Legends built.</p>
 			" coords="130,370,184,424" shape="rect">

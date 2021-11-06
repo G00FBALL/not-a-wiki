@@ -20,7 +20,7 @@
 </br>
 <h6>Income Shift</h6>
 <p>Each Ascension reduces production boosts by raising the previous respective multiplier to the 1/10-th power, the so called <b>Ascension Penalty</b>, resulting in many 2-digit number bonuses in Ascension 1.<p>
-<p>For instance, the 15,000% of Fairy Workers (FR2) is a x151 multiplier; 151 ^ 0.1 = 1.652, so it is now giving a 65.2% increase in Ascension 1.</p>
+<p>For instance, the 10,000% of Fairy Workers (FR2) is a x101 multiplier; 101 ^ 0.1 = 1.586, so it is now giving a 58.6% increase in Ascension 1.</p>
 <p>Upgrades that increase something other than production of buildings, clicking reward or assistant production are not affected.</p>
 <p><b>Ascension Penalty Formula</b>:<br>(((x / 100 + 1) ^ (0.1 ^ A) - 1) * 100)%, where x is original bonus in percentage and A the number of Ascension Penalties applied.</p>
 </br>

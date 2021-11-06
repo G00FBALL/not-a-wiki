@@ -104,7 +104,7 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/OversizedLegendsFactionUpgrade.png" alt="Oversized Legends" align="middle"> Oversized Legends</b></p>
         <p><b>Cost</b>: 5 No (5e30)</p>
-        <p><b>Effect</b>: Reduce Hall of Legends building cost multiplier by 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
+        <p><b>Effect</b>: Reduce Hall of Legends building cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.14 instead of 1.15.</p>
         <p><b>Effect</b>: Also increase the production of assistants based on the amount of Halls of Legends built.</p>
         <p><b>Formula</b>: (6 * x ^ 0.6)%, where x is the amount of Hall of Legends built.</p>
         <hr>
