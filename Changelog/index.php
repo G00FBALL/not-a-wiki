@@ -7,7 +7,7 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.0, Oct 27, 2021, Halloween Event</a></b></p>
 			<div class="autohide">
-				<p>Global Reminder: the Halloween Event will be starting on Oct 29th 2021, 12.01 PM UTC and will end on Nov 5th 2021, 7.59 PM UTC.</p>
+				<p><b>Global Reminder</b>: the Halloween Event will be starting on Oct 29th 2021, 12.01 PM UTC and will end on Nov 5th 2021, 7.59 PM UTC.</p>
 				<p>ADDED A NEW HALLOWEEN FESTIVAL FEAT, unlocking a new upgrade.</p>
 				<p>PRESTIGE FACTIONS are now integrated into the Legacy System, available from Reincarnation 240.</p>
 				<p>TWO NEW RESEARCHES per branch.</p>
