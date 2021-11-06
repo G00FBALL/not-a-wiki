@@ -1,8 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+		"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-    <?php include "../scripts/header.html"; ?>
+	<?php include "../scripts/header.html"; ?>
 		<h6>Lineages</h6>
 		<p><b>Requirement</b>: R60+</p>
 		<p>At R60 you will unlock Lineages, which give powerful upgrades based on your chosen Bloodline in the form of perks, and will even allow you to use the spell of other Factions, provided you complete the respective lineage challenge.</p>
@@ -408,7 +408,7 @@
 		<p><b>Level 30</b></p>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/UndeadPerk4.png" align="middle"><b> Undead Perk 4</b></p>
 		<p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
-		<p><b>Effect</b>: Increase offline prodcution based on Night Time activity time in this game.</p>
+		<p><b>Effect</b>: Increase offline production based on Night Time activity time in this game.</p>
 		<p><b>Formula</b>: (7 * x ^ 0.7)%, where x is Night Time activity time this game.</p>
 		<br/>
 		<p><b>Level 40</b></p>

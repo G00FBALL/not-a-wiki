@@ -718,7 +718,7 @@
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/OversizedLegendsFactionUpgrade.png" align="middle"> Oversized Legends</b></p>
 				<p><b>Mercenary Template</b>: TT9</p>
 				<p><b>Cost</b>: 5 No (5e30)</p>
-				<p><b>Effect</b>: Reduce Hall of Legends building cost multiplierby 0.02; with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
+				<p><b>Effect</b>: Reduce Hall of Legends building cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.14 instead of 1.15.</p>
 				<p><b>Effect</b>: Also increases assistants production based on the amount of Hall of Legends you own. </p>
 				<p><b>Formula</b>: (6 * x ^ 0.6)%, where x is the amount of Hall of Legends you own.</p>
 				<hr>

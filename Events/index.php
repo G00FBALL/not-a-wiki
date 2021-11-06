@@ -43,7 +43,7 @@
 				var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
 				var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 				if (distance < 0) {
-					document.getElementById("end").innerHTML = "Ended";
+					document.getElementById("end").innerHTML = "Last Event has ended";
 					document.getElementById("start").innerHTML = "To be announced";
 				}
 				else
@@ -1013,7 +1013,7 @@
 						<p><b>Kind</b>: Monster</p>
 						<p><b>Level</b>: 50</p>
 						<p><b>Unlock / Price</b>: 2200 Blood</p>
-						<p><b>Effect</b>: Reduce the cost of faction spells by %75.</p>
+						<p><b>Effect</b>: Reduce the cost of faction spells by 75%.</p>
 						<br/>
 						<p><b><img src="/realm/Factions/picks/ShadowEmbrace.png" alt="ShadowEmbrace" align="middle"> Shadow Embrace</b></p>
 						<p><b>Requirement</b>: Level 10 Vampire Monster</p>
@@ -1048,7 +1048,7 @@
 						<p><b><img src="/realm/Factions/picks/WailoftheBanshee.png" alt="WailoftheBanshee" align="middle"> Wail of the Banshee</b></p>
 						<p><b>Requirement</b>: Level 10 Ghost Monster</p>
 						<p><b>Effect</b>: Increase the production of all buildings based on mana produced in this game and the amount of Reincarnations you made for 20 seconds.</p>
-						<p><b>Formula</b>: 0.2 * (R + 1) * x ^ 0.45, where R is reincarnation count and x is mana produced.</p>
+						<p><b>Formula</b>: (0.2 * (R + 1) * x ^ 0.45)%, where R is reincarnation count and x is mana produced this game.</p>
 						<hr>
 						<p><b><img src="/realm/Factions/picks/Skeleton.png" alt="Skeleton" align="middle"> Skeleton</b></p>
 						<p><b>Kind</b>: Monster</p>
@@ -1066,19 +1066,19 @@
 						<p><b>Level</b>: 25</p>
 						<p><b>Unlock / Price</b>: 660 Bones</p>
 						<p><b>Effect</b>: Increase Offline production bonus based on time spent with the faction you are affiliated with.</p>
-						<p><b>Formula</b>: x ^ 0.7</p>
+						<p><b>Formula</b>: (x ^ 0.7)%, where x is the time spent with the faction you are affiliated with.</p>
 						<p><b>Note</b>: Not affected by ascension penalties</p>
 						<br/>
 						<p><b><img src="/realm/Factions/picks/GiantSkeleton.png" alt="" align="middle"> Giant Skeleton</b></p>
 						<p><b>Kind</b>: Monster</p>
 						<p><b>Level</b>: 50</p>
 						<p><b>Unlock / Price</b>: 2200 Bones</p>
-						<p><b>Effect</b>: Triple your offline productions of clicks, mana, spells cast and spell activity time.</p>
+						<p><b>Effect</b>: Triple your offline productions of Faction Coins, clicks, mana, spells cast and spell activity time.</p>
 						<br/>
 						<p><b><img src="/realm/Factions/picks/Cannibalize.png" alt="Cannibalize" align="middle"> Cannibalize</b></p>
 						<p><b>Requirement</b>: Level 10 Skeleton Monster</p>
 						<p><b>Effect</b>: Increase Faction Coin find chance based on the total amount of Bones collected and the amount of Reincarnations you made for 20 seconds.</p>
-						<p><b>Formula</b>: ceil(0.75 * (R + 1) * x ^ 0.75), where R is Reincarnation count and x is bones collected.</p>
+						<p><b>Formula</b>: +(ceil(0.75 * (R + 1) * x ^ 0.75))%, where R is Reincarnation count and x is bones collected.</p>
 						<hr>
 						<p><b>Shop</b></p>
 						<p><b><img src="/realm/Factions/picks/HalloweenShop1.png" alt="Halloween" align="middle"> Shop 1</b></p>
@@ -2314,7 +2314,7 @@
 						<p><b>Kind</b>: Monster</p>
 						<p><b>Level</b>: 50</p>
 						<p><b>Unlock / Price</b>: 2200 Blood</p>
-						<p><b>Effect</b>: Reduce the cost of faction spells by %75.</p>
+						<p><b>Effect</b>: Reduce the cost of faction spells by 75%.</p>
 						<br/>
 						<p><b><img src="/realm/Factions/picks/ShadowEmbrace.png" alt="ShadowEmbrace" align="middle"> Shadow Embrace</b></p>
 						<p><b>Requirement</b>: Level 10 Vampire Monster</p>
@@ -2349,7 +2349,7 @@
 						<p><b><img src="/realm/Factions/picks/WailoftheBanshee.png" alt="WailoftheBanshee" align="middle"> Wail of the Banshee</b></p>
 						<p><b>Requirement</b>: Level 10 Ghost Monster</p>
 						<p><b>Effect</b>: Increase the production of all buildings based on mana produced in this game and the amount of Reincarnations you made for 20 seconds.</p>
-						<p><b>Formula</b>: 0.2 * (R + 1) * x ^ 0.45, where R is reincarnation count and x is mana produced.</p>
+						<p><b>Formula</b>: (0.2 * (R + 1) * x ^ 0.45)%, where R is reincarnation count and x is mana produced this game.</p>
 						<hr>
 						<p><b><img src="/realm/Factions/picks/Skeleton.png" alt="Skeleton" align="middle"> Skeleton</b></p>
 						<p><b>Kind</b>: Monster</p>
@@ -2367,19 +2367,19 @@
 						<p><b>Level</b>: 25</p>
 						<p><b>Unlock / Price</b>: 660 Bones</p>
 						<p><b>Effect</b>: Increase Offline production bonus based on time spent with the faction you are affiliated with.</p>
-						<p><b>Formula</b>: x ^ 0.7</p>
+						<p><b>Formula</b>: (x ^ 0.7)%, where x is the time spent with the faction you are affiliated with.</p>
 						<p><b>Note</b>: Not affected by ascension penalties</p>
 						<br/>
 						<p><b><img src="/realm/Factions/picks/GiantSkeleton.png" alt="" align="middle"> Giant Skeleton</b></p>
 						<p><b>Kind</b>: Monster</p>
 						<p><b>Level</b>: 50</p>
 						<p><b>Unlock / Price</b>: 2200 Bones</p>
-						<p><b>Effect</b>: Triple your offline productions of clicks, mana, spells cast and spell activity time.</p>
+						<p><b>Effect</b>: Triple your offline productions of Faction Coins, clicks, mana, spells cast and spell activity time.</p>
 						<br/>
 						<p><b><img src="/realm/Factions/picks/Cannibalize.png" alt="Cannibalize" align="middle"> Cannibalize</b></p>
 						<p><b>Requirement</b>: Level 10 Skeleton Monster</p>
 						<p><b>Effect</b>: Increase Faction Coin find chance based on the total amount of Bones collected and the amount of Reincarnations you made for 20 seconds.</p>
-						<p><b>Formula</b>: ceil(0.75 * (R + 1) * x ^ 0.75), where R is Reincarnation count and x is bones collected.</p>
+						<p><b>Formula</b>: +(ceil(0.75 * (R + 1) * x ^ 0.75))%, where R is Reincarnation count and x is bones collected.</p>
 						<hr>
 						<p><b>Shop</b></p>
 						<p><b><img src="/realm/Factions/picks/HalloweenShop1.png" alt="Halloween" align="middle"> Shop 1</b></p>
@@ -3569,7 +3569,7 @@
 						<p><b>Kind</b>: Monster</p>
 						<p><b>Level</b>: 50</p>
 						<p><b>Unlock / Price</b>: 2200 Blood</p>
-						<p><b>Effect</b>: Reduce the cost of faction spells by %75.</p>
+						<p><b>Effect</b>: Reduce the cost of faction spells by 75%.</p>
 						<br/>
 						<p><b><img src="/realm/Factions/picks/ShadowEmbrace.png" alt="ShadowEmbrace" align="middle"> Shadow Embrace</b></p>
 						<p><b>Requirement</b>: Level 10 Vampire Monster</p>
@@ -3622,19 +3622,19 @@
 						<p><b>Level</b>: 25</p>
 						<p><b>Unlock / Price</b>: 660 Bones</p>
 						<p><b>Effect</b>: Increase Offline production bonus based on time spent with the faction you are affiliated with.</p>
-						<p><b>Formula</b>: x ^ 0.7</p>
+						<p><b>Formula</b>: (x ^ 0.7)%, where x is the time spent with the faction you are affiliated with.</p>
 						<p><b>Note</b>: Not affected by ascension penalties</p>
 						<br/>
 						<p><b><img src="/realm/Factions/picks/GiantSkeleton.png" alt="" align="middle"> Giant Skeleton</b></p>
 						<p><b>Kind</b>: Monster</p>
 						<p><b>Level</b>: 50</p>
 						<p><b>Unlock / Price</b>: 2200 Bones</p>
-						<p><b>Effect</b>: Triple your offline productions of clicks, mana, spells cast and spell activity time.</p>
+						<p><b>Effect</b>: Triple your offline productions of Faction Coins, clicks, mana, spells cast and spell activity time.</p>
 						<br/>
 						<p><b><img src="/realm/Factions/picks/Cannibalize.png" alt="Cannibalize" align="middle"> Cannibalize</b></p>
 						<p><b>Requirement</b>: Level 10 Skeleton Monster</p>
 						<p><b>Effect</b>: Increase Faction Coin find chance based on the total amount of Bones collected and the amount of Reincarnations you made for 20 seconds.</p>
-						<p><b>Formula</b>: ceil(0.75 * (R + 1) * x ^ 0.75), where R is Reincarnation count and x is bones collected.</p>
+						<p><b>Formula</b>: +(ceil(0.75 * (R + 1) * x ^ 0.75))%, where R is Reincarnation count and x is bones collected.</p>
 						<hr>
 						<p><b>Shop</b></p>
 						<p><b><img src="/realm/Factions/picks/HalloweenShop1.png" alt="Halloween" align="middle"> Shop 1</b></p>
@@ -4796,7 +4796,7 @@
 						<p><b>Kind</b>: Monster</p>
 						<p><b>Level</b>: 50</p>
 						<p><b>Unlock / Price</b>: 2200 Blood</p>
-						<p><b>Effect</b>: Reduce the cost of faction spells by %75.</p>
+						<p><b>Effect</b>: Reduce the cost of faction spells by 75%.</p>
 						<br/>
 						<p><b><img src="/realm/Factions/picks/ShadowEmbrace.png" alt="ShadowEmbrace" align="middle"> Shadow Embrace</b></p>
 						<p><b>Requirement</b>: Level 10 Vampire Monster</p>
@@ -4849,19 +4849,19 @@
 						<p><b>Level</b>: 25</p>
 						<p><b>Unlock / Price</b>: 660 Bones</p>
 						<p><b>Effect</b>: Increase Offline production bonus based on time spent with the faction you are affiliated with.</p>
-						<p><b>Formula</b>: x ^ 0.7</p>
+						<p><b>Formula</b>: (x ^ 0.7)%, where x is the time spent with the faction you are affiliated with.</p>
 						<p><b>Note</b>: Not affected by ascension penalties</p>
 						<br/>
 						<p><b><img src="/realm/Factions/picks/GiantSkeleton.png" alt="" align="middle"> Giant Skeleton</b></p>
 						<p><b>Kind</b>: Monster</p>
 						<p><b>Level</b>: 50</p>
 						<p><b>Unlock / Price</b>: 2200 Bones</p>
-						<p><b>Effect</b>: Triple your offline productions of clicks, mana, spells cast and spell activity time.</p>
+						<p><b>Effect</b>: Triple your offline productions of Faction Coins, clicks, mana, spells cast and spell activity time.</p>
 						<br/>
 						<p><b><img src="/realm/Factions/picks/Cannibalize.png" alt="Cannibalize" align="middle"> Cannibalize</b></p>
 						<p><b>Requirement</b>: Level 10 Skeleton Monster</p>
 						<p><b>Effect</b>: Increase Faction Coin find chance based on the total amount of Bones collected and the amount of Reincarnations you made for 20 seconds.</p>
-						<p><b>Formula</b>: ceil(0.75 * (R + 1) * x ^ 0.75), where R is Reincarnation count and x is bones collected.</p>
+						<p><b>Formula</b>: +(ceil(0.75 * (R + 1) * x ^ 0.75))%, where R is Reincarnation count and x is bones collected.</p>
 					</div>
 				</div>
 				<div class="shelementwhole">
@@ -5683,7 +5683,7 @@
 						<p><b>Kind</b>: Monster</p>
 						<p><b>Level</b>: 50</p>
 						<p><b>Unlock / Price</b>: 2200 Blood</p>
-						<p><b>Effect</b>: Reduce the cost of faction spells by %75.</p>
+						<p><b>Effect</b>: Reduce the cost of faction spells by 75%.</p>
 						<p><b><img src="/realm/Factions/picks/ShadowEmbrace.png" alt="ShadowEmbrace" align="middle"> Shadow Embrace</b></p>
 						<p><b>Requirement</b>: Level 10 Vampire Monster</p>
 						<p><b>Effect</b>: Increase the size of your assistant army based on the amount of Reincarnations you made for 20 seconds. Increases progressively as you continue casting this spell.</p>
@@ -5713,7 +5713,7 @@
 						<p><b><img src="/realm/Factions/picks/WailoftheBanshee.png" alt="WailoftheBanshee" align="middle"> Wail of the Banshee</b></p>
 						<p><b>Requirement</b>: Level 10 Ghost Monster</p>
 						<p><b>Effect</b>: Increase the production of all buildings based on mana produced in this game and the amount of Reincarnations you made for 20 seconds.</p>
-						<p><b>Formula</b>: 0.2 * (R + 1) * x ^ 0.45, where R is reincarnation count and x is mana produced.</p>
+						<p><b>Formula</b>: (0.2 * (R + 1) * x ^ 0.45)%, where R is reincarnation count and x is mana produced this game.</p>
 						<hr>
 						<p><b><img src="/realm/Factions/picks/Skeleton.png" alt="Skeleton" align="middle"> Skeleton</b></p>
 						<p><b>Kind</b>: Monster</p>
@@ -5729,17 +5729,17 @@
 						<p><b>Level</b>: 25</p>
 						<p><b>Unlock / Price</b>: 660 Bones</p>
 						<p><b>Effect</b>: Increase Offline production bonus based on time spent with the faction you are affiliated with.</p>
-						<p><b>Formula</b>: x ^ 0.7</p>
+						<p><b>Formula</b>: (x ^ 0.7)%, where x is the time spent with the faction you are affiliated with.</p>
 						<p><b>Note</b>: Not affected by ascension penalties</p>
 						<p><b><img src="/realm/Factions/picks/GiantSkeleton.png" alt="" align="middle"> Giant Skeleton</b></p>
 						<p><b>Kind</b>: Monster</p>
 						<p><b>Level</b>: 50</p>
 						<p><b>Unlock / Price</b>: 2200 Bones</p>
-						<p><b>Effect</b>: Triple your offline productions of clicks, mana, spells cast and spell activity time.</p>
+						<p><b>Effect</b>: Triple your offline productions of Faction Coins, clicks, mana, spells cast and spell activity time.</p>
 						<p><b><img src="/realm/Factions/picks/Cannibalize.png" alt="Cannibalize" align="middle"> Cannibalize</b></p>
 						<p><b>Requirement</b>: Level 10 Skeleton Monster</p>
 						<p><b>Effect</b>: Increase Faction Coin find chance based on the total amount of Bones collected and the amount of Reincarnations you made for 20 seconds.</p>
-						<p><b>Formula</b>: ceil(0.75 * (R + 1) * x ^ 0.75), where R is Reincarnation count and x is bones collected.</p>
+						<p><b>Formula</b>: +(ceil(0.75 * (R + 1) * x ^ 0.75))%, where R is Reincarnation count and x is bones collected.</p>
 						<hr>
 					</div>
 				</div>
@@ -6497,8 +6497,8 @@
 						<p><b>Effect</b>: All productive clicks benefit from a 10 times greater Faction Coin find chance.</p>
 						<p><b><img src="/realm/Factions/picks/WailoftheBanshee.png" alt="WailoftheBanshee" align="middle"> Wail of the Banshee</b></p>
 						<p><b>Requirement</b>: Level 10 Ghost Monster</p>
-						<p><b>Effect</b>: Increase the production of all buildings based on mana produced in this game for 20 seconds.</p>
-						<p><b>Formula</b>: 0.2 * (R + 1) * x ^ 0.45</p>
+						<p><b>Effect</b>: Increase the production of all buildings based on mana produced in this game and the amount of Reincarnations you made for 20 seconds.</p>
+						<p><b>Formula</b>: (0.2 * (R + 1) * x ^ 0.45)%, where R is reincarnation count and x is mana produced this game.</p>
 						<hr>
 						<p><b><img src="/realm/Factions/picks/Skeleton.png" alt="Skeleton" align="middle"> Skeleton</b></p>
 						<p><b>Kind</b>: Monster</p>
@@ -6514,7 +6514,7 @@
 						<p><b>Level</b>: 25</p>
 						<p><b>Unlock / Price</b>: 660 Bones</p>
 						<p><b>Effect</b>: Increase Offline production bonus based on time spent with the faction you are affiliated with.</p>
-						<p><b>Formula</b>: x ^ 0.7</p>
+						<p><b>Formula</b>: (x ^ 0.7)%, where x is the time spent with the faction you are affiliated with.</p>
 						<p><b><img src="/realm/Factions/picks/GiantSkeleton.png" alt="" align="middle"> Giant Skeleton</b></p>
 						<p><b>Kind</b>: Monster</p>
 						<p><b>Level</b>: 50</p>
@@ -6522,8 +6522,8 @@
 						<p><b>Effect</b>: Double your offline productions of clicks, mana, spells cast and spell activity time.</p>
 						<p><b><img src="/realm/Factions/picks/Cannibalize.png" alt="Cannibalize" align="middle"> Cannibalize</b></p>
 						<p><b>Requirement</b>: Level 10 Skeleton Monster</p>
-						<p><b>Effect</b>: Increase Faction Coin find chance based on the total amount of Bones collected for 20 seconds.</p>
-						<p><b>Formula</b>: ceil(0.75 * (R + 1) * x ^ 0.75)</p>
+						<p><b>Effect</b>: Increase Faction Coin find chance based on the total amount of Bones collected and the amount of Reincarnations you made for 20 seconds.</p>
+						<p><b>Formula</b>: +(ceil(0.75 * (R + 1) * x ^ 0.75))%, where R is Reincarnation count and x is bones collected.</p>
 						<hr>
 					</div>
 				</div>
