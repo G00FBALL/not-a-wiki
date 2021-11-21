@@ -65,17 +65,15 @@
                 } else {
                     $('#gem').html((((1 + 8e-12 * cost) ** 0.5 - 1) * 0.5).toExponential(2));
                 }
+		if (asc < 4) {
+			document.getElementById("Ascension").innerHTML = "E290";
+		} else {
+			document.getElementById("Ascension").innerHTML = "E13125";
+		}
             }
             rubcalc();
             $('#rubcalc').on('input', rubcalc);
             $('#rubcalc :checkbox').on('change', rubcalc);
-		if (asc < 4) {
-					document.getElementById("Ascension").innerHTML = "E290";
-				}
-				else
-				{
-					document.getElementById("Ascension").innerHTML = "E13125";
-				}
         </script>
     </div>
     <p>The formula for the number of excavations required for each ruby is (25 * n * (n + 1), where n is the number of rubies.</p>
