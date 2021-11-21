@@ -1287,7 +1287,7 @@
 								<center>Uniformity</p><img src="http://musicfamily.org/realm/Factions/picks/UniformitySecretTrophy.png"></td>
 							<td>100 Qid (1e50)</td>
 							<td>Have no less than 3 days of playtime this R with at least 24 hours each Order, Chaos and Balance and have less than 1 minute of playtime between them. (This R)</td>
-							<td>Increases the production of all buildings based on time spent as least used alignment (this Reincarnation).</p>Formula: (0.75 * x ^ 0.75)%, where x is the time spent with your least used alignment (primary or secondary) in seconds.</td>
+							<td>Increases the production of all buildings based on time spent as least used alignment (this Reincarnation).</p>Formula: (x ^ 0.75)%, where x is the time spent with your least used alignment (primary or secondary) in seconds.</td>
 							<td></td>
 						</tr>
 					</tbody>
