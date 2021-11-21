@@ -27,7 +27,7 @@
             </tr>
             <tr>
 		<td><input id="rub" type="number" min="1" max="99" value="1"></td>
-		<td><label><input id="E290" type="checkbox"></label></td>
+		<td><label><input id="Research" type="checkbox"></label></td>
 		<td><label><input id="DN8" type="checkbox"></label></td>
                 <td><label><input id="eas" type="checkbox"></label></td>
                 <td><input id="maker" type="number" step="0.001" min="0.000" max="0.100" value="0.000"></td>
@@ -69,7 +69,7 @@
             rubcalc();
             $('#rubcalc').on('input', rubcalc);
             $('#rubcalc :checkbox').on('change', rubcalc);
-		if (asc > 3) {
+		if (asc < 4) {
 					document.getElementById("Ascension").innerHTML = "E290";
 				}
 				else
