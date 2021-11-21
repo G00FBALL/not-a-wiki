@@ -1,8 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+		"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-    <?php include "../scripts/header.html"; ?>
+	<?php include "../scripts/header.html"; ?>
 		<h6>Lineages</h6>
 		<p><b>Requirement</b>: R60+</p>
 		<p>At R60 you will unlock Lineages, which give powerful upgrades based on your chosen Bloodline in the form of perks, and will even allow you to use the spell of other Factions, provided you complete the respective lineage challenge.</p>
@@ -245,7 +245,7 @@
 		<p><img src="http://musicfamily.org/realm/Factions/picks/FairyPerk4.png" align="middle"><b> Fairy Perk 4</b></p>
 		<p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
 		<p><b>Effect</b>: While Fairy Chanting is active, further increase your temporary assistants based on its duration.</p>
-		<p><b>Formula</b>: (2.5 * x ^ 0.5)%, where x is Fairy Chanting duration in seconds.</p>
+		<p><b>Formula</b>: (2.5 * x ^ 0.25)%, where x is Fairy Chanting duration in seconds.</p>
 		<br/>
 		<p><b>Level 40</b></p>
 		<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyPerk5.png" align="middle"> Fairy Perk 5</b></p>
@@ -408,7 +408,7 @@
 		<p><b>Level 30</b></p>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/UndeadPerk4.png" align="middle"><b> Undead Perk 4</b></p>
 		<p><b>Requirement</b>: A2+, Reach Lineage Level 30.</p>
-		<p><b>Effect</b>: Increase offline prodcution based on Night Time activity time in this game.</p>
+		<p><b>Effect</b>: Increase offline production based on Night Time activity time in this game.</p>
 		<p><b>Formula</b>: (7 * x ^ 0.7)%, where x is Night Time activity time this game.</p>
 		<br/>
 		<p><b>Level 40</b></p>
@@ -609,7 +609,7 @@
 		<p><img src="http://musicfamily.org/realm/Factions/picks/DwarfPerk3.png" align="middle"><b> Dwarven Perk 3</b></p>
 		<p><b>Requirement</b>: Reach Lineage Level 20</p>
 		<p><b>Effect</b>: Excavations and Artifacts count more based on the amount of Unique Buildings you own.</p>
-		<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is the amount of Unique Buildings you own.</p>
+		<p><b>Formula</b>: (0.58 * x ^ 0.58)%, where x is the number of Unique Buildings you own.</p>
 		<br/>
 		<p><img src="http://musicfamily.org/realm/Factions/picks/DwarfGrandChampionTrophy.png" align="middle"> <b>Dwarven Grand Champion Trophy</b></p>
 		<p><b>Requirement</b>: Upgrade Dwarven Lineage to level 20 and purchase 3 Dwarven Lineage perks.</p>

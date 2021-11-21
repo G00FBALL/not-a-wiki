@@ -117,7 +117,7 @@
         <p><b>Ascension 2 - R100+</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedElvenHeritage.png" align="middle"> Advanced Elven Heritage</b></p>
         <p><b>Cost</b>: 1 Sp (1e24) Elven Coins</p>
-        <p><b>Requirements</b>: Elven Master trophy and 8 hours activity time (This Game) of Moon Blessing.</p>
+        <p><b>Requirements</b>: Elven Master trophy and 6 hours activity time (This Game) of Moon Blessing.</p>
         <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the amount of clicks made in this Reincarnation.</p>
         <p><b>Formula</b>: (0.25 * ln(1 + x) ^ 2)%, where x is amount of clicks this Reincarnation.</p>
         <p><b>Note</b>: When using their lineage, Advanced Heritage powers are multiplied by the level of the lineage.</p>
@@ -146,8 +146,8 @@
         <p><b>Requirement</b>: Arboreal City Unique Building</p>
         <p><b>Effect Requirement</b>: R111+</p>
         <p><b>Effect</b>: Grants access to Union Upgrades.</p>
-        <p><b>Effect</b>: Increase click production based on faction coins found this Reincarnation.</p>
-        <p><b>Formula</b>: (3 * ln(1 + x) ^ 3)%, where x is Faction Coins found this Reincarnation.</p>
+        <p><b>Effect</b>: Increase click production based on Faction Coins found this Reincarnation.</p>
+        <p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is your Faction Coins found this Reincarnation.</p>
         <p><b>Effect</b>: Also autoclicks 10 times per second.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" alt="Wooden Dices" align="middle"> <b>Wooden Dice</b></p>

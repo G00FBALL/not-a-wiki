@@ -55,7 +55,6 @@
                     <p id="R120NEMPro"></p>
 					<p id="R150CTABoost"></p>
 					<p id="R170ResBudget"></p>
-					<p id="R180NEMPro"></p>
 					<p id="R210NEMPro"></p>
                     <p id="RNex"></p>
                     <p id="RUnl"></p>
@@ -169,10 +168,6 @@
 				[ 170, 999, '#R170ResBudget', false, 0
                 , function(rei) {return rei + 1;}
                 , function(rei, bonus) {return 'Increases research budget by 3,000 in each branch.';}
-                ],
-				[ 180, 999, '#R180NEMPro', true, 1
-                , function(rei) {return 150 * rei;}
-                , function(rei, bonus) {return 'Increase the production of all buildings based on Reincarnations made by ' + bonus + '%.';}
                 ],
 				[ 210, 999, '#R210NEMPro', true, 1
                 , function(rei) {return 300 * rei;}
@@ -417,9 +412,6 @@
                 <br/>
 				<p><b>170th Reincarnation and up</b></p>
                 <p><b>Effect</b>: Increases research budget by +3,000 in each branch.</p>
-                <br/>
-				<p><b>180th Reincarnation and up</b></p>
-                <p><b>Effect</b>: Increase the production of all buildings by (150 * x)%.</p>
                 <br/>
 				<p><b>210th Reincarnation and up</b></p>
                 <p><b>Effect</b>: Increase the production of all buildings by (300 * x)%.</p>

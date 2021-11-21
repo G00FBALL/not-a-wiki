@@ -38,7 +38,7 @@
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DevilTyrantFactionUpgrade.png" align="middle"> Devil Tyrant</b></p>
         <p><b>Cost</b>: 500 M (5e8)</p>
         <p><b>Effect</b>: The three highest building tiers count more based on time spent as Evil in this Reincarnation.</p>
-        <p><b>Formula</b>: (0.4 * x ^ 0.6)%, where x is time spent as Evil this Reincarnation.</p>
+        <p><b>Formula</b>: (1.2 * x ^ 0.4)%, where x is time spent as Evil this Reincarnation.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/EvilConquerorsFactionUpgrade.png" align="middle"> Evil Conquerors</b></p>
         <p><b>Cost</b>: 5 B (5e9)</p>
@@ -52,14 +52,14 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/LavaPitsFactionUpgrade.png" align="middle"> Lava Pits</b></p>
         <p><b>Cost</b>: 500 B (5e11)</p>
-		<p><b>Effect</b>: Increase the base production of Evil Fortresses by +200,000 and Hell Portals by +2,000,000.</p>
-		<p><b>Effect</b>: Your playtime in this game counts more by 6 additional hours.</p>
+		    <p><b>Effect</b>: Increase the base production of Evil Fortresses by +200,000 and Hell Portals by +2,000,000.</p>
+        <p><b>Effect</b>: Your playtime in this game counts more by 6 additional hours.</p>
 
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonOverseersFactionUpgrade.png" align="middle"> Demon Overseers</b></p>
         <p><b>Cost</b>: 5 T (5e12)</p>
         <p><b>Effect</b>: Increase the production of the three highest building tiers based on the amount of Trophies you unlocked.</p>
-		<p><b>Formula</b>: (2 * x ^ 0.8)%, where x is the amount of trophies unlocked.</p>
+        <p><b>Formula</b>: (2 * x ^ 0.8)%, where x is the amount of trophies unlocked.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonicPresenceFactionUpgrade.png" align="middle"> Demonic Presence</b></p>
         <p><b>Cost</b>: 50 T (5e13)</p>
@@ -73,9 +73,9 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/InfernalMagicFactionUpgrade.png" align="middle"> Infernal Magic</b></p>
         <p><b>Cost</b>: 5 Qa (5e15)</p>
- 		<p><b>Effect</b>: Hell Portals also increase your Mana Regeneration rate.</p>
-		<p><b>Formula</b>: +(3.5 * x ^ 0.35), where x is the amount of Hell Portals you own.</p>
-		<br/>
+   		  <p><b>Effect</b>: Hell Portals also increase your Mana Regeneration rate.</p>
+  		  <p><b>Formula</b>: +(3.5 * x ^ 0.35), where x is the amount of Hell Portals you own.</p>
+    		<br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/BurningLegionFactionUpgrade.png" align="middle"> Burning Legion</b></p>
         <p><b>Cost</b>: 50 Qa (5e16)</p>
         <p><b>Effect</b>: You gain assistants based on the amount of Hell Portals you own.</p>
@@ -115,7 +115,7 @@
         <hr>
         <p><b>Ascension 2 - R100+</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDemonicHeritage.png" align="middle"> Advanced Demonic Heritage</b></p>
-        <p><b>Requirements</b>: Demon Master trophy and 8 hours activity time (This Game) of Hellfire Blast.</p>
+        <p><b>Requirements</b>: Demon Master trophy and 6 hours activity time (This Game) of Hellfire Blast.</p>
         <p><b>Cost</b>: 1 Sp (1e24) Demon Coins</p>
         <p><b>Effect</b>: Increase the production of all buildings based on trophies unlocked.</p>
         <p><b>Formula</b>: (0.25 * x ^ 0.75)%, where x is amount of trophies unlocked.</p>

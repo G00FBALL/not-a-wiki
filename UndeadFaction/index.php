@@ -71,7 +71,7 @@
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/DeadFieldsFactionUpgrade.png" align="middle"> Dead Fields</b></p>
         <p><b>Cost</b>: 5 Qa (5e15)</p>
-        <p><b>Effect</b>: Buildings count 100% more.</p>
+        <p><b>Effect</b>: Buildings count 75% more.</p>
         <br/>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/TirelessWorkersFactionUpgrade.png" align="middle"> Tireless Workers</b></p>
         <p><b>Cost</b>: 50 Qa (5e16)</p>
@@ -114,7 +114,7 @@
         <hr>
         <p><b>Ascension 2 - R100+</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedUndeadHeritage.png" align="middle"> Advanced Undead Heritage</b></p>
-        <p><b>Requirements</b>: Undead Master trophy and 8 hours activity time (This Game) of Night Time.</p>
+        <p><b>Requirements</b>: Undead Master trophy and 6 hours activity time (This Game) of Night Time.</p>
         <p><b>Cost</b>: 1 Sp (1e24) Undead Coins</p>
         <p><b>Effect</b>: Assistants count more based on your offline bonus.</p>
         <p><b>Formula</b>: (0.025 * ln(1 + x) ^ 2)%, where x is offline bonus multiplier.</p>
@@ -144,8 +144,8 @@
         <p><b>Requirement</b>: Flesh Workshop Unique Building</p>
         <p><b>Cost</b>: 1 Qi (1e18) Undead Coins</p>
         <p><b>Effect Requirement</b>: R111+</p>
-        <p><b>Effect</b>: Increase the production of Unique Buildings based on your Offline Bonus.</p>
-        <p><b>Formula</b>: (100 * ln(1 + x) ^ 2.25)%, where x is offline bonus multiplier.</p>
+        <p><b>Effect</b>: Increase the production of Unique Buildings based on your Offline production.</p>
+        <p><b>Formula</b>: (360 * ln(1 + x) ^ 2.8)%, where x is your Offline production.</p>
         <p><b>Effect</b>: Grants access to Union Upgrades.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/FleshServants.png" alt="Flesh Servants" align="middle"> <b>Flesh Servants</b></p>

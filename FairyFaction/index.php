@@ -115,7 +115,7 @@
         <hr>
         <p><b>Ascension 2 - R100+</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedFairyHeritage.png" align="middle"> Advanced Fairy Heritage</b></p>
-        <p><b>Requirements</b>: Fairy Master trophy and 8 hours activity time this game of Fairy Chanting.</p>
+        <p><b>Requirements</b>: Fairy Master trophy and 6 hours activity time this game of Fairy Chanting.</p>
         <p><b>Cost</b>: 1 Sp (1e24) Fairy Coins</p>
         <p><b>Effect</b>: Gain assistants based on amount of Farms, Inns and Blacksmiths (additive).</p>
         <p><b>Formula</b>: +(2 * x ^ 0.8), where x is amount of Farms, Inns and Blacksmiths you own.</p>

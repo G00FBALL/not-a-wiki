@@ -22,22 +22,29 @@
 					<p><b>Bloodline</b>: Fairy (<b>Ignore if you don't have Bloodline</b>)</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="FR2,FR7,EL5,GB1,TT7,DD1,DD6,DD7,FC4,DN3,DN4,DW7,SP:Fairy Chanting,SP:God's Hand">
+						<input type="text" value="FR2,FR7,EL5,GB1,TT1,TT7,DD1,DD6,DD7,FC4,DN4,DW7,SP:Fairy Chanting,SP:God's Hand">
 					</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="FR2,EL5,GB1,TT7,DD1,DD6,DD7,FC4,DN3,DN4,DN8,DW7,SP:Fairy Chanting,SP:God's Hand">
-						<b>For maxing excavations</b>
+						<input type="text" value="FR2,EL5,GB1,TT7,DD1,DD6,DD7,FC3,FC4,DN4,DN8,DW7,SP:Fairy Chanting,SP:God's Hand">
+						<b>FC3 is 120%</b>
 					</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="FR2,GB1,UD7,TT7,DD1,DD6,DD7,FC4,DN3,DN4,DW5,DW7,SP:Fairy Chanting,SP:God's Hand">
+						<input type="text" value="FR2,GB1,UD7,TT1,TT7,DD1,DD6,DD7,FC4,DN4,DW5,DW7,SP:Fairy Chanting,SP:God's Hand">
 						<b>DW5 is buffed</b>
 					</p>
-					<p>FR2,FR7,EL5,GB1,TT7,DD1,DD6,DD7,FC4,DN3,DN4,DW7,</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="FR2,GB1,UD7,TT7,DD1,DD6,DD7,FC3,FC4,DN4,DW5,DW7,SP:Fairy Chanting,SP:God's Hand">
+						<b>FC3 is 120%, DW5 is buffed</b>
+					</p>
+					<p>FR2,FR7,EL5,GB1,TT1,TT7,DD1,DD6,DD7,FC4,DN4,DW7,</p>
 					<p>SP:Fairy Chanting,SP:God's Hand</p>
+					<p><b>Note</b>: Remember to get the <b>Know Your Enemy Part I</b> Artifact in R12.</p>
+					<p><b>Note</b>: Swap TT1->FC3 if FC3 is 120% or higher (requires 1.5 hours longest session this R).</p>
 					<p><b><font color="DarkRed"> When build slows down:</font></b></p>
-					<p><b>Note</b>: Max your excavations (get your excavation count to as high as possible): Swap FR7->DN8.</p>
+					<p><b>Note</b>: Max your excavations (get your excavation count to as high as possible): Swap FR7 (or UD7)->DN8.</p>
 					<p><b>Note</b>: Excavations count of 1600-1700 is recommended for R15 & R16.</p>
 					<p><b>Note</b>: Buff DW5 (Blood Sacrifices) with Versatile Builder (see below), then swap EL5->DW5 and FR7->UD7.</p>
 				</div>
@@ -64,7 +71,7 @@
 					<p><b>Template</b></p>
 					<p>FR2,EL5,AN6,GB1,UD7,DM3,TT7,DD1,FC4,FC7,DN4,DW7,</p>
 					<p>SP:Fairy Chanting,SP:God's Hand</p>
-					<p><b>Note</b>: This build is for getting <b>Harlequin</b> at R3 and <b>Know Your Enemy Lore Artifact</b> at R12+</p>
+					<p><b>Note</b>: This build is for getting <b>Harlequin</b> in R3 and <b>Know Your Enemy Lore Artifact</b> in R12+</p>
 					<p><b>Note</b>: If excavation cost is too high, swap AN6->AN2, DD1->DD6, and FC7->DN8.</p>
 				</div>
 			</div>
@@ -97,9 +104,9 @@
 					<p><b>Template</b></p>
 					<p>AN1,GB1,GB5,UD7,TT2,TT7,DD4,DD6,FR9,DN2,DN4,DW7,</p>
 					<p>SP:Fairy Chanting,SP:Moon Blessing</p>
-					<p><b>Note</b>: This build is for getting the Coin Pillage & Mana Waste trophies and excavating Power Orb in R3, and getting Autocasting upgrades in R7+.</p>
+					<p><b>Note</b>: This build is for getting the Coin Pillage trophy, Mana Waste trophy & excavating Power Orb in R3 and getting Autocasting upgrades in R7+.</p>
 					<p><b>Note</b>: Buff DD4 with Versatile Builder (see below) before running this build is recommended.</p>
-					<p><b>Note</b>: If going for Mana Waste, don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes Druid Heritage, Mana Matrix, Premeditation and Ruby Power or Reincarnation power if they increase max mana.</p>
+					<p><b>Note</b>: If going for Mana Waste, don't buy anything that increases max mana aside from Helden Sterben Nicht. This includes DD4, Druid Heritage, Mana Matrix, Premeditation and Ruby Power or Reincarnation power if they increase max mana.</p>
 				</div>
 			</div>
 			<div class="shelementwhole">

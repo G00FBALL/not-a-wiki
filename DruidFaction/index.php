@@ -150,7 +150,7 @@
         <hr>
         <p><b>Ascension 2 - R100+</b></p>
         <p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDruidHeritage.png" align="middle"> Advanced Druid Heritage</b></p>
-        <p><b>Requirements</b>: Druid Master trophy and 8 hours activity time (This Game) of Grand Balance.</p>
+        <p><b>Requirements</b>: Druid Master trophy and 6 hours activity time (This Game) of Grand Balance.</p>
         <p><b>Cost</b>: 1 Sp (1e24) Elven and Demon Coins</p>
         <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells durations.</p>
         <p><b>Formula</b>: (9 * x ^ 0.3)%, where x is the sum of all your spell durations.</p>
@@ -180,7 +180,7 @@
         <p><b>Cost</b>: 1 Qi (1e18) Elven and Demon Coins</p>
         <p><b>Effect Requirement</b>: R111+</p>
         <p><b>Effect</b>: Increase the production of Non-Unique buildings based on your total Lineage level and the maximum amount of Grand Balance targets.</p>
-        <p><b>Formula</b>: (5 * ((x * y) / 2.5))%, where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
+        <p><b>Formula</b>: (3 * x ^ 1.03 * y ^ 1.5)%, where x is total Lineage levels and y is amount of buildings targeted by Grand Balance (maximum is 11).</p>
         <p><b>Effect</b>: Grants access to Union Upgrades.</p>
         <br/>
         <p><img src="http://musicfamily.org/realm/Factions/picks/BuildingVines.png" alt="Building Vines" align="middle"> <b>Building Vines</b></p>

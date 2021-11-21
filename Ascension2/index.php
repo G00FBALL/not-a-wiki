@@ -94,7 +94,7 @@
 <p><b>Cost</b>: 1 Qi (1e18) Undead Coins</p>
 <p><b>Effect Requirement</b>: R111+</p>
 <p><b>Effect</b>: Increase the production of Unique Buildings based on your Offline Bonus.</p>
-<p><b>Formula</b>: (100 * ln(1 + x) ^ 2.25)%, where x is offline bonus multiplier.</p>
+<p><b>Formula</b>: (360 * ln(1 + x) ^ 2.8)%, where x is your Offline production.</p>
 <p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FleshServants.png" alt="Flesh Servants" align="middle"> <b>Flesh Servants</b></p>
@@ -354,8 +354,8 @@
 <p><b>Requirement</b>: Arboreal City Unique Building</p>
 <p><b>Effect Requirement</b>: R111+</p>
 <p><b>Effect</b>: Grants access to Union Upgrades.</p>
-<p><b>Effect</b>: Increase click production based on faction coins found this Reincarnation.</p>
-<p><b>Formula</b>: (3 * ln(x) ^ 3)%, where x is Faction Coins found this Reincarnation.</p>
+<p><b>Effect</b>: Increase click production based on Faction Coins found this Reincarnation.</p>
+<p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is your Faction Coins found this Reincarnation.</p>
 <p><b>Effect</b>: Also autoclicks 10 times per second.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/WoodenDices.png" alt="Wooden Dices" align="middle"> <b>Wooden Dice</b></p>
@@ -451,7 +451,7 @@
 <p><b>Cost</b>: 1 Qi (1e18) Elven and Demon Coins</p>
 <p><b>Effect Requirement</b>: R111+</p>
 <p><b>Effect</b>: Increase the production of Non-Unique buildings based on your total Lineage level and the maximum amount of Grand Balance targets.</p>
-<p><b>Formula</b>: (5 * ((x * y) / 2.5)), where x is total Lineage levels and y is amount of buildings targeted by Grand Balance.</p>
+<p><b>Formula</b>: (3 * x ^ 1.03 * y ^ 1.5)%, where x is total Lineage levels and y is amount of buildings targeted by Grand Balance (maximum is 11).</p>
 <p><b>Effect</b>: Grants access to Union Upgrades.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/BuildingVines.png" alt="Building Vines" align="middle"> <b>Building Vines</b></p>
@@ -549,10 +549,10 @@
 <p><b>Formula</b>: (0.1 * x ^ 0.85)%, where x is your Maximum Mana.</p>
 <br/>
 <p><b>Proof of Balance</b>: Multiplicatively Increase Maximum Mana based on Tax Collections cast this game.<p>
-<p><b>Formula</b>: (0.07 * ln(1 + x) ^ 2.7)%, where x is Tax Collections cast this game.</p>
+<p><b>Formula</b>: (0.05 * ln(1 + x) ^ 2.5)%, where x is Tax Collections cast this game.</p>
 <br/>
 <p><b>Proof of Chaos</b>: Increase the production of a specific building tier, depending on the amount of buildings you own, based on time spent offline in this Reincarnation.</p>
-<p><b>Production Formula</b>: (8 * x ^ 0.8)%, where x is time offline this Reincarnation.</</p>
+<p><b>Production Formula</b>: (0.666 * x ^ 0.666)%, where x is time spent offline this Reincarnation in seconds.</p>
 <p><b>Chosen Building Tier Formula</b>: (1 + x % 11), where x is total building count this game (unaffected by count more upgrades).</p>
 <br/>
 <p><b>Union Upgrades</b></p>
@@ -598,21 +598,22 @@
 <p><b>Formula</b>: (7 * x ^ 0.7), where x is time spent as Order this R.</p>
 <br/>
 <p><b>Proof of Balance</b>: Multiplicatively increase max mana based on your current Lineage level.</p>
-<p><b>Formula</b>: (1.3 * x ^ 1.3), where x is Lineage level.</p>
+<p><b>Formula</b>: (7 * x ^ 0.9)%, where x is your current Lineage level.</p>
 <br/>
-<p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend on (ln(x)) where x is FC chance (even for Unique, odd for Non-Unique).</p>
-<p><b>Formula</b>: Non-Unique (0.2 * x ^ 0.8), where x is assistant count.</p>
-<p><b>Formula</b>: Unique (0.6 * x ^ 0.6), where x is assistant count.</p>
+<p><b>Proof of Chaos</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend on floor(ln(1+x)) where x is FC chance (even for Unique, odd for Non-Unique).</p>
+<p><b>Formula (Unique)</b>: (0.8 * x ^ 0.4)%, where x is assistants owned.</p>
+<p><b>Formula (Non-Unique)</b>: (2.4 * x ^ 0.4)%, where x is assistants owned.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/FangFood.png" align="middle"><b> Fang Food</b></p>
 <p><b>Cost</b>: 10 Dtg (1e100)</p>
-<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on the highest amount of Dragon Pastures you built in this Reincarnation</p>
-<p><b>Formula</b>: (0.65 * x ^ 0.65), where x is Dragon Pastures you own.</p>
+<p><b>Effect</b>: Multiplicatively increase Mana Regeneration and assistants based on the highest amount of Dragon Pastures you built in this Reincarnation.</p>
+<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is the highest amount of Dragon Pastures owned this Reincarnation.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/Wyrm'sRest.png" align="middle"><b> Wyrm's Rest</b></p>
 <p><b>Cost</b>: 100 Qitg (1e110)</p>
-<p><b>Effect</b>: Gain assistants based on the amount of time spent as Dragon this Reincarnation.</p>
-<p><b>Formula</b>: (15 * x ^ 0.65), where x is time spent as Dragon this Reincarnation.</p>
+<p><b>Effect</b>: Remove 1 Ascension penalty from Royal Exchange bonus. Also gives Dragon's Breath White Breath a multiplicative effect on Assistants based on time spent as Dragons.</p>
+<p><b>Formula</b>: (3 * ln(1 + x) ^ 1.5)%, where x is time spent as Dragon this Reincarnation in seconds.</p>
+<p><b>Note</b>: The multiplicative White Breath effect stacks multiplicatively with extra White Breaths.</p>
 <br/>
 <p><img src="http://musicfamily.org/realm/Factions/picks/DraconicSupremacy.png" align="middle"><b> Draconic Supremacy</b></p>
 <p><b>Cost</b>: 1 Notg (1e120)</p>
