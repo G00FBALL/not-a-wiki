@@ -45,7 +45,7 @@
 <p><b>Coins to Gems Formula</b>:<br>floor(((1 + 4 * n / 5e3) ^ 0.5 - 1) / 2), where n is coins.</p>
 <p>When Ascending for the second time, the following will take effect, alongside normal Ascension Changes:</p>
 <p>
- - Mercenaries and Prestige Factions will become inaccessible.<br>
+ - Mercenaries and Prestige Factions will become inaccessible (prestige return in R116).<br>
  - All Lineage levels will be reset back to 25 (if higher).<br>
  - Research is limited to one per branch (not counting Faction specific ones).<br>
  - Tier 7 Spells will become obtainable (see <b><a target="" href="http://musicfamily.org/realm/Spells/">Spells Page</b></a> for time required).<br>
@@ -67,7 +67,7 @@
 <p><b>Coins to Gems Formula</b>:<br>floor(((1 + 4 * n / 5e26) ^ 0.5 - 1) / 2), where n is coins.</p>
 <p>When Ascending for the fourth time, the following will take effect, alongside normal Ascension Changes:</p>
 <p>
- - Mercenaries, Prestige and Elite Factions will become inaccessible.<br>
+ - Mercenaries, Prestige and Elite Factions will become inaccessible (prestige return in R240).<br>
  - All Lineage levels will be reset back to 75 (if higher).<br>
  - All Research Upgrades from A0 and A1 are removed.<br>
  - All Normal Heritages are removed.<br>
