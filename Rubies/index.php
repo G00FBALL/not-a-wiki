@@ -16,7 +16,7 @@
             <tbody><tr><th colspan="9">Ruby Excavation Count and Cost</th></tr>
             <tr>
 		<th style="width: 10%">Ruby</th>
-		<th style="width: 7%">E290</th>
+		<th style="width: 7%" id="Ascension"></th>
 		<th style="width: 7%">DN8</th>
 		<th style="width: 7%">Easter</th>
 		<th style="width: 13%">Maker</th>
@@ -48,7 +48,7 @@
                     base = (asc > 0) ? Math.pow(base , Math.pow(0.75 , asc)) : base;
                 var exc = 25 * rub * (rub + 1);
                 $('#exc').html(exc);
-		if ($('#E290').prop('checked')) mult -= 0.02;
+		if ($('#Research').prop('checked')) mult -= 0.02;
 		if ($('#DN8').prop('checked')) mult -= 0.02;
                 if (maker > 0) {
                     mult -= maker;
@@ -69,7 +69,13 @@
             rubcalc();
             $('#rubcalc').on('input', rubcalc);
             $('#rubcalc :checkbox').on('change', rubcalc);
-
+		if (asc > 3) {
+					document.getElementById("Ascension").innerHTML = "E290";
+				}
+				else
+				{
+					document.getElementById("Ascension").innerHTML = "E13125";
+				}
         </script>
     </div>
     <p>The formula for the number of excavations required for each ruby is (25 * n * (n + 1), where n is the number of rubies.</p>
