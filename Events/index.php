@@ -19,8 +19,8 @@
 		</p>
 		<script>
 			var currentTime = new Date().getTime();
-			var countDownDate1 = new Date("October 29, 2021 12:01:00 UTC").getTime();
-			var countDownDate2 = new Date("November 05, 2021 19:59:00 UTC").getTime();
+			var countDownDate1 = new Date("November 25, 2021 13:01:00 UTC").getTime();
+			var countDownDate2 = new Date("November 29, 2021 19:59:00 UTC").getTime();
 			var x = setInterval(function() {
 				var now = new Date().getTime();
 				var distance = countDownDate1 - now;
@@ -175,7 +175,7 @@
 							<td>&#10004;</td>
 							<td>&#10004;</td>
 							<td>&#10004;</td>
-							<td></td>
+							<td>&#10004;</td>
 						</tr>
 						<tr>
 							<td>12 (12)</td>
@@ -839,16 +839,16 @@
 					<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on clicks made all time.</p>
 					<p><b>Formula</b>: (0.5 * log10(1 + x) ^ 2.5)%, where x is clicks made all time.</p>
 					<br/>
-					<p><b><img src='/realm/Factions/picks/SearingSummer.png' align='middle'> Searing Summer (Summer Event)</b></p>
+					<p><b><img src="/realm/Factions/picks/SearingSummer.png" align="middle"> Searing Summer (Summer Event)</b></p>
 					<p><b>Effect</b>: Increase the production of all buildings by 50%.</p>
 					<br/>
-					<p><b><img src='/realm/Factions/picks/IdilliumExplorer.png' align='middle'> Idillium Explorer (Idillium)</b></p>
+					<p><b><img src="/realm/Factions/picks/IdilliumExplorer.png" align="middle"> Idillium Explorer (Idillium)</b></p>
 					<p><b>Effect</b>: Reduce the cost of all spells by 10%.</p>
 					<br/>
 					<p><b><img src="/realm/Factions/picks/SpectralSurge.png" align="middle"> Spectral Surge (Halloween Event)</b></p>
 					<p><b>Effect</b>: Turn Spiritual Surge into Spectral Surge, and multiplies Spectral Surge base bonus by the Cumulative Event Bonus.</p>
 					<br/>
-					<p><b><img src='/realm/Factions/picks/Monstrous.png' align='middle'> Monstrous (Halloween Event)</b></p>
+					<p><b><img src="/realm/Factions/picks/Monstrous.png" align="middle"> Monstrous (Halloween Event)</b></p>
 					<p><b>Effect</b>: Multiplicatively increase Mana Regeneration by 20%.</p>
 					<br/>
 					<p><b><img src="/realm/Factions/picks/PerfectSnowflake.png" align="middle"> Perfect Snowflake (Christmas Event)</b></p>
@@ -861,6 +861,18 @@
 		<div class="shlisting">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2021 Events</a></b></p>
 			<div class="category autohide">
+				<div class="shelementwhole">
+					<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Thanksgiving (Nov 25 - Nov 29, 2021)</a></b></p>
+					<div class="autohide">
+						<p>The Thanksgiving event will be starting on <b>Nov 25th 2021, 1:01 PM UTC</b> and will end on <b>Nov 29th 2021, 7:59 PM UTC</b>.</p>
+						<p>Remember the Thanksgiving upgrade and bonuse will disappear after the event is over, the Feat achievement will remain.</p>
+						<p><b><img src="/realm/Factions/picks/Thanksgiving.png" alt="Thanksgiving" align="middle"> Thanksgiving</b></p>
+						<p><b>Kind</b>: Upgrade/Feat</p>
+						<p><b>Requirement</b>: Play during Thanksgiving</p>
+						<p><b>Cost</b>: Free</p>
+						<p><b>Effect</b>: Increase the production of all buildings by 25% for the duration of the Thanksgiving season.</p>
+					</div>
+				</div>
 				<div class="shelementwhole">
 					<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Halloween (Oct 29 - Nov 5, 2021)</a></b></p>
 					<div class="autohide">

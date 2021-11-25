@@ -361,7 +361,7 @@
 				<p><b>Note</b>: DG9 requires Dragon's Breath spell (Dragon Perk 2 purchased) to become available.</p>
 				<p><b>Note</b>: Tiering every spell the build uses to T6 is highly recommended.</p>
 				<p><b>Note</b>: At higher gems buffing TTC4, DM2 and FC3 when build slows down is recommended.</p>
-				<p><b>Note</b>: Swap Night Time->Grand Balance if you have Primal Balance +10.</p>
+				<p><b>Note</b>: Swap Night Time->Grand Balance if you have <b><a href="http://musicfamily.org/realm/Druid/#DruidDCR">Primal Balance</a></b> +10.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
