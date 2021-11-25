@@ -198,7 +198,7 @@
 				<p><b>Mercenary Template</b>: DN3</p>
 				<p><b>Cost</b>: 500 Qad (5e47)</p>
 				<p><b>Effect</b>: Increase the production of all buildings based on the amount of Excavations you made, including resets, in this Reincarnation.</p>
-				<p><b>Formula</b>: (40 * (x * max(1 , 2 * y) ^ 0.4))%, where x is the number of excavations made this Reincarnation, y is the number of excavation resets in this Reincarnation.</p>	
+				<p><b>Formula</b>: (40 * (x * (1 + 2 * y)) ^ 0.4)%, where x is the number of excavations made this Reincarnation, y is the number of excavation resets in this Reincarnation.</p>	
 				<hr>
 				<h6>Drow</h6>
 				<p><b><img src="http://musicfamily.org/realm/Factions/picks/UnderworldTyrannyFactionUpgrade.png" align="middle"> Underworld Tyranny</b></p>

@@ -1015,7 +1015,7 @@
 				<p>E1,E225,E495,E590,E1325,</p>
 				<p>A10,A120,A410,</p>
 				<p>W25,W205,W405,W520</p>
-				<p><b>Note</b>: Swap Stonheart set to Faceless if buffed (Max Assistants 1e14 (100 T)+).</p>
+				<p><b>Note</b>: Swap Stoneheart set to Faceless if buffed (Max Assistants 1e14 (100 T)+).</p>
 				<p><b>Note</b>: Swap A120 with A400 if Makers Challenge 4 is completed.</p>
 			</div>
 		</div>
