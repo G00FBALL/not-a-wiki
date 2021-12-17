@@ -150,7 +150,7 @@
 	<p><b>W12250</b> (Raiding)</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on the highest Combo Strike counter you had in this Reincarnation.</p>
 	<p><b>Old Formula</b>: (x ^ 0.7)%, where x is the highest Combo Strike counter in this Reincarnation.</p>
-	<p><b>New Formula</b>: (2.5 * x ^ 0.7)%, where x is the highest Combo Strike counter in this Reincarnation.</p>
+	<p><b>New Formula</b>: (2.5 * x ^ 0.5)%, where x is the highest Combo Strike counter in this Reincarnation.</p>
 	<br/>
 	<hr>
 	<p><b>Spells</b></p>
@@ -225,7 +225,7 @@
 	<p><b>Old Effect</b>: Instantly adds 10 gold coins.</p>
 	<p><b>New Effect</b>: Instantly adds 25 gold coins.</p>
 	<br/>
-	<p><b>The following Upgrades won the "I got reduced to 1 coin cost" lottery</b>: Faction Run, Grand Diplomat, Speed Run, Stoic Resistance, Vanilla Challenger
+	<p><b>The following Upgrades won the "I got reduced to 1 coin cost" lottery</b>: Faction Run, Grand Diplomat, Speed Run, Stoic Resistance, Vanilla Challenger.</p>
 	<br/>
 	<div class="shlisting">
 		<div class="shelementwhole">
