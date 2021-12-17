@@ -6,8 +6,114 @@
     <?php include "../scripts/header.html"; ?>
         <h6>All Changes and Additions</h6>
         <br/>
-<p><b>V4.2.0 October 27th, 2021</b></p>
+<p><b>Events</b></p>
+<p><b>New Christmas Event Feat</b>: Check event page after event starts.</p>
+<hr>
+<p><b>A4 Prestige</b></p>
+	<p><b>Old Requirement</b>: R240+, Base Faction's Alliance Upgrades purchased.</p>
+	<p><b>New Requirement</b>: R235+, Base Faction's Alliance Upgrades purchased.</p>
+	<p><b>Bug Fix</b>: Prestige artifacts can now be excavated properly, moved to R235+.</p>
+<hr>
+<p><b>Balance Changes</b></p>
 <br/>
+<p><b>Reincarnation Power</b></p>
+<p><b>R180 Power</b></p>
+	<p><b>Reintroduced</b>: R180 power is DEAD, moved to R190.</p>
+	<p><b>Effect</b>: Increase the production of all buildings based on Reincarnations made.</p>
+	<p><b>Formula</b>: (150 * R)%.</p>
+<br/>
+<hr>
+<p><b>Faction Upgrades</b></p>
+<p><b>Angel</b></p>
+<p><b>AN1</b> (Holy Bells)</p>
+	<p><b>Effect</b>: Increase Mana Regeneration based on the amount of buildings you own.</p>
+	<p><b>Old Formula</b>: +(2 * x ^ 0.4), where x is the amount of buildings you own.</p>
+	<p><b>New Formula</b>: +(1.6 * x ^ 0.4), where x is the amount of buildings you own.</p>
+<br/>
+<p><b>AN2</b> (Angelic Determination)</p>
+	<p><b>Effect</b>: Increase the production of all buildings based on spells cast in this game.</p>
+	<p><b>New Effect</b>: Also increase Angel Coins found (from all sources) by 500%.</p>
+<br/>
+<p><b>AN10</b> (Heaven's Brilliance)</p>
+	<p><b>Effect</b>: Increase the bonus multiplier for all spells at tier 7 and above based on the highest amount of Holy Sites you built this Reincarnation. Gem Grinder and all Dragon's Breath effects are increased based on the highest amount of Holy Sites you built this Reincarnation.</p>
+	<p><b>Old Tier 7 Formula</b>: +(0.02 * ln(1 + x)), where x is the highest amount of Holy Sites you built this R.</p>
+	<p><b>New Tier 7 Formula</b>: +(0.025 * ln(1 + x)), where x is the highest amount of Holy Sites you built this R.</p>
+<br/>
+<p><b>Druid</b></p>
+<p><b>DD12</b> (Grove Farming)</p>
+	<p><b>Effect</b>: Increase the production of all buildings based on their tier. Middle tiers get better bonuses.</p>
+	<p><b>Old Formula</b>: (0.75 * ((6 - abs(6 - T)) ^ 5))%, where T is building tier</p>
+        <p><b>New Formula</b>: (0.8 * ((6 - abs(6 - T)) ^ 4))%, where T is building tier.</p>
+<br/>
+<p><b>Dragon</b></p>
+<p><b>DG4</b> (Dragonborn)</p>
+	<p><b>Effect</b>: Increase assistants additively and multiplicatively, and their production, based on time spent affiliated with Dragons.</p>
+	<p><b>Change</b>: All formulas are now affected by time modifiers</p>
+	<p><b>Old Formula (Additive)</b>: +(60 * x ^ 0.4), where x is time spent as Dragons in seconds (All Time).</p>
+	<p><b>New Formula (Additive)</b>: +(50 * x ^ 0.5), where x is time spent as Dragons in seconds (All Time).</p>
+	<p><b>Old Formula (Production)</b>: (0.8 * x ^ 0.4)%, where x is time spent as Dragons in seconds (All Time).</p>
+	<p><b>New Formula (Production)</b>: (0.7 * x ^ 0.3)%, where x is time spent as Dragons in seconds (All Time).</p>
+<br/>
+<p><b>DG6</b> (Sharp Claws)</p>
+	<p><b>Effect</b>: Increase Royal Exchange Bonus and Faction Coin find Chance based on clicks made in this game (multiplicative).</p>
+	<p><b>Old Formula</b>: (0.8 * x ^ 0.4)%, where x is the number of Clicks this game.</p>
+	<p><b>New Formula</b>: (0.8 * x ^ 0.35)%, where x is the number of Clicks this game.</p>
+<br/>
+<p><b>DG8</b> (IEternal Wisdom)</p>
+	<p><b>Effect</b>: Increase the production of all buildings based on Royal Exchange bonus.</p>
+	<p><b>Old Formula</b>: (1.5 * x ^ 0.95)%, where x is individual Royal Exchange bonus.</p>
+	<p><b>New Formula</b>: (1.5 * x ^ 0.9)%, where x is individual Royal Exchange bonus.</p>
+<br/>
+<p><b>DG11</b> (Wyrm's Rest)</p>
+	<p><b>Effect</b>: Remove 1 Ascension penalty from Royal Exchange bonus. Also gives Dragon's Breath White Breath a multiplicative effect on assistants based on time spent as dragons.</p>
+	<p><b>Old Formula</b>: (3 * ln(1 + x) ^ 1.5)%, where x is time spent as Dragon this Reincarnation in seconds.</p>
+	<p><b>New Formula</b>: (1.25 * ln(1 + x) ^ 1.25)%, where x is time spent as Dragon this Reincarnation in seconds.</p>
+<br/>
+<p><b>Archon</b></p>
+<p><b>AR2</b> (Energy Recharge)</p>
+	<p><b>Effect</b>: Also increase Precognition base and scaling.</p>
+	<p><b>New Effect</b>: Also increases Precognition base, scaling, and changes its starting duration to 5 minutes (formula unchanged).</p>
+<br/>
+<p><b>Makers</b></p>
+<p><b>MK7</b> (Stonecarving)</p>
+	<p><b>Effect</b>:Increase the production of all buildings based on excavations made in this Reincarnation, including resets.</p>
+	<p><b>Old Formula</b>: (30 + 0.3 * (x * y) ^ 0.7)%, where x is excavations done this R (NOT current excavation count), y is free and ruby excavation resets this R.</p>
+	<p><b>New Formula</b>: (250 + 0.5 * (x * y) ^ 0.5)%, where x is excavations done this R (NOT current excavation count), y is free and ruby excavation resets this R.</p>
+<br/>
+<hr>
+<p><b>Unions</b></p>
+<p><b>Druid Union</b></p>
+	<p><b>Effect</b>: Increase the production of Non-Unique buildings based on your total Lineage level and the maximum amount of Grand Balance targets.</p>
+	<p><b>Old Formula</b>: (3 * x ^ 1.03 * y ^ 1.5)%, where x is total Lineage levels and y is amount of buildings targeted by Grand Balance (maximum is 11).</p>
+	<p><b>New Formula</b>: (2.4 * x ^ 1.025 * y ^ 1.2)%, where x is total Lineage levels and y is amount of buildings targeted by Grand Balance (maximum is 11).</p>
+<br/>
+<p><b>Dragon Order Union</b></p>
+<p><b>Effect</b>: Increase the production of all buildings based on time spent as Order this Reincarnation.</p>
+<p><b>Old Formula</b>: (7 * x ^ 0.7)%, where x is time spent as Order this R.</p>
+<p><b>New Formula</b>: (3 * x ^ 0.7)%, where x is time spent as Order this R.</p>
+<br/>
+<p><b>Dragon Chaos Union</b></p>
+<p><b>Effect</b>: Increase the production of Unique or Non-Unique buildings based on the amount of assistants you own. Target buildings depend on Faction Coin find chance.</p>
+<p><b>Old Formula (Unique)</b>: (0.8 * x ^ 0.4)%, where x is assistants owned.</p>
+<p><b>New Formula (Unique)</b>: (0.9 * x ^ 0.35)%, where x is assistants owned.</p>
+<p><b>Old Formula (Non-Unique)</b>: (2.4 * x ^ 0.4)%, where x is assistants owned.</p>
+<p><b>New Formula (Non-Unique)</b>: (2.7 * x ^ 0.35)%, where x is assistants owned.</p>
+<br/>
+<p><b>Dragon Balance Union</b></p>
+<p><b>Effect</b>: Multiplicatively increase your Maximum Mana based on your current Lineage level.</p>
+<p><b>Old Formula</b>: (7 * x ^ 0.9)%, where x is your current Lineage level.</p>
+<p><b>New Formula</b>: (8 * x ^ 0.8)%, where x is your current Lineage level.</p>
+<br/>
+<hr>
+
+to be continued
+
+<br/>
+<div class="shlisting">
+	<div class="shelementwhole">
+		<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">V4.2.0 October 27th, 2021</a></b></p>
+		<div class="autohide">
+		<br/>
 <p><b>Events</b></p>
 <p><b>New Halloween Event Feat</b>: Check event page after event starts.</p>
 <hr>
@@ -393,6 +499,9 @@
 <p><b>Twisted Nether</b>: Twisting Nether was adding points to the sum of Lineage levels, not per individual Lineage. This has been fixed.</p>
 <br>
 <p><b>Focused Thoughts (Faceless Challenge Reward)</b>: Spell activity time count more upgrades now interact with Brainwave's headstart.</p>
+		</div>
+	</div>
+</div>
 <hr>
 <br/>
 <p><b>Old Patches</b></p>
