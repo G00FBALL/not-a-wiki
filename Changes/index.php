@@ -11,7 +11,7 @@
 	<p><b>New Christmas Event Feat</b>: Check event page after event starts.</p>
 	<br/>
 	<hr>
-	<p><b>Bug Fix</b>: Prestige artifacts can now be excavated properly, moved to R235+.</p>
+	<p><b>Bug Fix</b>: Prestige artifacts can now be excavated properly, now eligible from R235+.</p>
 	<br/>
 	<hr>
 	<p><b>Balance Changes</b></p>
@@ -59,7 +59,7 @@
 	<p><b>Old Formula</b>: (0.8 * x ^ 0.4)%, where x is the number of Clicks this game.</p>
 	<p><b>New Formula</b>: (0.8 * x ^ 0.35)%, where x is the number of Clicks this game.</p>
 	<br/>
-	<p><b>DG8</b> (IEternal Wisdom)</p>
+	<p><b>DG8</b> (Eternal Wisdom)</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on Royal Exchange bonus.</p>
 	<p><b>Old Formula</b>: (1.5 * x ^ 0.95)%, where x is individual Royal Exchange bonus.</p>
 	<p><b>New Formula</b>: (1.5 * x ^ 0.9)%, where x is individual Royal Exchange bonus.</p>
@@ -78,7 +78,7 @@
 	<p><b>MK7</b> (Stonecarving)</p>
 	<p><b>Effect</b>:Increase the production of all buildings based on excavations made in this Reincarnation, including resets.</p>
 	<p><b>Old Formula</b>: (30 + 0.3 * (x * (y + z)) ^ 0.7)%, where x is excavations done this Reincarnation (NOT current excavation count) and y & z are free and ruby excavation resets done in this Reincarnation.</p>
-	<p><b>New Formula</b>: (250 + 0.5 * (x * y) ^ 0.5)%, where x is excavations done this Reincarnation (NOT current excavation count) and y & z are free and ruby excavation resets done in this Reincarnation.</p>
+	<p><b>New Formula</b>: (250 + 0.5 * (x * (y + z)) ^ 0.5)%, where x is excavations done this Reincarnation (NOT current excavation count) and y & z are free and ruby excavation resets done in this Reincarnation.</p>
 	<br/>
 	<hr>
 	<p><b>Unions</b></p>
