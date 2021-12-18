@@ -183,17 +183,17 @@
 	<br/>
 	<hr>	
 	<p><b>Artifact sets</b></p>
-	<p><b>Drowset</b>:</p> Swapped first and second effect.</p>
+	<p><b>Drowset</b>: Swapped first and second effect.</p>
 	<p><b>First Effect</b>: Spells cast count more based on time spent as Evil in this Reincarnation.</p>
 	<p><b>Old Formula</b>: (6 * ln(1 + x) ^ 1.2)%, where x is time spent as Evil in this Reincarnation.</p>
-	<p><b>Old Formula</b>: (6 * ln(1 + x) ^ 1.8)%, where x is time spent as Evil in this Reincarnation.</p>
+	<p><b>New Formula</b>: (6 * ln(1 + x) ^ 1.8)%, where x is time spent as Evil in this Reincarnation.</p>
 	<br/>
 	<hr>	
 	<p><b>Legacy Combos</b></p>
 	<p><b>Brooding Abyss (Fairy/Demon)</b></p>
 	<p><b>Effect</b>: Chaotically increase assistants based on amount of alignments among the active spells you have.</p>
 	<p><b>Old Formula</b>: ((a ^ 1.5 + b ^ 1.5 + c ^ 1.5 + d ^ 1.5 + e ^ 1.5 + f ^ 1.5) ^ (1 + 0.5 * (a + b + c + d + e + f)))%, where a - f are the amount of spells in the respective alignment.</p>
-	<p><b>Old Formula</b>: ((a ^ 1.3 + b ^ 1.3 + c ^ 1.3 + d ^ 1.3 + e ^ 1.3 + f ^ 1.3) ^ (1 + 0.3 * (a + b + c + d + e + f)))%, where a - f are the amount of spells in the respective alignment.</p>
+	<p><b>New Formula</b>: ((a ^ 1.3 + b ^ 1.3 + c ^ 1.3 + d ^ 1.3 + e ^ 1.3 + f ^ 1.3) ^ (1 + 0.3 * (a + b + c + d + e + f)))%, where a - f are the amount of spells in the respective alignment.</p>
 	<br/>
 	<p><b>Homunculus Lab (Goblin/Undead)</b></p>
 	<p><b>Effect</b>: Increase Research Budget based on the least time spent between Order and Balance in this Reincarnation.</p>
@@ -218,7 +218,7 @@
 	<p><b>Expert Combinator</b></p>	
 	<p><b>Old Effect</b>: Increase the production of all buildings when playing a Prestige Faction based on time spent with the least used alignment.</p>
 	<p><b>Old Formula</b>: (x)%, where x is time spent with your least used alignment.</p>
-	<p><b>Old Effect</b>: Increase the production of all buildings when playing a Prestige Faction based on time spent with the least used alignment (available for all Prestige Faction).</p>
+	<p><b>New Effect</b>: Increase the production of all buildings when playing a Prestige Faction based on time spent with the least used alignment (available for all Prestige Faction).</p>
 	<p><b>New Formula</b>: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</p>
 	<br/>
 	<p><b>Need a head start</b></p>
