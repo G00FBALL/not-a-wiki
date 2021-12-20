@@ -17,7 +17,7 @@
 	<p><b>Effect</b>: Unlocks Prestige Quests</p>
 	<p><b>Note</b>: Only needs to be bought once and do not count towards the 'Bought Upgrades' stats.</p>
 	<br/>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/SturdyBeardMan'sQuest.png" align="middle"> Sturdy Bearded Man's Quest</b></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/SturdyBeardMansQuest.png" align="middle"> Sturdy Bearded Man's Quest</b></p>
 	<p><b>Requirements</b>: Play a Good Alignment</p>
 	<p><b>Requirements</b>: Build 800 Inns, 7,000 Buildings Owned (This Game), 10,000 clicks (This Reincarnation)</p>
 	<p><b>Cost</b>: 10 Qad (1e46), 10,000 Fairy Coins, 10,000 Elven Coins, 10,000 Angel Coins</p>
