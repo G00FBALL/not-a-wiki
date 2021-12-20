@@ -25,7 +25,7 @@
 	<p><b>Formula</b>: (floor(x ^ 1.1), where x is Faction Coin find chance.</p>
 	<hr>
 	<p><b>Tier 1 Upgrades</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelTradeTreaty.png" align="middle"> Angel Trade Treaty</b></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelTradeTreaty.png" align="middle"> Angels Trade Treaty</b></p>
 	<p><b>Cost</b>: 20 Angel Coins</p>
 	<p><b>Effect</b>: Unlocks Angel Upgrades.</p>
 	<br/>
@@ -46,7 +46,7 @@
 	<p><b>Formula</b>: +(10 * x)%, where x is the amount of active spells.</p>
 	<hr>
 	<p><b>Tier 2 Upgrades</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelFriendshipPact.png" align="middle"> Angel Friendship Pact</b></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelFriendshipPact.png" align="middle"> Angels Friendship Pact</b></p>
 	<p><b>Cost</b>: 100 Angel Coins</p>
 	<p><b>Effect</b>: Unlocks more Angel Upgrades.</p>
 	<br/>
@@ -65,7 +65,7 @@
 	<p><b>Effect</b>: Increase Mana Regeneration multiplicatively by 50%.</p>
 	<hr>
 	<p><b>Tier 3 Upgrades</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelAlliance.png" align="middle"> Angel Alliance</b></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelAlliance.png" align="middle"> Angels Alliance</b></p>
 	<p><b>Cost</b>: 500 Angel Coins</p>
 	<p><b>Effect</b>: Unlocks more Angel Upgrades.</p>
 	<br/>
@@ -109,7 +109,7 @@
 	<p><b>Cost</b>: 10 Notg (1e121) coins, 1 M (1e6) Angel coins</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelUniqueBuilding.png" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelUniqueBuilding.png" align="middle"></b></p>
 	<p>Upgraded from Heaven's Gates</p>
 	<p>At R16, the Angels' building Heaven Gates can be upgraded to a Unique Building: Heaven Domain, which is required for some challenges and research quests</p>
 	<hr>
@@ -128,11 +128,12 @@
 	<p><b>Effect</b>: Gives Holy Site Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/HolySiteUniqueBuilding.png" alt="Holy Site" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/HolySiteUniqueBuilding.png" alt="Holy Site" align="middle"></b></p>
 	<p>Upgrade Cathedrals to Holy Sites, boosting their production based on time spent as Good and unlocking more unique perks for the building.</p>
 	<p><b>Formula</b>: (x ^ 0.85)%, where x is time spent as Good in this Reincarnation.</p>
 	<p><b>Effect</b>: Grants access to Faction Union.</p>
-	<br/>
+	<hr>
+	<p><b>Tier 4 Upgrades</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelUnion.png" alt="Angels Union" align="middle"> Angels Union</b></p>
 	<p><b>Requirement</b>: Holy Sites Unique Building</p>
 	<p><b>Cost</b>: 1 Qi (1e18) Angel Coins</p>
@@ -158,7 +159,7 @@
 	<p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 	<p><b>Requirement</b>: Angels Union</p>
 	<p><b>Effect</b>: Multiplicatively increase maximum Mana, Mana Regeneration, Faction Coin find chance and assistants by 200%.</p>
-	<br/>
+	<hr>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedAngelHeritage.png" align="middle"> Advanced Angelic Heritage</b></p>
 	<p><b>Cost</b>: 1 Sp (1e24) Angel Coins</p>
 	<p><b>Requirements</b>: Angel Master trophy and 6 hours activity time (This Game) of God's Hand.</p>

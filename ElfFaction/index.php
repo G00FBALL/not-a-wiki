@@ -109,7 +109,7 @@
 	<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/ElfUniqueBuilding.png" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/ElfUniqueBuilding.png" align="middle"></b></p>
 	<p>At R16, the Elves' Warrior Barracks building can be upgraded to a Unique Building: Elven Training Grounds, which is required for some challenges and research quests.</p>
 	<hr>
 	<p><b>Ascension 2 - R100+</b></p>
@@ -127,12 +127,13 @@
 	<p><b>Effect</b>: Gives Arboreal City Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityUniqueBuilding.png" alt="Arboreal City" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArborealCityUniqueBuilding.png" alt="Arboreal City" align="middle"></b></p>
 	<p>Upgrade Citadels to Arboreal Cities, boosting their production based on Faction Coin find chance and unlocking more unique perks for the building.</p>
 	<p><b>Effect</b>: Increase production based on Faction Coin find chance.</p>
 	<p><b>Formula</b>: floor(20 * (ln(1 + x)) ^ 2)%, where x is FC chance</p>
 	<p><b>Effect</b>: Grants access to Faction Union.</p>
-	<br/>
+	<hr>
+	<p><b>Tier 4 Upgrades</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/ElvenUnion.png" alt="Elven Union" align="middle"> Elven Union</b></p>
 	<p><b>Requirement</b>: Arboreal City Unique Building</p>
 	<p><b>Cost</b>: 1 Qi (1e18) Elven Coins</p>
@@ -162,7 +163,7 @@
 	<p><b>Effect</b>: Increase assistants additively and multiplicatively based on the amount of Faction Coins found in this game.</p>
 	<p><b>Formula</b>: +(50 * ln(1 + x) ^ 1.5), where x is Faction Coins found this game (additively).</p>
 	<p><b>Formula</b>: (1.5 * log10(1 + x) ^ 1.5)%, where x is Faction Coins found this game (multiplicatively).</p>
-	<br/>
+	<hr>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedElvenHeritage.png" align="middle"> Advanced Elven Heritage</b></p>
 	<p><b>Cost</b>: 1 Sp (1e24) Elven Coins</p>
 	<p><b>Requirements</b>: Elven Master trophy and 6 hours activity time (This Game) of Moon Blessing.</p>

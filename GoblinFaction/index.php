@@ -112,7 +112,7 @@
 	<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinUniqueBuilding.png" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinUniqueBuilding.png" align="middle"></b></p>
 	<p>At R16, the Goblin's building Witch Conclaves can be upgraded to a Unique Building: Goblin Bank, which is required for some challenges and research quests.</p>
 	<hr>
 	<p><b>Ascension 2 - R100+</b></p>
@@ -130,12 +130,13 @@
 	<p><b>Effect</b>: Gives Slave Market Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketUniqueBuilding.png" alt="Slave Market" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketUniqueBuilding.png" alt="Slave Market" align="middle"></b></p>
 	<p>Upgrade Slave Pens to Slave Markets, boosting their production based on assistants and unlocking more unique perks for the building.</p>
 	<p><b>Effect</b>: Increase production based on assistants.</p>
 	<p><b>Formula</b>: (floor(0.25 * x ^ 0.75))%, where x is amount of assistants.</p>
 	<p><b>Effect</b>: Grants access to Faction Union.</p>
-	<br/>
+	<hr>
+	<p><b>Tier 4 Upgrades</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinUnion.png" alt="Goblins Union" align="middle"> Goblins Union</b></p>
 	<p><b>Requirement</b>: Slave Market Unique Building</p>
 	<p><b>Cost</b>: 1 Qi (1e18) Goblin Coins</p>
@@ -161,7 +162,7 @@
 	<p><b>Effect</b>: Reduce Non-Unique buildings cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.14 instead of 1.15.</p>
 	<p><b>Effect</b>: Increase Non-Unique buildings production based on the amount of buildings of the same tier.</p>
 	<p><b>Formula</b>: (x ^ 0.65)%, where x is the amount of buildings of the same tier.</p>
-	<br/>
+	<hr>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedGoblinHeritage.png" align="middle"> Advanced Goblin Heritage</b></p>
 	<p><b>Requirements</b>: Goblin Master trophy and 6 hours activity time (This Game) of Goblin's Greed.</p>
 	<p><b>Cost</b>: 1 Sp (1e24) Goblin Coins</p>

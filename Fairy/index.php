@@ -39,6 +39,6 @@
 <p><b>Tip 2</b>: Use Goblin Bloodline.</p>
 <hr>
 <h6 id="FRCR"></h6><p><b>Fairy Challenge Reward</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/FairyOrchestraFinalReward.png" alt="Fairy Orchestra" align="middle"> <b>Fairy Orchestra</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/FairyOrchestraChallengeReward.png" alt="Fairy Orchestra" align="middle"> <b>Fairy Orchestra</b></p>
 <p><b>Effect</b>: Each assistant generates 3 times as many faction coins while Fairy Chanting is active.</p>
 <?php include "../scripts/footer.html"; ?>

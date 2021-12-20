@@ -103,7 +103,7 @@
 	<p><b>Requirements</b>: Dwarven Champion Trophy</p>
 	<p><b>Cost</b>: 75,000 Dwarven Coins</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on the total amount of Excavations you made.</p>
-	<p><b>Formula</b>: (2 * x ^ 0.9)%, where x is the number of excavations you've purchased.</p>
+	<p><b>Formula</b>: (2 * x ^ 0.9)%, where x is the number of excavations you made.</p>
 	<hr>
 	<p><b>Dwarf Research Requirements</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenForgeQuestFactionUpgrade.png" align="middle"> Dwarven Forge Quest</b></p>
@@ -139,7 +139,7 @@
 	<p><b>Note</b>: Required to be bought each Dwarven research run.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenUniqueBuilding.png" alt="Unique building dwarf" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenUniqueBuilding.png" alt="Unique building Dwarven" align="middle"></b></p>
 	<p>Upgraded from Blacksmiths</p>
 	<p>At R28, the Dwarven Blacksmiths building can be upgraded to a Unique Building: Dwarven Forges, which is required for some challenges and research quests.</p>
 	<hr>
@@ -157,11 +157,12 @@
 	<p><b>Effect</b>: Gives High Bastion Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/HighBastionUniqueBuilding.png" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/HighBastionUniqueBuilding.png" align="middle"></b></p>
 	<p><b>Effect</b>: Upgrade Royal Castles to High Bastions, boosting their production based on clicks made in this reincarnation and unlocking more unique perks for the building.</p>
 	<p><b>Formula</b>: (0.5 * x ^ 0.5)%, where x is clicks this Reincarnation.</p>
 	<p><b>Effect</b>: Grants access to Faction Union.</p>
-	<br/>
+	<hr>
+	<p><b>Tier 4 Upgrades</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenUnion.png" align="middle"> Dwarven Union</b></p>
 	<p><b>Requirement</b>: High Bastion Unique Building</p>
 	<p><b>Cost</b>: 1 Sp (1e24) Dwarven coins</p>
@@ -190,7 +191,7 @@
 	<p><b>Cost</b>: 1 Notg (1e120)</p>
 	<p><b>Effect</b>: Multiplicatively increase Mana Regeneration and Maximum Mana based on highest time spent as Order, Balance or Chaos.</p>
 	<p><b>Formula</b>: (0.03 * max(x, y, z) ^ 0.7)%, where x, y & z is time spent as Order, Balance and Chaos in this Reincarnation respectively.</p>
-	<br/>
+	<hr>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDwarvenHeritage.png" align="middle"> Advanced Dwarven Heritage</b></p>
 	<p><b>Requirement</b>: Dwarf Master trophy and 6 hours activity time (This Game) of Diamond Pickaxe.</p>
 	<p><b>Cost</b>: 1 Sp (1e24) Dwarven Coins</p>

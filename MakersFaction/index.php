@@ -137,12 +137,12 @@
 	<p><b>Cost</b>: 1 QiQig (1e168)</p>
 	<p><b>Effect</b>: Gives Hall of Origination Unique Building.</p>
 	<br/>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/HallofOrigination.png"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/HallofOrigination.png" align="middle"></b></p>
 	<p>Upgrade Halls of Legends to Halls of Origination, boosting their production based on assistants owned and unlocking more unique perks for the building.</p>
 	<p><b>Formula</b>: (0.75 * x ^ 0.75)%, where x is assistants owned.</p>
 	<p><b>Requirement</b>: Hall of Origination Quest.</p>
 	<p><b>Effect</b>: Grants access to Faction Union.</p>
-	<br/>
+	<hr>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/MakersUnion.png" align="middle"> Makers Union</b></p>
 	<p><b>Requirement</b>: Halls of Origination Unique Building</p>
 	<p><b>Cost</b>: 1 Dd (1e39) Elven and Goblin Coins</p>

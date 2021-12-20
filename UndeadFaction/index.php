@@ -106,7 +106,7 @@
 	<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadUniqueBuilding.png" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadUniqueBuilding.png" align="middle"></b></p>
 	<p>Upgraded from Necropolis</p>
 	<p>At R16, the Undead's building Necropolis can be upgraded to a Unique Building: Undercity, which is required for some challenges and research quests.</p>
 	<hr>
@@ -125,13 +125,14 @@
 	<p><b>Effect</b>: Gives Flesh Workshop Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopUniqueBuilding.png" alt="Flesh Workshop" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopUniqueBuilding.png" alt="Flesh Workshop" align="middle"></b></p>
 	<p>Upgrade Orcish Arenas to Flesh Workshops, boosting their production based on your mana regeneration rate and unlocking more unique perks for the building.</p>
 	<p><b>Requirement</b>: Flesh Workshop Quest</p>
 	<p><b>Effect</b>: Increase production based on Mana Regeneration.</p>
 	<p><b>Formula</b>: (35 * x ^ 0.65)%, where x is your Mana Regeneration.</p>
 	<p><b>Effect</b>: Grants access to Faction Union.</p>
-	<br/>
+	<hr>
+	<p><b>Tier 4 Upgrades</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/UndeadUnion.png" alt="Undead Union" align="middle"> Undead Union</b></p>
 	<p><b>Requirement</b>: Flesh Workshop Unique Building</p>
 	<p><b>Cost</b>: 1 Qi (1e18) Undead Coins</p>
@@ -156,7 +157,7 @@
 	<p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 	<p><b>Effect</b>: Gain assistants additively based on the total amount of time spent offline in this Reincarnation.</p>
 	<p><b>Formula</b>: +(21 * x ^ 0.7), where x is offline time in this Reincarnation.</p>
-	<br/>
+	<hr>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedUndeadHeritage.png" align="middle"> Advanced Undead Heritage</b></p>
 	<p><b>Requirements</b>: Undead Master trophy and 6 hours activity time (This Game) of Night Time.</p>
 	<p><b>Cost</b>: 1 Sp (1e24) Undead Coins</p>

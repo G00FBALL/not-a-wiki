@@ -7,7 +7,7 @@
 	<p>At R99 the Reincarnation button will change to Ascension. Things will be reduced as it was with Ascension 1.</p>
 	<p>Most production upgrades effects will be heavily scaled down. Currency will change to Emerald Coins, and all upgrades costing Diamond Coins will be free to purchase.</p>
 	<p><b><font color="darkred">When Ascending to Ascension 2, all Lineages will be set back to level 25 if higher. You will also not be able to affiliate with Mercenary or Prestige Factions. The Research System is changed as you can only select <b>one</b> research per branch, however faction-specific researches do no not count for that limit.</font></b></p>
-	<p>Starting at R100, on top of the existing 3 alignment options (Good/Evil/Neutral), you will choose from a seperate set of 3 new Alignments (Order/Chaos/Balance). Each of the new alignment will grant you access to an alignment spell, and the two alignments combined will determine which Faction you can affiliate with.</p>
+	<p>Starting at R100, on top of the existing 3 alignment options (Good/Evil/Neutral), you will choose from a separate set of 3 new Alignments (Order/Chaos/Balance). Each of the new alignment will grant you access to an alignment spell, and the two alignments combined will determine which Faction you can affiliate with.</p>
 	<p>Additionally, you can unlock a second Unique Building for each Base Faction, granting you access to the Faction Union and a fourth Tier of 3 Faction Upgrades.</p>
 	<p>Finally, Ascension 2 will give you access to Tier 7 spells. See <a target="_blank" href="http://musicfamily.org/realm/SpellTiers/">Spell Tiers</a> page for more info.</p>
 	<br/>

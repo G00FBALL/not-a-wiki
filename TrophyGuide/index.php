@@ -1485,7 +1485,7 @@
 								<center>Novice Combinator</p><img src="http://musicfamily.org/realm/Factions/picks/NoviceCombinator.png"></td>
 							<td>1 Qavg (1e75)</td>
 							<td>Purchase Legacies from 4 different factions in a single game.</td>
-							<td>Increase the production of all buildings based on time spent with the least used alignment (avaiable for all factions).</p>Formula: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</td>
+							<td>Increase the production of all buildings based on time spent with the least used alignment (available for all factions).</p>Formula: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</td>
 							<td></td>
 						</tr>
 					</tbody>
