@@ -29,7 +29,7 @@
 					<hr>
 					<p><img src="http://musicfamily.org/realm/Factions/picks/GrandDiplomatSecretTrophy.png" align="middle"><b> Grand Diplomat</b></p>
 					<p><b>Requirement</b>: Ally with each Vanilla, Neutral and Prestige factions at least once.</p>
-					<p><b>Cost</b>: 6 T (6e12), A1+ Free</p>
+					<p><b>Cost</b>: 1, A1+ Free</p>
 					<p><b>Effect</b>: Increase your chance to find Faction Coins by an additional 2%</p>
 					<p><b>Note</b>: This can be done at any R.</p>
 					<hr>
@@ -85,7 +85,7 @@
 					<hr>
 					<p><img src="http://musicfamily.org/realm/Factions/picks/SpeedrunSecretTrophy.png" align="middle"><b> Speedrun</b></p>
 					<p><b>Requirement</b>: Reach 1 M (1e6) coins in less than 5 minutes, without using Gem Power.</p>
-					<p><b>Cost</b>: 10 coins, A1+ Free</p>
+					<p><b>Cost</b>: 1 coins, A1+ Free</p>
 					<p><b>Effect</b>: Increase your base clicking reward by +1 M (1e6).</p>
 					<p><b>Note</b>: <a target="_blank" href="http://musicfamily.org/realm/SpeedRun/"><b>Instructions</b></a></p>
 					<p><b>Note</b>: This can be done at R0</p>
@@ -117,7 +117,7 @@
 					<p><img src="http://musicfamily.org/realm/Factions/picks/NeedaHeadStartSecretTrophy.png" align="middle"><b> Need a Head Start?</b></p>
 					<p><b>Requirement</b>: Don't do anything for 5 minutes after starting a new game or after abdicating. Don't buy anything and don't click anything.</p>
 					<p><b>Cost</b>: Free</p>
-					<p><b>Effect</b>: Instantly adds 10 gold coins.</p>
+					<p><b>Effect</b>: Instantly adds 25 gold coins.</p>
 					<p><b>Note</b>: This can be done at the start of any reincarnation or abdication.</p>
 					<hr>
 					<p><img src="http://musicfamily.org/realm/Factions/picks/RealmDiggerSecretTrophy.png" align="middle"><b> Realm Digger</b></p>
@@ -209,7 +209,7 @@
 					<hr>
 					<p><img src="http://musicfamily.org/realm/Factions/picks/FactionRunSecretTrophy.png" align="middle"><b> Faction Run</b></p>
 					<p><b>Requirement</b>: Reach 1.5 M (1.5e6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.</p>
-					<p><b>Cost</b>: 10 coins, A1+ Free</p>
+					<p><b>Cost</b>: 1 coins, A1+ Free</p>
 					<p><b>Effect</b>: Increase Faction Coin find chance by +10%.</p>
 					<p><b>Note</b>: Can be done from R7+ with Elf/Elfline</p>
 					<hr>
@@ -263,7 +263,7 @@
 					<hr>
 					<p><img src="http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretTrophy.png" align="middle"><b> Stoic Resistance</b></p>
 					<p><b>Requirement</b>: Reach an amount of Gems in your treasury equal to the requisite of the first Reincarnation (1 Oc (1e27) gems) without abdicating since the start of a new Reincarnation.</p>
-					<p><b>Cost</b>: 10 Coins, A1+ Free</p>
+					<p><b>Cost</b>: 1 Coins, A1+ Free</p>
 					<p><b>Gems Needed</b>: A0 = 1 Oc (1e27), A1 = 177.8 Qi (1.778e20), A2 = 1.540 Qa (1.540e15), A3 = 245.8 B (2.458e11), A4 = 349.1 M (3.491e8)</p>
 					<p><b>Effect</b>: Increase base clicking reward by +1 T (1e12)</p>
 					<hr>
@@ -463,8 +463,8 @@
 					<p><b>Requirement</b>: R160+, As a Mercenary, purchase one upgrade from 15 different factions.</p>
 					<p><b>Cost</b>: 1e152 (100 Noqag)
 					<p><b>Effect</b>: Gives Upgrade with same name.</p>
-					<p><b>Effect</b>: Increases the production of all buildings based on the number of upgrades bought this game from different Factions.</p>
-					<p><b>Formula</b>: (x ^ 3)%, where x is the number of Factions with at least one of their upgrades being used (up to 3375% maximum possible).</p>
+					<p><b>Formula</b>: ((x * floor(1 + x / 5)) ^ 3)%, where x is the number of Factions with at least one of their upgrades being used (up to 216,000% maximum possible).</p>	
+					<p><b>Note</b>: Upgrade only requires 5 different faction upgrades to be purchasable.</p> 
 					<hr>
 				</div>
 			</div>
@@ -1103,7 +1103,7 @@
 					<hr>
 					<p><img src="http://musicfamily.org/realm/Factions/picks/VanillaChallengerSecretTrophy.png" align="middle"><b> Vanilla Challenger</b></p>
 					<p><b>Requirement</b>: Complete all the Vanilla Faction Challenges.</p>
-					<p><b>Cost</b>: 10 coins, A1+ Free</p>
+					<p><b>Cost</b>: 1 coins, A1+ Free</p>
 					<p><b>Effect</b>: Increase the overall production of Vanilla Factions by 25%.</p>
 					<p><b>Note</b>: Not A-Nerfed.</p>
 					<hr>
@@ -1188,14 +1188,14 @@
 					<p><img src="http://musicfamily.org/realm/Factions/picks/NoviceCombinator.png" align="middle"> <b>Novice Combinator</b></p>
 					<p><b>Requirement</b>: R220+, Purchase Legacies from 4 different factions in a single game.</p>
 					<p><b>Cost</b>: 1 Qavg (1e75)</p>
-					<p><b>Effect</b>: Increase the production of all buildings when playing a Good or Evil Faction based on time spent with the least used alignment.</p>
+					<p><b>Effect</b>: Increase the production of all buildings based on time spent with the least used alignment (available for all factions).</p>
 					<p><b>Formula</b>: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</p>
 					<hr>
 					<p><img src="http://musicfamily.org/realm/Factions/picks/ExpertCombinator.png" align="middle"> <b>Expert Combinator</b></p>
 					<p><b>Requirement</b>: R240+, Purchase Legacies from 6 different factions in a single game.</p>
 					<p><b>Cost</b>: 10 Dtg (1e100)</p>
-					<p><b>Effect</b>: Increase the production of all buildings when playing a Prestige Faction based on time spent with the least used alignment.</p>
-					<p><b>Formula</b>: (x)%, where x is time spent with your least used alignment.</p>
+					<p><b>Effect</b>: Increase the production of all buildings when playing a Prestige Faction based on time spent with the least used alignment (available for all Prestige Faction).</p>
+					<p><b>Formula</b>: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</p>
 					<hr>
 				</div>
 			</div>
@@ -1398,9 +1398,9 @@
 					<p><b>Requirement</b>: Unlock tier 7 for all spells</p>
 					<hr>
 					<p><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png" align="middle"><b> Coin Pillage</b></p>
-					<p><b>Requirement</b>: Cast the Tax Collection spell 30 times in less than 5 seconds.</p>
-					<p><b>Cost</b>: 1 Dc (1e33)</p>
-					<p><b>Effect</b>: Tax Collection also finds 150 seconds worth of Faction Coins.</p>
+					<p><b>Requirement</b>: Cast 150 Tax Collections in less than 5 seconds.</p>
+					<p><b>Cost</b>: 1 Dc (1e33), A1+ Free</p>
+					<p><b>Effect</b>: Tax Collection also finds 30 seconds worth of Faction Coins.</p>
 					<p><b>Note</b>: Default Spell</p>
 					<hr>
 					<p><img src="http://musicfamily.org/realm/Factions/picks/FairyChoirSecretTrophy.png" align="middle"><b> Fairy Choir</b></p>

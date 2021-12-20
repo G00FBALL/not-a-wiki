@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-		"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <?php include "../scripts/header.html"; ?>
@@ -42,7 +42,7 @@
 						<tr>
 							<td>
 								<center>Speedrun<img src="http://musicfamily.org/realm/Factions/picks/SpeedrunSecretTrophy.png"></td>
-							<td>10 coins</p>A1+ Free</td>
+							<td>1 coins</p>A1+ Free</td>
 							<td>Reach 1 M (1E6) coins in less than 5 minutes, without using Gem Power.</td>
 							<td>Increase your base clicking reward by +1 M (1e6).</td>
 							<td>
@@ -62,7 +62,7 @@
 								<center>Need a Head Start!</p><img src="http://musicfamily.org/realm/Factions/picks/NeedaHeadStartSecretTrophy.png"></td>
 							<td>Free</td>
 							<td>Don’t do anything for 5 minutes after abdicating or reincarnating.</td>
-							<td>Instantly adds 10 coins.</td>
+							<td>Instantly adds 25 coins.</td>
 							<td></td>
 						</tr>
 						<tr>
@@ -155,7 +155,7 @@
 						<tr>
 							<td>
 								<center>Grand Diplomat</p><img src="http://musicfamily.org/realm/Factions/picks/GrandDiplomatSecretTrophy.png"></td>
-							<td>1 M (1e6)</p>A1+ Free</td>
+							<td>1</p>A1+ Free</td>
 							<td>Ally with each vanilla faction at least once.</td>
 							<td>Increase your chance to find Faction Coins by an additional 2%.</td>
 							<td>Elf, Fairy, Angel, Goblin, Undead and Demon</td>
@@ -439,7 +439,7 @@
 						<tr>
 							<td>
 								<center>Faction Run</p><img src="http://musicfamily.org/realm/Factions/picks/FactionRunSecretTrophy.png"></td>
-							<td>10 coins</p>A1+ Free</td>
+							<td>1 coins</p>A1+ Free</td>
 							<td>Earn 1.5 M (1.5e6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.</td>
 							<td>Increases Faction Coin find chance by +10%</td>
 							<td>Use Elf/Elfline</td>
@@ -585,7 +585,7 @@
 						<tr>
 							<td>
 								<center>Vanilla Challenger</p><img src="http://musicfamily.org/realm/Factions/picks/VanillaChallengerSecretTrophy.png"></td>
-							<td>10 coins</p>A1+ Free</td>
+							<td>1 coins</p>A1+ Free</td>
 							<td>Complete all the Vanilla Challenges.</td>
 							<td>Increase the overall production of Vanilla Factions by 25%
 								<p>A1, 2.26%.</p>A2, 0.22%.</td>
@@ -904,7 +904,7 @@
 						<tr>
 							<td>
 								<center>Stoic Resistance</p><img src="http://musicfamily.org/realm/Factions/picks/StoicResistanceSecretTrophy.png"></td>
-							<td>10 Coins</p>A1+ Free</td>
+							<td>1 Coins</p>A1+ Free</td>
 							<td>Get 1 Oc (1e27) gems in the first game of a Reincarnation.</p>Gems Needed: (1e27 ^ 0.75 ^ A). A0 = 1 Oc (1e27), A1+ = 177.8 Qi (1.778e20), etc.</td>
 							<td>Increase base clicking reward by +1 T (1e12).</td>
 							<td>Advised to do at R34+ with Fairyline Dwairy or much later (R85+ or even A2).</td>
@@ -1426,7 +1426,7 @@
 								<center>True Harlequin</p><img src="http://musicfamily.org/realm/Factions/picks/TrueHarlequin.png"></td>
 							<td>1e152 (100 Noqag)</td>
 							<td>As a Mercenary, purchase one upgrade from 15 different factions.</td>
-							<td>Increases the production of all buildings based on the number of upgrades bought this game from different Factions.</p>Formula: (x ^ 3)%, where x is the number of Factions with at least one of their upgrades being used (up to 3375% maximum possible).</td>
+							<td>Increases the production of all buildings based on the number of upgrades bought this game from different Factions.</p>Formula: ((x * floor(1 + x / 5)) ^ 3)%, where x is the number of Factions with at least one of their upgrades being used (up to 216,000% maximum possible). Note: Upgrade only requires 5 different faction upgrades to be purchasable.</td>
 							<td></td>
 						</tr>
 					</tbody>
@@ -1485,7 +1485,7 @@
 								<center>Novice Combinator</p><img src="http://musicfamily.org/realm/Factions/picks/NoviceCombinator.png"></td>
 							<td>1 Qavg (1e75)</td>
 							<td>Purchase Legacies from 4 different factions in a single game.</td>
-							<td>Increase the production of all buildings when playing a Good or Evil Faction based on time spent with the least used alignment.</p>Formula: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</td>
+							<td>Increase the production of all buildings based on time spent with the least used alignment (avaiable for all factions).</p>Formula: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</td>
 							<td></td>
 						</tr>
 					</tbody>
@@ -1512,7 +1512,7 @@
 								<center>Expert Combinator</p><img src="http://musicfamily.org/realm/Factions/picks/ExpertCombinator.png"></td>
 							<td>10 Dtg (1e100)</td>
 							<td>Purchase Legacies from 6 different factions in a single game.</td>
-							<td>Increase the production of all buildings when playing a Prestige Faction based on time spent with the least used alignment.</p>Formula: (x)%, where x is time spent with your least used alignment.</td>
+							<td>Increase the production of all buildings when playing a Prestige Faction based on time spent with the least used alignment (available for all Prestige Faction).</p>Formula: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</td>
 							<td></td>
 						</tr>
 					</tbody>
