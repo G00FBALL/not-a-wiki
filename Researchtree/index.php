@@ -493,8 +493,8 @@
 		<area research="<p><b>S11125</b> - For All Factions</p>
 	<p><b>Research Name</b>: Multiplication</p>
 	<p><b>Requirement</b>: R223+</p>
-	<p><b>Effect</b>: Spells cast count more based on Mana Produced in this game.</p>
-	<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is mana produced this game.</p>
+	<p><b>Effect</b>: Spells cast count more based on Mana produced in this game.</p>
+	<p><b>Formula</b>: (ln(1 + x) ^ 1.5)%, where x is Mana produced in this game.</p>
 	" coords="380,128,420,168" shape="rect">
 		<area research="<p><b>S11375</b> - For All Factions</p>
 	<p><b>Research Name</b>: Concentration</p>
@@ -523,14 +523,14 @@
 		<area research="<p><b>S13125</b> - All Factions</p>
 	<p><b>Research Name</b>: Fantasia</p>
 	<p><b>Requirement</b>: R239+</p>
-	<p><b>Effect</b>: Multiplicatively increase assistants based on mana produced in this game.</p>
-	<p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is your mana produced this game.</p>
+	<p><b>Effect</b>: Multiplicatively increase assistants based on Mana produced in this game.</p>
+	<p><b>Formula</b>: (ln(1 + x) ^ 2)%, where x is Mana produced this game.</p>
 	" coords="170,170,210,210" shape="rect">
 		<area research="<p><b>S13500</b> - For All Factions</p>
 	<p><b>Research Name</b>: Legerdemain</p>
 	<p><b>Requirement</b>: R242+</p>
-	<p><b>Effect</b>: Mana produced counts more based on the amount of Faction Coins found in this game.</p>
-	<p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is the amount of Faction Coins found this game.</p>
+	<p><b>Effect</b>: Increase the production of all buildings based on Royal Exchange bonus.</p>
+	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your Royal Exchange bonus.</p>
 	" coords="212,170,254,210" shape="rect">
 		<area research="<p><b>C1</b> - For Elf</p>
 	<p><b>Research Name</b>: Dummy Targets</p>
@@ -771,9 +771,8 @@
 	<p><b>Research Name</b>: Manufacture</p>
 	<p><b>Requirement</b>: R177+, Forgotten Relic, Factory artifact and upgrade.</p>
 	<p><b>Effect</b>: Increase Faction Coin Find Chance additively and multiplicatively based on clicks made in this game.</p>
-    <p><b>Formulas</b></p>
-    <p><b>Additive</b>: +(6 * x ^ 0.6)%, where x is clicks made in this game.</p>
-    <p><b>Multiplicative</b>: (x ^ 0.35)%, where x is clicks made in this game.</p>
+	<p><b>Additive Formula</b>: +(7.5 * x ^ 0.5)%, where x is clicks made in this game.</p>
+	<p><b>Multiplicative Formula</b>: (1.3 * x ^ 0.3)%, where x is clicks made in this game.</p>
 	" coords="212,338,252,378" shape="rect">
 		<area research="<p><b>C5625</b> - For All Factions</p>
 	<p><b>Research Name</b>: Discovery</p>
@@ -1127,7 +1126,9 @@
 	<p><b>Requirement</b>: R239+</p>
 	<p><b>Effect</b>: Neutral Buildings also count as both Good and Evil buildings. Non-Unique buildings also count as Unique buildings.</p>
 	<p><b>Note</b>: Neutral Buildings in this instance refers to only Farms, Inns, Blacksmiths and Hall of Legends.</p>
-	<p><b>Note</b>: The second effect is only applied to effects that specifically check for Unique Buildings, such as Lineage Perk 3s. The Non-Unique Buildings will still only count as Non-Unique when it comes to building modifiers, such as E135. Essentially, effects that are '...based on the amount of Unique Buildings' are now '...based on your total amount of buildings'.</p>
+	<p><b>Note</b>: The effect on Unique Buildings is only applied to effects that specifically check for Unique Buildings, such as Lineage Perk 3s. The Non-Unique Buildings will still only count as Non-Unique when it comes to building modifiers, such as E135. Essentially, effects that are '...based on the amount of Unique Buildings' are now '...based on your total amount of buildings'.</p>
+	<p><b>Effect</b>: When you spend time with a faction, you also gain a fraction of that time spent with all factions.</p>
+	<p><b>Note</b>: You gain 0.1 second of playtime for each faction (including Mercenary and Elites) every second. This does not include your current Faction(s), which gain time normally. This effect works both offline and in time warps. Time gained is added as real stat.</p>
 	" coords="170,590,210,630" shape="rect">
 		<area research="<p><b>D13500</b> - For All Factions</p>
 	<p><b>Research Name</b>: Afterlife</p>
@@ -1393,8 +1394,9 @@
 		<area research="<p><b>E11125</b> - For All Factions</p>
 	<p><b>Research Name</b>:  Grey Friday</p>
 	<p><b>Requirement</b>: R223+</p>
-	<p><b>Effect</b>: Reduce building cost multiplier.</p>
+	<p><b>Effect</b>: Reduce building cost multiplier and increase the production of all buildings based on Royal Exchange bonus.</p>
 	<p><b>Formula</b>: -0.02, with no other reductions applying, the multiplier will be 1.13 instead of 1.15.</p>
+	<p><b>Formula</b>: (1.2 * x ^ 0.8)%, where x is your Royal Exchange bonus.</p>
 	" coords="380,758,420,798" shape="rect">
 		<area research="<p><b>E11375</b> - For All Factions</p>
 	<p><b>Research Name</b>: Heist</p>
@@ -1412,7 +1414,7 @@
 	<p><b>Research Name</b>: Overworking</p>
 	<p><b>Requirement</b>: R229+</p>
 	<p><b>Effect</b>: Goblin's Greed casts additional Tax Collection per second based on the amount of assistants you have.</p>
-	<p><b>Formula</b>: +(0.85 * x ^ 0.85), where x is the amount of assistants you have.</p>
+	<p><b>Formula</b>: +(1.5 * x ^ 0.5), where x is the amount of assistants you have.</p>
 	<p><b>Note</b>: Catalyst can also trigger this effect.</p>
 	" coords="86,800,126,840" shape="rect">
 		<area research="<p><b>E12250</b> - For All Factions</p>
@@ -2018,7 +2020,7 @@
 	<p><b>Research Name</b>: Raiding</p>
 	<p><b>Requirement</b>: R232+</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on the highest Combo Strike counter you had in this Reincarnation.</p>
-	<p><b>Formula</b>: (x ^ 0.7)%, where x is the highest Combo Strike counter in this Reincarnation.</p>
+	<p><b>Formula</b>: (2.5 * x ^ 0.5)%, where x is the highest Combo Strike counter in this Reincarnation.</p>
 	" coords="128,1220,168,1260" shape="rect">
 		<area research="<p><b>W13125</b> - For All Factions</p>
 	<p><b>Research Name</b>: Artillery</p>

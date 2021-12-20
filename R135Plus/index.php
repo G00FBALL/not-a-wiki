@@ -568,7 +568,7 @@
 						<p>W25,W205,W405,W520,W1375</p>
 						<p><b>Note</b>: Buff Excavations this Reincarnation (1.2e6 (1.2 M)+) & Excavation Resets (60+) with Makerline Angel (Max Excavations).</p>
 						<p><b>Note</b>: Buff Clicks this Reincarnation (500,000+) with Elfline Druids (Clicks).</p>
-						<p><b>Note</b>: <b>If</b> Spells (1e15 (1 Qa)+) and Max Assistants (5e15 (5 Qa)+) are buffed.</p>
+						<p><b>Note</b>: <b>If</b> Max Spells (1e15 (1 Qa)+) and Max Assistants (5e15 (5 Qa)+) are buffed.</p>
 						<p>- Replace Stoneheart Set with Faceless and swap S200 with S400 and A120 with A3400.</p>
 					</div>
 				</div>
@@ -921,7 +921,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblin (R135-R139) (Max Spell Casts)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Goblin (R135-R139) (Spell Casts)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Rellikrellik, ElectroFuzz</p>
 				<p><b>Range</b>: 1e88 (10 Ocvg) Gems+</p>
@@ -941,7 +941,7 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Goblin (R139+) (Max Spell Casts)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Angelline Goblin (R139+) (Spell Casts)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Rellikrellik</p>
 				<p><b>Requirement</b>: Makers Challenge 2</p>
@@ -1038,7 +1038,7 @@
 				<p>E50,E135,E410,</p>
 				<p>A30,A120,A495,</p>
 				<p>W560,W1375</p>
-				<p><b>Note</b>: Build benefits from Spell Casts buff prior for S400 and Dwarven Chaos Union.</p>
+				<p><b>Note</b>: Buffing spell casts for S400 and Dwarven Chaos Union is helpful.</p>
 			</div>
 		</div>
 	</div>
