@@ -167,7 +167,7 @@
 					<p>E145,E150,E200,E330,E410,</p>
 					<p>A105,A150,A330,A400,A495,</p>
 					<p>W150,W225,W290,W320,W330</p>
-					<p><b>Note</b>: The build grows stronger as you spend more time as Angel. <b>This variant only becomes better than the previousinitial variant after 1 hour spent as Angel in this R.</b></p>
+					<p><b>Note</b>: The build grows stronger as you spend more time as Angel. <b>This variant only becomes better than the previous initial variant after 1 hour spent as Angel in this R.</b></p>
 					<p><b>Note</b>: This is a grower build, meaning that the build will benefit more from longer (15 minutes or more) runs instead of shorter (2-5 minutes) runs.</p>	
 					<p><b>Note</b>: It's heavily recommended that you have Dwarven Horn before running this build (and before ascending).</p>
 					<p><b>Note</b>: Swap A400 with A545 if you don't have A400 (requires 2 days as Druids).</p>
@@ -201,12 +201,17 @@
 				<div class="autohide">
 					<p><b>Author</b>: Kuerti</p>
 					<p><b>Faction</b>: Goblin/Drow</p>
-					<p><b>Bloodline</b>: Titan</p>
+					<p><b>Bloodline</b>: Druid</p>
 					<p><b>Requirement</b>: 1e130 (10 Dqag)+ Gems</p>
 					<p><b>Range</b>: Reincarnation Gems+</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
 						<input type="text" value="S50,S150,S215,S330,S500,C120,C150,C400,C460,C500,D55,D200,D250,D290,D320,E80,E150,E225,E290,E330,A10,A105,A120,A150,A410,W25,W120,W150,W320,W330">
+					</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="S50,S150,S215,S330,S500,C120,C150,C400,C460,C500,D55,D200,D250,D290,D320,E80,E150,E290,E330,E480,A10,A105,A120,A150,A410,W25,W120,W150,W320,W330">
+						<b>E480 is higher</b>
 					</p>
 					<p>S50,S150,S215,S330,S500,</p>
 					<p>C120,C150,C400,C460,C500,</p>
@@ -214,6 +219,8 @@
 					<p>E80,E150,E225,E290,E330,</p>
 					<p>A10,A105,A120,A150,A410,</p>
 					<p>W25,W120,W150,W320,W330</p>
+					<p><b>Note</b>: Spend about 30 seconds clicking to buff C460.</p>
+					<p><b>Note</b>: Swap E225->E480 if higher.</p>
 				</div>
 			</div>
 		</div>
