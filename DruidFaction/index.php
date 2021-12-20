@@ -145,7 +145,7 @@
 	<p><b>Chance</b>: 0.2% per excavation</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidUniqueBuilding.png" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidUniqueBuilding.png" align="middle"></b></p>
 	<hr>
 	<p><b>Ascension 2 - R100+</b></p>
 	<p><b>Additional Alignment</b>: Chaos</p>
@@ -162,12 +162,13 @@
 	<p><b>Effect</b>: Gives Ziggurat Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/ZigguratUniqueBuilding.png" alt="Ziggurat" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/ZigguratUniqueBuilding.png" alt="Ziggurat" align="middle"></b></p>
 	<p>Upgrade Ancient Pyramids to Ziggurats, boosting their production based on lineage levels and unlocking more unique perks for the building.</p>
 	<p><b>Effect</b>: Increase production based on total Lineage levels.</p>
 	<p><b>Formula</b>: floor(x ^ 1.1)%, where x is total level of Lineages.</p>
 	<p><b>Effect</b>: Also grants access to Faction Union.</p>
-	<br/>
+	<hr>
+	<p><b>Tier 4 Upgrades</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidUnion.png" alt="Druids Union" align="middle"> Druids Union</b></p>
 	<p><b>Requirement</b>: Ziggurat Unique Building</p>
 	<p><b>Cost</b>: 1 Qi (1e18) Elven and Demon Coins</p>
@@ -194,7 +195,7 @@
 	<p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on their tier. Middle tiers get better bonuses.</p>
 	<p><b>Formula</b>: (0.8 * ((6 - abs(6 - T)) ^ 4))%, where T is building tier.</p>
-	<br/>
+	<hr>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDruidHeritage.png" align="middle"> Advanced Druid Heritage</b></p>
 	<p><b>Requirement</b>: Druid Master trophy and 6 hours activity time (This Game) of Grand Balance.</p>
 	<p><b>Cost</b>: 1 Sp (1e24) Elven and Demon Coins</p>

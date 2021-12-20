@@ -32,6 +32,7 @@
 					<span id="R139"> Undead Perk 5 <input id="R139UDP5" style="width: unset" type="checkbox"></span>
 					<span id="R225"> D11375 <input id="R225D11375" style="width: unset" type="checkbox"><br/></span>
 					<span id="R232"> S12250 - Undead time this Reincarnation (hours): <input id="R232S12250" style="max-width: 15%" type="number" min="0" max="876000" value="1"></span>
+				</th>
 			</tr>
 			<tr>
 				<td id="Ben">

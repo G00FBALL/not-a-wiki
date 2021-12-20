@@ -143,7 +143,7 @@
 	<p><b>Note</b>: Required to be bought each Drow research run.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowUniqueBuilding.png" alt="Unique building drow" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowUniqueBuilding.png" alt="Unique building Drow" align="middle"></b></p>
 	<p>Upgraded from Dark Temples</p>
 	<p>At R28, Drow's Dark temples building can be upgraded to a Unique Building: Spider Sanctuary, which is required for some challenges and research quests.</p>
 	<hr>
@@ -161,11 +161,12 @@
 	<p><b>Effect</b>: Gives Brothel Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/BrothelUniqueBuilding.png" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/BrothelUniqueBuilding.png" align="middle"></b></p>
 	<p><b>Effect</b>: Upgrade Inns to Brothels, boosting their production based on Royal Exchanges made and unlocking more unique perks for the buildings.</p>
 	<p><b>Formula</b>: (10 * x ^ 1.05)%, where x is Royal Exchanges purchased this game.</p>
 	<p><b>Effect</b>: Grants access to Faction Union.</p>
-	<br/>
+	<hr>
+	<p><b>Tier 4 Upgrades</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowUnion.png" align="middle"> Drow Union</b></p>
 	<p><b>Requirement</b>: Brothel Unique Building</p>
 	<p><b>Cost</b>: 1e24 Drow coins</p>
@@ -196,7 +197,7 @@
 	<p><b>Cost</b>: 1 Notg (1e120)</p>
 	<p><b>Effect</b>: Multiplicatively gain assistants based on current gem amount.</p>
 	<p><b>Formula</b>: (1.75 * log10(1 + x) ^ 1.75)%, where x is your current amount of gems.</p>
-	<br/>
+	<hr>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDrowHeritage.png" align="middle"> Advanced Drow Heritage</b></p>
 	<p><b>Requirement</b>: Drow Master trophy and 6 hours activity time (This Game) of Combo Strike.</p>
 	<p><b>Cost</b>: 1 Sp (1e24) Drow Coins</p>

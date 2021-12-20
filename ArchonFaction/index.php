@@ -50,7 +50,7 @@
 	<p><b>Note</b>: Precognition raises regen itself. Make sure that you have 100 Qa (1e17) before being cast.</p>
 	<p><b>Cost</b>: 10 Octg (1e118), A3+ Free</p>
 	<p><b>Effect</b>: A fraction of Precognition's duration is added to time spent in this game.</p>
-	<p><b>Formula</b>: (3600 + 60 * x ^ 0.4), where x is its duration.</p>
+	<p><b>Formula</b>: (100 * ln(1 + x / 60) ^ 2.5), where x is its duration.</p>
 	<hr>
 	<center><b>When using Mercenary</b></center>
 	<p><b>Note</b>: Elite Faction Upgrades can only be purchased with Mercenary Upgrade 4, 8, 12 and 16.</p>
@@ -81,7 +81,7 @@
 	<p><b>Formula</b>: +(0.5 * x ^ 0.5)%, where x is clicks made this Reincarnation.</p>
 	<hr>
 	<p><b>Tier 2 Upgrades</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonFriendshipPact.png" align="middle">  Archon Friendship Pact</b></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonFriendshipPact.png" align="middle"> Archon Friendship Pact</b></p>
 	<p><b>Cost</b>: 1 No (1e30) Angel and Undead Coins</p>
 	<p><b>Effect</b>: Unlocks Archon Upgrades</p>
 	<br/>
@@ -101,7 +101,7 @@
 	<p><b>Formula</b>: (30 + 3 * (x + y) ^ 3)%, where x and y are free and ruby excavation resets done in this Reincarnation.</p>
 	<hr>
 	<p><b>Tier 3 Upgrades</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonAlliance.png" align="middle">  Archon Alliance</b></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonAlliance.png" align="middle"> Archon Alliance</b></p>
 	<p><b>Cost</b>: 1 Dc (1e33) Angel and Undead Coins</p>
 	<p><b>Effect</b>: Unlocks Archon Upgrades</p>
 	<br/>
@@ -137,12 +137,13 @@
 	<p><b>Effect</b>: Gives Nexus Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/NexusUniqueBuilding.png"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/NexusUniqueBuilding.png" align="middle"></b></p>
 	<p>Upgrade Wizard Towers/Witch Conclaves/Alchemist Labs to Nexuses, boosting their production based on time spent as Order and unlocking more unique perks for the building.</p>
 	<p><b>Formula</b>: (80 * x ^ 0.8)%, where x is time spent as Order this Reincarnation.</p>
 	<p><b>Requirement</b>: Nexus Quest.</p>
 	<p><b>Effect</b>: Grants access to Faction Union.</p>
-	<br/>
+	<hr>
+	<p><b>Tier 4 Upgrades</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/ArchonUnion.png" align="middle"> Archon Union</b></p>
 	<p><b>Requirements</b>: Nexus Unique Building</p>
 	<p><b>Cost</b>: 1 Dd (1e39) Angel and Undead Coins</p>

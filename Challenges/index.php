@@ -164,7 +164,7 @@
 	<area href="http://musicfamily.org/realm/Angel/#ANC3" target=""
 		research="
 	<p><b>Angel Challenge 3</b></p>
-	<p><img src='http://musicfamily.org/realm/Factions/picks/Nephilim'sBlessingChallenge.png' align='middle'> <b>Nephilim's Blessing</b></p>
+	<p><img src='http://musicfamily.org/realm/Factions/picks/NephilimsBlessingChallenge.png' align='middle'> <b>Nephilim's Blessing</b></p>
 	<p>&quot;The fallen nephilim have noticed your abilities and have entrusted you with a secret mission: Spread false hope upon the legends of mortals.&quot;</p>
 	<p><b>Requirements</b>: Angel as Base Faction, Reincarnation 18+, Demon Bloodline, Angel Unique Building, Angel challenge 2 completed.</p>
 	<p><b>Note</b>: Dwarven can <b>NOT</b> be used unless you can get Dwarven's Unique Building at R28+.</p>
@@ -309,7 +309,7 @@
 	<p><b>Titan Challenge Reward</b></p>
 	<p><img src='http://musicfamily.org/realm/Factions/picks/ThunderstormChallengeReward.png' align='middle'> <b>Thunderstorm</b></p>
 	<p><b>Effect</b>: Further increase Faction Coin find chance from Lightning Strike based on building tiers it hits.</p>
-	<p><b>Formula</b>: (10 + log10(1 + x) ^ 2 * (1 + 0.2 * sum(T))%, where x is your current amount of gems and T the Building Tier Lightning Strike hits.</p></p>
+	<p><b>Formula</b>: (10 + log10(1 + x) ^ 2 * (1 + 0.2 * sum(T)))%, where x is your current amount of gems and T the Building Tier Lightning Strike hits.</p></p>
 	<p><b>Note</b>: Lightning Strike can hit multiple tiers at once if you have C375 and/or Titan Perk 4.</p>
 		" coords="4,632,58,686" shape="rect">
 	<area href="http://musicfamily.org/realm/Titan/#TTC1" target=""
@@ -363,7 +363,7 @@
 	<area href="http://musicfamily.org/realm/Druid/#DDCR" target=""
 		research="
 	<p><b>Druid Challenge Reward</b></p>
-	<p><img src='http://musicfamily.org/realm/Factions/picks/PrimalBalanceChallenge.png' align='middle'> <b>Primal Balance</b></p>
+	<p><img src='http://musicfamily.org/realm/Factions/picks/PrimalBalanceChallengeReward.png' align='middle'> <b>Primal Balance</b></p>
 	<p><b>Effect</b>: Grand Balance now affects extra buildings based on Mana produced in this Reincarnation.</p>
 	<p><b>Formula</b>: (0.00001 * x) ^ (0.2 - 0.025 * A), where x is Mana produced in this Reincarnation and A is how many times you have ascended.</p>
 	<p><b>Effect</b>: When the amount of additional targets exceeds 11, increase the production of all affected buildings based on the exceeding amount. Does not suffer from Ascension penalties.</p>
@@ -420,7 +420,7 @@
 	<area href="http://musicfamily.org/realm/Faceless/#FCCR" target=""
 		research="
 	<p><b>Faceless Challenge Reward</b></p>
-	<p><img src='http://musicfamily.org/realm/Factions/picks/FocusedThoughtsChallenge.png' align='middle'> <b>Focused Thoughts</b></p>
+	<p><img src='http://musicfamily.org/realm/Factions/picks/FocusedThoughtsChallengeReward.png' align='middle'> <b>Focused Thoughts</b></p>
 	<p><b>Effect</b>: Give Brainwave a headstart based on its activity time in this game, with a minimum of 1 minute.</p>
 	<p><b>Formula</b>: +1 second per 5 minutes of Brainwave active time this game.</p>
 		" coords="4,828,58,882" shape="rect">
@@ -468,7 +468,7 @@
 	<area href="http://musicfamily.org/realm/Dwarf/#DNCR" target=""
 		research="
 	<p><b>Dwarven Challenge Reward</b></p>
-	<p><img src='http://musicfamily.org/realm/Factions/picks/IronGripChallenge.png' align='middle'> <b>Iron Grip</b></p>
+	<p><img src='http://musicfamily.org/realm/Factions/picks/IronGripChallengeReward.png' align='middle'> <b>Iron Grip</b></p>
 	<p><b>Effect</b>: Increase Diamond Pickaxe duration by 8 seconds, and its bonus to Faction Coin find chance is passively applied as a multiplier to excavations Faction Coin rewards.</p>
 		" coords="4,926,58,980" shape="rect">
 	<area href="http://musicfamily.org/realm/Dwarf/#DNC1" target=""
@@ -594,7 +594,7 @@
 	<area href="http://musicfamily.org/realm/Dragons/#DGCR" target=""
 		research="
 	<p><b>Dragon Challenge Reward</b></p>
-	<p><img src='http://musicfamily.org/realm/Factions/picks/PrismaticBreathChallenge.png' align='middle'> <b>Prismatic Breath</b></p>
+	<p><img src='http://musicfamily.org/realm/Factions/picks/PrismaticBreathChallengeReward.png' align='middle'> <b>Prismatic Breath</b></p>
 	<p><b>Effect</b>: While all 5 breaths are active, Reincarnations count 50% more.</p>
 		" coords="4,1122,58,1176" shape="rect">
 	<area href="http://musicfamily.org/realm/Dragons/#DGC1" target=""
@@ -668,7 +668,7 @@
 	<area href="http://musicfamily.org/realm/Archon/#ARCR" target=""
 		research="
 	<p><b>Archon Challenge Reward</b></p>
-	<p><img src='http://musicfamily.org/realm/Factions/picks/Omniscience.png' align='middle'> <b>Omniscience</b></p>
+	<p><img src='http://musicfamily.org/realm/Factions/picks/OmniscienceChallengeReward.png' align='middle'> <b>Omniscience</b></p>
 	<p><b>Effect</b>: Precognition also makes Excavations, Artifacts, Reincarnations, Research points and Lineage levels count 15% more.</p>
 		" coords="4,1220,58,1274" shape="rect">
 	<area href="http://musicfamily.org/realm/Archon/#ARC1" target=""

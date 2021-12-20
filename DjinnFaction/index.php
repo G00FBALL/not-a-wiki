@@ -41,20 +41,18 @@
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/LimitedWish.png" align="middle"> Limited Wish</b></p>
 	<p><b>Cost</b>: 888,888 mana - <b>Duration</b>: Fixed to 12 seconds</p>
 	<p><b>Effect</b>: Provide a random effect based on your chosen base alignment, for 12 seconds. The duration of the spell cannot be modified. Its power increases as you continue casting this spell.</p>
-	<p><b>Formula</b>: (2.25 * (ln(1 + x) ^ 1.35) * y ^ 0.45)%, where x is Limited Wish activity time this game and y is a random number between 1 and Limited Wish casts this game rolled on cast.</p>
+	<p><b>Formula</b>: (2.25 * (ln(1 + x) ^ 1.35) * y ^ 0.45)%, where x is Limited Wish activity time in this game and y is a random number between 1 and Limited Wish casts this game rolled on cast.</p>
 	<p><b>Possible Effects</b></p>
-	<p><b>Good Alignment</b></p>
 	<p><b>1</b>: Increase the production of all buildings.</p>
+	<p><b>Good Alignment</b></p>
 	<p><b>2</b>: Temporarily increase Assistants (multiplicatively).</p>
 	<p><b>3</b>: All spells durations count more.</p>
 	<p><b>4</b>: Multiplicatively increase Mana Regeneration.</p>
 	<p><b>Evil Alignment</b></p>
-	<p><b>1</b>: Increase the production of all buildings.</p>
 	<p><b>2</b>: Multiplicatively increase Trophy count and Offline Bonus.</p>
 	<p><b>3</b>: Multiplicatively increase Mana Regeneration.</p>
 	<p><b>4</b>: Multiplicatively increase Faction Coin find chance.</p>
 	<p><b>Neutral Alignment</b></p>
-	<p><b>1</b>: Increase the production of all buildings.</p>
 	<p><b>2</b>: Multiplicatively increase Maximum Mana.</p>
 	<p><b>3</b>: All spells durations count more.</p>
 	<p><b>4</b>: Multiplicatively increase Faction Coin find chance.</p>
@@ -92,7 +90,7 @@
 	<p><b>Formula</b>: (sum(sumOfDigits(x)) ^ 1.15)%, where x is any single selected research upgrade.</p>
 	<hr>
 	<p><b>Tier 2 Upgrades</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnFriendshipPact.png" align="middle">  Djinn Friendship Pact</b></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnFriendshipPact.png" align="middle"> Djinn Friendship Pact</b></p>
 	<p><b>Cost</b>: 1 No (1e30) Fairy and Demon Coins</p>
 	<p><b>Effect</b>: Unlocks Djinn Upgrades</p>
 	<br/>
@@ -112,7 +110,7 @@
 	<p><b>Formula</b>: (0.75 * x ^ 0.75)%, where x is the duration of your longest spell.</p>
 	<hr>
 	<p><b>Tier 3 Upgrades</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnAlliance.png" align="middle">  Djinn Alliance</b></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnAlliance.png" align="middle"> Djinn Alliance</b></p>
 	<p><b>Cost</b>: 1 Dc (1e33) Fairy and Demon Coins</p>
 	<p><b>Effect</b>: Unlocks Djinn Upgrades</p>
 	<br/>
@@ -151,12 +149,13 @@
 	<p><b>Effect</b>: Gives Pavilion Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/PavillionUniqueBuilding.png"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/PavillionUniqueBuilding.png" align="middle"></b></p>
 	<p>Upgrade Slave Pens/Warrior Barracks/Deep Mines to Pavilions, boosting their production based on spells cast in this Reincarnation and unlocking more unique perks for the building.</p>
 	<p><b>Formula</b>: Formula: (10 * x ^ 0.5)%, where x is spells cast this Reincarnation.</p>
 	<p><b>Requirement</b>: Pavilion Quest.</p>
 	<p><b>Effect</b>: Grants access to Faction Union.</p>
-	<br/>
+	<hr>
+	<p><b>Tier 4 Upgrades</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DjinnUnion.png" align="middle"> Djinn Union</b></p>
 	<p><b>Requirements</b>: Pavilion Unique Building</p>
 	<p><b>Cost</b>: 1 Dd (1e39) Fairy and Demon Coins</p>

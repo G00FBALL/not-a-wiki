@@ -171,7 +171,7 @@
 	<p><b>Effect</b>: Unlocks Wyrm's Den Unique Building</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonUniqueBuilding.png" alt="Unique building Dragon" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonUniqueBuilding.png" alt="Unique building Dragon" align="middle"></b></p>
 	<p>Upgraded from Iron Stronghold</p>
 	<p>At R46, Dragon's Iron Stronghold building can be upgraded to a Unique Building: Wyrm's Den, which is required for some research quests.</p>
 	<hr>
@@ -189,12 +189,13 @@
 	<p><b>Effect</b>: Gives Dragon Pasture Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureUniqueBuilding.png" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonPastureUniqueBuilding.png" align="middle"></b></p>
 	<p><b>Effect</b>: Upgrade Farm to Dragon Pastures, boosting their production based on your max mana and unlocking more unique perks for the building.</p>
 	<p><b>Formula</b>: (0.63 * x ^ 0.63)%, where x is your Maximum Mana.</p>
 	<p><b>Effect</b>: Grants access to Faction Union.</p>
-	<br/>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonUnion.png" align="middle"> Dragons Union</b></p>
+	<hr>
+	<p><b>Tier 4 Upgrades</b></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonUnion.png" align="middle"> Dragon Union</b></p>
 	<p><b>Requirement</b>: Dragon Pastures Unique Building</p>
 	<p><b>Cost</b>: 100 Sp (1e26) Dwarven and Drow coins</p>
 	<p><b>Effect</b>: Grants access to Union Upgrades.</p>
@@ -224,7 +225,7 @@
 	<p><b>Cost</b>: 1 Notg (1e120)</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on Maximum Mana.</p>
 	<p><b>Formula</b>: (20 * ln(1 + x) ^ 2)%, where x is your Maximum Mana.</p>
-	<br/>
+	<hr>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDragonHeritage.png" align="middle"> Advanced Dragon Heritage</b></p>
 	<p><b>Requirement</b>: Dragon Master trophy and 6 hours activity time (This Game) of Dragon's Breath.</p>
 	<p><b>Cost</b>: 1 Sp (1e24) Dwarven and Drow Coins</p>

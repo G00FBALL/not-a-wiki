@@ -107,7 +107,7 @@
 	<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonUniqueBuilding.png" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonUniqueBuilding.png" align="middle"></b></p>
 	<p>At R16, the Demon's building Hell Portals can be upgraded to a Unique Building: Infernal Realm, which is required for some challenges and research quests.</p>
 	<hr>
 	<p><b>Ascension 2 - R100+</b></p>
@@ -125,12 +125,13 @@
 	<p><b>Effect</b>: Gives Burning Abyss Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssUniqueBuilding.png" alt="Burning Abyss" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssUniqueBuilding.png" alt="Burning Abyss" align="middle"></b></p>
 	<p>Upgrade Hall of Legends to Burning Abyss, boosting their production based on time spent as Evil and unlocking more unique perks for the building.</p>
 	<p><b>Effect</b>: Increase production based on spent time as Evil.</p>
 	<p><b>Formula</b>: for each digit of floor(1.25 * x): sum(digit ^ (2 + (floor(log10(1 + 1.25 * x) + 1) / 10))% where x is Evil time this Reincarnation.</p>
 	<p><b>Effect</b>: Grants access to Faction Union.</p>
-	<br/>
+	<hr>
+	<p><b>Tier 4 Upgrades</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DemonUnion.png" alt="Demons Union" align="middle"> Demons Union</b></p>
 	<p><b>Requirement</b>: Burning Abyss Unique Building</p>
 	<p><b>Cost</b>: 1 Qi (1e18) Demon Coins</p>
@@ -155,7 +156,7 @@
 	<p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 	<p><b>Effect</b>: Increase production of three highest building tiers based on your Mana Regeneration.</p>
 	<p><b>Formula</b>: (2.5 * ln(1 + x) ^ 2.5)%, where x is your Mana Regeneration.</p>
-	<br/>
+	<hr>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedDemonHeritage.png" align="middle"> Advanced Demonic Heritage</b></p>
 	<p><b>Requirements</b>: Demon Master trophy and 6 hours activity time (This Game) of Hellfire Blast.</p>
 	<p><b>Cost</b>: 1 Sp (1e24) Demon Coins</p>

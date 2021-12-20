@@ -143,7 +143,7 @@
 	<p><b>Chance</b>: 0.2% per excavation</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FacelessUniqueBuilding.png" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FacelessUniqueBuilding.png" align="middle"></b></p>
 	<p>Upgraded from Labyrinths</p>
 	<p>At R22, Faceless' Labyrinths can be upgraded to a Unique Building: Sunken Cities, which is required for some challenges and research quests.</p>
 	<hr>
@@ -162,12 +162,13 @@
 	<p><b>Effect</b>: Gives Forbidden Library Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuilding.png" alt="Forbidden Library" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuilding.png" alt="Forbidden Library" align="middle"></b></p>
 	<p>Upgrade Monasteries to Forbidden Libraries, boosting production based on spells cast and unlocking more unique perks for the building.</p>
 	<p><b>Effect</b>: Increase production based on spells cast.</p>
 	<p><b>Formula</b>: (18 * (ln(1 + x) / ln(x % 10 + 2)) ^ 1.8)%, where x is spells cast.</p>
 	<p><b>Effect</b>: Grants access to Faction Union.</p>
-	<br/>
+	<hr>
+	<p><b>Tier 4 Upgrades</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FacelessUnion.png" alt="Faceless Union" align="middle"> Faceless Union</b></p>
 	<p><b>Requirement</b>: Forbidden Library Unique Building</p>
 	<p><b>Cost</b>: 1 Qi (1e18) Fairy and Undead Coins</p>
@@ -192,7 +193,7 @@
 	<p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 	<p><b>Effect</b>: Increase the production of all buildings based on the highest amount of Maximum Mana you had in this Reincarnation.</p>
 	<p><b>Formula</b>: (2 * ln(1 + x) ^ 2)%, where x is highest Maximum Mana this Reincarnation.</p>
-	<br/>
+	<hr>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedFacelessHeritage.png" align="middle"> Advanced Faceless Heritage</b></p>
 	<p><b>Requirement</b>: Faceless Master trophy and 6 hours activity time (This Game) of Brainwave.</p>
 	<p><b>Cost</b>: 1 Sp (1e24) Fairy and Undead Coins</p>

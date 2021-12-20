@@ -69,7 +69,7 @@
 	<p><b>Formula</b>: +(3 * x ^ 0.7)%, where x is time spent as Neutral in this Reincarnation.</p>
 	<hr>
 	<p><b>Tier 2 Upgrades</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanFriendshipPact.png" alt="Titan Friendship Pact" align="middle"> Titan Friendship Pact</b></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanFriendshipPact.png" alt="Titan Friendship Pact" align="middle"> Titans Friendship Pact</b></p>
 	<p><b>Cost</b>: 2,500 Angel Coins + 2,500 Goblin Coins</p>
 	<p><b>Effect</b>: Unlocks Tier 2 Titan Upgrades.</p>
 	<br/>
@@ -88,7 +88,7 @@
 	<p><b>Formula</b>: (20 + 2.15 * ln(1 + x) ^ 2.15)%, where x is the amount of assistants you own.</p>
 	<hr>
 	<p><b>Tier 3 Upgrades</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanAlliance.png" alt="Titan Alliance" align="middle"> Titan Alliance</b></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanAlliance.png" alt="Titan Alliance" align="middle"> Titans Alliance</b></p>
 	<p><b>Cost</b>: 10,000 Angel Coins + 10,000 Goblin Coins</p>
 	<p><b>Effect</b>: Unlocks Tier 3 Titan Upgrades.</p>
 	<br/>
@@ -144,7 +144,7 @@
 	<p><b>Chance</b>: 0.2% per excavation</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanUniqueBuilding.png" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanUniqueBuilding.png" align="middle"></b></p>
 	<p>At R22, the Titan's Hall Of Legends building can be upgraded to a Unique Building: Olympian Halls, which is required for some challenges and research quests.</p>
 	<hr>
 	<p><b>Ascension 2 - R100+</b></p>
@@ -162,12 +162,13 @@
 	<p><b>Effect</b>: Gives Mountain Palace Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceUniqueBuilding.png" alt="Mountain Palace" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceUniqueBuilding.png" alt="Mountain Palace" align="middle"></b></p>
 	<p>Upgrade Deep Mines to Mountain Palaces, boosting their production based on buildings owned and unlocking more unique perks for the building.</p>
 	<p><b>Effect</b>: Increase production based on buildings owned.</p>
 	<p><b>Formula</b>: (0.75 * x ^ 0.75)%, where x is buildings owned.</p>
 	<p><b>Effect</b>: Grants access to Faction Union.</p>
-	<br/>
+	<hr>
+	<p><b>Tier 4 Upgrades</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanUnion.png" alt="Titans Union" align="middle"> Titans Union</b></p>
 	<p><b>Requirement</b>: Mountain Palace Unique Building</p>
 	<p><b>Cost</b>: 1 Qi (1e18) Angel and Goblin Coins</p>
@@ -194,7 +195,7 @@
 	<p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 	<p><b>Effect</b>: Gain assistants based on time spent as Order in this Reincarnation.</p>
 	<p><b>Formula</b>: +(25 * x ^ 0.7), where x time spent as Order in this Reincarnation.</p>
-	<br/>
+	<hr>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedTitanHeritage.png" align="middle"> Advanced Titan Heritage</b></p>
 	<p><b>Requirement</b>: Titan Master trophy 6 hours activity time (This Game) of Lightning Strike.</p>
 	<p><b>Cost</b>: 1 Sp (1e24) Angel and Goblin Coins</p>

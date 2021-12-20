@@ -287,7 +287,7 @@
 	<p><b>Angelic Fortitude</b></p>
 	<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells' activity time (this Reincarnation).</p>
 	<p><b>Formula</b>: (x ^ 0.7)%, where x is the sum of all your spells' activity time in this Reincarnation.</p>
-	<p><b>Note</b>: Counts only the acitivity time of the spells you have in this game available.</p>
+	<p><b>Note</b>: Counts only the activity time of the spells you have in this game available.</p>
 	<p></p>
 	<p><b>Seraphim Wings</b></p>
 	<p><b>Effect</b>: Multiplicatively increase Maximum Mana, Mana Regeneration, Faction Coin find chance and assistants by 200%.</p>

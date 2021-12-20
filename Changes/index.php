@@ -212,7 +212,7 @@
 	<br/>
 	<p><b>Novice Combinator</b></p>	
 	<p><b>Old Effect</b>: Increase the production of all buildings when playing a Good or Evil Faction based on time spent with the least used alignment.</p>
-	<p><b>New Effect</b>: Increase the production of all buildings based on time spent with the least used alignment (avaiable for all factions).</p>
+	<p><b>New Effect</b>: Increase the production of all buildings based on time spent with the least used alignment (available for all factions).</p>
 	<p><b>Formula</b>: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</p>
 	<br/>
 	<p><b>Expert Combinator</b></p>	

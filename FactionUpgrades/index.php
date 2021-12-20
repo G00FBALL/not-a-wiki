@@ -945,7 +945,7 @@
 			<p><b>Cost</b>: 100 Qivg (1e80) Emerald Coins</p>
 			<p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on the sum of all your spells' activity time (this Reincarnation).</p>
 			<p><b>Formula</b>: (x ^ 0.7)%, where x is the sum of all your spells' activity time in this Reincarnation.</p>
-			<p><b>Note</b>: Counts only the acitivity time of the spells you have in this game available.</p>
+			<p><b>Note</b>: Counts only the activity time of the spells you have in this game available.</p>
 			<br/>
 			<p><b><img src="http://musicfamily.org/realm/Factions/picks/AngelUpgrade12.png" align="middle"> Seraphim Wings</b></p>
 			<p><b>Mercenary Template</b>: AN12</p>

@@ -281,18 +281,16 @@
 	<p><b>Effect</b>: Provide a random effect based on your chosen base alignment, for 12 seconds. The duration of the spell cannot be modified. Its power increases as you continue casting this spell.</p>
 	<p><b>Formula</b>: (2.25 * (ln(1 + x) ^ 1.35) * y ^ 0.45)%, where x is Limited Wish activity time in this game and y is a random number between 1 and Limited Wish casts this game rolled on cast.</p>
 	<p><b>Possible Effects</b></p>
-	<p><b>Good Alignment</b></p>
 	<p><b>1</b>: Increase the production of all buildings.</p>
+	<p><b>Good Alignment</b></p>
 	<p><b>2</b>: Temporarily increase Assistants (multiplicatively).</p>
 	<p><b>3</b>: All spells durations count more.</p>
 	<p><b>4</b>: Multiplicatively increase Mana Regeneration.</p>
 	<p><b>Evil Alignment</b></p>
-	<p><b>1</b>: Increase the production of all buildings.</p>
 	<p><b>2</b>: Multiplicatively increase Trophy count and Offline Bonus.</p>
 	<p><b>3</b>: Multiplicatively increase Mana Regeneration.</p>
 	<p><b>4</b>: Multiplicatively increase Faction Coin find chance.</p>
 	<p><b>Neutral Alignment</b></p>
-	<p><b>1</b>: Increase the production of all buildings.</p>
 	<p><b>2</b>: Multiplicatively increase Maximum Mana.</p>
 	<p><b>3</b>: All spells durations count more.</p>
 	<p><b>4</b>: Multiplicatively increase Faction Coin find chance.</p>
@@ -499,7 +497,7 @@
 		<area href="#LightningStrike" research="
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/ThunderstormChallengeReward.png' align='middle'> Thunderstorm</b></p>
 	<p><b>Effect</b>: Further increase Faction Coin find chance from Lightning Strike based on building tiers it hits.</p>
-	<p><b>Formula</b>: (10 + log10(1 + x) ^ 2 * (1 + 0.2 * sum(T))%, where x is your current amount of gems and T the Building Tier Lightning Strike hits.</p></p>
+	<p><b>Formula</b>: (10 + log10(1 + x) ^ 2 * (1 + 0.2 * sum(T)))%%, where x is your current amount of gems and T the Building Tier Lightning Strike hits.</p></p>
 	<p><b>Note</b>: Lightning Strike can hit multiple tiers at once if you have C375 and/or Titan Perk 4.</p>
 		" coords="10,130,64,184" shape="rect">
 		<area href="#GrandBalance" research="
@@ -1077,7 +1075,7 @@
 <p><b>Cost</b>: 10 Dd (1e40), A1+ Free</p>
 <p><b>Challenge Upgrade</b>: <b><img src="http://musicfamily.org/realm/Factions/picks/ThunderstormChallengeReward.png" align="middle"> Thunderstorm</b> (R25+)</p>
 <p><b>Effect</b>: Further increase Faction Coin find chance from Lightning Strike based on building tiers it hits.</p>
-<p><b>Formula</b>: (10 + log10(1 + x) ^ 2 * (1 + 0.2 * sum(T))%, where x is your current amount of gems and T the Building Tier Lightning Strike hits.</p></p>
+<p><b>Formula</b>: (10 + log10(1 + x) ^ 2 * (1 + 0.2 * sum(T)))%%, where x is your current amount of gems and T the Building Tier Lightning Strike hits.</p></p>
 <p><b>Note</b>: Lightning Strike can hit multiple tiers at once if you have C375 and/or Titan Perk 4.</p>
 <div class="shlisting">
 	<div class="shelementwhole">
@@ -1316,18 +1314,16 @@
 <p><b>Effect</b>: Provide a random effect based on your chosen base alignment, for 12 seconds. The duration of the spell cannot be modified. Its power increases as you continue casting this spell.</p>
 <p><b>Formula</b>: (2.25 * (ln(1 + x) ^ 1.35) * y ^ 0.45)%, where x is Limited Wish activity time in this game and y is a random number between 1 and Limited Wish casts this game rolled on cast.</p>
 <p><b>Possible Effects</b></p>
-<p><b>Good Alignment</b></p>
 <p><b>1</b>: Increase the production of all buildings.</p>
+<p><b>Good Alignment</b></p>
 <p><b>2</b>: Temporarily increase Assistants.</p>
 <p><b>3</b>: All spells durations count more.</p>
 <p><b>4</b>: Multiplicatively increase Mana Regeneration.</p>
 <p><b>Evil Alignment</b></p>
-<p><b>1</b>: Increase the production of all buildings.</p>
 <p><b>2</b>: Multiplicatively increase Trophy count and Offline Bonus.</p>
 <p><b>3</b>: Multiplicatively increase Mana Regeneration.</p>
 <p><b>4</b>: Multiplicatively increase Faction Coin find chance.</p>
 <p><b>Neutral Alignment</b></p>
-<p><b>1</b>: Increase the production of all buildings.</p>
 <p><b>2</b>: Multiplicatively increase Maximum Mana.</p>
 <p><b>3</b>: All spells durations count more.</p>
 <p><b>4</b>: Multiplicatively increase Faction Coin find chance.</p>

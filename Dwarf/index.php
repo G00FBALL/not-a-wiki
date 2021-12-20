@@ -50,6 +50,6 @@
 <p><b>Upgrade</b>: Works with All</p>
 <hr>
 <h6 id="DNCR"></h6><p><b>Dwarven Challenge Reward</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/IronGripChallenge.png" alt="Spell Upgrade Iron Grip" align="middle"> <b>Spell Upgrade Iron Grip</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/IronGripChallengeReward.png" alt="Spell Upgrade Iron Grip" align="middle"> <b>Spell Upgrade Iron Grip</b></p>
 <p>Increase Diamond Pickaxe duration by 8 seconds, and its bonus to Faction Coin find chance is passively applied as a multiplier to excavations Faction Coin rewards.</p>
 <?php include "../scripts/footer.html"; ?>

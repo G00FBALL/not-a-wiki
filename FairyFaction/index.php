@@ -23,7 +23,7 @@
 	<p><b>Effect</b>: Triples your assistants while Fairy Chanting is active.</p>
 	<hr>
 	<p><b>Tier 1 Upgrades</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyTradeTreaty.png" alt="Fairy" align="middle"> Fairy Trade Treaty</b></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyTradeTreaty.png" alt="Fairy" align="middle"> Fairies Trade Treaty</b></p>
 	<p><b>Cost</b>: Free at R0 with 0 gems, 20 Fairy Coins afterwords.</p>
 	<p><b>Effect</b>: Fairies focus on the small and common things and make them magically powerful. Affiliating yourself with the Fairy faction will hugely improve the output of lower tier buildings.</p>
 	<br/>
@@ -42,7 +42,7 @@
 	<p><b>Formula</b>: +(1.3 * x ^ 0.7), where x is the amount of Good buildings you own.</p>
 	<hr>
 	<p><b>Tier 2 Upgrades</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyFriendshipPact.png" align="middle"> Fairy Friendship Pact</b></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyFriendshipPact.png" align="middle"> Fairies Friendship Pact</b></p>
 	<p><b>Cost</b>: 100 Fairy Coins</p>
 	<p><b>Effect</b>: Unlocks more Fairy Upgrades</p>
 	<br/>
@@ -61,7 +61,7 @@
 	<p><b>Formula</b>: +(2.75 * x ^ 0.275), where x is the number of Blacksmiths you own.</p>
 	<hr>
 	<p><b>Tier 3 Upgrades</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyAlliance.png" align="middle"> Fairy Alliance</b></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyAlliance.png" align="middle"> Fairies Alliance</b></p>
 	<p><b>Cost</b>: 500 Fairy Coins</p>
 	<p><b>Effect</b>: Unlocks more Fairy upgrades.</p>
 	<br/>
@@ -108,7 +108,7 @@
 	<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyUniqueBuilding.png" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyUniqueBuilding.png" align="middle"></b></p>
 	<p>At R16, Farms can be upgraded to a Unique Building: Enchanted Fields, which is required for some challenges and research quests.</p>
 	<hr>
 	<p><b>Ascension 2 - R100+</b></p>
@@ -126,11 +126,12 @@
 	<p><b>Effect</b>: Gives Swarming Towers Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowersUniqueBuilding.png" alt="Swarming Towers" align="middle"></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowersUniqueBuilding.png" alt="Swarming Towers" align="middle"></b></p>
 	<p>Upgrade Wizard Towers to Swarming Towers, boosting their production based on the amount of active spells and unlocking more unique perks for the building.</p>
-	<p><b>Formula</b>: (0.5 * x ^ 2.5)%, where x is active spells.</p>
+	<p><b>Formula</b>: (0.5 * x ^ 2.5)%, where x is the amount of active spells.</p>
 	<p><b>Effect</b>: Grants access to Fairies Union.</p>
-	<br/>
+	<hr>
+	<p><b>Tier 4 Upgrades</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyUnion.png" alt="Fairies Union" align="middle"> Fairies Union</b></p>
 	<p><b>Requirement</b>: Swarming Towers Unique Building</p>
 	<p><b>Cost</b>: 1 Qi (1e18) Fairy Coins</p>
@@ -156,7 +157,7 @@
 	<p><b>Cost</b>: 100 Tg (1e95) Emerald Coins</p>
 	<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on the amount of Chaos spells cast this Reincarnation.</p>
 	<p><b>Formula</b>: (1.2 * x ^ 0.8)%, where x is Chaos spells cast this Reincarnation.</p>
-	<br/>
+	<hr>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AdvancedFairyHeritage.png" align="middle"> Advanced Fairy Heritage</b></p>
 	<p><b>Requirements</b>: Fairy Master trophy and 6 hours activity time this game of Fairy Chanting.</p>
 	<p><b>Cost</b>: 1 Sp (1e24) Fairy Coins</p>

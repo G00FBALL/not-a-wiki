@@ -36,7 +36,7 @@
 <p><b>Upgrade</b>: Works with All</p>
 <hr>
 <h6 id="ANCR"></h6><p><b>Angel Challenge Reward</b></p>
-<p><img src="http://musicfamily.org/realm/Factions/picks/GodsThroneChallenge.png" alt="God's Throne" align="middle"> <b>God's Throne</b></p>
+<p><img src="http://musicfamily.org/realm/Factions/picks/GodsThroneChallengeReward.png" alt="God's Throne" align="middle"> <b>God's Throne</b></p>
 <p><b>Effect</b>: Mana regeneration is increased by 50% while God's Hand is active.</p>
 <p><b>Effect</b>: Also increases offline spells cast amount multiplicatively based on your offline Mana Regeneration.</p>
 <p><b>Formula</b>: (10 * log10(1 + x)), where x is offline Mana Regeneration.</p>
