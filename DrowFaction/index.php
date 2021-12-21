@@ -4,7 +4,6 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 	<h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/DrowTopPage.png" alt="Spellcraft" align="middle"></a></h6>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/Drow.png" align="middle"> Champion Trophy</b></p>
 	<p><b>In-game description</b></p>
 	<p>The Drows believe that any crime can go unpunished if nobody notices you did it. They value and praise perfect executions, and will reward those who plan accordingly.</p>
 	<p><b>Alignment</b>: Evil</p>
