@@ -4,7 +4,6 @@
 <head>
 <?php include "../scripts/header.html"; ?>
 	<h6><a href="/realm/Factions/"><img src="http://musicfamily.org/realm/Factions/picks/DragonTopPage.png" alt="Spellcraft" align="middle"></a></h6>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DragonChampionTrophy.png" align="middle"> Champion Trophy</b></p>
 	<p><b>In-game description</b></p>
 	<p>The Dragon is the mightiest, most imposing creature of all the realms. None may stand a chance alone against a Dragon, not even the fiercest of heroes. They usually care little for the lower creatures, but you have piqued their interest.</p>
 	<p><b>Alignment</b>: Neutral</p>
