@@ -57,7 +57,7 @@
 <p><b>Effect</b>: The Advanced Heritage that matches your Lineage counts 50% (up from 30%) of its level. All others get 5% (up from 0%) of their respective Lineage level.</p>
 <p><b>Upgrade</b>: Works with All</p>
 <hr>
-<h6 id="ArchonACR"></h6><p><b>Archon Challenge Reward</b></p>
+<h6 id="ARCR"></h6><p><b>Archon Challenge Reward</b></p>
 <p><b><img src="http://musicfamily.org/realm/Factions/picks/OmniscienceChallengeReward.png" align="middle"> Omniscience</b></p>
 <p><b>Effect</b>: Precognition also makes Excavations, Artifacts, Reincarnations, Research points and Lineage levels count 15% more.</p>
 <?php include "../scripts/footer.html"; ?>

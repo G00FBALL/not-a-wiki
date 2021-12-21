@@ -364,7 +364,7 @@
 						break;
 				}
 			}
-			$('#ReiCosRei, #R10TimeTot, #R20SpecBui, #R63PB').on('input', CalRBen);
+			$('#ReiCosRei, #R10TimeTot, #R20SpecBui, #R60DDLin, #R63PB, #R125Omni, #R139UDP5, #R225D11375, #R232S12250').on('input', CalRBen);
 			CalRBen();
 		</script>
 	</div>
