@@ -106,7 +106,7 @@
 		<p><b><img src='http://musicfamily.org/realm/Factions/picks/DrowSet.png' align='middle'> Drow Set</b></p>
 		<p><b>Requirement</b>: R116+, Ceremonial Dagger, Arachnid Figurine, Poison Vial</p>
 		<p><b>Effect</b>: Spells cast count more based on time spent as Evil in this Reincarnation.</p>
-		<p><b>Formula</b>: (6 * ln(1 + x) ^ 1.8)%, where x is time spent as Evil in this Reincarnation.</p>
+		<p><b>Formula</b>: (6 * ln(1 + x) ^ 1.6)%, where x is time spent as Evil in this Reincarnation.</p>
 		<p><b>Second Effect Requirement</b>: R235+, Stiletto Heel</p>
 		<p><b>Effect</b>: Remove Ascension penalties from Royal Exchange bonus, starting from 0 and removing more levels of penalty over time and increase their production based on the amount of Gems you own.</p>
 		<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is the amount of Gems you own.</p>
@@ -227,7 +227,7 @@
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowSet.png" align="middle"> Drow Set</b></p>
 	<p><b>Requirement</b>: R116+, Ceremonial Dagger, Arachnid Figurine, Poison Vial</p>
 	<p><b>Effect</b>: Spells cast count more based on time spent as Evil in this Reincarnation.</p>
-	<p><b>Formula</b>: (6 * ln(1 + x) ^ 1.8)%, where x is time spent as Evil in this Reincarnation.</p>
+	<p><b>Formula</b>: (6 * ln(1 + x) ^ 1.6)%, where x is time spent as Evil in this Reincarnation.</p>
 	<p><b>Second Effect Requirement</b>: R235+, Stiletto Heel</p>
 	<p><b>Effect</b>: Remove Ascension penalties from Royal Exchange bonus, starting from 0 and removing more levels of penalty over time and increase their production based on the amount of Gems you own.</p>
 	<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is the amount of Gems you own.</p>
