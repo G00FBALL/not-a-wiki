@@ -98,7 +98,7 @@
 		<p><b>Requirement</b>: R116+, Dwarven Bow, Stone Tankard, Beard Hair</p>
 		<p><b>Effect</b>: Multiplicatively increase Assistants based on your Royal Exchange bonus.</p>
 		<p><b>Formula</b>: (8 * x ^ 0.4)%, where x is Royal Exchange bonus.</p>
-		<p><b>Second Effect Requirement</b>: R240+, Dwarven Anvil</p>
+		<p><b>Second Effect Requirement</b>: R235+, Dwarven Anvil</p>
 		<p><b>Effect</b>: Multiplicatively increase Mana Regeneration based on time spent in this game.</p>
 		<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your time spent in this game.</p>
 		" coords="10,190,64,244" shape="rect">
@@ -107,7 +107,7 @@
 		<p><b>Requirement</b>: R116+, Ceremonial Dagger, Arachnid Figurine, Poison Vial</p>
 		<p><b>Effect</b>: Spells cast count more based on time spent as Evil in this Reincarnation.</p>
 		<p><b>Formula</b>: (6 * ln(1 + x) ^ 1.8)%, where x is time spent as Evil in this Reincarnation.</p>
-		<p><b>Second Effect Requirement</b>: R240+, Stiletto Heel</p>
+		<p><b>Second Effect Requirement</b>: R235+, Stiletto Heel</p>
 		<p><b>Effect</b>: Remove Ascension penalties from Royal Exchange bonus, starting from 0 and removing more levels of penalty over time and increase their production based on the amount of Gems you own.</p>
 		<p><b>Formula</b>: (log10(1 + x) ^ 2)%, where x is the amount of Gems you own.</p>
 		<p><b>Penalties Reduction</b>: (round((0.3 * x / 3600) ^ 0.5) - 1), where x is time spent in this game.</p>
@@ -118,7 +118,7 @@
 		<p><b>Requirement</b>: R116+, Dragon Fang, Dragon Soul, Dragon Scale</p>
 		<p><b>Effect</b>: Increase the duration of all spells based on spells cast in this Reincarnation.</p>
 		<p><b>Formula</b>: (1.25 * ln(1 + x) ^ 1.25)%, where x is spells cast in this Reincarnation.</p>
-		<p><b>Second Effect Requirement</b>: R240+, Eye of the Dragon</p>
+		<p><b>Second Effect Requirement</b>: R235+, Eye of the Dragon</p>
 		<p><b>Effect</b>: All alignment spells gain 1 additional Tier and all spells activity time count more based on the amount of excavations you made, including resets.</p>
 		<p><b>Formula</b>: (0.25 * (x * (y + 1)) ^ 0.5)%, where x is the number of excavations made, and y is your number of resets in this game.</p>
 		" coords="130,190,184,244" shape="rect">
