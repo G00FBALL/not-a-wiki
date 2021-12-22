@@ -881,7 +881,7 @@
 	<p><img src='http://musicfamily.org/realm/Factions/picks/HomunculusLab.png' align='middle'><b> Homunculus Lab</b></p>
 	<p><b>Requirement</b>: Goblin Legacy, Undead Legacy</p>
 	<p><b>Effect</b>: Increase Research Budget based on the least time spent between Order and Balance in this Reincarnation.</p>
-	<p><b>Formula</b>: +(75 + 0.7 * ln(1 + min(x , y)) ^ 3.25)%, where x and y is time spent as Order and Balance respectively in this Reincarnation.</p>
+	<p><b>Formula</b>: +(75 + ln(1 + min(x , y)) ^ 3.25)%, where x and y is time spent as Order and Balance respectively in this Reincarnation.</p>
 	<p><b>Effect</b>: Also increase the production of all buildings based on unspent research budget.</p>
 	<p><b>Formula</b>: (1.3 * x ^ 0.7)%, where x is the sum of your unspent research budget across all branches.</p>
 		" coords="10,250,64,304" shape="rect">
@@ -967,7 +967,7 @@
 	<p id="GB-UD"><img src="http://musicfamily.org/realm/Factions/picks/HomunculusLab.png" align="middle"><b> Homunculus Lab</b></p>
 	<p><b>Requirement</b>: Goblin Legacy, Undead Legacy</p>
 	<p><b>Effect</b>: Increase Research Budget based on the least time spent between Order and Balance in this Reincarnation.</p>
-	<p><b>Formula</b>: +(75 + 0.7 * ln(1 + min(x , y)) ^ 3.25)%, where x and y is time spent as Order and Balance respectively in this Reincarnation.</p>
+	<p><b>Formula</b>: +(75 + ln(1 + min(x , y)) ^ 3.25)%, where x and y is time spent as Order and Balance respectively in this Reincarnation.</p>
 	<p><b>Effect</b>: Also increase the production of all buildings based on unspent research budget.</p>
 	<p><b>Formula</b>: (1.3 * x ^ 0.7)%, where x is the sum of your unspent research budget across all branches.</p>
 	<hr>
