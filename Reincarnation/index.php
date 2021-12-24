@@ -24,14 +24,14 @@
 			<tr>
 				<th align="right">
 					Complete List of benefits for Reincarnation: <input id="ReiCosRei" style="max-width: 15%" type="number" min="0" max="279" value="0"><br/>
-					<span id="R10"> Time this Reincarnation (hours): <input id="R10TimeTot" style="max-width: 15%" type="number" min="0" max="876000" value="1"><br/></span>
-					<span id="R20"> Buildings of a certain tier: <input id="R20SpecBui" style="max-width: 15%" type="number" min="0" max="9999999" value="1"><br/></span>
-					<span id="R60"> (Active) Druid Lineage Level: <input id="R60DDLin" style="max-width: 15%" type="number" min="0" max="150" value="1"><br/></span>
+					<span id="R10"> Time this Reincarnation (hours): <input id="R10TimeTot" style="max-width: 15%" type="number" min="0" max="876000" value="0"><br/></span>
+					<span id="R20"> Buildings of a certain tier: <input id="R20SpecBui" style="max-width: 15%" type="number" min="0" max="9999999" value="0"><br/></span>
+					<span id="R60"> (Active) Druid Lineage Level: <input id="R60DDLin" style="max-width: 15%" type="number" min="0" max="150" value="0"><br/></span>
 					<span id="R63"> Prismatic Breath <input id="R63PB" style="width: unset" type="checkbox"></span>
 					<span id="R63"> Omniscience <input id="R125Omni" style="width: unset" type="checkbox"></span>
 					<span id="R139"> Undead Perk 5 <input id="R139UDP5" style="width: unset" type="checkbox"></span>
 					<span id="R225"> D11375 <input id="R225D11375" style="width: unset" type="checkbox"><br/></span>
-					<span id="R232"> S12250 - Undead time this Reincarnation (hours): <input id="R232S12250" style="max-width: 15%" type="number" min="0" max="876000" value="1"></span>
+					<span id="R232"> S12250 - Undead time this Reincarnation (hours): <input id="R232S12250" style="max-width: 15%" type="number" min="0" max="876000" value="0"></span>
 				</th>
 			</tr>
 			<tr>
@@ -217,7 +217,7 @@
 				if ($('#R225D11375').is(':checked')) {
 					reiEff *= 2;
 				}
-				if ((parseInt($('R232S12250').val()) > 0 {
+				if (parseInt($('R232S12250').val()) > 0 ) {
 					reiEff *= 1 + 0.005 * Math.pow(parseInt($('R232S12250').val()) * 3600,0.5);
 				}
 				// Reincarnation Perks

@@ -332,7 +332,7 @@
 	<p>&quot;The mighty Titans wish for you to harness arcane powers through your fingertips.&quot;</p>
 	<p><b>Requirements</b>: Titan as Base Faction, Reincarnation 9+, Titan Bloodline, Angel and Goblin challenge 2 and Titan challenge 1 completed.</p>
 	<p><b>Challenge</b>: Click 80 times while having at least 3 active spells in a single session.</p>
-	<p><b>Effect</b>: Increases the production of buildings based on time spent not playing as Faceless in this Reincarnation. does not suffer from Ascension penalties.</p>
+	<p><b>Effect</b>: Increases the production of buildings based on time spent not playing as Faceless in this Reincarnation. Does not suffer from Ascension penalties.</p>
 	<p><b>Formula</b>: (x ^ 0.7)%, where x is time spent not playing as Faceless this Reincarnation.</p>
 	<p><b>Upgrade</b>: Works with Faceless</p>
 	<p><b>Tip</b>: This challenge does not need to be done within one spell combo. In addition, due to a bug, it counts one click per second if you have at least one assistant. It's possible to meet the condition without clicking the treasure at all while spells are active by casting 3 spells that last 20 seconds together 4 times.</p>
@@ -344,8 +344,8 @@
 	<p>&quot;The mighty Titans are almost ready to accept you into their pantheon. They request that you gather enough offerings to mark your ascension.&quot;</p>
 	<p><b>Requirements</b>: Titan as Base Faction, Reincarnation 19+, 1000 excavations, Angel and Goblin challenge 3 and Titan challenge 2 completed.</p>
 	<p><b>Challenge</b>: Cast 80 Tax Collections within the active duration of a single Lightning Strike.</p>
-	<p><b>Effect</b>: Gain additional Maximum Mana based on the number of faction coins generated this game.</p>
-	<p><b>Formula</b>: (round(2.5 * log10(1 + x)))%, where x is your Faction Coins Gained this game.</p>
+	<p><b>Effect</b>: Gain additional Maximum Mana based on the number of Faction Coins generated this game.</p>
+	<p><b>Formula</b>: (round(2.5 * log10(1 + x)))%, where x is the number of Faction Coins Gained found in this game.</p>
 	<p><b>Upgrade</b>: Works with Druid</p>
 		" coords="184,632,238,686" shape="rect">
 	<area href="http://musicfamily.org/realm/Titan/#TTC4" target=""
