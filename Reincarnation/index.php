@@ -23,15 +23,15 @@
 		<table style="width:98%">
 			<tr>
 				<th align="right">
-					Complete List of benefits for Reincarnation: <input id="ReiCosRei" style="max-width: 15%" type="number" min="0" max="279" value="0"><br/>
-					<span id="R10"> Time this Reincarnation (hours): <input id="R10TimeTot" style="max-width: 15%" type="number" min="0" max="876000" value="0"><br/></span>
-					<span id="R20"> Buildings of a certain tier: <input id="R20SpecBui" style="max-width: 15%" type="number" min="0" max="9999999" value="0"><br/></span>
-					<span id="R60"> (Active) Druid Lineage Level: <input id="R60DDLin" style="max-width: 15%" type="number" min="0" max="150" value="0"><br/></span>
-					<span id="R63"> Prismatic Breath <input id="R63PB" style="width: unset" type="checkbox"></span>
-					<span id="R63"> Omniscience <input id="R125Omni" style="width: unset" type="checkbox"></span>
-					<span id="R139"> Undead Perk 5 <input id="R139UDP5" style="width: unset" type="checkbox"></span>
-					<span id="R225"> D11375 <input id="R225D11375" style="width: unset" type="checkbox"><br/></span>
-					<span id="R232"> S12250 - Undead time this Reincarnation (hours): <input id="R232S12250" style="max-width: 15%" type="number" min="0" max="876000" value="0"></span>
+					Complete List of benefits for Reincarnation: <input id="ReiCosRei" style="max-width: 15%; text-align: right" type="number" min="0" max="279" value="0"><br/>
+					<span id="R10"> Time this Reincarnation (hours): <input id="R10TimeTot" style="max-width: 15; text-align: right%" type="number" min="0" max="876000" value="0"><br/></span>
+					<span id="R20"> Buildings of a certain tier: <input id="R20SpecBui" style="max-width: 15%; text-align: right" type="number" min="0" max="9999999" value="0"><br/></span>
+					<span id="R60"> (Active) Druid Lineage Level: <input id="R60DDLin" style="max-width: 15%; text-align: right" type="number" min="0" max="150" value="0"><br/></span>
+					<span id="R63"> Prismatic Breath <input id="R63PB" style="width: unset; display: inline" type="checkbox"></span>
+					<span id="R139"> Undead Perk 5 <input id="R139UDP5" style="width: unset; display: inline" type="checkbox"></span>
+					<span id="R153"> Omniscience <input id="R153Omni" style="width: unset; display: inline" type="checkbox"></span>
+					<span id="R225"> D11375 <input id="R225D11375" style="width: unset; display: inline" type="checkbox"><br/></span>
+					<span id="R232"> S12250 - Undead time this Reincarnation (hours): <input id="R232S12250" style="max-width: 15%; text-align: right" type="number" min="0" max="876000" value="0"></span>
 				</th>
 			</tr>
 			<tr>
@@ -107,8 +107,8 @@
 				, function(rei, bonus) {return 'Gem production is increased by +' + bonus + '%.';}
 				],
 				[ 5, 999, '#R5Ass', true, 1
-				, function(rei) {return 2 * rei;}
-				, function(rei, bonus) {return 'Add ' + rei + ' assistants and their production is increased by ' + bonus + '%.';}
+				, function(rei) {return rei;}
+				, function(rei, bonus) {return 'Add ' + rei + ' assistants and their production is increased by ' + 2 * bonus + '%.';}
 				],
 				[ 10, 999, '#R10AllBuiPro', true, 1
 				, function(rei) {return Math.pow(rei, 1.75) * Math.pow(parseInt($('#R10TimeTot').val()), 0.65);}
@@ -143,8 +143,8 @@
 				, function(rei, bonus) {return 'Faction coin chance is increased ' + bonus + ' times if they match your Faction or Bloodline.';}
 				],
 				[ 85, 999, '#R85AssPerR', false, 0
-				, function(rei) {return rei * 4;}
-				, function(rei, bonus) {return 'Add ' + bonus + ' additional Assistants. Total bonus is '+ rei * 5 + ' additional assistants.';}
+				, function(rei) {return rei;}
+				, function(rei, bonus) {return 'Add ' + 4 * bonus + ' additional Assistants. Total bonus is '+ 5 * bonus + ' additional assistants.';}
 				],
 				[ 90, 100, '#R90AddResSlo', false, 0
 				, function(rei) {return 0;}
@@ -156,7 +156,7 @@
 				],
 				[ 108, 999, '#R108ProdUBTimeDiff', false, 0
 				, function(rei) {return 0;}
-				, function(rei, bonus) {return 'Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most most used faction this reincarnation';}
+				, function(rei, bonus) {return 'Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most most used faction this Reincarnation.';}
 				],
 				[ 115, 999, '#R115FCChaMul', false, 0
 				, function(rei) {return 1.2 * Math.pow(rei, 1.05);}
@@ -210,11 +210,11 @@
 				if ($('#R63PB').is(':checked')) {
 					reiEff *= 1.5;
 				}
-				if ($('#R125Omni').is(':checked')) {
-					reiEff *= 1.15;
-				}
 				if ($('#R139UDP5').is(':checked')) {
 					reiEff *= 2;
+				}
+				if ($('#R153Omni').is(':checked')) {
+					reiEff *= 1.15;
 				}
 				if ($('#R225D11375').is(':checked')) {
 					reiEff *= 2;
@@ -257,10 +257,35 @@
 				} else {
 					$('#R20').css('display', 'none');
 				}
+				if (rei >= 60) {
+					$('#R60').css('display', 'block');
+				} else {
+					$('#R60').css('display', 'none');
+				}
 				if (rei >= 63) {
 					$('#R63').css('display', 'block');
 				} else {
 					$('#R63').css('display', 'none');
+				}
+				if (rei >= 139) {
+					$('#R139').css('display', 'block');
+				} else {
+					$('#R139').css('display', 'none');
+				}
+				if (rei >= 153) {
+					$('#R153').css('display', 'block');
+				} else {
+					$('#R153').css('display', 'none');
+				}
+				if (rei >= 225) {
+					$('#R225').css('display', 'block');
+				} else {
+					$('#R225').css('display', 'none');
+				}
+				if (rei >= 232) {
+					$('#R232').css('display', 'block');
+				} else {
+					$('#R232').css('display', 'none');
 				}
 				//Gem Costs for next R
 				var nextR = rei + 1;
