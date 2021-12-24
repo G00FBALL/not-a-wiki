@@ -22,16 +22,16 @@
 	<div id="ReiCosCal">
 		<table style="width:98%">
 			<tr>
-				<th align="right">
-					Complete List of benefits for Reincarnation: <input id="ReiCosRei" style="max-width: 15%" type="number" min="0" max="279" value="0"><br/>
-					<span id="R10"> Time this Reincarnation (hours): <input id="R10TimeTot" style="max-width: 15%" type="number" min="0" max="876000" value="0"><br/></span>
-					<span id="R20"> Buildings of a certain tier: <input id="R20SpecBui" style="max-width: 15%" type="number" min="0" max="9999999" value="0"><br/></span>
-					<span id="R60"> (Active) Druid Lineage Level: <input id="R60DDLin" style="max-width: 15%" type="number" min="0" max="150" value="0"><br/></span>
+				<th align="right" style="line-height: 1.6;">
+					Complete List of benefits for Reincarnation: <input id="ReiCosRei" style="max-width: 15%; float:right;" type="number" min="0" max="279" value="0"><br/>
+					<span id="R10"> Time this Reincarnation (hours): <input id="R10TimeTot" style="max-width: 15%; float:right;" type="number" min="0" max="876000" value="0"><br/></span>
+					<span id="R20"> Buildings of a certain tier: <input id="R20SpecBui" style="max-width: 15%; float:right;" type="number" min="0" max="9999999" value="0"><br/></span>
+					<span id="R60"> (Active) Druid Lineage Level: <input id="R60DDLin" style="max-width: 15%; float:right;" type="number" min="0" max="150" value="0"><br/></span>
 					<span id="R63"> Prismatic Breath <input id="R63PB" style="width: unset" type="checkbox"></span>
 					<span id="R139"> Undead Perk 5 <input id="R139UDP5" style="width: unset" type="checkbox"></span>
 					<span id="R153"> Omniscience <input id="R153Omni" style="width: unset" type="checkbox"></span>
 					<span id="R225"> D11375 <input id="R225D11375" style="width: unset" type="checkbox"><br/></span>
-					<span id="R232"> S12250 - Undead time this Reincarnation (hours): <input id="R232S12250" style="max-width: 15%" type="number" min="0" max="876000" value="0"></span>
+					<span id="R232"> S12250 - Undead time this Reincarnation (hours): <input id="R232S12250" style="max-width: 15%; float:right;" type="number" min="0" max="876000" value="0"></span>
 				</th>
 			</tr>
 			<tr>
@@ -108,7 +108,7 @@
 				],
 				[ 5, 999, '#R5Ass', true, 1
 				, function(rei) {return rei;}
-				, function(rei, bonus) {return 'Add ' + rei + ' assistants and their production is increased by ' + 2 * bonus + '%.';}
+				, function(rei, bonus) {return 'Add ' + Math.floor(rei) + ' assistants and their production is increased by ' + 2 * bonus + '%.';}
 				],
 				[ 10, 999, '#R10AllBuiPro', true, 1
 				, function(rei) {return Math.pow(rei, 1.75) * Math.pow(parseInt($('#R10TimeTot').val()), 0.65);}
@@ -144,7 +144,7 @@
 				],
 				[ 85, 999, '#R85AssPerR', false, 0
 				, function(rei) {return rei;}
-				, function(rei, bonus) {return 'Add ' + 4 * bonus + ' additional Assistants. Total bonus is '+ 5 * bonus + ' additional assistants.';}
+				, function(rei, bonus) {return 'Add ' + Math.floor(4 * bonus) + ' additional Assistants. Total bonus is '+ Math.floor(5 * bonus) + ' additional assistants.';}
 				],
 				[ 90, 100, '#R90AddResSlo', false, 0
 				, function(rei) {return 0;}
@@ -204,8 +204,8 @@
 				}
 				// Boosted R num - Prismatic Breath (and stuff?)
 				var reiEff = rei;
-				if (parseInt($('R60DDLin').val()) > 0) {
-					reiEff += parseInt($('R60DDLin').val()) * 2;
+				if (parseInt($('#R60DDLin').val()) > 0) {
+					reiEff += parseInt($('#R60DDLin').val()) * 2;
 				}
 				if ($('#R63PB').is(':checked')) {
 					reiEff *= 1.5;
@@ -263,22 +263,22 @@
 					$('#R60').css('display', 'none');
 				}
 				if (rei >= 63) {
-					$('#R63').css('display', 'block');
+					$('#R63').css('display', 'inline');
 				} else {
 					$('#R63').css('display', 'none');
 				}
 				if (rei >= 139) {
-					$('#R139').css('display', 'block');
+					$('#R139').css('display', 'inline');
 				} else {
 					$('#R139').css('display', 'none');
 				}
 				if (rei >= 153) {
-					$('#R153').css('display', 'block');
+					$('#R153').css('display', 'inline');
 				} else {
 					$('#R153').css('display', 'none');
 				}
 				if (rei >= 225) {
-					$('#R225').css('display', 'block');
+					$('#R225').css('display', 'inline');
 				} else {
 					$('#R225').css('display', 'none');
 				}
@@ -391,7 +391,7 @@
 						break;
 				}
 			}
-			$('#ReiCosRei, #R10TimeTot, #R20SpecBui, #R60DDLin, #R63PB, #R125Omni, #R139UDP5, #R225D11375, #R232S12250').on('input', CalRBen);
+			$('#ReiCosRei, #R10TimeTot, #R20SpecBui, #R60DDLin, #R63PB, #R125Omni, #R139UDP5, #R225D11375, #R232S12250, #R153Omni').on('input', CalRBen);
 			CalRBen();
 		</script>
 	</div>
