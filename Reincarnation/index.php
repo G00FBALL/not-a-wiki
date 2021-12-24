@@ -203,7 +203,9 @@
 					var asc = 4;
 				}
 				// Boosted R num - Prismatic Breath (and stuff?)
-				var reiEff = rei + parseInt($('R60DDLin').val()) * 2;
+				var reiEff = rei;
+				if (parseInt($('R60DDLin').val()) > 0) {
+					reiff += parseInt($('R60DDLin').val()) * 2;
 				}
 				if ($('#R63PB').is(':checked')) {
 					reiEff *= 1.5;
