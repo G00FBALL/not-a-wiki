@@ -219,7 +219,7 @@
 				if ($('#R225D11375').is(':checked')) {
 					reiEff *= 2;
 				}
-				if (parseInt($('R232S12250').val()) > 0 ) {
+				if (parseInt($('#R232S12250').val()) > 0 ) {
 					reiEff *= 1 + 0.005 * Math.pow(parseInt($('R232S12250').val()) * 3600,0.5);
 				}
 				// Reincarnation Perks
@@ -391,7 +391,7 @@
 						break;
 				}
 			}
-			$('#ReiCosRei, #R10TimeTot, #R20SpecBui, #R60DDLin, #R63PB, #R125Omni, #R139UDP5, #R225D11375, #R232S12250, #R153Omni').on('input', CalRBen);
+			$('#ReiCosRei, #R10TimeTot, #R20SpecBui, #R60DDLin, #R63PB, #R139UDP5, #R153Omni, #R225D11375, #R232S12250').on('input', CalRBen);
 			CalRBen();
 		</script>
 	</div>
