@@ -220,7 +220,7 @@
 					reiEff *= 2;
 				}
 				if (parseInt($('#R232S12250').val()) > 0 ) {
-					reiEff *= 1 + 0.005 * Math.pow(parseInt($('R232S12250').val()) * 3600,0.5);
+					reiEff *= 1 + 0.005 * Math.pow(parseInt($('#R232S12250').val()) * 3600,0.5);
 				}
 				// Reincarnation Perks
 				var arrLen = RBenefits.length;
