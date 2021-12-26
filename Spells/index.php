@@ -216,19 +216,15 @@
 	<p><b>Spell Type</b>: (Neutral) Dragon Faction Spell (R46+)</p>
 	<p><b>Cost</b>: 1,500 Mana - <b>Duration</b>: 20 seconds</p>
 	<p><b>Effect</b>: Activates one of the following effects at random for 20 seconds.</p>
-	<p><b><font color='darkred'>Red</font></b>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.</p>
-	<p><b><font color='darkred'>Formula</font></b>: (2 * (ln(1 + x) ^ 2)%, where x is the amount of Faction Coins found in this game.</p>
-	<br>
-	<p><b><font color='darkgreen'>Green</font></b>: Increase the production of all buildings based on the amount of spells cast in this game. Higher bonuses are provided to lower building tiers.</p>
-	<p><b><font color='darkgreen'>Formula</font></b>: (0.01 * x ^ 0.625 * (11 - T) ^ 5)%, where x is spells cast (this game) and T is the building tier. (1 for Farms, 11 for Hall of Legends).</p>
-	<br>
-	<p><b><font color='darkblue'>Blue</font></b>: Multiplicatively increase your Mana Regeneration by 200%.</p>
-	<br>
+	<p><b><font color='red'>Red</font></b>: Increase the production of unique buildings based on the amount of Faction Coins found in this game.</p>
+	<p><b><font color='red'>Formula</font></b>: (2 * (ln(1 + x) ^ 2)%, where x is the amount of Faction Coins found in this game.</p>
+	<p><b><font color='green'>Green</font></b>: Increase the production of all buildings based on the amount of spells cast in this game. Higher bonuses are provided to lower building tiers.</p>
+	<p><b><font color='green'>Formula</font></b>: (0.01 * x ^ 0.625 * (11 - T) ^ 5)%, where x is spells cast (this game) and T is the building tier. (1 for Farms, 11 for Hall of Legends).</p>
+	<p><b><font color='blue'>Blue</font></b>: Multiplicatively increase your Mana Regeneration by 200%.</p>
 	<p><b><font color='white'>White</font></b>: Temporarily increase the amount of assistants based on time spent being Neutral in this Reincarnation.</p>
 	<p><b><font color='white'>Formula</font></b>: +(30 * x ^ 0.65), where x is time spent as Neutral this Reincarnation.</p>
-	<br>
-	<p><b><font color='black'>Black</b></font>: Increase the production of all buildings based on Dragon's Breath activity time in this game.</p>
-	<p><b><font color='black'>Formula</font></b>: (0.5 * x ^ 0.75)%, where x is Dragon's Breath activity time in this game.</p>
+	<p><b><font color='grey'>Black</b></font>: Increase the production of all buildings based on Dragon's Breath activity time in this game.</p>
+	<p><b><font color='grey'>Formula</font></b>: (0.5 * x ^ 0.75)%, where x is Dragon's Breath activity time in this game.</p>
 		" coords="250,130,304,184" shape="rect">
 		<area href="#AppraisalVantage" research="
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/AppraisalVantage.png' alt='Neutral' align='middle'> Appraisal Vantage</b></p>
@@ -326,28 +322,28 @@
 	<p><b>Spell Type</b>: Default Spell</p>
 	<p><b>Cost</b>: 200 Mana - <b>Duration</b>: None</p>
 	<p><b>Effect</b>: Instantly gain 30 seconds worth of coin production from buildings and assistants.</p>
-		" coords="40,310,94,364" shape="rect">
+		" coords="220,220,274,274" shape="rect">
 		<area href="#CalltoArms" research="
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/CalltoArms.png' alt='Order' align='middle'> Call to Arms</b></p>
 	<p><b>Spell Type</b>: Default Spell </p>
 	<p><b>Cost</b>: 400 Mana - <b>Duration</b>: 20 seconds </p>
 	<p><b>Effect</b>: Increase the production of all buildings based on the amount of buildings you own.</p>
 	<p><b>Formula</b>: ((25 + 0.3 * x) ^ 0.975)%, where x is your Buildings Owned (This Game) stat.</p>
-		" coords="100,310,154,364" shape="rect">
+		" coords="280,220,334,274" shape="rect">
 		<area href="#SpiritualSurge" research="
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/Spiritualsurge.png' alt='Order' align='middle'> Spiritual Surge</b></p>
 	<p><b>Spell Type</b>: Default Spell (R14+)</p>
 	<p><b>Cost</b>: 2,500 Mana - <b>Duration</b>: 20 seconds </p>
 	<p><b>Effect</b>: Increase the production of all buildings based on the amount of times you reincarnated and ascended.</p>
 	<p><b>Formula</b>: (2500 * (R ^ 1.05)) ^ (1 + A * 0.5)%, where R is the number of times you have reincarnated and A is how many times you have ascended.</p>
-		" coords="40,310,94,364" shape="rect">
+		" coords="220,280,274,334" shape="rect">
 		<area href="#TwistingNether" research="
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/TwistingNether.png' alt='Order' align='middle'> Twisting Nether</b></p>
 	<p><b>Spell Type</b>: Faction Spell (R220+)</p>
 	<p><b>Cost</b>: 1,000,000 Mana - <b>Duration</b>: 20 seconds</p>
 	<p><b>Effect</b>: Lineage Levels count +1 more per Tier.</p>
 	<p><b>Note</b>: Twisting Nether counts as a faction spell, but has no alignments for upgrades such as Djinn Challenge 5.</p>
-		" coords="100,310,154,364" shape="rect">
+		" coords="280,280,334,334" shape="rect">
 	</map>
 	<map name="SpellTrophy-map">
 		<area href="#FairyChanting" research="
@@ -373,7 +369,7 @@
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/MinedwarfSpellUpgrade.png' align='middle'> Minedwarf</b></p>
 	<p><b>Requirement</b>: Find 30,000 Faction Coins using Diamond Pickaxe in a single game.</p>
 	<p><b>Cost</b>: 100 Sxd (1e53), A1+ Free</p>
-	<p><b>Effect</b>: Increases Diamond Pickaxe bonus to Faction Coin Find Chance to +300%.</p>
+	<p><b>Effect</b>: Increases Diamond Pickaxe bonus to Faction Coin find chance to +300%.</p>
 		" coords="190,10,244,64" shape="rect">
 		<area href="#GoblinsGreed" research="
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/GreedDriveSpellUpgrade.png' align='middle'> Greed Drive</b></p>

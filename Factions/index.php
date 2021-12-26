@@ -128,7 +128,7 @@
 <p><b>Note</b>: Vanilla and Neutral Factions are together referred as <b>Base Factions</b>.</p>
 <p><b>Note</b>: The icons used in the below section are the Faction's <b>Trade Treaties</b>, their first Faction upgrade.</p>
 <hr>
-<p><a href="http://musicfamily.org/realm/FairyFaction"><img src="http://musicfamily.org/realm/Factions/picks/FairiesTradeTreaty.png" alt="Fairy"></a> Fairy</p>
+<p><a href="http://musicfamily.org/realm/FairyFaction"><img src="http://musicfamily.org/realm/Factions/picks/FairyTradeTreaty.png" alt="Fairy"></a> Fairy</p>
 <p><b>Requirement</b>: Proof of Good Deed</p>
 <p><b>Cost</b>: Free with 0 gems, 20 Fairy Coins with any gems</p>
 <p><b>Cost R220+</b>: 1 Qa (1e15) Fairy Coins</p>
@@ -138,12 +138,12 @@
 <p><b>Cost</b>: 20 Elven Coins</p>
 <p><b>Cost R220+</b>: 1 Qa (1e15) Elven Coins</p>
 <hr>
-<p><a href="http://musicfamily.org/realm/AngelFaction"><img src="http://musicfamily.org/realm/Factions/picks/AngelsTradeTreaty.png"> Angel</a>
+<p><a href="http://musicfamily.org/realm/AngelFaction"><img src="http://musicfamily.org/realm/Factions/picks/AngelTradeTreaty.png"> Angel</a>
 <p><b>Requirement</b>: Proof of Good Deed
 <p><b>Cost</b>: 20 Angel Coins</p>
 <p><b>Cost R220+</b>: 1 Qa (1e15) Angel Coins</p>
 <hr>
-<p><a href="http://musicfamily.org/realm/GoblinFaction"><img src="http://musicfamily.org/realm/Factions/picks/GoblinsTradeTreaty.png"></a> Goblin</p>
+<p><a href="http://musicfamily.org/realm/GoblinFaction"><img src="http://musicfamily.org/realm/Factions/picks/GoblinTradeTreaty.png"></a> Goblin</p>
 <p><b>Requirement</b>: Proof of Evil Deed</p>
 <p><b>Cost</b>: Free with 0 gems, 20 Goblin Coins with any gems</p>
 <p><b>Cost R220+</b>: 1 Qa (1e15) Goblin Coins</p>
@@ -153,25 +153,25 @@
 <p><b>Cost</b>: 20 Undead Coins</p>
 <p><b>Cost R220+</b>: 1 Qa (1e15) Undead Coins</p>
 <hr>
-<p><a href="http://musicfamily.org/realm/DemonFaction"><img src="http://musicfamily.org/realm/Factions/picks/DemonsTradeTreaty.png"></a> Demon</p>
+<p><a href="http://musicfamily.org/realm/DemonFaction"><img src="http://musicfamily.org/realm/Factions/picks/DemonTradeTreaty.png"></a> Demon</p>
 <p><b>Requirement</b>: Proof of Evil Deed</p>
 <p><b>Cost</b>: 20 Demon Coins.</p>
 <p><b>Cost R220+</b>: 1 Qa (1e15) Demon Coins</p>
 <hr>
 <p><b>Neutral Factions</b></p>
-<p><a href="http://musicfamily.org/realm/TitanFaction"><img src="http://musicfamily.org/realm/Factions/picks/TitansTradeTreatyFactionUpgrade.png"></a> Titan</p>
+<p><a href="http://musicfamily.org/realm/TitanFaction"><img src="http://musicfamily.org/realm/Factions/picks/TitanTradeTreaty.png"></a> Titan</p>
 <p><b>Unlock Requirement</b>: Fragment of a Titan Statue (only needs to be bought once)</p>
 <p><b>Requirement</b>: Proof of Neutrality</p>
 <p><b>Cost</b>: 250 Angel Coins, 250 Goblin Coins</p>
 <p><b>Cost R220+</b>: 1 Qa (1e15) Angel & Goblin Coins</p>
 <hr>
-<p><a href="http://musicfamily.org/realm/DruidFaction"><img src="http://musicfamily.org/realm/Factions/picks/DruidsTradeTreatyFactionUpgrade.png"></a> Druid</p>
+<p><a href="http://musicfamily.org/realm/DruidFaction"><img src="http://musicfamily.org/realm/Factions/picks/DruidTradeTreaty.png"></a> Druid</p>
 <p><b>Unlock Requirement</b>: Druidic Runestone (only needs to be bought once)</p>
 <p><b>Requirement</b>: Proof of Neutrality</p>
 <p><b>Cost</b>: 250 Elven Coins, 250 Demon Coins</p>
 <p><b>Cost R220+</b>: 1 Qa (1e15) Elven & Demon Coins</p>
 <hr>
-<p><a href="http://musicfamily.org/realm/FacelessFaction"><img src="http://musicfamily.org/realm/Factions/picks/FacelessTradeTreatyFactionUpgrade.png"></a> Faceless</p>
+<p><a href="http://musicfamily.org/realm/FacelessFaction"><img src="http://musicfamily.org/realm/Factions/picks/FacelessTradeTreaty.png"></a> Faceless</p>
 <p><b>Unlock Requirement</b>: Octopus Shaped Spine (only needs to be bought once)</p>
 <p><b>Requirement</b>: Proof of Neutrality</p>
 <p><b>Cost</b>: 250 Fairy Coins, 250 Undead Coins</p>
@@ -183,13 +183,13 @@
 <p><b>Available</b>: R0-R99, R116-R219, R235+</p>
 <p><b>Cost</b> 3,000 Dwarven Coins</p>
 <hr>
-<p><a href="http://musicfamily.org/realm/DrowFaction"><img src="http://musicfamily.org/realm/Factions/picks/DrowTradeTreatyFactionUpgrade.png"></a> Drow</p>
+<p><a href="http://musicfamily.org/realm/DrowFaction"><img src="http://musicfamily.org/realm/Factions/picks/DrowTradeTreaty.png"></a> Drow</p>
 <p><b>Unlock Requirement</b>: Cloaked Shady Figure's Quest (only needs to be bought once)</p>
 <p><b>Requirement</b>: Proof of Evil Deed, Alliance upgrade of the Evil Base Faction, Underworld Diplomacy (only R0-R2)</p>
 <p><b>Available</b>: R0-R99, R116-R219, R235+</p>
 <p><b>Cost</b> 3,000 Drow Coins</p>
 <hr>
-<p><a href="http://musicfamily.org/realm/DragonFaction"><img src="http://musicfamily.org/realm/Factions/picks/DragonsTradeTreatyFactionUpgrade.png"> Dragon</a>
+<p><a href="http://musicfamily.org/realm/DragonFaction"><img src="http://musicfamily.org/realm/Factions/picks/DragonTradeTreaty.png"> Dragon</a>
 <p><b>Unlock Requirement</b>: Elder Dragon (only needs to be bought once)</p>
 <p><b>Requirement</b>: Proof of Neutrality, Alliance upgrade of the Neutral Base Faction</p>
 <p><b>Available</b>: R46-R99, R116-R219, R235+</p>
