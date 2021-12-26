@@ -9,7 +9,6 @@
 	<p>Lineages need 400 Royal Exchanges of the respective Faction plus their Bloodline to be used (needs to be bought every Abdication).</p>
 	<p><b>Note</b>: You can not use a Lineage if it matches your faction or its respective Prestige or Elite faction.</p>
 	<p><b>Note</b>: Levels only need to be bought once and persist through Abdications and Reincarnations. When ascending, Lineages are set back to a certain level (if higher) - (see <b><a target="_blank" href="http://musicfamily.org/realm/Ascension/">Ascension</a></b> for more info).</p>
-	<br/>
 	<p>There exist 15 different Lineages (1 for every faction except Mercenary, 12 before R130 and 3 more at R130+), with every Lineage having 5 perks plus a Faction Coin boost and in the process giving access to the Grand Champion Trophy.</p>
 	<p><b>Base Lineage</b>: Lineage based boost.</p>
 	<p><b>Level 5</b>: Perk 1 - Bloodline based boost.</p>
@@ -146,7 +145,7 @@
 	<p><b>Cost</b>: 1 Novg (1e90) Emerald Coins, free in A3+</p>
 	<p><b>Effect</b>: Lowers the Lineage cost exponent based on Reincarnations made.</p>
 	<p><b>Formula</b>: -(0.01 * R), where R is the number of times you have reincarnated.</p>
-	<p><b>Note</b>: <b>Only counts actual Reincarnations<b/>, not any "count more" boni.</p>
+	<p><b>Note</b>: <b>Only counts actual Reincarnations</b>, not any "count more" boni.</p>
 	<br/>
 	<div id="LineageCalculator" class="calc">
 		<table>

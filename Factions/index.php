@@ -138,7 +138,7 @@
 <p><b>Cost</b>: 20 Elven Coins</p>
 <p><b>Cost R220+</b>: 1 Qa (1e15) Elven Coins</p>
 <hr>
-<p><a href="http://musicfamily.org/realm/AngelFaction"><img src="http://musicfamily.org/realm/Factions/picks/AngelTradeTreaty.png"> Angel</a>
+<p><a href="http://musicfamily.org/realm/AngelFaction"><img src="http://musicfamily.org/realm/Factions/picks/AngelTradeTreaty.png"></a> Angel</p>
 <p><b>Requirement</b>: Proof of Good Deed
 <p><b>Cost</b>: 20 Angel Coins</p>
 <p><b>Cost R220+</b>: 1 Qa (1e15) Angel Coins</p>
@@ -189,7 +189,7 @@
 <p><b>Available</b>: R0-R99, R116-R219, R235+</p>
 <p><b>Cost</b> 3,000 Drow Coins</p>
 <hr>
-<p><a href="http://musicfamily.org/realm/DragonFaction"><img src="http://musicfamily.org/realm/Factions/picks/DragonTradeTreaty.png"> Dragon</a>
+<p><a href="http://musicfamily.org/realm/DragonFaction"><img src="http://musicfamily.org/realm/Factions/picks/DragonTradeTreaty.png"></a> Dragon</p>
 <p><b>Unlock Requirement</b>: Elder Dragon (only needs to be bought once)</p>
 <p><b>Requirement</b>: Proof of Neutrality, Alliance upgrade of the Neutral Base Faction</p>
 <p><b>Available</b>: R46-R99, R116-R219, R235+</p>
