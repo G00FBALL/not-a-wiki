@@ -1330,82 +1330,82 @@
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ArcaneBrilliance6Trophy.png align=middle> </b>Arcane Brilliance 6</b>
 	<p><b>Requirement</b>: Unlock tier 7 for all spells</p>
 	" coords="123,403,177,457" shape="rect">
-		<area research="<img src=http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png align=middle> </b>Coin Pillage</b>
+		<area research="<img src=http://musicfamily.org/realm/Factions/picks/CoinPillageSpellUpgrade.png align=middle> </b>Coin Pillage</b>
 	<p><b>Requirement</b>: Cast 150 Tax Collections in less than 5 seconds.</p>
 	<p><b>Cost</b>: 1 Dc (1e33), A1+ Free</p>
 	<p><b>Effect</b>: Tax Collection also finds 30 seconds worth of Faction Coins.</p>
 	<p><b>Note</b>: Default Spell</p>
 	" coords="183,403,237,457" shape="rect">
-		<area research="<img src=http://musicfamily.org/realm/Factions/picks/FairyChoirSecretTrophy.png align=middle> </b>Fairy Choir</b>
+		<area research="<img src=http://musicfamily.org/realm/Factions/picks/FairyChoirSpellUpgrade.png align=middle> </b>Fairy Choir</b>
 	<p><b>Requirement</b>: Cast Fairy Chanting while having 45 or more assistants.</p>
 	<p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
 	<p><b>Effect</b>: Fairy Chanting triples your assistants for its duration.</p>
 	<p><b>Note</b>: Fairy Spell</p>
 	" coords="243,403,297,457" shape="rect">
-		<area research="<img src=http://musicfamily.org/realm/Factions/picks/SunBlessingSecretTrophy.png align=middle> </b>Sun Blessing</b>
+		<area research="<img src=http://musicfamily.org/realm/Factions/picks/SunBlessingSpellUpgrade.png align=middle> </b>Sun Blessing</b>
 	<p><b>Requirement</b>: Activate the Moon Blessing spell after 6 am and before 1 pm (noon).</p>
 	<p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
 	<p><b>Effect</b>: The treasure is autoclicked 15 times per second while Moon Blessing is active.</p>
 	<p><b>Note</b>: Elven Spell</p>
 	" coords="303,403,357,457" shape="rect">
-		<area research="<img src=http://musicfamily.org/realm/Factions/picks/God'sRestSecretTrophy.png align=middle> </b>God's Rest</b>
+		<area research="<img src=http://musicfamily.org/realm/Factions/picks/GodsRestSpellUpgrade.png align=middle> </b>God's Rest</b>
 	<p><b>Requirement</b>: Cast God's Hand on any Sunday.</p>
 	<p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
 	<p><b>Effect</b>: While this spell is active, you will find random Faction Coins based on your mana regen each time you cast an other spell.</p>
 	<p><b>Note</b>: Angel Spell</p>
 	" coords="363,403,417,457" shape="rect">
-		<area research="<img src=http://musicfamily.org/realm/Factions/picks/GreedDriveSecretTrophy.png align=middle> </b>Greed Drive</b>
+		<area research="<img src=http://musicfamily.org/realm/Factions/picks/GreedDriveSpellUpgrade.png align=middle> </b>Greed Drive</b>
 	<p><b>Requirement</b>: Goblin Spell: Cast 100 Goblin's Greed spells in a row in a single game. The chain is interrupted by casting different spells.</p>
 	<p><b>Note</b>: Spell casts from the Goblin's Central Bank upgrade are included in the [stats], but they do not count for this trophy.</p>
 	<p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
 	<p><b>Effect</b>: Goblin's Greed cost 150 less mana.</p>
 	<p><b>Note</b>: Goblin Spell
 	" coords="3,463,57,517" shape="rect">
-		<area research="<img src=http://musicfamily.org/realm/Factions/picks/TrueNightSecretTrophy.png align=middle> </b>True Night</b>
+		<area research="<img src=http://musicfamily.org/realm/Factions/picks/TrueNightSpellUpgrade.png align=middle> </b>True Night</b>
 	<p><b>Requirement</b>: Undead Spell: Activate the Night Time spell after 11 pm and before 6 am.</p>
 	<p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
 	<p><b>Effect</b>: Increase Night Time boost to assistants production to 40% per Necropolis.</p>
 	<p><b>Note</b>: Undead Spell</p>
 	" coords="63,463,117,517" shape="rect">
-		<area research="<img src=http://musicfamily.org/realm/Factions/picks/HellRushSecretTrophy.png align=middle> </b>Hell Rush</b>
+		<area research="<img src=http://musicfamily.org/realm/Factions/picks/HellRushSpellUpgrade.png align=middle> </b>Hell Rush</b>
 	<p><b>Requirement</b>: Cast Hellfire Blast in the first 60 seconds of playtime</p>
 	<p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
 	<p><b>Effect</b>: Hellfire Blast also boost Halls of Legends</p>
 	<p><b>Note</b>: Demon Spell.</p>
 	" coords="123,463,177,517" shape="rect">
-		<area research="<img src=http://musicfamily.org/realm/Factions/picks/LightningStormSecretTrophy.png align=middle> </b>Lightning Storm</b>
+		<area research="<img src=http://musicfamily.org/realm/Factions/picks/LightningStormSpellUpgrade.png align=middle> </b>Lightning Storm</b>
 	<p><b>Requirement</b>: Cast Lightning Strike 100 times in a single game.</p>
 	<p><b>Cost</b>: 10 Dd (1e40), A1+ Free</p>
 	<p><b>Effect</b>: Increase Lightning Strike multiplier to 750% per Iron Stronghold</p>
 	<p><b>Note</b>: Titan Spell</p>
 	" coords="183,463,237,517" shape="rect">
-		<area research="<img src=http://musicfamily.org/realm/Factions/picks/HallsofBalanceSecretTrophy.png align=middle> </b>Halls of Balance</b>
+		<area research="<img src=http://musicfamily.org/realm/Factions/picks/HallsofBalanceSpellUpgrade.png align=middle> </b>Halls of Balance</b>
 	<p><b>Requirement</b>: Have Grand Balance affect Hall of Legends</p>
 	<p><b>Cost</b>: 10 Dd (1e40), A1+ Free</p>
 	<p><b>Effect</b>: Increase Grand Balance duration by 4 seconds and lower its cost by 200 mana</p>
 	<p><b>Note</b>: Druid Spell</p>
 	<p><b>Tip</b>: Buy at least 1 of everything and buy 0 Hall of Legends.</p>
 	" coords="243,463,297,517" shape="rect">
-		<area research="<img src=http://musicfamily.org/realm/Factions/picks/FacelessOvermindSecretTrophy.png align=middle> </b>Faceless Overmind</b>
+		<area research="<img src=http://musicfamily.org/realm/Factions/picks/FacelessOvermindSpellUpgrade.png align=middle> </b>Faceless Overmind</b>
 	<p><b>Requirement</b>: Affiliate with the Faceless 5 times in a row. (Buy Faceless Trade Treaty 5x in a row)</p>
 	<p><b>Cost</b>: 10 Dd (1e40), A1+ Free</p>
 	<p><b>Effect</b>: Increase Brainwave tick to 3% per second</p>
 	<p><b>Note</b>: Faceless Spell</p>
 	" coords="303,463,357,517" shape="rect">
-		<area research="<img src=http://musicfamily.org/realm/Factions/picks/MinedwarfSecretTrophy.png align=middle> </b>Minedwarf</b>
+		<area research="<img src=http://musicfamily.org/realm/Factions/picks/MinedwarfSpellUpgrade.png align=middle> </b>Minedwarf</b>
 	<p><b>Requirement</b>: Find 30,000 Faction Coins from Diamond Pickaxe in a single game.</p>
 	<p><b>Cost</b>: 100 Sxd (1e53), A1+ Free</p>
 	<p><b>Effect</b>: Increases Diamond Pickaxe bonus to 'Faction Coin Find Chance' to 300%.</p>
 	<p><b>Note</b>: Dwarf Spell</p>
 	" coords="363,463,417,517" shape="rect">
-		<area research="<img src=http://musicfamily.org/realm/Factions/picks/PerfectComboSecretTrophy.png align=middle> </b>Perfect Combo</b>
+		<area research="<img src=http://musicfamily.org/realm/Factions/picks/PerfectComboSpellUpgrade.png align=middle> </b>Perfect Combo</b>
 	<p><b>Requirement</b>: Cast a chain of 100 Combo Strikes in a single game. The chain is interrupted by casting a different spell.</p>
 	<p><b>Cost</b>: 100 Sxd (1e53), A1+ Free</p>
 	<p><b>Effect</b>: Increases Combo Strike bonus.</p>
 	<p><b>Formula</b>: (40 * x ^ 0.9)%, where x is the number of times you have cast Combo Strike.</p>
 	<p><b>Note</b>: Drow Spell</p>
 	" coords="3,523,57,577" shape="rect">
-		<area research="<img src=http://musicfamily.org/realm/Factions/picks/Dragon'sRoarFactionUpgrade.png align=middle> </b>Dragon's Roar</b>
+		<area research="<img src=http://musicfamily.org/realm/Factions/picks/DragonsRoarSpellUpgrade.png align=middle> </b>Dragon's Roar</b>
 	<p><b>Requirement</b>: Cast Dragon's Breath while having at least 4 other active spells.</p>
 	<p><b>Cost</b>: 1.0e45, A2+ Free</p>
 	<p><b>Effect</b>: Dragon's Breath multiplicatively increases Faction Coin find chance based on its duration.</p>

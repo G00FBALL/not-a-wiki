@@ -23,10 +23,10 @@
 	<hr>
 	<p><b>Excavations</b></p>
 	<p>The first excavation costs 1 Oc (1e27) coins, and each subsequent excavation costs without any cost multiplier reduction 20% more than the one before.</p>
-	<p><b>Cost Formula for the x-th excavation</b>: (1e27 ^ (0.75 ^ A) * (1 + M ^ (x - 1)), where A is your Ascension and M the excavation cost multiplier.</p>
+	<p><b>Cost Formula for the x-th excavation</b>: (1e27 ^ (0.75 ^ A) * (1 + M ^ (x - 1)), where A is the number of times you have ascended and M the excavation cost multiplier.</p>
 	<p>The <b>excavation cost multiplier</b> is equal to:<br/>
 	   - A0: (1 + 0.2 - C), where C is the sum of your flat cost reduction upgrades (such as DN8 or E290).<br/>
-	   - A1+: (1 + (0.2 - C) / (5 * A)), where C is the sum of your flat cost reduction upgrades and A is your Ascension.</p>
+	   - A1+: (1 + (0.2 - C) / (5 * A)), where C is the sum of your flat cost reduction upgrades and A is the number of times you have ascended.</p>
 	<p>Every time you excavate, you have a 35% (40% with 'That Excavated Quickly' upgrade) chance per excavation to find a certain amount of Faction Coins as reward.</p>
 	<p><b>Faction Coin Reward Formula</b>: (1500 + 0.05 * (x-1) ^ 2.75), where x is the number of excavations you have.</p>
 	<p><b>Note</b>: Every time you reincarnate or ascend, your excavation counter will be set back to zero.</p>
@@ -35,7 +35,7 @@
 	<p>To be able to do more excavations within a Reincarnation you can do an Excavation Reset, which also sets the counter back to zero. There are two options:<br>Ruby Reset and Free Reset.</p>
 	<p><b>Ruby Cost for Ruby Reset</b>: (floor(x / 3000) + 1), where x is the number of excavations.</p>
 	<p><b>Note</b>: Not recommended. It is better to spend rubies in ruby power, unless you have very specific reason to spend them on a reset.</p>
-	<p><b>Free Reset Requirement Formula</b>: (2000 + 50 * R + 500 * x), where R is the amount of Reincarnations and x is amount of Free Resets already done this Reincarnation.</p>
+	<p><b>Free Reset Requirement Formula</b>: (2000 + 50 * R + 500 * x), where R is the number of times you have reincarnated and x is the amount of Free Resets already done this Reincarnation.</p>
 	<p><b>Note</b>: When doing a Free Reset, you will lose all gold on hand and receive a 90% production penalty until you abdicate or reincarnate.</p>
 	<p><b>Note</b>: Free Resets are not available until around R30, since the requirement is too high for lower stages.</p>
 	<p><b>Note</b>: Each ruby found from excavation is a single all-time reward. No matter how the counter is set back to zero, you cannot find the same ruby again.</p>
