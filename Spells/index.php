@@ -64,11 +64,12 @@
 	<p><b>(t * min(1, m * d / (n * c ^ 1.5)))</b>, where t is offline time, m is offline Mana Regeneration, d is spell duration, c is the spell's base mana cost (of tier 1), and n is number of spells set to autocast (not counting Tax Collection).</p>
 	<br style="clear: both" />
 	<a id="Spells"></a>
+	<hr>
 	<center>
 		<table class="imgtable">
 			<tr>
 				<td>
-					<center>Spells</center>
+					<center>Spells Menu</center>
 					<center><img src="http://musicfamily.org/realm/Factions/picks/SpellsMap.png" usemap="#Spells-map"></center>
 				</td>
 			</tr>
@@ -83,11 +84,11 @@
 					<table class="imgtable">
 						<tr>
 							<td>
-								<center>Spell Trophies</center>
+								<center>Spell Trophy Menu</center>
 								<center><img src="http://musicfamily.org/realm/Factions/picks/SpellTrophyMap.png" usemap="#SpellTrophy-map"></center>
 							</td>
 							<td>
-								<center>Challenge Rewards</center>
+								<center>Challenge Reward Menu</center>
 								<center><img src="http://musicfamily.org/realm/Factions/picks/ChallengeRewardMap.png" usemap="#ChallengeReward-map"></center>
 							</td>
 						</tr>
