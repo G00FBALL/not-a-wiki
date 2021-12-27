@@ -397,7 +397,7 @@
 				<p><b>Research Name</b>: Journeymen</p>
 				<p><b>Requirement</b>: Research Apprenticeship (C80) & Bartering (E50).</p>
 				<p><b>Cost</b>: 82.65 Dqig (8.265e160)</p>
-				<p><b>Effect</b>: Increase thIncrease the production of Unique Buildings based on total time spent as that faction.</p>
+				<p><b>Effect</b>: Increase the production of Unique Buildings based on total time spent as that faction.</p>
 				<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your time spent as the faction of the Unique Building.</p>
 				<hr>
 				<p><b>C225</b> - For Elf</p>
@@ -537,7 +537,7 @@
 				<p><b>Requirement</b>: 9000 Excavations as Mercenary.</p>
 				<p><b>Cost</b>: 850.7 SxQig (8.507e173)</p>
 				<p><b>Effect</b>: Increases the production of all buildings based on the amount of artifacts you own.</p>
-				<p><b>Formula</b>: (2 * x ^ 2), where X is artifacts you own.</p>
+				<p><b>Formula</b>: (2 * x ^ 2), where x is artifacts you own.</p>
 				<hr>
 				<p><b>C3100</b> - All Factions</p>
 				<p><b>Research Name</b>: Engineering</p>
@@ -1050,7 +1050,7 @@
 				<hr>
 				<p><b>E320</b> - For All Factions</p>
 				<p><b>Research Name</b>: Smuggling</p>
-				<p><b>Hint</b>: You shouldn\'t abdicate so poorly.</p>
+				<p><b>Hint</b>: You shouldn't abdicate so poorly.</p>
 				<p><b>Requirement</b>: Have twice as many Gems in Abdication Treasury</p>
 				<p><b>Cost</b>: 1.117 NoQig (1.117e180)</p>
 				<p><b>Effect</b>: Increase Faction Coin find chance based on the amount of Unique Buildings owned.</p>
@@ -1091,7 +1091,7 @@
 				<p><b>Requirement</b>: 100 B (1e11) Faction Coins (Found this Game)</p>
 				<p><b>Cost</b>: 502.3 SpSxg (5.023e206)</p>
 				<p><b>Effect</b>: Increase Royal Exchange Bonus based on the amount of Faction Coins found in this game.</p>
-				<p><b>Formula</b>: +(floor(3.5 * log10(1 + x)))%, where x is the of Faction Coins found in this game.</p>
+				<p><b>Formula</b>: +(floor(3.5 * log10(1 + x)))%, where x is the amount of Faction Coins found in this game.</p>
 				<hr>
 				<p><b>E480</b> - For All Factions</p>
 				<p><b>Research Name</b>: Undercutting</p>
@@ -1129,7 +1129,7 @@
 				<p><b>Requirement</b>: 18000 Unique Buildings</p>
 				<p><b>Cost</b>: 144.9 Tvg (1.449e74)</p>
 				<p><b>Effect</b>: Reduce Royal Exchange cost multiplier.</p>
-				<p><b>Formula</b>: Reduces multiplier by 0.025; with no other reductions applying, the multiplier will be 1.075 isntead of 1.1.</p>
+				<p><b>Formula</b>: Reduces multiplier by 0.025; with no other reductions applying, the multiplier will be 1.075 instead of 1.1.</p>
 				<hr>
 				<p><b>E1425</b> - For All Neutral Factions</p>
 				<p><b>Research Name</b>: Rarity</p>
