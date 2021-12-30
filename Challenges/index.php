@@ -911,7 +911,7 @@
 	<p><b>Requirements</b>: R194, Chaos Mercenary, Two Chaos Bloodlines, 4 Chaos spells.</p>
 	<p><b>Challenge</b>: Have at least 100 spell tiers active within 5 minutes of a new game.</p>
 	<p><b>Effect</b>: Gain the Chaos Madness spell.</p>
-	<p><b><img src='http://musicfamily.org/realm/Factions/picks/ChaosMadnessSpell.png' align='middle'> Chaos Madness</b></p>
+	<p><b><img src='http://musicfamily.org/realm/Factions/picks/ChaosMadness.png' align='middle'> Chaos Madness</b></p>
 	<p><b>Cost</b>: 500,000 mana - <b>Duration</b>: Fixed to 20 seconds</p>
 	<p><b>Effect</b>: Grants the effect of a random lineage, with the level of your highest lineage for 20 seconds.</p>
 	<p><b>Tip</b>: Lineage level from spell is affected by lineage modifiers</p>
@@ -945,9 +945,9 @@
 	<p>&quot;An expert Mercenary should learn by other cultures. That has been our call for generations. Now, it is your turn to answer that call.&quot;</p>
 	<p><b>Requirements</b>: R206, Any Mercenary, 18,000 Royal Exchanges made in this game, True Harlequin build.</p>
 	<p><b>Challenge</b>: Have at least 1 day spent with every alignment in this Reincarnation; Have at least 600,000 buildings without using any research.</p>
-	<p><b>Effect</b>: Unique Buildings that match your Lineage and Set factions or their FC affinity have their production increased based on the amount of time spent with each of those factions. Does not suffer from Ascension penalties.</p>
-	<p><b>Formula</b>: (x ^ 0.7)%, where x is time spent with said faction in seconds.</p>
-	<p><b>Note</b>: Works similarly to R60 and R115 powers, so a Fairy Unique building will also earn half a bonus from Djinn faction.</p>
+	<p><b>Effect</b>: Unique Buildings that match your Lineage and Set Factions or their Faction Coin affinity have their production increased based on the amount of time spent with each of those factions. Does not suffer from Ascension penalties.</p>
+	<p><b>Formula</b>: (x ^ 0.7)%, where x is time spent with the respective faction.</p>
+	<p><b>Note</b>: Works similarly to R58 and R115 powers, so a Fairy Unique building will also earn half a bonus from Djinn faction.</p>
 	<p><b>Upgrade</b>: Works with All</p>
 		" coords="304,1514,358,1568" shape="rect">
 </map>
