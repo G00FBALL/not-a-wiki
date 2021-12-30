@@ -187,7 +187,7 @@
 	<p><b>Effect</b>: Increase Royal Exchange bonus based on the highest amount of Brothels you built in this Reincarnation (Additive).</p>
 	<p><b>Formula</b>: +(1.75 * x ^ 0.75)%, where x is the highest amount of Brothels you built in this Reincarnation.</p>
 	<br/>
-	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowUpgrade2.png" align="middle"> Ancillae Obscurae</b></p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DrowUpgrade11.png" align="middle"> Ancillae Obscurae</b></p>
 	<p><b>Cost</b>: 100 Qitg (1e110)</p>
 	<p><b>Effect</b>: Increase Non-Unique building production based on amount of Unique Buildings.</p>
 	<p><b>Formula</b>: (50 * x ^ 0.5)%, where x is amount of Unique Buildings.</p>

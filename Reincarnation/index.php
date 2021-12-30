@@ -76,6 +76,7 @@
 				if (reqR >= 40)  {asc -= 1;}
 				if (reqR >= 100) {asc -= 1;}
 				if (reqR >= 160) {asc -= 1;}
+				if (reqR >= 220) {asc -= 1;}
 				return (Math.pow(1 + bonus / 100, Math.pow(0.1, asc)) - 1) * 100;
 			}
 			// Array of "tuples" containing:
