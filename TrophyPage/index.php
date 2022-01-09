@@ -1118,13 +1118,13 @@
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/NoviceCombinator.png align=middle> <b>Novice Combinator</b>
 	<p><b>Requirement</b>: R220+, Purchase Legacies from 4 different factions in a single game.</p>
 	<p><b>Cost</b>: 1 Qavg (1e75)</p>
-	<p><b>Effect</b>: Increase the production of all buildings based on time spent with the least used alignment (available for all factions).</p>
+	<p><b>Effect</b>: Increase the production of all buildings based on time spent with the least used alignment.</p>
 	<p><b>Formula</b>: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</p>
 	" coords="3,1483,57,1537" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ExpertCombinator.png align=middle> <b>Expert Combinator</b>
-	<p><b>Requirement</b>: R240+, Purchase Legacies from 6 different factions in a single game.</p>
+	<p><b>Requirement</b>: R220+, Purchase Legacies from 6 different factions in a single game.</p>
 	<p><b>Cost</b>: 10 Dtg (1e100)</p>
-	<p><b>Effect</b>: Increase the production of all buildings when playing a Prestige Faction based on time spent with the least used alignment (available for all Prestige Faction).</p>
+	<p><b>Effect</b>: Increase the production of all buildings based on time spent with the least used alignment.</p>
 	<p><b>Formula</b>: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</p>
 	" coords="63,1483,117,1537" shape="rect">
 	</map>

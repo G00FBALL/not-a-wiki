@@ -6814,7 +6814,7 @@
 			<div class="shelementwhole">
 				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">1st Anniversary (May 19 - May 20, 2016)</a></b></p>
 				<div class="autohide">
-					<p><b><img src="/realm/Factions/picks/1stAnniversary.png align="middle"> 1st Anniversary</b></p>
+					<p><b><img src="/realm/Factions/picks/1stAnniversary.png" align="middle"> 1st Anniversary</b></p>
 					<p><b>Kind</b>: Upgrade</p>
 					<p><b>Cost</b>: 1 Coin</p>
 					<p><b>Effect</b>: Increase the production of all buildings based on all the time you spent playing Realm Grinder.</p>

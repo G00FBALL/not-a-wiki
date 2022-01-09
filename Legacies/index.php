@@ -864,9 +864,10 @@
 	<p><b>Formula</b>: (2.5 * ln(1 + x) ^ 2.5)%, where x is the amount of Tax Collection casts in this game.</p>
 		" coords="10,190,64,244" shape="rect">
 		<area href="#FR-UD" research="
-	<p><img src='http://musicfamily.org/realm/Factions/picks/TwistingNether.png' align='middle'><b> Twisting Nether</b></p>
+	<p><img src='http://musicfamily.org/realm/Factions/picks/TwistingNetherCombo.png' align='middle'><b> Twisting Nether</b></p>
 	<p><b>Requirement</b>: Fairy Legacy, Undead Legacy</p>
 	<p><b>Effect</b>: Gain a new spell with the same name (20 seconds duration, 1 M (1e6) Mana Cost, can be cast up to Tier 99). While active, increases Lineage Level by +1 per Tier.</p>
+	<p><img src='http://musicfamily.org/realm/Factions/picks/TwistingNether.png' align='middle'></p>
 	<p><b>Note</b>: The Lineage Level increase is only a 'count more' effect and does not affect base lineage in any way.</p>
 	<p><b>Note</b>: Twisting Nether counts as a faction spell, but has no alignments for upgrades such as Djinn Challenge 5.</p>
 		" coords="70,190,124,244" shape="rect">
@@ -881,7 +882,7 @@
 	<p><img src='http://musicfamily.org/realm/Factions/picks/HomunculusLab.png' align='middle'><b> Homunculus Lab</b></p>
 	<p><b>Requirement</b>: Goblin Legacy, Undead Legacy</p>
 	<p><b>Effect</b>: Increase Research Budget based on the least time spent between Order and Balance in this Reincarnation.</p>
-	<p><b>Formula</b>: +(75 + ln(1 + min(x , y)) ^ 3.25)%, where x and y is time spent as Order and Balance respectively in this Reincarnation.</p>
+	<p><b>Formula</b>: +(75 + ln(1 + min(x , y)) ^ 3.25), where x and y is time spent as Order and Balance respectively in this Reincarnation.</p>
 	<p><b>Effect</b>: Also increase the production of all buildings based on unspent research budget.</p>
 	<p><b>Formula</b>: (1.3 * x ^ 0.7)%, where x is the sum of your unspent research budget across all branches.</p>
 		" coords="10,250,64,304" shape="rect">
@@ -914,9 +915,10 @@
 	<p><b>Effect</b>: Increase the production of all buildings based on artifacts found.</p>
 	<p><b>Formula</b>: (x ^ 0.95)%, where x is the number of artifacts found.</p>
 	<hr>
-	<p id="FR-UD"><img src="http://musicfamily.org/realm/Factions/picks/TwistingNether.png" align="middle"><b> Twisting Nether</b></p>
+	<p id="FR-UD"><img src="http://musicfamily.org/realm/Factions/picks/TwistingNetherCombo.png" align="middle"><b> Twisting Nether</b></p>
 	<p><b>Requirement</b>: Fairy Legacy, Undead Legacy</p>
 	<p><b>Effect</b>: Gain a new spell with the same name (20 seconds duration, 1 M (1e6) Mana Cost, can be cast up to Tier 99). While active, increases Lineage Level by +1 per Tier.</p>
+	<p><img src="http://musicfamily.org/realm/Factions/picks/TwistingNether.png" align="middle"></p>
 	<p><b>Note</b>: The Lineage Level increase is only a "count more" effect and does not affect base lineage in any way.</p>
 	<p><b>Note</b>: Twisting Nether counts as a faction spell, but has no alignments for upgrades such as Djinn Challenge 5.</p>
 	<hr>

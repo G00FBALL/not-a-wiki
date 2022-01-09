@@ -3,42 +3,42 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <?php include "../scripts/header.html"; ?>
-<h6><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6>
-<p>All challenges need that faction.</p>
-<p>All challenge 2 need that faction and that bloodline.</p>
-<p>All Prestige and Elite challenges up to and including challenge 3 will tell you what base faction to use but it also needs that faction.</p>
-<p>All other Prestige and Elite challenges still need that faction to complete.</p>
-<p><b>Good Factions</b>:
-<a href="http://musicfamily.org/realm/Fairy/"><b>Fairy</b></a>
-<a href="http://musicfamily.org/realm/Elf/"><b>Elven</b></a>
-<a href="http://musicfamily.org/realm/Angel/"><b>Angel</b></a>
-<p><b>Evil Factions</b>:
-<a href="http://musicfamily.org/realm/Goblin/"><b>Goblin</b></a>
-<a href="http://musicfamily.org/realm/Undead/"><b>Undead</b></a>
-<a href="http://musicfamily.org/realm/Demon/"><b>Demon</b></a></p>
-<p><b>Neutral Factions</b>:
-<a href="http://musicfamily.org/realm/Titan/"><b>Titan</b></a>
-<a href="http://musicfamily.org/realm/Druid/"><b>Druid</b></a>
-<a href="http://musicfamily.org/realm/Faceless/"><b>Faceless</b></a></p>
-<p><b>Prestige Factions</b>:
-<a href="http://musicfamily.org/realm/Dwarf/"><b>Dwarven</b></a>
-<a href="http://musicfamily.org/realm/Drow/"><b>Drow</b></a>
-<a href="http://musicfamily.org/realm/Dragons/"><b>Dragons</b></a></p>
-<p><b>Elite Factions</b>:
-<a href="http://musicfamily.org/realm/Archon/"><b>Archon</b></a>
-<a href="http://musicfamily.org/realm/Djinn/"><b>Djinn</b></a>
-<a href="http://musicfamily.org/realm/Makers/"><b>Makers</b></a></p>
-<p><b>Mercenary Faction</b>:
-<a href="http://musicfamily.org/realm/Mercenary/"><b>Mercenary</b></a></p>
-<p>Prove your loyalty and dedication to the factions by completing their unique Challenges. You will be rewarded with new perks and upgrades to help in your Realm Grinder progress!</p>
-<p>Upon reaching R2, a "Challenge" button will appear on the left leading to the Challenge window. There, your first, or next, challenge(s) will be visible, and hovering over the challenge icon will reveal the necessary requirements to unlock it.</p>
-<p>There are several Tier challenges for each Faction. The Tiers appear as you advance, and hence can only be completed in order. You can accomplish multiple Tiers on the same run, you just cannot get later Tiers before earlier Tiers.</p>
-<p><b>Vanilla Faction challenges</b>: Tier 1 upgrades boost the faction it belongs to. Tier 2 upgrades boosts another Faction. Last Tier upgrades are universal and boost basic perks. Completing all the challenges of a Faction rewards a spell upgrade. The last Tiers and Spell upgrades can be used also with Mercenaries, and their respective Factions, with or without Dwarven or Drow.</p>
-<p><b>Neutral Faction challenges</b>: Tier 1 upgrades boost it's own faction, Tier 2 and Tier 3 upgrades boosts each other Neutral Faction, and Tier 4 upgrades are universal.</p>
-<p><b>Prestige Faction challenges</b>: Tier 1 upgrades boost Dwarven-Angels or Drow-Demons, Tier 2 upgrades boost Dwarven-Fairies or Drow-Goblins, Tier 3 upgrades boost Dwarven-Elves or Drow-Undead, Tier 4 upgrades boost all Dwarven or all Drow, and Tier 5 upgrades are universal.</p>
-<p><b>Elite Faction challenges</b>: Tier 1 upgrades boost Good, Tier 2 upgrades boost Evil, Tier 3 upgrades boost Neutral, Tier 4 upgrades boost Itself, and Tier 5 upgrades are universal.</p>
-<p>Once you have unlocked a challenge, the perks relative to the faction you are playing, being costless, will be turned on by default after the faction's spell upgrade and Challenge Power Upgrade has been purchased. </p>
-<p><b><img src="http://musicfamily.org/realm/Factions/picks/AllChallenges3.6.png" usemap="#AllChallenges-map">
+	<h6><img src="http://musicfamily.org/realm/Factions/picks/ChallengesTopPage.png"></h6>
+	<p>All challenges need that faction.</p>
+	<p>All challenge 2 need that faction and that bloodline.</p>
+	<p>All Prestige and Elite challenges up to and including challenge 3 will tell you what base faction to use but it also needs that faction.</p>
+	<p>All other Prestige and Elite challenges still need that faction to complete.</p>
+	<p><b>Good Factions</b>:
+	<a href="http://musicfamily.org/realm/Fairy/"><b>Fairy</b></a>
+	<a href="http://musicfamily.org/realm/Elf/"><b>Elven</b></a>
+	<a href="http://musicfamily.org/realm/Angel/"><b>Angel</b></a>
+	<p><b>Evil Factions</b>:
+	<a href="http://musicfamily.org/realm/Goblin/"><b>Goblin</b></a>
+	<a href="http://musicfamily.org/realm/Undead/"><b>Undead</b></a>
+	<a href="http://musicfamily.org/realm/Demon/"><b>Demon</b></a></p>
+	<p><b>Neutral Factions</b>:
+	<a href="http://musicfamily.org/realm/Titan/"><b>Titan</b></a>
+	<a href="http://musicfamily.org/realm/Druid/"><b>Druid</b></a>
+	<a href="http://musicfamily.org/realm/Faceless/"><b>Faceless</b></a></p>
+	<p><b>Prestige Factions</b>:
+	<a href="http://musicfamily.org/realm/Dwarf/"><b>Dwarven</b></a>
+	<a href="http://musicfamily.org/realm/Drow/"><b>Drow</b></a>
+	<a href="http://musicfamily.org/realm/Dragons/"><b>Dragons</b></a></p>
+	<p><b>Elite Factions</b>:
+	<a href="http://musicfamily.org/realm/Archon/"><b>Archon</b></a>
+	<a href="http://musicfamily.org/realm/Djinn/"><b>Djinn</b></a>
+	<a href="http://musicfamily.org/realm/Makers/"><b>Makers</b></a></p>
+	<p><b>Mercenary Faction</b>:
+	<a href="http://musicfamily.org/realm/Mercenary/"><b>Mercenary</b></a></p>
+	<p>Prove your loyalty and dedication to the factions by completing their unique Challenges. You will be rewarded with new perks and upgrades to help in your Realm Grinder progress!</p>
+	<p>Upon reaching R2, a "Challenge" button will appear on the left leading to the Challenge window. There, your first, or next, challenge(s) will be visible, and hovering over the challenge icon will reveal the necessary requirements to unlock it.</p>
+	<p>There are several Tier challenges for each Faction. The Tiers appear as you advance, and hence can only be completed in order. You can accomplish multiple Tiers on the same run, you just cannot get later Tiers before earlier Tiers.</p>
+	<p><b>Vanilla Faction challenges</b>: Tier 1 upgrades boost the faction it belongs to. Tier 2 upgrades boosts another Faction. Last Tier upgrades are universal and boost basic perks. Completing all the challenges of a Faction rewards a spell upgrade. The last Tiers and Spell upgrades can be used also with Mercenaries, and their respective Factions, with or without Dwarven or Drow.</p>
+	<p><b>Neutral Faction challenges</b>: Tier 1 upgrades boost it's own faction, Tier 2 and Tier 3 upgrades boosts each other Neutral Faction, and Tier 4 upgrades are universal.</p>
+	<p><b>Prestige Faction challenges</b>: Tier 1 upgrades boost Dwarven-Angels or Drow-Demons, Tier 2 upgrades boost Dwarven-Fairies or Drow-Goblins, Tier 3 upgrades boost Dwarven-Elves or Drow-Undead, Tier 4 upgrades boost all Dwarven or all Drow, and Tier 5 upgrades are universal.</p>
+	<p><b>Elite Faction challenges</b>: Tier 1 upgrades boost Good, Tier 2 upgrades boost Evil, Tier 3 upgrades boost Neutral, Tier 4 upgrades boost Itself, and Tier 5 upgrades are universal.</p>
+	<p>Once you have unlocked a challenge, the perks relative to the faction you are playing, being costless, will be turned on by default after the faction's spell upgrade and Challenge Power Upgrade has been purchased. </p>
+	<p><b><img src="http://musicfamily.org/realm/Factions/picks/AllChallenges3.6.png" usemap="#AllChallenges-map">
 <map name="AllChallenges-map">
 	<area href="http://musicfamily.org/realm/Fairy/#FRCR" target=""
 		research="
@@ -80,7 +80,7 @@
 	<p><b>Requirements</b>: Fairy as Base Faction, Reincarnation 18+, and Fairy Unique Building, Fairy challenge 2 completed.</p>
 	<p><b>Note</b>: Dwarven can <b>NOT</b> be used unless you can get Dwarven's Unique Building at R28+.</p>
 	<p><b>Challenge</b>:  Have Swarm of Fairies (Fairy 3,3) give 60 Assistants in under a minute of a new game.(Abdication or Reincarnation)</p>
-	<p><b>Effect</b>: Increase mana regeneration based on the number of buildings you own.</p>
+	<p><b>Effect</b>: Increase Mana Regeneration based on the number of buildings you own.</p>
 	<p><b>Formula</b>: (0.1 * x) ^ 0.225, where x is your Buildings Owned (This Game) stat.</p>
 	<p><b>Upgrade</b>: Works with All</p>
 	<p><b>Tip 1</b>: (8190, total, of Farms, Inns and Blacksmiths and you don't have to buy the upgrade itself.)</p>
@@ -124,8 +124,8 @@
 	<p>&quot;The elven council intends to use the light you've gathered as a weapon against their corrupt cousins, as soon as they detect weakness.&quot;</p>
 	<p><b> Requirements</b>: Elves as Base Faction, Reincarnation 18+, Elven Unique Building, Elven challenge 2 completed.</p>
 	<p><b>Note</b>: Dwarven can <b>NOT</b> be used unless you can get Dwarven's Unique Building at R28+.</p>
-	<p><b>Challenge</b>: Buy 150 Royal Exchange of each Faction, having zero Drow Exchanges.(~323,543,367 of each faction coin)</p>
-	<p><b>Effect</b>: Increase your mana regeneration by +0.85 m/s for every 100 Royal Exchanges purchased.</p>
+	<p><b>Challenge</b>: Buy 150 Royal Exchange of each Faction, having 0 Drow Exchanges (~323,543,367 of each Faction Coin).</p>
+	<p><b>Effect</b>: Increase your Mana Regeneration by +0.85 m/s for every 100 Royal Exchanges purchased.</p>
 	<p><b>Upgrade</b>: Works with all</p>
 		" coords="184,142,238,196" shape="rect">
 	<area href="http://musicfamily.org/realm/Angel/#ANCR" target=""
@@ -133,8 +133,8 @@
 	<p><b>Angel Challenge Reward</b></p>
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/GodsThroneChallengeReward.png' align='middle'> God's Throne</b></p>
 	<p><b>Effect</b>: Mana regeneration is increased by 50% while God's Hand is active.</p>
-	<p><b>Effect</b>: Also increases offline spell cast amount by multiplicatively based on your offline mana regeneration.</p>
-	<p><b>Formula</b>:  (10 * log10(1 + x)), where x is offline mana regeneration.</p>
+	<p><b>Effect</b>: Also increases offline spell cast amount by multiplicatively based on your offline Mana Regeneration.</p>
+	<p><b>Formula</b>: (10 * log10(1 + x)), where x is offline Mana Regeneration.</p>
 		" coords="4,240,58,294" shape="rect">
 	<area href="http://musicfamily.org/realm/Angel/#ANC1" target=""
 		research="
@@ -143,10 +143,10 @@
 	<p>&quot;The blazing seraphim have entrusted you with a sacred mission: Purify the denizens of the realm with the most holy of lights. Hurry up, corruption is spreading fast.&quot;</p>
 	<p><b>Requirements</b>: Angel as Base Faction, Reincarnation 2+, God's Rest upgrade purchased.</p>
 	<p><b>Note</b>: Dwarven can be used but not required.</p>
-	<p><b>Challenge</b>: Cast 50 Holy Lights during daytime (6am-6pm local time) within 20 minutes of a new game.</p>
-	<p><b>Effect</b>: Reduce all spell costs by 10% (calculated *after* Angel (2,2) Angelic Wisdom).</p>
+	<p><b>Challenge</b>: Cast 50 Holy Lights during daytime (between 6 AM and 6 PM local time) within 20 minutes of a new game.</p>
+	<p><b>Effect</b>: Reduce all spell costs by 10%.</p>
 	<p><b>Upgrade</b>: Works with Angel</p>
-	<p><b>Tip</b>: Recommended +1 B (1E9) gems. You will need a min mana regen of 60 m/s get enough Holy Light autocasts. Avoid purchasing Angelic Dominance (3,2). If you have bloodlines (R7), choose the Druid Bloodline.</p>
+	<p><b>Tip</b>: Recommended +1 B (1E9) gems. You will need minimum Mana Regeneration of 60 m/s to get enough Holy Light autocasts. Avoid purchasing Angelic Dominance (3,2). If you have bloodlines (R7), choose the Druid Bloodline.</p>
 		" coords="64,240,118,294" shape="rect">
 	<area href="http://musicfamily.org/realm/Angel/#ANC2" target=""
 		research="
@@ -155,11 +155,11 @@
 	<p>&quot;The archangel leaders have entrusted you with a sacred mission:quickly harness enough magical power to become a beacon of magical selflessness. Extorting from the poor is forbidden.&quot;</p>
 	<p><b>Requirements</b>: Angel as Base Faction, Reincarnation 8+, Angel Bloodline, Angel challenge 1 completed.</p>
 	<p><b>Note</b>: Dwarven can be used but not required.</p>
-	<p><b>Challenge</b>: Generate 500,000 mana in less than 3 hours without casting a single Tax Collection.</p>
-	<p><b>Effect</b>: Increases maximum mana by 30%.</p>
+	<p><b>Challenge</b>: Generate 500,000 Mana in less than 3 hours without casting a single Tax Collection.</p>
+	<p><b>Effect</b>: Multiplicatively increases Maximum Mana by 30%.</p>
 	<p><b>Upgrade</b>: Works with Undead</p>
-	<p><b>Tip 1</b>: Avoid getting Angelic Wisdom (2,2) and Angelic Dominance (3,2) because they reduce your mana-spent-per-second ability.</p>
-	<p><b>Tip 2</b>: Autocast God's Hand with bar at 0. Add in CtA if excess mana builds up. When Mana Regeneration gets too high, just put every spell on Gold autocast (Not TC of course).</p>
+	<p><b>Tip 1</b>: Avoid getting Angelic Wisdom (2,2) and Angelic Dominance (3,2) because they reduce your Mana-spent-per-second ability.</p>
+	<p><b>Tip 2</b>: Autocast God's Hand with bar at 0. Add in CtA if excess Mana builds up. When Mana Regeneration gets too high, just put every spell on Gold autocast (Not Tax Collection of course).</p>
 		" coords="124,240,178,294" shape="rect">
 	<area href="http://musicfamily.org/realm/Angel/#ANC3" target=""
 		research="
@@ -287,7 +287,7 @@
 	<p><b>Requirements</b>: Demon as Base Faction, Reincarnation 8+, Demon Bloodline.</p>
 	<p><b>Note</b>: Drow can be used but not required.</p>
 	<p><b>Challenge</b>: Have exactly 666 Royal Exchanges across all factions, with 0 Demon Exchanges, in under 666 seconds current playtime.</p>
-	<p><b>Effect</b>: Increase max mana by 6.66% of your number of Halls of Legends.</p>
+	<p><b>Effect</b>: Increase Maximum Mana by 6.66% of your number of Halls of Legends.</p>
 	<p><b>Upgrade</b>: Works with Fairy</p>
 	<p><b>Tip</b>: High gem and low Excavations (relative). You will need 95 Royal Exchanges of 6 Factions and 96 Royal exchanges of the 7th Faction, Don't buy Demon exchanges. Drow's blackmail upgrade helps the challenge, and the exchanges don't have to be spread evenly.</p>
 		" coords="124,534,178,588" shape="rect">
@@ -358,7 +358,7 @@
 	<p><b>Effect</b>: Increases production of all buildings based on Lightning Strike casts in this Reincarnation. does not suffer from Ascension penalties.</p>
 	<p><b>Formula</b>: (15 * x ^ 0.5)%, where x is Lightning Strike casts this Reincarnation.</p>
 	<p><b>Upgrade</b>: Works with All</p>
-	<p><b>Tip</b>: Buy Olympian Hall, generate as much mana per second from non-Research methods (mostly Heritages), set Lightning Strike on bronze (Ctrl+Shift). Wait. On average, it takes 132 strikes to get two in a row on HoLs.</p>
+	<p><b>Tip</b>: Buy Olympian Hall, get enough Mana Regeneration from non-Research methods, set Lightning Strike on bronze (Ctrl+Shift). Wait. On average, it takes 132 strikes to get two in a row on HoLs.</p>
 		" coords="244,632,298,686" shape="rect">
 	<area href="http://musicfamily.org/realm/Druid/#DDCR" target=""
 		research="
@@ -398,12 +398,13 @@
 	<p>&quot;Pleased with your efforts, the elder Druids assigned you with an important task; empower our obelisks, sacred churches and sarcophaguses.&quot;</p>
 	<p><b>Requirements</b>: Druid as Base Faction, Reincarnation 19+, 1000 excavations, Elven and Demon challenge 3 and Druid challenge 2 completed.</p>
 	<p><b>Challenge</b>: Have Grand Balance target Stone Pillars, Monasteries and Ancient Pyramids in that order, for 3 casts of the Grand Balance spell.</p>
-	<p><b>Effect</b>: You gain 1.5 additional max mana for every 100 buildings.</p>
+	<p><b>Effect</b>: You gain 1.5 additional Maximum Mana for every 100 buildings.</p>
 	<p><b>Upgrade</b>: Works with Faceless</p>
-	<p><b>Note</b>: Now that Grand Balance affects 0 buildings, it will target the next building down the list:</p>
-	<p><b>Step 1</b>: Buy Max Farms, Max Inns, Max Blacksmiths, and Max Deep Mines. > Cast Grand Balance</p>
-	<p><b>Step 2</b>: Buy Max Stone Pillars and Max Alchemy Labs > Cast Grand Balance</p>
-	<p><b>Step 3</b>: Buy Max Monasteries, Max Labys, and Max Iron Strongholds > Cast Grand Balance.</p>
+	<p><b>Note</b>: The Grand Balance bonus needs to show at least 1% or the targets are invalid.</p> 
+	<p><b>Note</b>: Since Grand Balance can affect a tier with 0 buildings, you can target the wanted building tier this way:</p>
+	<p><b>Step 1</b>: Buy Farms, Inns, Blacksmiths and Deep Mines. Cast Grand Balance.</p>
+	<p><b>Step 2</b>: Buy Stone Pillars and Alchemist Labs. Cast Grand Balance.</p>
+	<p><b>Step 3</b>: Buy Monasteries, Labyrinths and Iron Strongholds. Cast Grand Balance.</p>
 		" coords="184,730,238,784" shape="rect">
 	<area href="http://musicfamily.org/realm/Druid/#DDC4" target=""
 		research="
@@ -440,8 +441,9 @@
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/MysticMazeChallenge.png' align='middle'> Mystic Maze</b></p>
 	<p>&quot;Your Hive superiors have ordered you to setup a base without alerting any nearby enemies&quot;</p>
 	<p><b>Requirements</b>: Faceless as Base Faction, Reincarnation 9+, Faceless Bloodline, Fairy and Undead challenge 2 completed</p>
-	<p><b>Challenge</b>: Get to 6500 Max Mana and 8000 Buildings within 10 minutes of a new game.</p>
-	<p><b>Effect</b>: You gain +10 max mana for every 500 buildings.</p><p><b>Upgrade</b>: Works with Druid</p>
+	<p><b>Challenge</b>: Get to 6,500 Maximum Mana and 8,000 Buildings within 10 minutes of a new game.</p>
+	<p><b>Effect</b>: You gain +10 Maximum Mana for every 500 buildings.</p>
+	<p><b>Upgrade</b>: Works with Druid</p>
 		" coords="124,828,178,882" shape="rect">
 	<area href="http://musicfamily.org/realm/Faceless/#FCC3" target=""
 		research="
@@ -568,7 +570,7 @@
 	<p><b>Effect</b>: Increases Offline Production based on time spent in this game. Does not suffer from Ascension penalties.</p>
 	<p><b>Formula</b>: (x ^ 0.7)%, where x is time spent this game.</p>
 	<p><b>Upgrade</b>: Works with Undead + Drow</p>
-	<p><b>Tip</b>: Run both spells at the same time, depending on mana regeneration it takes about 1 hour 15 minutes to complete the challenge.</p>
+	<p><b>Tip</b>: Run both spells at the same time, depending on Mana Regeneration it takes about 1 hour 15 minutes to complete the challenge.</p>
 		" coords="184,1024,238,1078" shape="rect">
 	<area href="http://musicfamily.org/realm/Drow/#DWC4" target=""
 		research="
@@ -614,7 +616,7 @@
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/BarkscalesChallenge.png' align='middle'> Barkscales</b></p>
 	<p>&quot;Unstable power flows through your workforce. Prove to the Dragonlords you can sustain and control every sip of it.&quot;</p>
 	<p><b>Requirements</b>: Druid as Base Faction, Dragon as Prestige Faction, Reincarnation 51+, Dragon Bloodline, Titan, Druid, Faceless, Dwarven and Drow Challenge 2 and Dragon Challenge 1 completed.</p>
-	<p><b>Challenge</b>: Generate at least 1e10 mana in this game, Have Grand Balance affect 7 buildings.</p>
+	<p><b>Challenge</b>: Generate at least 1e10 Mana in this game, Have Grand Balance affect 7 buildings.</p>
 	<p><b>Effect</b>: Increase Non-Unique Buildings production based on the amount of Grand Balance targets. Does not suffer from Ascension penalties.</p>
 	<p><b>Formula</b>: (20 * x ^ 2)%, where x is number of Grand Balance targets.</p>
 	<p><b>Effect</b>: Also reduces all Spell Tier upgrades costs based on Grand Balance activity time in this Reincarnation.</p>
@@ -660,7 +662,7 @@
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/DracometVaultChallenge.png' align='middle'> Dracomet Vault</b></p>
 	<p>&quot;This backwater world has been conquered. The Dragonlords strive for greater riches. Follow the Dragon King, soar through the heavens and claim the energy of the cosmos.&quot;</p>
 	<p><b>Requirements</b>: Titan, Druid or Faceless as Base Faction, Dragon as Prestige Faction, Reincarnation 63+, Dragon challenge 5 completed, 12,000 research points spent across all facilities.</p>
-	<p><b>Challenge</b>: Gather at least 2.5e18 faction coins, 1e141 diamond coins, 90,000 buildings, 2e10 mana produced, 7,500 excavations, 6,000 assistants, 300,000 max mana and 175,000 Mana Regeneration.</p>
+	<p><b>Challenge</b>: Gather at least 2.5e18 faction coins, 1e141 diamond coins, 90,000 buildings, 2e10 Mana produced, 7,500 excavations, 6,000 assistants, 300,000 Maximum Mana and 175,000 Mana Regeneration.</p>
 	<p><b>Effect</b>: Production bonus from Gems is additively increased over time based on the amount of artifacts you own. Resets on Abdications.</p>
 	<p><b>Formula</b>: +(x ^ 0.8 * 0.8 * (t / 60) ^ 0.8)%, where x is artfiacts found and t is time spent this game in seconds.</p>
 	<p><b>Upgrade</b>: Works with All</p>
@@ -748,7 +750,7 @@
 	<p><b>Challenge</b>: Reach 50,000 Enchanted Fields within 2 minutes of a new game.</p>
 	<p><b>Effect</b>: Maelstrom multiplicatively increases assistants based on lowest building tier targeted.</p>
 	<p><b>Formula</b>: ((12 - T) * 100)%, where T is tier of lowest maelstrom building targeted.</p>
-	<p><b>Effect</b>: Fairy Chanting produces Limited Wish casts every second based on maximum mana. Casts provided increase progressively over Fairy Chanting's runtime (time since last cast).</p>
+	<p><b>Effect</b>: Fairy Chanting produces Limited Wish casts every second based on Maximum Mana. Casts provided increase progressively over Fairy Chanting's runtime (time since last cast).</p>
 	<p><b>Formula</b>: +((x ^ 0.5) * T * y / 2,000), where x is Maximum Mana, T is Fairy Chanting tier and y is Fairy Chanting runtime.</p>
 	<p><b>Upgrade</b>: Works with Fairy + Dwarves + Djinn</p>
 		" coords="64,1318,118,1372" shape="rect">
@@ -867,7 +869,7 @@
 	<p>&quot;Somewhere, something incredible is waiting to be known. Sculpt from your boundless imagination and make it your own.&quot;</p>
 	<p><b>Requirements</b>: Elves, Goblin or Druid as Base Faction, Makers as Elite Faction, Reincarnation 153+, All Balance Lineages at level 45, Makers challenge 4 completed.</p>
 	<p><b>Challenge</b>: Have at least 1 T (1e12) assistants, 1 B (1e9) Maximum Mana and 20 Sx (2e22) Faction Coin find chance within 8 minutes of a new game.</p>
-	<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on Faction Coins gained and mana produced in this game; spells cast and clicks made in this Reincarnation.</p>
+	<p><b>Effect</b>: Multiplicatively increase Maximum Mana based on Faction Coins gained and Mana produced in this game; spells cast and clicks made in this Reincarnation.</p>
 	<p><b>Formula</b>: ((0.3 * log10(1 + a) + log10(1 + b) + log10(1 + c) + 3 * log10(1 + d)) ^ 1.5)%, a is Factions Coins (this game), b is Mana produced (this game), c is spells cast (this reincarnation), d is clicks made (this reincarnation)</p>
 	<p><b>Upgrade</b>: Works with All</p>
 		" coords="304,1416,358,1470" shape="rect">
@@ -896,7 +898,7 @@
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/UnlimitedKnowledgeChallenge.png' align='middle'> Unlimited Knowledge</b></p>
 	<p>&quot;To the many, having unlimited knowledge would mean having unlimited power. To the few, it is only some of that knowledge that has unlimited potential.&quot;</p>
 	<p><b>Requirements</b>: R190, Chrono Loading, Nexus unique Building, 50000 research points used.</p>
-	<p><b>Challenge</b>: Have at least 1e25 mana regen without using any non-Order upgrade or effect except Challenges and Royal Exchanges.</p>
+	<p><b>Challenge</b>: Have at least 1e25 Mana Regeneration without using any non-Order upgrade or effect except Challenges and Royal Exchanges.</p>
 	<p><b>Effect</b>: Gain all the faction bloodlines simultaneously.</p>
 	<p><b>Note</b>: This Challenge deactivates the bonus from R58/R115 power.</p>
 	<p><b>Tip</b>: Unaligned, Mercenary, Prestige and Order faction related upgrades are allowed. Upgrade alignment is determined by the background color of the upgrade.</p>
@@ -912,7 +914,7 @@
 	<p><b>Challenge</b>: Have at least 100 spell tiers active within 5 minutes of a new game.</p>
 	<p><b>Effect</b>: Gain the Chaos Madness spell.</p>
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/ChaosMadness.png' align='middle'> Chaos Madness</b></p>
-	<p><b>Cost</b>: 500,000 mana - <b>Duration</b>: Fixed to 20 seconds</p>
+	<p><b>Cost</b>: 500,000 Mana - <b>Duration</b>: Fixed to 20 seconds</p>
 	<p><b>Effect</b>: Grants the effect of a random lineage, with the level of your highest lineage for 20 seconds.</p>
 	<p><b>Tip</b>: Lineage level from spell is affected by lineage modifiers</p>
 	<p><b>Upgrade</b>: Works with Chaos Mercenary</p>
@@ -923,7 +925,7 @@
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/MenoftheWorldChallenge.png' align='middle'> Men of the World</b></p>
 	<p>&quot;The best armies in the realm are those that are well-rounded: able to take on any kind of enemy that approaches.&quot;</p>
 	<p><b>Requirements</b>: R198, Balance Mercenary, 40,000 deepest Excavations made in this Reincarnation, Mercenary Set.</p>
-	<p><b>Challenge</b>: Have assistants, maximum mana, mana regen and faction coin chance fall within the same order of magnitude while above 1e12.</p>
+	<p><b>Challenge</b>: Have assistants, Maximum Mana, Mana Regeneration and Faction Coin chance fall within the same order of magnitude while above 1e12.</p>
 	<p><b>Effect</b>: Gain all the faction sets simultaneously.</p>
 	<p><b>In Game</b>: Click the challenge to view the Set container</p>
 	<p><b>Upgrade</b>: Works with Balance Mercenary</p>
