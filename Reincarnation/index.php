@@ -87,19 +87,19 @@
 			//  * function to calculate bonus (rNum -> bonusValue)
 			//  * function to create bonus text (rNum -> bonus (already toFixed) -> string)
 			var RBenefits = [
-				[ 1, 999, '#R1AllBuiPro', true, 1
+				[ 1, 999, '#R1AllBuiPro', true, 0
 				, function(rei) {return 50 * rei;}
 				, function(rei, bonus) {return 'Production of all buildings is increased by ' + bonus + '%.';}
 				],
-				[ 1, 999, '#R1OffPro', true, 1
+				[ 1, 999, '#R1OffPro', true, 0
 				, function(rei) {return 500 * rei;}
 				, function(rei, bonus) {return 'Offline production is increased by ' + bonus + '%.';}
 				],
-				[ 1, 999, '#R1FCChaMul', false, 1
+				[ 1, 999, '#R1FCChaMul', false, 0
 				, function(rei) {return 10 * rei;}
 				, function(rei, bonus) {return 'Faction coin chance is increased by +' + bonus + '%.';}
 				],
-				[ 1, 999, '#R1MpS', false, 1
+				[ 1, 999, '#R1MpS', false, 0
 				, function(rei) {return 2 * rei;}
 				, function(rei, bonus) {return 'Mana regeneration is increased by +' + bonus + '.';}
 				],
@@ -107,11 +107,11 @@
 				, function(rei) {return 0.2 * rei;}
 				, function(rei, bonus) {return 'Gem production is increased by +' + bonus + '%.';}
 				],
-				[ 5, 999, '#R5Ass', true, 1
-				, function(rei) {return rei;}
-				, function(rei, bonus) {return 'Add ' + Math.floor(rei) + ' assistants and their production is increased by ' + 2 * bonus + '%.';}
+				[ 5, 999, '#R5Ass', true, 0
+				, function(rei) {return 2 * rei;}
+				, function(rei, bonus) {return 'Add ' + Math.floor(0.5 * rei) + ' assistants and their production is increased by ' + bonus + '%.';}
 				],
-				[ 10, 999, '#R10AllBuiPro', true, 1
+				[ 10, 999, '#R10AllBuiPro', true, 0
 				, function(rei) {return Math.pow(rei, 1.75) * Math.pow(parseInt($('#R10TimeTot').val()), 0.65);}
 				, function(rei, bonus) {return 'Production of all buildings is increased by ' + bonus + '%.';}
 				],
@@ -119,7 +119,7 @@
 				, function(rei) {return 35 * rei;}
 				, function(rei, bonus) {return 'Maximum mana is increased by +' + bonus + '.';}
 				],
-				[ 20, 999, '#R20ProEacBui', true, 1
+				[ 20, 999, '#R20ProEacBui', true, 0
 				, function(rei) {return 0.01 * rei * parseInt($('#R20SpecBui').val());}
 				, function(rei, bonus) {return 'Given buildings\' production is increased by ' + bonus + '%.';}
 				],
@@ -127,7 +127,7 @@
 				, function(rei) {return 0.5 * rei;}
 				, function(rei, bonus) {return 'Royal Exchange bonus is increased by +' + bonus + '%.';}
 				],
-				[ 41, 999, '#R41UniBuiPro', true, 1
+				[ 41, 999, '#R41UniBuiPro', true, 0
 				, function(rei) {return 1200 * Math.pow(rei, 1.15);}
 				, function(rei, bonus) {return 'Unique Buildings\' production is increased by ' + bonus + '%.';}
 				],
@@ -135,12 +135,12 @@
 				, function(rei) {return 70 * Math.pow(rei, 1.25);}
 				, function(rei, bonus) {return 'Maximum mana is increased by +' + bonus + '. Total increase is +' + ((70 * Math.pow(rei, 1.25)) + 35 * rei).toFixed(0) + '.';}
 				],
-				[ 50, 999, '#R50FCChaAdd', false, 1
+				[ 50, 999, '#R50FCChaAdd', false, 0
 				, function(rei) {return 2.5 * Math.pow(rei, 1.1);}
 				, function(rei, bonus) {return 'Faction coin chance is multiplicatively increased by ' + bonus + '%.';}
 				],
 				[ 58, 999, '#R58FCChaMul', false, 0
-				, function(rei) {return 1.2 * Math.pow(rei, 1.05);}
+				, function(rei) {return Math.floor(1.2 * Math.pow(rei, 1.05));}
 				, function(rei, bonus) {return 'Faction coin chance is increased ' + bonus + ' times if they match your Faction or Bloodline.';}
 				],
 				[ 85, 999, '#R85AssPerR', false, 0
@@ -156,23 +156,23 @@
 				, function(rei, bonus) {return 'Multiplicatively increase Mana Regeneration by ' + bonus + '%.';}
 				],
 				[ 108, 999, '#R108ProdUBTimeDiff', false, 0
-				, function(rei) {return 0;}
+				, function(rei) {return rei;}
 				, function(rei, bonus) {return 'Increase the production of Unique Buildings based on the difference of time spent as their respective faction against your most most used faction this Reincarnation.';}
 				],
 				[ 115, 999, '#R115FCChaMul', false, 0
-				, function(rei) {return 1.2 * Math.pow(rei, 1.05);}
+				, function(rei) {return Math.floor(1.2 * Math.pow(rei, 1.05));}
 				, function(rei, bonus) {return 'Faction coin chance is increased ' + bonus + ' times if they match your Faction, Bloodline or Artifact Set.';}
 				],
-				[ 120, 999, '#R120NEMPro', true, 1
+				[ 120, 999, '#R120NEMPro', true, 0
 				, function(rei) {return 150 * rei;}
 				, function(rei, bonus) {return 'Increase the production of all buildings based on Reincarnations made by ' + bonus + '%.';}
 				],
 				[ 150, 999, '#R150CTABoost', false, 0
-				, function(rei) {return rei + 1;}
+				, function(rei) {return rei;}
 				, function(rei, bonus) {return 'Unique Buildings count ' + bonus + ' times more for Call to Arms purposes.';}
 				],
 				[ 170, 999, '#R170ResBudget', false, 0
-				, function(rei) {return rei + 1;}
+				, function(rei) {return rei;}
 				, function(rei, bonus) {return 'Increases research budget by 3,000 in each branch.';}
 				],
 				[ 190, 999, '#R190NEMPro', true, 1

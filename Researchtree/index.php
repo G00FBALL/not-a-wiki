@@ -611,8 +611,8 @@
 	<p><b>Research Name</b>: Journeymen</p>
 	<p><b>Requirement</b>: Research Apprenticeship (C80) & Bartering (E50).</p>
 	<p><b>Cost</b>: 82.65 Dqig (8.265e160)</p>
-	<p><b>Effect</b>: Increase thIncrease the production of Unique Buildings based on total time spent as that faction.</p>
-	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is your time spent as the faction of the Unique Building.</p>
+	<p><b>Effect</b>: Increase the production of Unique Buildings based on time spent as that faction in this Reincarnation.</p>
+	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is time spent as the faction of the Unique Building in this Reincarnation.</p>
 	" coords="170,254,210,294" shape="rect">
 		<area research="<p><b>C225</b> - For Elf</p>
 	<p><b>Research Name</b>: Automatons</p>
@@ -822,7 +822,7 @@
 	<p><b>Research Name</b>: Compression</p>
 	<p><b>Requirement</b>: R232+</p>
 	<p><b>Effect</b>: Brainwave increases Faction Coin find chance progressively over its duration.</p>
-	<p><b>Formula</b>: +(floor(1.5 * ((x + y) / 60) ^ 2.25)%, where x is Brainwave runtime and y is Headstart in seconds.</p>
+	<p><b>Formula</b>: +(floor(1.5 * ((x + y) / 60) ^ 2.25))%, where x and y are Brainwave runtime and Headstart respectively.</p>
 	" coords="128,380,168,420" shape="rect">
 		<area research="<p><b>C13125</b> - For All Factions</p>
 	<p><b>Research Name</b>: Pottery</p>
@@ -1737,8 +1737,8 @@
 		<area research="<p><b>A13500</b> - For All Factions</p>
 	<p><b>Research Name</b>: Lunafaction</p>
 	<p><b>Requirement</b>: R242+</p>
-	<p><b>Effect</b>: All Balance spells can be cast up to 3 tier above their maximum. Increase Offline production based on the maximum amount of time spent as Balance in this Reincarnation.</p>
-	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is the maximum time spent as Balance this reincarnation in seconds.</p>
+	<p><b>Effect</b>: All Balance spells can be cast up to 3 tier above their maximum. Increase Offline production based on time spent as Balance in this Reincarnation.</p>
+	<p><b>Formula</b>: (0.7 * x ^ 0.7)%, where x is time spent as Balance this Reincarnation.</p>
 	<p><b>Note</b>: All Creation can be cast up to Tier 5 (This research overrides Dragon Set 2). Moon Blessing, Goblin’s Greed and Grand Balance can be cast up to Tier 10. Infinite Spiral can be cast up to Tier 4.</p>
 	" coords="212,1010,252,1050" shape="rect">
 		<area research="<p><b>W1</b> - For Demon</p>

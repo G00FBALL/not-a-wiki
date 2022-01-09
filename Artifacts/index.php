@@ -507,7 +507,7 @@
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/DawnstoneArtifact.png' align='middle'> Dawnstone</b></p>
 	<p><b>Hint</b>: Relic of the Dawn hours.</p>
 	<p><b>Description</b>: Only found during sunrise hours. Emits a faint glow.</p>
-	<p><b>Requirement</b>: R16+, between 5:00 AM and 8:00 PM (Your local time)</p>
+	<p><b>Requirement</b>: R16+, between 5:00 AM and 8:00 AM (Your local time)</p>
 	<p><b>Chance</b>: (x / 10,000)%, where x is your Excavation count.</p>
 	<p><b>Effect</b>: With Both the Dawnstone and Duskstone artifacts, awards the Sun Force upgrade.</p>
 	<p><b>Note</b>: Click image for details</p>

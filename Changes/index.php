@@ -197,8 +197,8 @@
 	<br/>
 	<p><b>Homunculus Lab (Goblin/Undead)</b></p>
 	<p><b>Effect</b>: Increase Research Budget based on the least time spent between Order and Balance in this Reincarnation.</p>
-	<p><b>Old Formula</b>: +(2000 + 0.7 * ln(1 + min(x , y)) ^ 3.5)%, where x and y is time spent as Order and Balance respectively in this Reincarnation.</p>
-	<p><b>New Formula</b>: +(75 + 0.7 * ln(1 + min(x , y)) ^ 3.25)%, where x and y is time spent as Order and Balance respectively in this Reincarnation.</p>
+	<p><b>Old Formula</b>: +(2000 + 0.7 * ln(1 + min(x , y)) ^ 3.5), where x and y is time spent as Order and Balance respectively in this Reincarnation.</p>
+	<p><b>New Formula</b>: +(75 + ln(1 + min(x , y)) ^ 3.25), where x and y is time spent as Order and Balance respectively in this Reincarnation.</p>
 	<p><b>Additional Effect</b>: Also increase the production of all buildings based on unspent research budget.</p>
 	<p><b>Formula</b>: (1.3 * x ^ 0.7)%, where x is the sum of your unspent research budget across all branches.</p>
 	<br/>
@@ -218,7 +218,7 @@
 	<p><b>Expert Combinator</b></p>	
 	<p><b>Old Effect</b>: Increase the production of all buildings when playing a Prestige Faction based on time spent with the least used alignment.</p>
 	<p><b>Old Formula</b>: (x)%, where x is time spent with your least used alignment.</p>
-	<p><b>New Effect</b>: Increase the production of all buildings when playing a Prestige Faction based on time spent with the least used alignment (available for all Prestige Faction).</p>
+	<p><b>New Effect</b>: Increase the production of all buildings based on time spent with the least used alignment.</p>
 	<p><b>New Formula</b>: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</p>
 	<br/>
 	<p><b>Need a head start</b></p>
@@ -282,7 +282,7 @@
 			<hr>
 			<p><b>1 New Trophy</b>:</p>
 				<p><img src="http://musicfamily.org/realm/Factions/picks/ExpertCombinator.png" align="middle"> <b>Expert Combinator</b></p>
-				<p><b>Requirement</b>: R240+, Purchase Legacies from 6 different factions in a single game.</p>
+				<p><b>Requirement</b>: R220+, Purchase Legacies from 6 different factions in a single game.</p>
 				<p><b>Cost</b>: 10 Dtg (1e100)</p>
 				<p><b>Effect</b>: Increase the production of all buildings when playing a Prestige Faction based on time spent with the least used alignment.</p>
 				<p><b>Formula</b>: (x)%, where x is time spent with your least used alignment.</p>
