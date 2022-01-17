@@ -1360,7 +1360,7 @@
 <p><b>Note</b>: Can not cast a spell that is already available.</p>
 <p><b>Note</b>: Does not give access to Holy Frenzy for Neutral alignment.</p>
 <hr>
-<p id="ChaosMadness"><b><img src="http://musicfamily.org/realm/Factions/picks/ChaosMadness.png" alt="Chaos Madness" align="middle"> Chaos Madness</b> (Chaos Mercenary) (R194+)</p>
+<p id="ChaosMadness"><b><img src="http://musicfamily.org/realm/Factions/picks/ChaosMadness.png" alt="Chaos Madness" align="middle"> Chaos Madness</b> (Chaos Mercenary)</p>
 <p><b>Spell Type</b>: (Chaos) Mercenary Faction Spell (R194+)</p>
 <p><b>Cost</b>: 500,000 Mana - <b>Duration</b>: Fixed to 20 seconds</p>
 <p><b>Requirement</b>: Mercenary Challenge 2 active</p>

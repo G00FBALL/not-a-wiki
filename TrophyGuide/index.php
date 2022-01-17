@@ -130,7 +130,7 @@
 						</tr>
 						<tr>
 							<td>
-								<center>God's Rest</p><img src="http://musicfamily.org/realm/Factions/picks/GodsRestSpellUpgrade"></td>
+								<center>God's Rest</p><img src="http://musicfamily.org/realm/Factions/picks/GodsRestTrophy.png"></td>
 							<td>1 M (1e6)</p>A1+ Free</td>
 							<td>Cast God’s Hand on any Sunday.</td>
 							<td>While this spell is active, you will find random Faction Coins based on your Mana Regeneration each time you cast another spell.</td>
@@ -138,7 +138,7 @@
 						</tr>
 						<tr>
 							<td>
-								<center>Sun Blessing</p><img src="http://musicfamily.org/realm/Factions/picks/SunBlessingSpellUpgrade.png"></td>
+								<center>Sun Blessing</p><img src="http://musicfamily.org/realm/Factions/picks/SunBlessingTrophy.png"></td>
 							<td>1 M (1e6)</p>A1+ Free</td>
 							<td>Cast Moon Blessing between 6 am and 1 pm (noon).</td>
 							<td>The treasure is autoclicked 15 times per second while Moon Blessing is active.</td>
@@ -146,7 +146,7 @@
 						</tr>
 						<tr>
 							<td>
-								<center>True Night</p><img src="http://musicfamily.org/realm/Factions/picks/TrueNightSpellUpgrade.png"></td>
+								<center>True Night</p><img src="http://musicfamily.org/realm/Factions/picks/TrueNightTrophy.png"></td>
 							<td>1 M (1e6)</p>A1+ Free</td>
 							<td>Cast Night Time between 11 pm and 6 am.</td>
 							<td>Increase Night Time boost to assistants production to 40% per Necropolis.</td>
@@ -198,7 +198,7 @@
 						</tr>
 						<tr>
 							<td>
-								<center>Fairy Choir</p><img src="http://musicfamily.org/realm/Factions/picks/FairyChoirSpellUpgrade.png"></td>
+								<center>Fairy Choir</p><img src="http://musicfamily.org/realm/Factions/picks/FairyChoirTrophy.png"></td>
 							<td>1 M (1e6)</p>A1+ Free</td>
 							<td>Cast Fairy Chanting while having 45 or more assistants.</td>
 							<td>Fairy Chanting triples your assistant while it is active.</td>
@@ -222,7 +222,7 @@
 						</tr>
 						<tr>
 							<td>
-								<center>Halls of Balance</p><img src="http://musicfamily.org/realm/Factions/picks/HallsofBalanceSpellUpgrade.png"></td>
+								<center>Halls of Balance</p><img src="http://musicfamily.org/realm/Factions/picks/HallsofBalanceTrophy.png"></td>
 							<td>10 Dd (1e40)</p>A1+ Free</td>
 							<td>Have Grand Balance affect Hall of Legends.</td>
 							<td>Increase Grand Balance duration by 4 seconds and reduces mana cost by 200.</td>
@@ -238,7 +238,7 @@
 						</tr>
 						<tr>
 							<td>
-								<center>Faceless Overmind</p><img src="http://musicfamily.org/realm/Factions/picks/FacelessOvermindSpellUpgrade.png"></td>
+								<center>Faceless Overmind</p><img src="http://musicfamily.org/realm/Factions/picks/FacelessOvermindTrophy.png"></td>
 							<td>10 Dd (1e40)</p>A1+ Free</td>
 							<td>Affiliate with the Faceless 5 times in a row.</td>
 							<td>Increase Brainwave tick to 3% per second</td>
@@ -246,7 +246,7 @@
 						</tr>
 						<tr>
 							<td>
-								<center>Minedwarf</p><img src="http://musicfamily.org/realm/Factions/picks/MinedwarfSpellUpgrade.png"></td>
+								<center>Minedwarf</p><img src="http://musicfamily.org/realm/Factions/picks/MinedwarfTrophy.png"></td>
 							<td>1 Qa (1e45)</p>A1+ Free</td>
 							<td>Find 30,000 Faction Coins from Diamond Pickaxe in a single game.</td>
 							<td>Increase Diamond Pickaxe bonus to Faction Coin find chance by an additional 100%</td>
@@ -254,7 +254,7 @@
 						</tr>
 						<tr>
 							<td>
-								<center>Perfect Combo</p><img src="http://musicfamily.org/realm/Factions/picks/PerfectComboSpellUpgrade.png"></td>
+								<center>Perfect Combo</p><img src="http://musicfamily.org/realm/Factions/picks/PerfectComboTrophy.png"></td>
 							<td>1 Qa (1e45)</p>A1+ Free</td>
 							<td>Cast a chain of 100 Combo Strikes in a single game.</p>The chain is interrupted by casting different spells.</td>
 							<td>Increase Combo Strike bonus.</td>
@@ -278,7 +278,7 @@
 						</tr>
 						<tr>
 							<td>
-								<center>Hell Rush</p><img src="http://musicfamily.org/realm/Factions/picks/HellRushSpellUpgrade.png"></td>
+								<center>Hell Rush</p><img src="http://musicfamily.org/realm/Factions/picks/HellRushTrophy.png"></td>
 							<td>1 M (1e6)</p>A1+ Free</td>
 							<td>Cast Hellfire Blast in the first 60 seconds of playtime.</td>
 							<td>Hellfire Blast also boost Hall of Legends.</td>
@@ -310,7 +310,7 @@
 						</tr>
 						<tr>
 							<td>
-								<center>Greed Drive</p><img src="http://musicfamily.org/realm/Factions/picks/GreedDriveSpellUpgrade.png"></td>
+								<center>Greed Drive</p><img src="http://musicfamily.org/realm/Factions/picks/GreedDriveTrophy.png"></td>
 							<td>1 M (1e6)</p>A1+ Free</td>
 							<td>Cast 100 Goblin’s Greed while not casting any other spell in a single game. The chain is interrupted by casting different spells.</td>
 							<td>Goblin’s Greed cost 150 less mana.</td>
@@ -318,7 +318,7 @@
 						</tr>
 						<tr>
 							<td>
-								<center>Lightning Storm</p><img src="http://musicfamily.org/realm/Factions/picks/LightningStormSpellUpgrade.png"></td>
+								<center>Lightning Storm</p><img src="http://musicfamily.org/realm/Factions/picks/LightningStormTrophy.png"></td>
 							<td>10 D (1e40)</p>A1+ Free</td>
 							<td>Cast Lightning Strike 100 times in a single game.</td>
 							<td>Increase Lightning Strike to 750% per Iron Stronghold.</td>
@@ -350,7 +350,7 @@
 					<tbody>
 						<tr>
 							<td>
-								<center>Coin Pillage</p><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageSecretTrophy.png"></td>
+								<center>Coin Pillage</p><img src="http://musicfamily.org/realm/Factions/picks/CoinPillageTrophy.png"></td>
 							<td>1 Dc (1e33)</p>A1+ Free</td>
 							<td>Cast 150 Tax Collections in less than 5 seconds.</td>
 							<td>Tax Collection also finds 30 seconds worth of Faction Coins.</td>
@@ -942,7 +942,7 @@
 						</tr>
 						<tr>
 							<td>
-								<center>Iron Rush (?)</p><img src="http://musicfamily.org/realm/Factions/picks/IronRushSecretTrophy.png"></td>
+								<center>Iron Rush</p><img src="http://musicfamily.org/realm/Factions/picks/IronRushSecretTrophy.png"></td>
 							<td>3.8 SxSxg (3.8e201)</p>A1+ Free</td>
 							<td>Reach 725 Iron Strongholds in 5 minutes without using Gem Power or Reincarnation Power.</td>
 							<td>Iron Strongholds count 5% more for all purposes.</td>
@@ -1485,7 +1485,7 @@
 								<center>Novice Combinator</p><img src="http://musicfamily.org/realm/Factions/picks/NoviceCombinator.png"></td>
 							<td>1 Qavg (1e75)</td>
 							<td>Purchase Legacies from 4 different factions in a single game.</td>
-							<td>Increase the production of all buildings based on time spent with the least used alignment (available for all factions).</p>Formula: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</td>
+							<td>Increase the production of all buildings based on time spent with the least used alignment.</p>Formula: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</td>
 							<td></td>
 						</tr>
 					</tbody>
@@ -1494,7 +1494,7 @@
 				<table class="numtable">
 					<thead>
 						<tr>
-							<th colspan="5">R240+</th>
+							<th colspan="5">R235+</th>
 						</tr>
 					</thead>
 					<thead>
@@ -1512,7 +1512,7 @@
 								<center>Expert Combinator</p><img src="http://musicfamily.org/realm/Factions/picks/ExpertCombinator.png"></td>
 							<td>10 Dtg (1e100)</td>
 							<td>Purchase Legacies from 6 different factions in a single game.</td>
-							<td>Increase the production of all buildings when playing a Prestige Faction based on time spent with the least used alignment (available for all Prestige Faction).</p>Formula: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</td>
+							<td>Increase the production of all buildings based on time spent with the least used alignment.</p>Formula: (50 + 0.7 * x ^ 0.7)%, where x is time spent with your least used alignment.</td>
 							<td></td>
 						</tr>
 					</tbody>
