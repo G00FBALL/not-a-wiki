@@ -1,203 +1,203 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<head>
 <?php include "../scripts/header.html"; ?>
-</link>
-<div id="calrps">
-	<style>
-		th, td {
-			border: 1px solid black;
-		}
-		th {
-			background-color: #b3bcc6;
-		}
-	</style>
-	<br />
-	<br />
-	<br />
-	<br />
-	<br />
-	<br />
-	<br />
-	<table style="border-collapse: collapse">
-		<tr>
-			<th colspan="5">Maximum Research Points and Cost Per Reincarnation</th>
-		</tr>
-		<tr class="calc">
-			<th style="width:100px">Reincarnation</th>
-			<th style="width:80px">Research Points</th>
-			<th style="width:120px">Cost in Coins</th>
-			<th style="width:120px">Recommended Gems</th>
-			<th>Cost in Faction Coins</th>
-		</tr>
-		<tr class="calc">
-			<td><input id="reinc" type="number" min="16" max="246" style="text-align: center; background-color: #b3bcc6;" value="16"></td>
-			<td id="rp"></td>
-			<td id="Coins"></td>
-			<td id="Gems"></td>
-			<td id="FC"></td>
-		</tr>
-	</table>
-	<script>
-		var rtorp = {
-			"16": {"RP": "136", "CoinSc": "1.60e151", "CoinSh": "15.98 Noqag", "FCSc": "8.94e7", "FCSh": "89.36 M", "GemsSc": "5.65e69", "GemsSh": "5.65 Dvg"},
-			"17": {"RP": "153", "CoinSc": "1.57e154", "CoinSh": "15.65 Qig", "FCSc": "5.31e7", "FCSh": "53.09 M", "GemsSc": "1.77e71", "GemsSh": "176.93 Dvg"},
-			"18": {"RP": "171", "CoinSc": "2.32e157", "CoinSh": "23.18 Uqig", "FCSc": "1.32e8", "FCSh": "132.00 M", "GemsSc": "6.81e72", "GemsSh": "6.81 Tvg"},
-			"19": {"RP": "190", "CoinSc": "5.15e160", "CoinSh": "51.46 Dqig", "FCSc": "2.04e8", "FCSh": "204.21 M", "GemsSc": "3.21e74", "GemsSh": "320.80 Tvg"},
-			"20": {"RP": "210", "CoinSc": "1.71e164", "CoinSh": "171.26 Tqig", "FCSc": "2.96e8", "FCSh": "296.02 M", "GemsSc": "1.85e76", "GemsSh": "18.51 Qavg"},
-			"21": {"RP": "231", "CoinSc": "8.55e167", "CoinSh": "854.74 Qaqig", "FCSc": "4.34e8", "FCSh": "434.49 M", "GemsSc": "1.31e78", "GemsSh": "1.31 Qivg"},
-			"22": {"RP": "253", "CoinSc": "6.40e171", "CoinSh": "6.40 Sxqig", "FCSc": "6.14e8", "FCSh": "614.30 M", "GemsSc": "1.13e80", "GemsSh": "113.12 Qivg"},
-			"23": {"RP": "276", "CoinSc": "7.18e175", "CoinSh": "71.82 Spqig", "FCSc": "8.68e8", "FCSh": "868.18 M", "GemsSc": "1.20e82", "GemsSh": "11.98 Sxvg"},
-			"24": {"RP": "300", "CoinSc": "1.21e180", "CoinSh": "1.21 Noqig", "FCSc": "1.20e9", "FCSh": "1.20 B", "GemsSc": "1.56e84", "GemsSh": "1.56 Spvg"},
-			"25": {"RP": "325", "CoinSc": "3.05e184", "CoinSh": "30.54 Sxg", "FCSc": "1.64e9", "FCSh": "1.64 B", "GemsSc": "2.47e86", "GemsSh": "247.13 Spvg"},
-			"26": {"RP": "351", "CoinSc": "1.16e189", "CoinSh": "1.16 Dsxg", "FCSc": "2.22e9", "FCSh": "2.22 B", "GemsSc": "4.81e88", "GemsSh": "48.10 Ocvg"},
-			"27": {"RP": "378", "CoinSc": "6.57e193", "CoinSh": "65.72 Tsxg", "FCSc": "2.97e9", "FCSh": "2.97 B", "GemsSc": "1.15e91", "GemsSh": "11.47 Novg"},
-			"28": {"RP": "406", "CoinSc": "5.60e198", "CoinSh": "5.60 Qisxg", "FCSc": "3.92e9", "FCSh": "3.92 B", "GemsSc": "3.35e93", "GemsSh": "3.35 Tg"},
-			"29": {"RP": "435", "CoinSc": "7.16e203", "CoinSh": "716.06 Sxsxg", "FCSc": "5.15e9", "FCSh": "5.15 B", "GemsSc": "1.20e96", "GemsSh": "1.20 Utg"},
-			"30": {"RP": "465", "CoinSc": "1.37e209", "CoinSh": "137.31 Ocsxg", "FCSc": "6.69e9", "FCSh": "6.69 B", "GemsSc": "5.24e98", "GemsSh": "524.04 Utg"},
-			"31": {"RP": "496", "CoinSc": "3.95e214", "CoinSh": "39.49 Spg", "FCSc": "8.63e9", "FCSh": "8.63 B", "GemsSc": "2.81e101", "GemsSh": "281.05 Dtg"},
-			"32": {"RP": "528", "CoinSc": "1.70e220", "CoinSh": "17.04 Dspg", "FCSc": "1.10e10", "FCSh": "11.03 B", "GemsSc": "1.85e104", "GemsSh": "184.60 Ttg"},
-			"33": {"RP": "561", "CoinSc": "1.10e226", "CoinSh": "11.03 Qaspg", "FCSc": "1.40e10", "FCSh": "14.00 B", "GemsSc": "1.49e107", "GemsSh": "148.51 Qatg"},
-			"34": {"RP": "595", "CoinSc": "1.07e232", "CoinSh": "10.70 Sxspg", "FCSc": "1.76e10", "FCSh": "17.65 B", "GemsSc": "1.46e110", "GemsSh": "146.32 Qitg"},
-			"35": {"RP": "630", "CoinSc": "1.56e238", "CoinSh": "15.59 Ocspg", "FCSc": "2.21e10", "FCSh": "22.11 B", "GemsSc": "1.77e113", "GemsSh": "176.56 Sxtg"},
-			"36": {"RP": "666", "CoinSc": "3.40e244", "CoinSh": "34.04 Ocg", "FCSc": "2.75e10", "FCSh": "27.52 B", "GemsSc": "2.61e116", "GemsSh": "260.94 Sptg"},
-			"37": {"RP": "703", "CoinSc": "1.12e251", "CoinSh": "111.54 Docg", "FCSc": "3.41e10", "FCSh": "34.06 B", "GemsSc": "4.72e119", "GemsSh": "472.31 Octg"},
-			"38": {"RP": "741", "CoinSc": "5.48e257", "CoinSh": "548.14 Qaocg", "FCSc": "4.19e10", "FCSh": "41.92 B", "GemsSc": "1.05e123", "GemsSh": "1.05 Qag"},
-			"39": {"RP": "780", "CoinSc": "4.04e264", "CoinSh": "4.04 Spocg", "FCSc": "5.13e10", "FCSh": "51.33 B", "GemsSc": "2.84e126", "GemsSh": "2.84 Uqag"},
-			"40": {"RP": "820", "CoinSc": "1.23e46", "CoinSh": "12.28 Qad", "FCSc": "6.25e10", "FCSh": "62.53 B", "GemsSc": "1.57e17", "GemsSh": "156.69 Qa"},
-			"41": {"RP": "861", "CoinSc": "3.72e48", "CoinSh": "3.72 Qid", "FCSc": "7.58e10", "FCSh": "75.82 B", "GemsSc": "2.73e18", "GemsSh": "2.73 Qi"},
-			"42": {"RP": "903", "CoinSc": "1.32e51", "CoinSh": "1.32 Sxd", "FCSc": "9.15e10", "FCSh": "91.51 B", "GemsSc": "5.14e19", "GemsSh": "51.42 Qi"},
-			"43": {"RP": "946", "CoinSc": "5.40e53", "CoinSh": "539.84 Sxd", "FCSc": "1.10e11", "FCSh": "109.98 B", "GemsSc": "1.04e21", "GemsSh": "1.04 Sx"},
-			"44": {"RP": "990", "CoinSc": "2.53e56", "CoinSh": "253.39 Spd", "FCSc": "1.32e11", "FCSh": "131.63 B", "GemsSc": "2.25e22", "GemsSh": "22.51 Sx"},
-			"45": {"RP": "1035", "CoinSc": "1.37e59", "CoinSh": "136.74 Ocd", "FCSc": "1.57e11", "FCSh": "156.92 B", "GemsSc": "5.23e23", "GemsSh": "522.96 Sx"},
-			"46": {"RP": "1081", "CoinSc": "8.48e61", "CoinSh": "84.85 Nod", "FCSc": "1.86e11", "FCSh": "186.36 B", "GemsSc": "1.30e25", "GemsSh": "13.03 Sp"},
-			"47": {"RP": "1128", "CoinSc": "6.05e64", "CoinSh": "60.53 Vg", "FCSc": "2.21e11", "FCSh": "220.54 B", "GemsSc": "3.48e26", "GemsSh": "347.94 Sp"},
-			"48": {"RP": "1176", "CoinSc": "4.97e67", "CoinSh": "49.65 Uvg", "FCSc": "2.60e11", "FCSh": "260.06 B", "GemsSc": "9.97e27", "GemsSh": "9.97 Oc"},
-			"49": {"RP": "1225", "CoinSc": "4.68e70", "CoinSh": "46.83 Dvg", "FCSc": "3.06e11", "FCSh": "305.67 B", "GemsSc": "3.06e29", "GemsSh": "306.05 Oc"},
-			"50": {"RP": "1275", "CoinSc": "5.08e73", "CoinSh": "50.79 Tvg", "FCSc": "3.58e11", "FCSh": "358.11 B", "GemsSc": "1.01e31", "GemsSh": "10.08 No"},
-			"51": {"RP": "1326", "CoinSc": "6.33e76", "CoinSh": "63.34 Qavg", "FCSc": "4.18e11", "FCSh": "418.28 B", "GemsSc": "3.56e32", "GemsSh": "355.93 No"},
-			"52": {"RP": "1378", "CoinSc": "9.08e79", "CoinSh": "90.83 Qivg", "FCSc": "4.87e11", "FCSh": "487.10 B", "GemsSc": "1.35e34", "GemsSh": "13.48 Dc"},
-			"53": {"RP": "1431", "CoinSc": "1.50e83", "CoinSh": "149.79 Sxvg", "FCSc": "5.66e11", "FCSh": "565.64 B", "GemsSc": "5.47e35", "GemsSh": "547.33 Dc"},
-			"54": {"RP": "1485", "CoinSc": "2.84e86", "CoinSh": "284.03 Spvg", "FCSc": "6.55e11", "FCSh": "655.04 B", "GemsSc": "2.38e37", "GemsSh": "23.83 Ud"},
-			"55": {"RP": "1540", "CoinSc": "6.19e89", "CoinSh": "619.33 Ocvg", "FCSc": "7.57e11", "FCSh": "756.57 B", "GemsSc": "1.11e39", "GemsSh": "1.11 Dd"},
-			"56": {"RP": "1596", "CoinSc": "1.55e93", "CoinSh": "1.55 Tg", "FCSc": "8.72e11", "FCSh": "871.61 B", "GemsSc": "5.57e40", "GemsSh": "55.73 Dd"},
-			"57": {"RP": "1653", "CoinSc": "4.48e96", "CoinSh": "4.48 Utg", "FCSc": "1.00e12", "FCSh": "1.00 T", "GemsSc": "2.99e42", "GemsSh": "2.99 Td"},
-			"58": {"RP": "1711", "CoinSc": "1.48e100", "CoinSh": "14.85 Dtg", "FCSc": "1.15e12", "FCSh": "1.15 T", "GemsSc": "1.72e44", "GemsSh": "172.32 Td"},
-			"59": {"RP": "1770", "CoinSc": "5.66e103", "CoinSh": "56.62 Ttg", "FCSc": "1.31e12", "FCSh": "1.31 T", "GemsSc": "1.06e46", "GemsSh": "10.64 Qad"},
-			"60": {"RP": "1830", "CoinSc": "2.48e107", "CoinSh": "248.25 Qatg", "FCSc": "1.50e12", "FCSh": "1.50 T", "GemsSc": "7.05e47", "GemsSh": "704.63 Qad"},
-			"61": {"RP": "1891", "CoinSc": "1.25e111", "CoinSh": "1.25 Sxtg", "FCSc": "1.71e12", "FCSh": "1.71 T", "GemsSc": "5.00e49", "GemsSh": "50.04 Qid"},
-			"62": {"RP": "1953", "CoinSc": "7.26e114", "CoinSh": "7.26 Sptg", "FCSc": "1.94e12", "FCSh": "1.94 T", "GemsSc": "3.81e51", "GemsSh": "3.81 Sxd"},
-			"63": {"RP": "2016", "CoinSc": "4.84e118", "CoinSh": "48.41 Octg", "FCSc": "2.20e12", "FCSh": "2.20 T", "GemsSc": "3.11e53", "GemsSh": "311.15 Sxd"},
-			"64": {"RP": "2080", "CoinSc": "3.71e122", "CoinSh": "371.20 Notg", "FCSc": "2.49e12", "FCSh": "2.49 T", "GemsSc": "2.72e55", "GemsSh": "27.25 Spd"},
-			"65": {"RP": "2145", "CoinSc": "3.27e126", "CoinSh": "3.27 Uqag", "FCSc": "2.82e12", "FCSh": "2.82 T", "GemsSc": "2.56e57", "GemsSh": "2.56 Ocd"},
-			"66": {"RP": "2211", "CoinSc": "3.32e130", "CoinSh": "33.20 Dqag", "FCSc": "3.18e12", "FCSh": "3.18 T", "GemsSc": "2.58e59", "GemsSh": "257.67 Ocd"},
-			"67": {"RP": "2278", "CoinSc": "3.87e134", "CoinSh": "387.17 Tqag", "FCSc": "3.57e12", "FCSh": "3.57 T", "GemsSc": "2.78e61", "GemsSh": "27.83 Nod"},
-			"68": {"RP": "2346", "CoinSc": "5.19e138", "CoinSh": "5.19 Qiqag", "FCSc": "4.02e12", "FCSh": "4.02 T", "GemsSc": "3.22e63", "GemsSh": "3.22 Vg"},
-			"69": {"RP": "2415", "CoinSc": "8.01e142", "CoinSh": "80.09 Sxqag", "FCSc": "4.51e12", "FCSh": "4.51 T", "GemsSc": "4.00e65", "GemsSh": "400.21 Vg"},
-			"70": {"RP": "2485", "CoinSc": "1.42e147", "CoinSh": "1.42 Ocqag", "FCSc": "5.05e12", "FCSh": "5.05 T", "GemsSc": "5.33e67", "GemsSh": "53.30 Uvg"},
-			"71": {"RP": "2556", "CoinSc": "2.90e151", "CoinSh": "28.97 Noqag", "FCSc": "5.65e12", "FCSh": "5.65 T", "GemsSc": "7.61e69", "GemsSh": "7.61 Dvg"},
-			"72": {"RP": "2628", "CoinSc": "6.80e155", "CoinSh": "679.60 Qig", "FCSc": "6.31e12", "FCSh": "6.31 T", "GemsSc": "1.17e72", "GemsSh": "1.17 Tvg"},
-			"73": {"RP": "2701", "CoinSc": "1.83e160", "CoinSh": "18.33 Dqig", "FCSc": "7.03e12", "FCSh": "7.03 T", "GemsSc": "1.91e74", "GemsSh": "191.48 Tvg"},
-			"74": {"RP": "2775", "CoinSc": "5.69e164", "CoinSh": "568.68 Tqig", "FCSc": "7.83e12", "FCSh": "7.83 T", "GemsSc": "3.37e76", "GemsSh": "33.72 Qavg"},
-			"75": {"RP": "2850", "CoinSc": "2.03e169", "CoinSh": "20.29 Qiqig", "FCSc": "8.70e12", "FCSh": "8.70 T", "GemsSc": "6.37e78", "GemsSh": "6.37 Qivg"},
-			"76": {"RP": "2926", "CoinSc": "8.32e173", "CoinSh": "832.26 Sxqig", "FCSc": "9.66e12", "FCSh": "9.66 T", "GemsSc": "1.29e81", "GemsSh": "1.29 Sxvg"},
-			"77": {"RP": "3003", "CoinSc": "3.93e178", "CoinSh": "39.26 Ocqig", "FCSc": "1.07e13", "FCSh": "10.71 T", "GemsSc": "2.80e83", "GemsSh": "280.23 Sxvg"},
-			"78": {"RP": "3081", "CoinSc": "2.13e183", "CoinSh": "2.13 Sxg", "FCSc": "1.19e13", "FCSh": "11.86 T", "GemsSc": "6.53e85", "GemsSh": "65.27 Spvg"},
-			"79": {"RP": "3160", "CoinSc": "1.33e188", "CoinSh": "132.92 Usxg", "FCSc": "1.31e13", "FCSh": "13.12 T", "GemsSc": "1.63e88", "GemsSh": "16.30 Ocvg"},
-			"80": {"RP": "3240", "CoinSc": "9.54e192", "CoinSh": "9.54 Tsxg", "FCSc": "1.45e13", "FCSh": "14.49 T", "GemsSc": "4.37e90", "GemsSh": "4.37 Novg"},
-			"81": {"RP": "3321", "CoinSc": "7.87e197", "CoinSh": "786.93 Qasxg", "FCSc": "1.60e13", "FCSh": "15.98 T", "GemsSc": "1.25e93", "GemsSh": "1.25 Tg"},
-			"82": {"RP": "3403", "CoinSc": "7.47e202", "CoinSh": "74.67 Sxsxg", "FCSc": "1.76e13", "FCSh": "17.61 T", "GemsSc": "3.86e95", "GemsSh": "386.45 Tg"},
-			"83": {"RP": "3486", "CoinSc": "8.15e207", "CoinSh": "8.15 Ocsxg", "FCSc": "1.94e13", "FCSh": "19.38 T", "GemsSc": "1.28e98", "GemsSh": "127.66 Utg"},
-			"84": {"RP": "3570", "CoinSc": "1.02e213", "CoinSh": "1.02 Spg", "FCSc": "2.13e13", "FCSh": "21.30 T", "GemsSc": "4.52e100", "GemsSh": "45.22 Dtg"},
-			"85": {"RP": "3655", "CoinSc": "1.48e218", "CoinSh": "147.58 Uspg", "FCSc": "2.34e13", "FCSh": "23.39 T", "GemsSc": "1.72e103", "GemsSh": "17.18 Ttg"},
-			"86": {"RP": "3741", "CoinSc": "2.45e223", "CoinSh": "24.49 Tspg", "FCSc": "2.57e13", "FCSh": "25.66 T", "GemsSc": "7.00e105", "GemsSh": "7.00 Qatg"},
-			"87": {"RP": "3828", "CoinSc": "4.67e228", "CoinSh": "4.67 Qispg", "FCSc": "2.81e13", "FCSh": "28.11 T", "GemsSc": "3.06e108", "GemsSh": "3.06 Qitg"},
-			"88": {"RP": "3916", "CoinSc": "1.03e234", "CoinSh": "1.03 Spspg", "FCSc": "3.08e13", "FCSh": "30.77 T", "GemsSc": "1.43e111", "GemsSh": "1.43 Sxtg"},
-			"89": {"RP": "4005", "CoinSc": "2.59e239", "CoinSh": "258.99 Ocspg", "FCSc": "3.36e13", "FCSh": "33.65 T", "GemsSc": "7.20e113", "GemsSh": "719.71 Sxtg"},
-			"90": {"RP": "4095", "CoinSc": "7.52e244", "CoinSh": "75.18 Ocg", "FCSc": "3.68e13", "FCSh": "36.76 T", "GemsSc": "3.88e116", "GemsSh": "387.76 Sptg"},
-			"91": {"RP": "4186", "CoinSc": "2.51e250", "CoinSh": "25.10 Docg", "FCSc": "4.01e13", "FCSh": "40.11 T", "GemsSc": "2.24e119", "GemsSh": "224.03 Octg"},
-			"92": {"RP": "4278", "CoinSc": "9.63e255", "CoinSh": "9.63 Qaocg", "FCSc": "4.37e13", "FCSh": "43.74 T", "GemsSc": "1.39e122", "GemsSh": "138.81 Notg"},
-			"93": {"RP": "4371", "CoinSc": "4.25e261", "CoinSh": "4.25 Sxocg", "FCSc": "4.76e13", "FCSh": "47.64 T", "GemsSc": "9.22e124", "GemsSh": "92.23 Qag"},
-			"94": {"RP": "4465", "CoinSc": "2.16e267", "CoinSh": "2.16 Ococg", "FCSc": "5.19e13", "FCSh": "51.85 T", "GemsSc": "6.57e127", "GemsSh": "65.71 Uqag"},
-			"95": {"RP": "4560", "CoinSc": "1.26e273", "CoinSh": "1.26 Nog", "FCSc": "5.64e13", "FCSh": "56.38 T", "GemsSc": "5.02e130", "GemsSh": "50.21 Dqag"},
-			"96": {"RP": "4656", "CoinSc": "8.46e278", "CoinSh": "846.41 Unog", "FCSc": "6.13e13", "FCSh": "61.26 T", "GemsSc": "4.11e133", "GemsSh": "41.14 Tqag"},
-			"97": {"RP": "4753", "CoinSc": "6.54e284", "CoinSh": "653.54 Tnog", "FCSc": "6.65e13", "FCSh": "66.49 T", "GemsSc": "3.62e136", "GemsSh": "36.15 Qaqag"},
-			"98": {"RP": "4851", "CoinSc": "5.80e290", "CoinSh": "580.31 Qinog", "FCSc": "7.21e13", "FCSh": "72.12 T", "GemsSc": "3.41e139", "GemsSh": "34.07 Qiqag"},
-			"99": {"RP": "4950", "CoinSc": "5.93e296", "CoinSh": "592.58 Spnog", "FCSc": "7.82e13", "FCSh": "78.16 T", "GemsSc": "3.44e142", "GemsSh": "34.43 Sxqag"},
-			"100": {"RP": "5000", "CoinSc": "N/A", "CoinSh": "", "FCSc": "8.46e13", "FCSh": "84.63 T", "GemsSc": "N/A", "GemsSh": ""},
-			"175": {"RP": "5125", "CoinSc": "1.091e129", "CoinSh": "1.091 Dqag", "FCSc": "1.253e38", "FCSh": "125.3 Ud", "GemsSc": "4.671e58", "GemsSh": "46.71 Ocd"},
-			"176": {"RP": "5250", "CoinSc": "1.191e132", "CoinSh": "1.191 Tqag", "FCSc": "1.594e38", "FCSh": "159.4 Ud", "GemsSc": "1.543e60", "GemsSh": "1.543 Nod"},
-			"177": {"RP": "5375", "CoinSc": "1.3e135", "CoinSh": "1.3 Qaqag", "FCSc": "2.016e38", "FCSh": "201.6 Ud", "GemsSc": "5.099e61", "GemsSh": "50.99 Nod"},
-			"178": {"RP": "5500", "CoinSc": "1.419e138", "CoinSh": "1.419 Qiqag", "FCSc": "2.538e38", "FCSh": "253.8 Ud", "GemsSc": "1.685e63", "GemsSh": "1.685 Vg"},
-			"179": {"RP": "5625", "CoinSc": "1.548e141", "CoinSh": "1.548 Sxqag", "FCSc": "3.177e38", "FCSh": "317.7 Ud", "GemsSc": "5.564e64", "GemsSh": "55.64 Vg"},
-			"180": {"RP": "5750", "CoinSc": "1.69e144", "CoinSh": "1.69 Spqag", "FCSc": "3.958e38", "FCSh": "395.8 Ud", "GemsSc": "1.838e66", "GemsSh": "1.838 Uvg"},
-			"181": {"RP": "5875", "CoinSc": "1.844e147", "CoinSh": "1.844 Ocqag", "FCSc": "4.907e38", "FCSh": "490.7 Ud", "GemsSc": "6.073e67", "GemsSh": "60.73 Uvg"},
-			"182": {"RP": "6000", "CoinSc": "2.013e150", "CoinSh": "2.013 Noqag", "FCSc": "6.057e38", "FCSh": "605.7 Ud", "GemsSc": "2.006e69", "GemsSh": "2.006 Dvg"},
-			"183": {"RP": "6125", "CoinSc": "2.197e153", "CoinSh": "2.197 Qig", "FCSc": "7.443e38", "FCSh": "744.3 Ud", "GemsSc": "6.629e70", "GemsSh": "66.29 Dvg"},
-			"184": {"RP": "6250", "CoinSc": "2.397e156", "CoinSh": "2.397 Uqig", "FCSc": "9.11e38", "FCSh": "911 Ud", "GemsSc": "2.19e72", "GemsSh": "2.19 Tvg"},
-			"185": {"RP": "6375", "CoinSc": "2.617e159", "CoinSh": "2.617 Dqig", "FCSc": "1.11e39", "FCSh": "1.11 Dd", "GemsSc": "7.235e73", "GemsSh": "72.35 Tvg"},
-			"186": {"RP": "6500", "CoinSc": "2.856e162", "CoinSh": "2.856 Tqig", "FCSc": "1.348e39", "FCSh": "1.348 Dd", "GemsSc": "2.39e75", "GemsSh": "2.39 Qavg"},
-			"187": {"RP": "6625", "CoinSc": "3.117e165", "CoinSh": "3.117 Qaqig", "FCSc": "1.631e39", "FCSh": "1.631 Dd", "GemsSc": "7.896e76", "GemsSh": "78.96 Qavg"},
-			"188": {"RP": "6750", "CoinSc": "3.401e168", "CoinSh": "3.401 Qiqig", "FCSc": "1.966e39", "FCSh": "1.966 Dd", "GemsSc": "2.608e78", "GemsSh": "2.608 Qivg"},
-			"189": {"RP": "6875", "CoinSc": "3.712e171", "CoinSh": "3.712 Sxqig", "FCSc": "2.362e39", "FCSh": "2.362 Dd", "GemsSc": "8.616e79", "GemsSh": "86.16 Qivg"},
-			"190": {"RP": "7000", "CoinSc": "4.051e174", "CoinSh": "4.051 Spqig", "FCSc": "2.829e39", "FCSh": "2.829 Dd", "GemsSc": "2.846e81", "GemsSh": "2.846 Sxvg"},
-			"220": {"RP": "10750", "CoinSc": "6.281e54", "CoinSh": "6.281 Spd", "FCSc": "3.759e20", "FCSh": "375.9 Qi", "GemsSc": "1.120e14", "GemsSh": "112 T"},
-			"221": {"RP": "10875", "CoinSc": "4.213e56", "CoinSh": "421.3 Spd", "FCSc": "6.348e20", "FCSh": "634.8 Qi", "GemsSc": "9.179e14", "GemsSh": "917.9 T"},
-			"222": {"RP": "11000", "CoinSc": "2.826e58", "CoinSh": "28.26 Ocd", "FCSc": "1.072e21", "FCSh": "1.072 Sx", "GemsSc": "7.518e15", "GemsSh": "7.518 Qa"},
-			"223": {"RP": "11125", "CoinSc": "1.896e60", "CoinSh": "1.896 Nod", "FCSc": "1.811e21", "FCSh": "1.811 Sx", "GemsSc": "6.158e16", "GemsSh": "61.58 Qa"},
-			"224": {"RP": "11250", "CoinSc": "1.272e62", "CoinSh": "127.2 Nod", "FCSc": "3.059e21", "FCSh": "3.059 Sx", "GemsSc": "5.044e17", "GemsSh": "504.4 Qa"},
-			"225": {"RP": "11375", "CoinSc": "8.531e63", "CoinSh": "8.531 Vg", "FCSc": "5.166e21", "FCSh": "5.166 Sx", "GemsSc": "4.131e18", "GemsSh": "4.131 Qi"},
-			"226": {"RP": "11500", "CoinSc": "5.723e65", "CoinSh": "572.3 Vg", "FCSc": "8.725e21", "FCSh": "8.725 Sx", "GemsSc": "3.383e19", "GemsSh": "33.83 Qi"},
-			"227": {"RP": "11625", "CoinSc": "3.839e67", "CoinSh": "38.39 Vg", "FCSc": "1.474e22", "FCSh": "14.74 Sx", "GemsSc": "2.771e20", "GemsSh": "277.1 Qi"},
-			"228": {"RP": "11750", "CoinSc": "2.575e69", "CoinSh": "2.575 Dvg", "FCSc": "2.489e22", "FCSh": "24.89 Sx", "GemsSc": "2.269e21", "GemsSh": "2.269 Sx"},
-			"229": {"RP": "11875", "CoinSc": "1.727e71", "CoinSh": "172.7 Dvg", "FCSc": "4.203e22", "FCSh": "42.03 Sx", "GemsSc": "1.858e22", "GemsSh": "18.58 Sx"},
-			"230": {"RP": "12000", "CoinSc": "1.159e73", "CoinSh": "11.59 Tvg", "FCSc": "7.099e22", "FCSh": "70.99 Sx", "GemsSc": "1.522e23", "GemsSh": "152.2 Sx"},
-			"231": {"RP": "12125", "CoinSc": "7.774e74", "CoinSh": "777.4 Tvg", "FCSc": "1.199e23", "FCSh": "119.9 Sx", "GemsSc": "1.247e24", "GemsSh": "1.247 Sp"},
-			"232": {"RP": "12250", "CoinSc": "5.215e76", "CoinSh": "52.15 Qavg", "FCSc": "2.025e23", "FCSh": "202.5 Sx", "GemsSc": "1.021e25", "GemsSh": "10.21 Sp"},
-			"233": {"RP": "12375", "CoinSc": "3.498e78", "CoinSh": "3.498 Qivg", "FCSc": "3.420e23", "FCSh": "342.0 Sx", "GemsSc": "8.364e25", "GemsSh": "83.64 Sp"},
-			"234": {"RP": "12500", "CoinSc": "2.346e80", "CoinSh": "234.6 Qivg", "FCSc": "5.777e23", "FCSh": "577.7 Sx", "GemsSc": "6.851e26", "GemsSh": "685.1 Sp"},
-			"235": {"RP": "12625", "CoinSc": "1.574e82", "CoinSh": "15.74 Sxvg", "FCSc": "9.757e23", "FCSh": "975.7 Sx", "GemsSc": "5.611e27", "GemsSh": "5.611 Oc"},
-			"236": {"RP": "12750", "CoinSc": "1.056e84", "CoinSh": "1.056 Spvg", "FCSc": "1.648e24", "FCSh": "1.648 Sp", "GemsSc": "4.595e28", "GemsSh": "45.95 Oc"},
-			"237": {"RP": "12875", "CoinSc": "7.083e85", "CoinSh": "70.83 Spvg", "FCSc": "2.783e24", "FCSh": "2.783 Sp", "GemsSc": "3.764e29", "GemsSh": "376.4 Oc"},
-			"238": {"RP": "13000", "CoinSc": "4.751e87", "CoinSh": "4.751 Ocvg", "FCSc": "4.701e24", "FCSh": "4.701 Sp", "GemsSc": "3.083e30", "GemsSh": "3.083 No"},
-			"239": {"RP": "13125", "CoinSc": "3.187e89", "CoinSh": "318.7 Ocvg", "FCSc": "7.939e24", "FCSh": "7.939 Sp", "GemsSc": "2.525e31", "GemsSh": "25.25 No"},
-			"240": {"RP": "13250", "CoinSc": "2.138e91", "CoinSh": "21.38 Novg", "FCSc": "1.341e25", "FCSh": "13.41 Sp", "GemsSc": "2.068e32", "GemsSh": "206.8 No"},
-			"241": {"RP": "13375", "CoinSc": "1.434e93", "CoinSh": "1.434 Tg", "FCSc": "2.265e25", "FCSh": "22.65 Sp", "GemsSc": "1.694e33", "GemsSh": "1.694 Dc"},
-			"242": {"RP": "13500", "CoinSc": "9.621e94", "CoinSh": "96.21 Tg", "FCSc": "3.825e25", "FCSh": "38.25 Sp", "GemsSc": "1.387e34", "GemsSh": "13.87 Dc"},
-			"243": {"RP": "13625", "CoinSc": "6.454e96", "CoinSh": "6.454 Utg", "FCSc": "6.460e25", "FCSh": "64.60 Sp", "GemsSc": "1.136e35", "GemsSh": "113.6 Dc"},
-			"244": {"RP": "13750", "CoinSc": "4.329e98", "CoinSh": "432.9 Utg", "FCSc": "1.091e26", "FCSh": "109.1 Sp", "GemsSc": "9.305e35", "GemsSh": "930.5 Dc"},
-			"245": {"RP": "13875", "CoinSc": "2.904e100", "CoinSh": "29.04 Dtg", "FCSc": "1.843e26", "FCSh": "184.3 Sp", "GemsSc": "7.621e36", "GemsSh": "7.621 Ud"},
-			"246": {"RP": "14000 (Maxed)", "CoinSc": "1.948e102", "CoinSh": "1.948 Ttg", "FCSc": "3.112e26", "FCSh": "311.2 Sp", "GemsSc": "6.242e37", "GemsSh": "62.42 Ud"}
-		};
-		function CalcCost() {
-			var reinc = parseInt($('#reinc').val());
-			// Rather than duplicating 75 lines..
-			if (reinc < 175 && reinc > 100) {
-				reinc = 100;
+	<h6><img src="http://musicfamily.org/realm/Factions/picks/ResearchTopPage.png"></h6>
+	<div id="calrps">
+		<style>
+			th, td {
+				border: 1px solid black;
 			}
-			if (reinc > 190 && reinc < 220) {
-				reinc = 190
+			th {
+				background-color: #b3bcc6;
 			}
-			$('#rp').text(rtorp[reinc].RP);
-			$('#Coins').text(rtorp[reinc].CoinSh + " (" + rtorp[reinc].CoinSc + ")");
-			$('#Gems').text(rtorp[reinc].GemsSh + " (" + rtorp[reinc].GemsSc + ")");
-			$('#FC').text(rtorp[reinc].FCSh + " (" + rtorp[reinc].FCSc + ")");
-		}
-		CalcCost();
-		//$('div#calrps').find('table, th, td').css({"border": "1px solid black", "border-collapse": "collapse", "padding": "1px 3px"});
-		$('#reinc').on('input', CalcCost);
-	</script>
-</div>
-<br/>
-<p><b>For R100-R174: research points are capped at 5000.</b></p>
-<p><b>For R190-219: research points are capped at 7000.</b></p>
-<p><b>For R246+: research points are capped at 14000.</b></p>
-<p>Information about how Research Slots / Budget work can be found at <b><a href = "/realm/Research">Research</a></b>.</p>
-<p><b>All Researches in Text Version</b>: <b><a href="http://musicfamily.org/realm/ResearchList">Research List</a></b>.<p>
-<hr>
-<p><img src="/realm/Factions/picks/ResearchTreeA4.png" usemap="#ResearchTreeA4-map" class="centerimg">
-    <map name="ResearchTreeA4-map">
+		</style>
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<table style="border-collapse: collapse">
+			<tr>
+				<th colspan="5">Maximum Research Points and Cost Per Reincarnation</th>
+			</tr>
+			<tr class="calc">
+				<th style="width:100px">Reincarnation</th>
+				<th style="width:80px">Research Points</th>
+				<th style="width:120px">Cost in Coins</th>
+				<th style="width:120px">Recommended Gems</th>
+				<th>Cost in Faction Coins</th>
+			</tr>
+			<tr class="calc">
+				<td><input id="reinc" type="number" min="16" max="246" style="text-align: center; background-color: #b3bcc6;" value="16"></td>
+				<td id="rp"></td>
+				<td id="Coins"></td>
+				<td id="Gems"></td>
+				<td id="FC"></td>
+			</tr>
+		</table>
+		<script>
+			var rtorp = {
+				"16": {"RP": "136", "CoinSc": "1.60e151", "CoinSh": "15.98 Noqag", "FCSc": "8.94e7", "FCSh": "89.36 M", "GemsSc": "5.65e69", "GemsSh": "5.65 Dvg"},
+				"17": {"RP": "153", "CoinSc": "1.57e154", "CoinSh": "15.65 Qig", "FCSc": "5.31e7", "FCSh": "53.09 M", "GemsSc": "1.77e71", "GemsSh": "176.93 Dvg"},
+				"18": {"RP": "171", "CoinSc": "2.32e157", "CoinSh": "23.18 Uqig", "FCSc": "1.32e8", "FCSh": "132.00 M", "GemsSc": "6.81e72", "GemsSh": "6.81 Tvg"},
+				"19": {"RP": "190", "CoinSc": "5.15e160", "CoinSh": "51.46 Dqig", "FCSc": "2.04e8", "FCSh": "204.21 M", "GemsSc": "3.21e74", "GemsSh": "320.80 Tvg"},
+				"20": {"RP": "210", "CoinSc": "1.71e164", "CoinSh": "171.26 Tqig", "FCSc": "2.96e8", "FCSh": "296.02 M", "GemsSc": "1.85e76", "GemsSh": "18.51 Qavg"},
+				"21": {"RP": "231", "CoinSc": "8.55e167", "CoinSh": "854.74 Qaqig", "FCSc": "4.34e8", "FCSh": "434.49 M", "GemsSc": "1.31e78", "GemsSh": "1.31 Qivg"},
+				"22": {"RP": "253", "CoinSc": "6.40e171", "CoinSh": "6.40 Sxqig", "FCSc": "6.14e8", "FCSh": "614.30 M", "GemsSc": "1.13e80", "GemsSh": "113.12 Qivg"},
+				"23": {"RP": "276", "CoinSc": "7.18e175", "CoinSh": "71.82 Spqig", "FCSc": "8.68e8", "FCSh": "868.18 M", "GemsSc": "1.20e82", "GemsSh": "11.98 Sxvg"},
+				"24": {"RP": "300", "CoinSc": "1.21e180", "CoinSh": "1.21 Noqig", "FCSc": "1.20e9", "FCSh": "1.20 B", "GemsSc": "1.56e84", "GemsSh": "1.56 Spvg"},
+				"25": {"RP": "325", "CoinSc": "3.05e184", "CoinSh": "30.54 Sxg", "FCSc": "1.64e9", "FCSh": "1.64 B", "GemsSc": "2.47e86", "GemsSh": "247.13 Spvg"},
+				"26": {"RP": "351", "CoinSc": "1.16e189", "CoinSh": "1.16 Dsxg", "FCSc": "2.22e9", "FCSh": "2.22 B", "GemsSc": "4.81e88", "GemsSh": "48.10 Ocvg"},
+				"27": {"RP": "378", "CoinSc": "6.57e193", "CoinSh": "65.72 Tsxg", "FCSc": "2.97e9", "FCSh": "2.97 B", "GemsSc": "1.15e91", "GemsSh": "11.47 Novg"},
+				"28": {"RP": "406", "CoinSc": "5.60e198", "CoinSh": "5.60 Qisxg", "FCSc": "3.92e9", "FCSh": "3.92 B", "GemsSc": "3.35e93", "GemsSh": "3.35 Tg"},
+				"29": {"RP": "435", "CoinSc": "7.16e203", "CoinSh": "716.06 Sxsxg", "FCSc": "5.15e9", "FCSh": "5.15 B", "GemsSc": "1.20e96", "GemsSh": "1.20 Utg"},
+				"30": {"RP": "465", "CoinSc": "1.37e209", "CoinSh": "137.31 Ocsxg", "FCSc": "6.69e9", "FCSh": "6.69 B", "GemsSc": "5.24e98", "GemsSh": "524.04 Utg"},
+				"31": {"RP": "496", "CoinSc": "3.95e214", "CoinSh": "39.49 Spg", "FCSc": "8.63e9", "FCSh": "8.63 B", "GemsSc": "2.81e101", "GemsSh": "281.05 Dtg"},
+				"32": {"RP": "528", "CoinSc": "1.70e220", "CoinSh": "17.04 Dspg", "FCSc": "1.10e10", "FCSh": "11.03 B", "GemsSc": "1.85e104", "GemsSh": "184.60 Ttg"},
+				"33": {"RP": "561", "CoinSc": "1.10e226", "CoinSh": "11.03 Qaspg", "FCSc": "1.40e10", "FCSh": "14.00 B", "GemsSc": "1.49e107", "GemsSh": "148.51 Qatg"},
+				"34": {"RP": "595", "CoinSc": "1.07e232", "CoinSh": "10.70 Sxspg", "FCSc": "1.76e10", "FCSh": "17.65 B", "GemsSc": "1.46e110", "GemsSh": "146.32 Qitg"},
+				"35": {"RP": "630", "CoinSc": "1.56e238", "CoinSh": "15.59 Ocspg", "FCSc": "2.21e10", "FCSh": "22.11 B", "GemsSc": "1.77e113", "GemsSh": "176.56 Sxtg"},
+				"36": {"RP": "666", "CoinSc": "3.40e244", "CoinSh": "34.04 Ocg", "FCSc": "2.75e10", "FCSh": "27.52 B", "GemsSc": "2.61e116", "GemsSh": "260.94 Sptg"},
+				"37": {"RP": "703", "CoinSc": "1.12e251", "CoinSh": "111.54 Docg", "FCSc": "3.41e10", "FCSh": "34.06 B", "GemsSc": "4.72e119", "GemsSh": "472.31 Octg"},
+				"38": {"RP": "741", "CoinSc": "5.48e257", "CoinSh": "548.14 Qaocg", "FCSc": "4.19e10", "FCSh": "41.92 B", "GemsSc": "1.05e123", "GemsSh": "1.05 Qag"},
+				"39": {"RP": "780", "CoinSc": "4.04e264", "CoinSh": "4.04 Spocg", "FCSc": "5.13e10", "FCSh": "51.33 B", "GemsSc": "2.84e126", "GemsSh": "2.84 Uqag"},
+				"40": {"RP": "820", "CoinSc": "1.23e46", "CoinSh": "12.28 Qad", "FCSc": "6.25e10", "FCSh": "62.53 B", "GemsSc": "1.57e17", "GemsSh": "156.69 Qa"},
+				"41": {"RP": "861", "CoinSc": "3.72e48", "CoinSh": "3.72 Qid", "FCSc": "7.58e10", "FCSh": "75.82 B", "GemsSc": "2.73e18", "GemsSh": "2.73 Qi"},
+				"42": {"RP": "903", "CoinSc": "1.32e51", "CoinSh": "1.32 Sxd", "FCSc": "9.15e10", "FCSh": "91.51 B", "GemsSc": "5.14e19", "GemsSh": "51.42 Qi"},
+				"43": {"RP": "946", "CoinSc": "5.40e53", "CoinSh": "539.84 Sxd", "FCSc": "1.10e11", "FCSh": "109.98 B", "GemsSc": "1.04e21", "GemsSh": "1.04 Sx"},
+				"44": {"RP": "990", "CoinSc": "2.53e56", "CoinSh": "253.39 Spd", "FCSc": "1.32e11", "FCSh": "131.63 B", "GemsSc": "2.25e22", "GemsSh": "22.51 Sx"},
+				"45": {"RP": "1035", "CoinSc": "1.37e59", "CoinSh": "136.74 Ocd", "FCSc": "1.57e11", "FCSh": "156.92 B", "GemsSc": "5.23e23", "GemsSh": "522.96 Sx"},
+				"46": {"RP": "1081", "CoinSc": "8.48e61", "CoinSh": "84.85 Nod", "FCSc": "1.86e11", "FCSh": "186.36 B", "GemsSc": "1.30e25", "GemsSh": "13.03 Sp"},
+				"47": {"RP": "1128", "CoinSc": "6.05e64", "CoinSh": "60.53 Vg", "FCSc": "2.21e11", "FCSh": "220.54 B", "GemsSc": "3.48e26", "GemsSh": "347.94 Sp"},
+				"48": {"RP": "1176", "CoinSc": "4.97e67", "CoinSh": "49.65 Uvg", "FCSc": "2.60e11", "FCSh": "260.06 B", "GemsSc": "9.97e27", "GemsSh": "9.97 Oc"},
+				"49": {"RP": "1225", "CoinSc": "4.68e70", "CoinSh": "46.83 Dvg", "FCSc": "3.06e11", "FCSh": "305.67 B", "GemsSc": "3.06e29", "GemsSh": "306.05 Oc"},
+				"50": {"RP": "1275", "CoinSc": "5.08e73", "CoinSh": "50.79 Tvg", "FCSc": "3.58e11", "FCSh": "358.11 B", "GemsSc": "1.01e31", "GemsSh": "10.08 No"},
+				"51": {"RP": "1326", "CoinSc": "6.33e76", "CoinSh": "63.34 Qavg", "FCSc": "4.18e11", "FCSh": "418.28 B", "GemsSc": "3.56e32", "GemsSh": "355.93 No"},
+				"52": {"RP": "1378", "CoinSc": "9.08e79", "CoinSh": "90.83 Qivg", "FCSc": "4.87e11", "FCSh": "487.10 B", "GemsSc": "1.35e34", "GemsSh": "13.48 Dc"},
+				"53": {"RP": "1431", "CoinSc": "1.50e83", "CoinSh": "149.79 Sxvg", "FCSc": "5.66e11", "FCSh": "565.64 B", "GemsSc": "5.47e35", "GemsSh": "547.33 Dc"},
+				"54": {"RP": "1485", "CoinSc": "2.84e86", "CoinSh": "284.03 Spvg", "FCSc": "6.55e11", "FCSh": "655.04 B", "GemsSc": "2.38e37", "GemsSh": "23.83 Ud"},
+				"55": {"RP": "1540", "CoinSc": "6.19e89", "CoinSh": "619.33 Ocvg", "FCSc": "7.57e11", "FCSh": "756.57 B", "GemsSc": "1.11e39", "GemsSh": "1.11 Dd"},
+				"56": {"RP": "1596", "CoinSc": "1.55e93", "CoinSh": "1.55 Tg", "FCSc": "8.72e11", "FCSh": "871.61 B", "GemsSc": "5.57e40", "GemsSh": "55.73 Dd"},
+				"57": {"RP": "1653", "CoinSc": "4.48e96", "CoinSh": "4.48 Utg", "FCSc": "1.00e12", "FCSh": "1.00 T", "GemsSc": "2.99e42", "GemsSh": "2.99 Td"},
+				"58": {"RP": "1711", "CoinSc": "1.48e100", "CoinSh": "14.85 Dtg", "FCSc": "1.15e12", "FCSh": "1.15 T", "GemsSc": "1.72e44", "GemsSh": "172.32 Td"},
+				"59": {"RP": "1770", "CoinSc": "5.66e103", "CoinSh": "56.62 Ttg", "FCSc": "1.31e12", "FCSh": "1.31 T", "GemsSc": "1.06e46", "GemsSh": "10.64 Qad"},
+				"60": {"RP": "1830", "CoinSc": "2.48e107", "CoinSh": "248.25 Qatg", "FCSc": "1.50e12", "FCSh": "1.50 T", "GemsSc": "7.05e47", "GemsSh": "704.63 Qad"},
+				"61": {"RP": "1891", "CoinSc": "1.25e111", "CoinSh": "1.25 Sxtg", "FCSc": "1.71e12", "FCSh": "1.71 T", "GemsSc": "5.00e49", "GemsSh": "50.04 Qid"},
+				"62": {"RP": "1953", "CoinSc": "7.26e114", "CoinSh": "7.26 Sptg", "FCSc": "1.94e12", "FCSh": "1.94 T", "GemsSc": "3.81e51", "GemsSh": "3.81 Sxd"},
+				"63": {"RP": "2016", "CoinSc": "4.84e118", "CoinSh": "48.41 Octg", "FCSc": "2.20e12", "FCSh": "2.20 T", "GemsSc": "3.11e53", "GemsSh": "311.15 Sxd"},
+				"64": {"RP": "2080", "CoinSc": "3.71e122", "CoinSh": "371.20 Notg", "FCSc": "2.49e12", "FCSh": "2.49 T", "GemsSc": "2.72e55", "GemsSh": "27.25 Spd"},
+				"65": {"RP": "2145", "CoinSc": "3.27e126", "CoinSh": "3.27 Uqag", "FCSc": "2.82e12", "FCSh": "2.82 T", "GemsSc": "2.56e57", "GemsSh": "2.56 Ocd"},
+				"66": {"RP": "2211", "CoinSc": "3.32e130", "CoinSh": "33.20 Dqag", "FCSc": "3.18e12", "FCSh": "3.18 T", "GemsSc": "2.58e59", "GemsSh": "257.67 Ocd"},
+				"67": {"RP": "2278", "CoinSc": "3.87e134", "CoinSh": "387.17 Tqag", "FCSc": "3.57e12", "FCSh": "3.57 T", "GemsSc": "2.78e61", "GemsSh": "27.83 Nod"},
+				"68": {"RP": "2346", "CoinSc": "5.19e138", "CoinSh": "5.19 Qiqag", "FCSc": "4.02e12", "FCSh": "4.02 T", "GemsSc": "3.22e63", "GemsSh": "3.22 Vg"},
+				"69": {"RP": "2415", "CoinSc": "8.01e142", "CoinSh": "80.09 Sxqag", "FCSc": "4.51e12", "FCSh": "4.51 T", "GemsSc": "4.00e65", "GemsSh": "400.21 Vg"},
+				"70": {"RP": "2485", "CoinSc": "1.42e147", "CoinSh": "1.42 Ocqag", "FCSc": "5.05e12", "FCSh": "5.05 T", "GemsSc": "5.33e67", "GemsSh": "53.30 Uvg"},
+				"71": {"RP": "2556", "CoinSc": "2.90e151", "CoinSh": "28.97 Noqag", "FCSc": "5.65e12", "FCSh": "5.65 T", "GemsSc": "7.61e69", "GemsSh": "7.61 Dvg"},
+				"72": {"RP": "2628", "CoinSc": "6.80e155", "CoinSh": "679.60 Qig", "FCSc": "6.31e12", "FCSh": "6.31 T", "GemsSc": "1.17e72", "GemsSh": "1.17 Tvg"},
+				"73": {"RP": "2701", "CoinSc": "1.83e160", "CoinSh": "18.33 Dqig", "FCSc": "7.03e12", "FCSh": "7.03 T", "GemsSc": "1.91e74", "GemsSh": "191.48 Tvg"},
+				"74": {"RP": "2775", "CoinSc": "5.69e164", "CoinSh": "568.68 Tqig", "FCSc": "7.83e12", "FCSh": "7.83 T", "GemsSc": "3.37e76", "GemsSh": "33.72 Qavg"},
+				"75": {"RP": "2850", "CoinSc": "2.03e169", "CoinSh": "20.29 Qiqig", "FCSc": "8.70e12", "FCSh": "8.70 T", "GemsSc": "6.37e78", "GemsSh": "6.37 Qivg"},
+				"76": {"RP": "2926", "CoinSc": "8.32e173", "CoinSh": "832.26 Sxqig", "FCSc": "9.66e12", "FCSh": "9.66 T", "GemsSc": "1.29e81", "GemsSh": "1.29 Sxvg"},
+				"77": {"RP": "3003", "CoinSc": "3.93e178", "CoinSh": "39.26 Ocqig", "FCSc": "1.07e13", "FCSh": "10.71 T", "GemsSc": "2.80e83", "GemsSh": "280.23 Sxvg"},
+				"78": {"RP": "3081", "CoinSc": "2.13e183", "CoinSh": "2.13 Sxg", "FCSc": "1.19e13", "FCSh": "11.86 T", "GemsSc": "6.53e85", "GemsSh": "65.27 Spvg"},
+				"79": {"RP": "3160", "CoinSc": "1.33e188", "CoinSh": "132.92 Usxg", "FCSc": "1.31e13", "FCSh": "13.12 T", "GemsSc": "1.63e88", "GemsSh": "16.30 Ocvg"},
+				"80": {"RP": "3240", "CoinSc": "9.54e192", "CoinSh": "9.54 Tsxg", "FCSc": "1.45e13", "FCSh": "14.49 T", "GemsSc": "4.37e90", "GemsSh": "4.37 Novg"},
+				"81": {"RP": "3321", "CoinSc": "7.87e197", "CoinSh": "786.93 Qasxg", "FCSc": "1.60e13", "FCSh": "15.98 T", "GemsSc": "1.25e93", "GemsSh": "1.25 Tg"},
+				"82": {"RP": "3403", "CoinSc": "7.47e202", "CoinSh": "74.67 Sxsxg", "FCSc": "1.76e13", "FCSh": "17.61 T", "GemsSc": "3.86e95", "GemsSh": "386.45 Tg"},
+				"83": {"RP": "3486", "CoinSc": "8.15e207", "CoinSh": "8.15 Ocsxg", "FCSc": "1.94e13", "FCSh": "19.38 T", "GemsSc": "1.28e98", "GemsSh": "127.66 Utg"},
+				"84": {"RP": "3570", "CoinSc": "1.02e213", "CoinSh": "1.02 Spg", "FCSc": "2.13e13", "FCSh": "21.30 T", "GemsSc": "4.52e100", "GemsSh": "45.22 Dtg"},
+				"85": {"RP": "3655", "CoinSc": "1.48e218", "CoinSh": "147.58 Uspg", "FCSc": "2.34e13", "FCSh": "23.39 T", "GemsSc": "1.72e103", "GemsSh": "17.18 Ttg"},
+				"86": {"RP": "3741", "CoinSc": "2.45e223", "CoinSh": "24.49 Tspg", "FCSc": "2.57e13", "FCSh": "25.66 T", "GemsSc": "7.00e105", "GemsSh": "7.00 Qatg"},
+				"87": {"RP": "3828", "CoinSc": "4.67e228", "CoinSh": "4.67 Qispg", "FCSc": "2.81e13", "FCSh": "28.11 T", "GemsSc": "3.06e108", "GemsSh": "3.06 Qitg"},
+				"88": {"RP": "3916", "CoinSc": "1.03e234", "CoinSh": "1.03 Spspg", "FCSc": "3.08e13", "FCSh": "30.77 T", "GemsSc": "1.43e111", "GemsSh": "1.43 Sxtg"},
+				"89": {"RP": "4005", "CoinSc": "2.59e239", "CoinSh": "258.99 Ocspg", "FCSc": "3.36e13", "FCSh": "33.65 T", "GemsSc": "7.20e113", "GemsSh": "719.71 Sxtg"},
+				"90": {"RP": "4095", "CoinSc": "7.52e244", "CoinSh": "75.18 Ocg", "FCSc": "3.68e13", "FCSh": "36.76 T", "GemsSc": "3.88e116", "GemsSh": "387.76 Sptg"},
+				"91": {"RP": "4186", "CoinSc": "2.51e250", "CoinSh": "25.10 Docg", "FCSc": "4.01e13", "FCSh": "40.11 T", "GemsSc": "2.24e119", "GemsSh": "224.03 Octg"},
+				"92": {"RP": "4278", "CoinSc": "9.63e255", "CoinSh": "9.63 Qaocg", "FCSc": "4.37e13", "FCSh": "43.74 T", "GemsSc": "1.39e122", "GemsSh": "138.81 Notg"},
+				"93": {"RP": "4371", "CoinSc": "4.25e261", "CoinSh": "4.25 Sxocg", "FCSc": "4.76e13", "FCSh": "47.64 T", "GemsSc": "9.22e124", "GemsSh": "92.23 Qag"},
+				"94": {"RP": "4465", "CoinSc": "2.16e267", "CoinSh": "2.16 Ococg", "FCSc": "5.19e13", "FCSh": "51.85 T", "GemsSc": "6.57e127", "GemsSh": "65.71 Uqag"},
+				"95": {"RP": "4560", "CoinSc": "1.26e273", "CoinSh": "1.26 Nog", "FCSc": "5.64e13", "FCSh": "56.38 T", "GemsSc": "5.02e130", "GemsSh": "50.21 Dqag"},
+				"96": {"RP": "4656", "CoinSc": "8.46e278", "CoinSh": "846.41 Unog", "FCSc": "6.13e13", "FCSh": "61.26 T", "GemsSc": "4.11e133", "GemsSh": "41.14 Tqag"},
+				"97": {"RP": "4753", "CoinSc": "6.54e284", "CoinSh": "653.54 Tnog", "FCSc": "6.65e13", "FCSh": "66.49 T", "GemsSc": "3.62e136", "GemsSh": "36.15 Qaqag"},
+				"98": {"RP": "4851", "CoinSc": "5.80e290", "CoinSh": "580.31 Qinog", "FCSc": "7.21e13", "FCSh": "72.12 T", "GemsSc": "3.41e139", "GemsSh": "34.07 Qiqag"},
+				"99": {"RP": "4950", "CoinSc": "5.93e296", "CoinSh": "592.58 Spnog", "FCSc": "7.82e13", "FCSh": "78.16 T", "GemsSc": "3.44e142", "GemsSh": "34.43 Sxqag"},
+				"100": {"RP": "5000", "CoinSc": "N/A", "CoinSh": "", "FCSc": "8.46e13", "FCSh": "84.63 T", "GemsSc": "N/A", "GemsSh": ""},
+				"175": {"RP": "5125", "CoinSc": "1.091e129", "CoinSh": "1.091 Dqag", "FCSc": "1.253e38", "FCSh": "125.3 Ud", "GemsSc": "4.671e58", "GemsSh": "46.71 Ocd"},
+				"176": {"RP": "5250", "CoinSc": "1.191e132", "CoinSh": "1.191 Tqag", "FCSc": "1.594e38", "FCSh": "159.4 Ud", "GemsSc": "1.543e60", "GemsSh": "1.543 Nod"},
+				"177": {"RP": "5375", "CoinSc": "1.3e135", "CoinSh": "1.3 Qaqag", "FCSc": "2.016e38", "FCSh": "201.6 Ud", "GemsSc": "5.099e61", "GemsSh": "50.99 Nod"},
+				"178": {"RP": "5500", "CoinSc": "1.419e138", "CoinSh": "1.419 Qiqag", "FCSc": "2.538e38", "FCSh": "253.8 Ud", "GemsSc": "1.685e63", "GemsSh": "1.685 Vg"},
+				"179": {"RP": "5625", "CoinSc": "1.548e141", "CoinSh": "1.548 Sxqag", "FCSc": "3.177e38", "FCSh": "317.7 Ud", "GemsSc": "5.564e64", "GemsSh": "55.64 Vg"},
+				"180": {"RP": "5750", "CoinSc": "1.69e144", "CoinSh": "1.69 Spqag", "FCSc": "3.958e38", "FCSh": "395.8 Ud", "GemsSc": "1.838e66", "GemsSh": "1.838 Uvg"},
+				"181": {"RP": "5875", "CoinSc": "1.844e147", "CoinSh": "1.844 Ocqag", "FCSc": "4.907e38", "FCSh": "490.7 Ud", "GemsSc": "6.073e67", "GemsSh": "60.73 Uvg"},
+				"182": {"RP": "6000", "CoinSc": "2.013e150", "CoinSh": "2.013 Noqag", "FCSc": "6.057e38", "FCSh": "605.7 Ud", "GemsSc": "2.006e69", "GemsSh": "2.006 Dvg"},
+				"183": {"RP": "6125", "CoinSc": "2.197e153", "CoinSh": "2.197 Qig", "FCSc": "7.443e38", "FCSh": "744.3 Ud", "GemsSc": "6.629e70", "GemsSh": "66.29 Dvg"},
+				"184": {"RP": "6250", "CoinSc": "2.397e156", "CoinSh": "2.397 Uqig", "FCSc": "9.11e38", "FCSh": "911 Ud", "GemsSc": "2.19e72", "GemsSh": "2.19 Tvg"},
+				"185": {"RP": "6375", "CoinSc": "2.617e159", "CoinSh": "2.617 Dqig", "FCSc": "1.11e39", "FCSh": "1.11 Dd", "GemsSc": "7.235e73", "GemsSh": "72.35 Tvg"},
+				"186": {"RP": "6500", "CoinSc": "2.856e162", "CoinSh": "2.856 Tqig", "FCSc": "1.348e39", "FCSh": "1.348 Dd", "GemsSc": "2.39e75", "GemsSh": "2.39 Qavg"},
+				"187": {"RP": "6625", "CoinSc": "3.117e165", "CoinSh": "3.117 Qaqig", "FCSc": "1.631e39", "FCSh": "1.631 Dd", "GemsSc": "7.896e76", "GemsSh": "78.96 Qavg"},
+				"188": {"RP": "6750", "CoinSc": "3.401e168", "CoinSh": "3.401 Qiqig", "FCSc": "1.966e39", "FCSh": "1.966 Dd", "GemsSc": "2.608e78", "GemsSh": "2.608 Qivg"},
+				"189": {"RP": "6875", "CoinSc": "3.712e171", "CoinSh": "3.712 Sxqig", "FCSc": "2.362e39", "FCSh": "2.362 Dd", "GemsSc": "8.616e79", "GemsSh": "86.16 Qivg"},
+				"190": {"RP": "7000", "CoinSc": "4.051e174", "CoinSh": "4.051 Spqig", "FCSc": "2.829e39", "FCSh": "2.829 Dd", "GemsSc": "2.846e81", "GemsSh": "2.846 Sxvg"},
+				"220": {"RP": "10750", "CoinSc": "6.281e54", "CoinSh": "6.281 Spd", "FCSc": "3.759e20", "FCSh": "375.9 Qi", "GemsSc": "1.120e14", "GemsSh": "112 T"},
+				"221": {"RP": "10875", "CoinSc": "4.213e56", "CoinSh": "421.3 Spd", "FCSc": "6.348e20", "FCSh": "634.8 Qi", "GemsSc": "9.179e14", "GemsSh": "917.9 T"},
+				"222": {"RP": "11000", "CoinSc": "2.826e58", "CoinSh": "28.26 Ocd", "FCSc": "1.072e21", "FCSh": "1.072 Sx", "GemsSc": "7.518e15", "GemsSh": "7.518 Qa"},
+				"223": {"RP": "11125", "CoinSc": "1.896e60", "CoinSh": "1.896 Nod", "FCSc": "1.811e21", "FCSh": "1.811 Sx", "GemsSc": "6.158e16", "GemsSh": "61.58 Qa"},
+				"224": {"RP": "11250", "CoinSc": "1.272e62", "CoinSh": "127.2 Nod", "FCSc": "3.059e21", "FCSh": "3.059 Sx", "GemsSc": "5.044e17", "GemsSh": "504.4 Qa"},
+				"225": {"RP": "11375", "CoinSc": "8.531e63", "CoinSh": "8.531 Vg", "FCSc": "5.166e21", "FCSh": "5.166 Sx", "GemsSc": "4.131e18", "GemsSh": "4.131 Qi"},
+				"226": {"RP": "11500", "CoinSc": "5.723e65", "CoinSh": "572.3 Vg", "FCSc": "8.725e21", "FCSh": "8.725 Sx", "GemsSc": "3.383e19", "GemsSh": "33.83 Qi"},
+				"227": {"RP": "11625", "CoinSc": "3.839e67", "CoinSh": "38.39 Vg", "FCSc": "1.474e22", "FCSh": "14.74 Sx", "GemsSc": "2.771e20", "GemsSh": "277.1 Qi"},
+				"228": {"RP": "11750", "CoinSc": "2.575e69", "CoinSh": "2.575 Dvg", "FCSc": "2.489e22", "FCSh": "24.89 Sx", "GemsSc": "2.269e21", "GemsSh": "2.269 Sx"},
+				"229": {"RP": "11875", "CoinSc": "1.727e71", "CoinSh": "172.7 Dvg", "FCSc": "4.203e22", "FCSh": "42.03 Sx", "GemsSc": "1.858e22", "GemsSh": "18.58 Sx"},
+				"230": {"RP": "12000", "CoinSc": "1.159e73", "CoinSh": "11.59 Tvg", "FCSc": "7.099e22", "FCSh": "70.99 Sx", "GemsSc": "1.522e23", "GemsSh": "152.2 Sx"},
+				"231": {"RP": "12125", "CoinSc": "7.774e74", "CoinSh": "777.4 Tvg", "FCSc": "1.199e23", "FCSh": "119.9 Sx", "GemsSc": "1.247e24", "GemsSh": "1.247 Sp"},
+				"232": {"RP": "12250", "CoinSc": "5.215e76", "CoinSh": "52.15 Qavg", "FCSc": "2.025e23", "FCSh": "202.5 Sx", "GemsSc": "1.021e25", "GemsSh": "10.21 Sp"},
+				"233": {"RP": "12375", "CoinSc": "3.498e78", "CoinSh": "3.498 Qivg", "FCSc": "3.420e23", "FCSh": "342.0 Sx", "GemsSc": "8.364e25", "GemsSh": "83.64 Sp"},
+				"234": {"RP": "12500", "CoinSc": "2.346e80", "CoinSh": "234.6 Qivg", "FCSc": "5.777e23", "FCSh": "577.7 Sx", "GemsSc": "6.851e26", "GemsSh": "685.1 Sp"},
+				"235": {"RP": "12625", "CoinSc": "1.574e82", "CoinSh": "15.74 Sxvg", "FCSc": "9.757e23", "FCSh": "975.7 Sx", "GemsSc": "5.611e27", "GemsSh": "5.611 Oc"},
+				"236": {"RP": "12750", "CoinSc": "1.056e84", "CoinSh": "1.056 Spvg", "FCSc": "1.648e24", "FCSh": "1.648 Sp", "GemsSc": "4.595e28", "GemsSh": "45.95 Oc"},
+				"237": {"RP": "12875", "CoinSc": "7.083e85", "CoinSh": "70.83 Spvg", "FCSc": "2.783e24", "FCSh": "2.783 Sp", "GemsSc": "3.764e29", "GemsSh": "376.4 Oc"},
+				"238": {"RP": "13000", "CoinSc": "4.751e87", "CoinSh": "4.751 Ocvg", "FCSc": "4.701e24", "FCSh": "4.701 Sp", "GemsSc": "3.083e30", "GemsSh": "3.083 No"},
+				"239": {"RP": "13125", "CoinSc": "3.187e89", "CoinSh": "318.7 Ocvg", "FCSc": "7.939e24", "FCSh": "7.939 Sp", "GemsSc": "2.525e31", "GemsSh": "25.25 No"},
+				"240": {"RP": "13250", "CoinSc": "2.138e91", "CoinSh": "21.38 Novg", "FCSc": "1.341e25", "FCSh": "13.41 Sp", "GemsSc": "2.068e32", "GemsSh": "206.8 No"},
+				"241": {"RP": "13375", "CoinSc": "1.434e93", "CoinSh": "1.434 Tg", "FCSc": "2.265e25", "FCSh": "22.65 Sp", "GemsSc": "1.694e33", "GemsSh": "1.694 Dc"},
+				"242": {"RP": "13500", "CoinSc": "9.621e94", "CoinSh": "96.21 Tg", "FCSc": "3.825e25", "FCSh": "38.25 Sp", "GemsSc": "1.387e34", "GemsSh": "13.87 Dc"},
+				"243": {"RP": "13625", "CoinSc": "6.454e96", "CoinSh": "6.454 Utg", "FCSc": "6.460e25", "FCSh": "64.60 Sp", "GemsSc": "1.136e35", "GemsSh": "113.6 Dc"},
+				"244": {"RP": "13750", "CoinSc": "4.329e98", "CoinSh": "432.9 Utg", "FCSc": "1.091e26", "FCSh": "109.1 Sp", "GemsSc": "9.305e35", "GemsSh": "930.5 Dc"},
+				"245": {"RP": "13875", "CoinSc": "2.904e100", "CoinSh": "29.04 Dtg", "FCSc": "1.843e26", "FCSh": "184.3 Sp", "GemsSc": "7.621e36", "GemsSh": "7.621 Ud"},
+				"246": {"RP": "14000 (Maxed)", "CoinSc": "1.948e102", "CoinSh": "1.948 Ttg", "FCSc": "3.112e26", "FCSh": "311.2 Sp", "GemsSc": "6.242e37", "GemsSh": "62.42 Ud"}
+			};
+			function CalcCost() {
+				var reinc = parseInt($('#reinc').val());
+				// Rather than duplicating 75 lines..
+				if (reinc < 175 && reinc > 100) {
+					reinc = 100;
+				}
+				if (reinc > 190 && reinc < 220) {
+					reinc = 190
+				}
+				$('#rp').text(rtorp[reinc].RP);
+				$('#Coins').text(rtorp[reinc].CoinSh + " (" + rtorp[reinc].CoinSc + ")");
+				$('#Gems').text(rtorp[reinc].GemsSh + " (" + rtorp[reinc].GemsSc + ")");
+				$('#FC').text(rtorp[reinc].FCSh + " (" + rtorp[reinc].FCSc + ")");
+			}
+			CalcCost();
+			//$('div#calrps').find('table, th, td').css({"border": "1px solid black", "border-collapse": "collapse", "padding": "1px 3px"});
+			$('#reinc').on('input', CalcCost);
+		</script>
+	</div>
+	<br/>
+	<p><b>For R100-R174: research points are capped at 5000.</b></p>
+	<p><b>For R190-219: research points are capped at 7000.</b></p>
+	<p><b>For R246+: research points are capped at 14000.</b></p>
+	<p>Information about how Research Slots / Budget work can be found at <b><a href = "/realm/Research">Research</a></b>.</p>
+	<p><b>All Researches in Text Version</b>: <b><a href="http://musicfamily.org/realm/ResearchList">Research List</a></b>.<p>
+	<hr>
+	<p><img src="/realm/Factions/picks/ResearchTreeA4.png" usemap="#ResearchTreeA4-map" class="centerimg">
+<map name="ResearchTreeA4-map">
 		<area research="<p><center>Spellcraft Research Facility</center></p>
 	<p>Delve into the arcane mysteries of Spellcraft, discovering new ways to produce and use mana.</p>
 	<p>Increases: Fairy, Faceless, and Drow production.</p>
@@ -1638,7 +1638,6 @@
 	<p><b>Cost</b>: 144.9 Tvg (1.449e74)</p>
 	<p><b>Effect</b>: Increase mana regeneration based on the amount of excavations made.</p>
 	<p><b>Formula</b>: floor(0.02 * x), where x is current excavations.</p>
-	<p><b>Tip</b>: E290 and end of R54.</p>
 	" coords="2,968,42,1008" shape="rect">
 		<area research="<p><b>A1500</b> - For Druid,Dragon</p>
 	<p><b>Research Name</b>: Sublimation</p>
@@ -2116,5 +2115,5 @@
 	" coords="338,170,377,209" shape="rect">
 		<area research="Locked Upgrade (! exclamation mark): You can unlock this upgrade with the Faction you are playing. The Icon tool-tip will show your unlock progress %.
 	" coords="380,170,419,209" shape="rect">
-    </map>
-    <?php include "../scripts/footer.html"; ?>
+</map>
+<?php include "../scripts/footer.html"; ?>

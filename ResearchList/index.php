@@ -1438,7 +1438,6 @@
 				<p><b>Cost</b>: 144.9 Tvg (1.449e74)</p>
 				<p><b>Effect</b>: Increase mana regeneration based on the amount of excavations made.</p>
 				<p><b>Formula</b>: floor(0.02 * x), where x is current excavations.</p>
-				<p><b>Tip</b>: E290 and end of R54.</p>
 				<hr>
 				<p><b>A1500</b> - For Druid,Dragon</p>
 				<p><b>Research Name</b>: Sublimation</p>

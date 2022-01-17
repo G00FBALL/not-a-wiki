@@ -1,10 +1,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <?php include "../scripts/header.html"; ?>
-<h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
-<div class="shlisting">
+	<h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
 	<p><b>Optimal Tiering for R75-R99:</b></p>
 	<p>R85: Blood Frenzy, Night Time, Grand Balance and God's Hand to Tier 6: 16 hours and 59 minutes (assuming optimal tiering)</p>
 	<p>R99: Combo Strike, Goblin's Greed and Moon Blessing to Tier 6: 9 hours and 28 minutes</p>
@@ -152,7 +151,7 @@
 	<br/>
 	<div class="category">
 	<p><b>Mercenary Research and Unique Building Unlock</b></p>
-        <H6 id="KYEP2"></h6>
+		<H6 id="KYEP2"></h6>
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Need for Greed (Merc Unique Building) (R75)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
 			<div class="autohide">
@@ -414,7 +413,6 @@
 				<p>W205,W400,W525,W3050,W3150</p>
 				<p><b>Note</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Note</b>: S50 and A410 requires E3300 purchased to become available.</p>
-				<p><b>Note</b>: DG9 requires Dragon's Breath spell (Dragon Perk 2 purchased) to become available.</p>
 				<p><b>Note</b>: Benefits greatly from buffing TTC4, DM2 and FC3.</p>
 			</div>
 		</div>
@@ -630,5 +628,4 @@
 			</div>
 		</div>
 	</div>
-</div>
 <?php include "../scripts/footer.html"; ?>

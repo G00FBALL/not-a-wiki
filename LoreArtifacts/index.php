@@ -551,7 +551,7 @@
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DwarvenAnvilArtifact.png" align="middle"> Dwarven Anvil</b></p>
 	<p><b>Hint</b>: Dwarven clicks!</p>
 	<p><b>Description</b>: Every dwarven child is required to bring this to school every day.</p>
-	<p><b>Requirement</b>: R240+, Dwarven Faction, 10,000+ Excavations</p>
+	<p><b>Requirement</b>: R235+, Dwarven Faction, 10,000+ Excavations</p>
 	<p><b>Chance</b>: (log10(1 + x) / 10,000)%, where x is your number of clicks in this Reincarnation.</p>
 	<hr>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/StilettoHeelArtifact.png" align="middle"> Stiletto Heel</b></p>
