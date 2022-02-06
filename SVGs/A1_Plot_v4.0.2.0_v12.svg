@@ -1,0 +1,3318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="-100 -200 8599.417 4426.6659"
+   id="svg410"
+   sodipodi:docname="A1_Plot_v4.0.2.0_v12.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="A1_Plot_v4.0.2.0_v12.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   width="8599.417"
+   height="4426.666"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata416">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs414">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips_Goblin_Drow"
+       id="pattern5091"
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4449"
+       id="pattern4727"
+       patternTransform="matrix(34.999999,20.000001,-22.5,22.500001,-7.8034393e-5,9.4211556e-6)" />
+    <linearGradient
+       id="linearGradient4723"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#50c2ff;stop-opacity:1;"
+         offset="0"
+         id="stop4721" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4715"
+       gradientTransform="translate(2.1922535e-4)"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#a8a8a8;stop-opacity:1;"
+         offset="0"
+         id="stop4713" />
+    </linearGradient>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4699"
+       id="pattern4709"
+       patternTransform="matrix(34.999997,20.000002,-22.5,22.5,-4.4e-4,-1.8291237e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4699"
+       id="pattern4703"
+       patternTransform="matrix(34.999997,20.000002,-22.5,22.5,-4.4e-4,-2.027642e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4501"
+       id="pattern4699"
+       patternTransform="matrix(34.999997,20.000002,-22.5,22.5,-4.4e-4,-1.83162e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4453"
+       id="pattern4695"
+       patternTransform="matrix(34.999999,20.000002,-22.5,22.500001,-7.0371102e-5,-1.6757597e-5)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4595"
+       id="pattern4599"
+       patternTransform="matrix(34.999999,19.999999,-22.499999,22.499997,0,6.1580828e-5)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4591"
+       id="pattern4595"
+       patternTransform="matrix(34.999999,19.999999,-22.499999,22.499998,0,6.488218e-5)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4587"
+       id="pattern4591"
+       patternTransform="matrix(34.999999,20,-22.499999,22.499999,0,6.8603523e-5)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4583"
+       id="pattern4587"
+       patternTransform="matrix(34.999999,19.999999,-22.499999,22.499998,0,7.2517972e-5)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4579"
+       id="pattern4583"
+       patternTransform="matrix(34.999999,19.999999,-22.499999,22.499998,0,6.519049e-5)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4575"
+       id="pattern4579"
+       patternTransform="matrix(34.999999,19.999999,-22.499999,22.499998,0,6.874482e-5)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4555"
+       id="pattern4575"
+       patternTransform="matrix(34.999999,19.999999,-22.499999,22.499999,0,1.600296e-5)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4541"
+       id="pattern4571"
+       patternTransform="matrix(34.999998,19.999999,-22.499998,22.5,-2.6680205e-6,-1.899457e-5)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4523"
+       id="pattern4563"
+       patternTransform="matrix(34.999997,20.000002,-22.5,22.499996,-7.9e-4,-1.15e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4519"
+       id="pattern4561"
+       patternTransform="matrix(34.999997,20.000003,-22.5,22.499996,-7.9e-4,-1.1994941e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4515"
+       id="pattern4559"
+       patternTransform="matrix(34.999997,20.000002,-22.5,22.499997,-7.9e-4,-1.5e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4507"
+       id="pattern4557"
+       patternTransform="matrix(34.999997,20.000002,-22.5,22.499998,-6.0018967e-4,-1.8832504e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4541"
+       id="pattern4555"
+       patternTransform="matrix(34.999999,19.999999,-22.499999,22.5,0,-7.0826548e-5)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4541"
+       id="pattern4545"
+       patternTransform="matrix(34.999997,19.999998,-22.499998,22.499999,-2.858556e-5,7.9211236e-5)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips_Titan_Dragon"
+       id="pattern4541"
+       patternTransform="matrix(34.999999,19.999999,-22.499999,22.5,-2.5e-6,-1.899457e-5)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4523"
+       id="pattern4527"
+       patternTransform="matrix(34.999997,20.000001,-22.5,22.499997,-7.9e-4,-1.2092397e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4519"
+       id="pattern4523"
+       patternTransform="matrix(34.999997,20.000002,-22.5,22.499996,-7.9e-4,-1.1768415e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4515"
+       id="pattern4519"
+       patternTransform="matrix(34.999997,20.000003,-22.5,22.499996,-7.9e-4,-1.1500233e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4511"
+       id="pattern4515"
+       patternTransform="matrix(34.999997,20.000002,-22.5,22.499997,-7.9e-4,-1.4660368e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4507"
+       id="pattern4511"
+       patternTransform="matrix(34.999997,20.000002,-22.5,22.499998,-7.9333335e-4,-3.116285e-5)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4493"
+       id="pattern4507"
+       patternTransform="matrix(34.999997,20.000002,-22.5,22.499998,-6e-4,-1.9122413e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips_Faceless_Dragon"
+       id="pattern4503"
+       patternTransform="matrix(35,20,-22.5,22.5,-1.8198241e-6,2.5662703e-6)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4497"
+       id="pattern4501"
+       patternTransform="matrix(34.999997,20.000002,-22.5,22.499999,-4.4e-4,-1.8978272e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4493"
+       id="pattern4497"
+       patternTransform="matrix(34.999997,20.000002,-22.5,22.499999,-4.4e-4,-1.8765443e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4489"
+       id="pattern4493"
+       patternTransform="matrix(34.999997,20.000002,-22.5,22.499999,-4.4e-4,-1.8921222e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4485"
+       id="pattern4489"
+       patternTransform="matrix(34.999997,20.000003,-22.5,22.5,-4.4e-4,-1.9011646e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4481"
+       id="pattern4485"
+       patternTransform="matrix(34.999997,20.000003,-22.5,22.5,-4.4e-4,-1.9084464e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4477"
+       id="pattern4481"
+       patternTransform="matrix(34.999997,20.000003,-22.5,22.500001,-4.4e-4,-1.8958387e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4473"
+       id="pattern4477"
+       patternTransform="matrix(34.999997,20.000002,-22.5,22.500001,-4.4e-4,-1.9163299e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4469"
+       id="pattern4473"
+       patternTransform="matrix(34.999997,20.000001,-22.5,22.500001,-4.4e-4,-1.875e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4465"
+       id="pattern4469"
+       patternTransform="matrix(34.999997,20.000001,-22.5,22.500001,-4.4e-4,-1.82425e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4461"
+       id="pattern4465"
+       patternTransform="matrix(34.999997,20.000001,-22.5,22.500001,-4.4e-4,-1.7753392e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4457"
+       id="pattern4461"
+       patternTransform="matrix(34.999997,20.000001,-22.5,22.500001,-4.4e-4,-1.941826e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4453"
+       id="pattern4457"
+       patternTransform="matrix(34.999997,20.000001,-22.5,22.500001,-4.3866616e-4,-2.1516877e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4449"
+       id="pattern4453"
+       patternTransform="matrix(34.999999,20.000001,-22.5,22.500001,-6.9666667e-5,1.3976002e-5)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips_Faceless_Dragon"
+       id="pattern4449"
+       patternTransform="matrix(34.999999,20.000001,-22.5,22.500001,-7.7324671e-5,9.421158e-6)" />
+    <linearGradient
+       id="linearGradient1396"
+       gradientTransform="translate(-2.4508112e-6)"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#7a0000;stop-opacity:1;"
+         offset="0"
+         id="stop1394" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect576"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect574"
+       is_visible="true"
+       steps="1"
+       threshold="0.000408163"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect570"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect560"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect556"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#ff99ff;stroke:none"
+       id="rect_FR" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#33cc33;stroke:none"
+       id="rect_EL" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#00ffff;stroke:none"
+       id="rect_AN" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#585800;stroke:none"
+       id="rect_GB" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#3b0058;stroke:none"
+       id="rect_UD" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#c00000;stroke:none"
+       id="rect_DM" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#ffd966;stroke:none"
+       id="rect_TT" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#833c0c;stroke:none"
+       id="rect_DD" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#9966ff;stroke:none"
+       id="rect_FC" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#78bfea;stroke:none"
+       id="rect_DN" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#840058;stroke:none"
+       id="rect_DW" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#8ac68a;stroke:none"
+       id="rect_DG" />
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Strips_Fairy_Dwarf">
+      <use
+         id="use3633"
+         xlink:href="#rect_FR" />
+      <use
+         id="use3635"
+         x="1"
+         xlink:href="#rect_DN" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Strips_Elf_Dwarf">
+      <use
+         id="use3638"
+         xlink:href="#rect_EL" />
+      <use
+         id="use3640"
+         x="1"
+         xlink:href="#rect_DN" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Strips_Angel_Dwarf">
+      <use
+         id="use3643"
+         xlink:href="#rect_AN" />
+      <use
+         id="use3645"
+         x="1"
+         xlink:href="#rect_DN" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Strips_Goblin_Drow">
+      <use
+         id="use3648"
+         xlink:href="#rect_GB" />
+      <use
+         id="use3650"
+         x="1"
+         xlink:href="#rect_DW" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Strips_Undead_Drow">
+      <use
+         id="use3653"
+         xlink:href="#rect_UD" />
+      <use
+         id="use3655"
+         x="1"
+         xlink:href="#rect_DW" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Strips_Demon_Drow">
+      <use
+         id="use3658"
+         xlink:href="#rect_DM" />
+      <use
+         id="use3660"
+         x="1"
+         xlink:href="#rect_DW" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Strips_Titan_Dragon">
+      <use
+         id="use3663"
+         xlink:href="#rect_TT" />
+      <use
+         id="use3665"
+         x="1"
+         xlink:href="#rect_DG" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Strips_Druid_Dragon">
+      <use
+         id="use3668"
+         xlink:href="#rect_DD" />
+      <use
+         id="use3670"
+         x="1"
+         xlink:href="#rect_DG" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Strips_Faceless_Dragon">
+      <use
+         id="use3673"
+         xlink:href="#rect_FC" />
+      <use
+         id="use3675"
+         x="1"
+         xlink:href="#rect_DG" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#474747"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1313"
+     inkscape:window-height="1035"
+     id="namedview412"
+     showgrid="false"
+     inkscape:zoom="0.088388358"
+     inkscape:cx="4525.4829"
+     inkscape:cy="2517.2999"
+     inkscape:window-x="579"
+     inkscape:window-y="12"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Background"
+     fit-margin-top="-215"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="0" />
+  <g
+     inkscape:groupmode="layer"
+     id="Background"
+     inkscape:label="Background"
+     style="display:inline;stroke-width:1.02485"
+     sodipodi:insensitive="true">
+    <rect
+       y="-4217.811"
+       x="-93.206245"
+       height="4403.5122"
+       width="8903.4531"
+       id="rect1887"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:96.9263;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       transform="scale(1,-1)"
+       inkscape:export-filename="A1_Plot_v3.8.0.0_v10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="Grid"
+     inkscape:label="Grid"
+     transform="translate(357.67823,39.376896)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <line
+       y1="2013"
+       y2="2013"
+       x1="0"
+       x2="6000"
+       style="stroke:#0000ff;stroke-width:3625;stroke-dasharray:1, 98, 1, 0;stroke-opacity:0.3"
+       id="line214" />
+    <line
+       y1="2013"
+       y2="2013"
+       x1="0"
+       x2="6000"
+       style="stroke:#0000ff;stroke-width:3625;stroke-dasharray:3, 997, 0, 0"
+       id="line216" />
+    <line
+       x1="3000"
+       x2="3000"
+       y1="500"
+       y2="3850"
+       style="stroke:#0000ff;stroke-width:6000;stroke-dasharray:5, 300, 0, 1"
+       id="line218" />
+    <line
+       x1="3000"
+       x2="3000"
+       y1="200"
+       y2="3850"
+       style="stroke:#0000ff;stroke-width:6000;stroke-dasharray:1, 49, 1, 0;stroke-opacity:0.3"
+       id="line220" />
+    <line
+       x1="-5"
+       x2="6005"
+       y1="3825"
+       y2="3825"
+       style="stroke:#000000;stroke-width:10"
+       id="line228" />
+    <line
+       x1="0"
+       x2="0"
+       y1="200"
+       y2="3825"
+       style="stroke:#000000;stroke-width:10"
+       id="line222" />
+    <g
+       transform="translate(0,3870)"
+       font-size="50"
+       id="g356"
+       style="font-size:50px;font-family:Arial;text-anchor:middle">
+      <text
+         x="50"
+         id="text236">40</text>
+      <text
+         x="150"
+         id="text238">41</text>
+      <text
+         x="250"
+         id="text240">42</text>
+      <text
+         x="350"
+         id="text242">43</text>
+      <text
+         x="450"
+         id="text244">44</text>
+      <text
+         x="550"
+         id="text246">45</text>
+      <text
+         x="650"
+         id="text248">46</text>
+      <text
+         x="750"
+         id="text250">47</text>
+      <text
+         x="850"
+         id="text252">48</text>
+      <text
+         x="950"
+         id="text254">49</text>
+      <text
+         x="1050"
+         id="text256">50</text>
+      <text
+         x="1150"
+         id="text258">51</text>
+      <text
+         x="1250"
+         id="text260">52</text>
+      <text
+         x="1350"
+         id="text262">53</text>
+      <text
+         x="1450"
+         id="text264">54</text>
+      <text
+         x="1550"
+         id="text266">55</text>
+      <text
+         x="1650"
+         id="text268">56</text>
+      <text
+         x="1750"
+         id="text270">57</text>
+      <text
+         x="1850"
+         id="text272">58</text>
+      <text
+         x="1950"
+         id="text274">59</text>
+      <text
+         x="2050"
+         id="text276">60</text>
+      <text
+         x="2150"
+         id="text278">61</text>
+      <text
+         x="2250"
+         id="text280">62</text>
+      <text
+         x="2350"
+         id="text282">63</text>
+      <text
+         x="2450"
+         id="text284">64</text>
+      <text
+         x="2550"
+         id="text286">65</text>
+      <text
+         x="2650"
+         id="text288">66</text>
+      <text
+         x="2750"
+         id="text290">67</text>
+      <text
+         x="2850"
+         id="text292">68</text>
+      <text
+         x="2950"
+         id="text294">69</text>
+      <text
+         x="3050"
+         id="text296">70</text>
+      <text
+         x="3150"
+         id="text298">71</text>
+      <text
+         x="3250"
+         id="text300">72</text>
+      <text
+         x="3350"
+         id="text302">73</text>
+      <text
+         x="3450"
+         id="text304">74</text>
+      <text
+         x="3550"
+         id="text306">75</text>
+      <text
+         x="3650"
+         id="text308">76</text>
+      <text
+         x="3750"
+         id="text310">77</text>
+      <text
+         x="3850"
+         id="text312">78</text>
+      <text
+         x="3950"
+         id="text314">79</text>
+      <text
+         x="4050"
+         id="text316">80</text>
+      <text
+         x="4150"
+         id="text318">81</text>
+      <text
+         x="4250"
+         id="text320">82</text>
+      <text
+         x="4350"
+         id="text322">83</text>
+      <text
+         x="4450"
+         id="text324">84</text>
+      <text
+         x="4550"
+         id="text326">85</text>
+      <text
+         x="4650"
+         id="text328">86</text>
+      <text
+         x="4750"
+         id="text330">87</text>
+      <text
+         x="4850"
+         id="text332">88</text>
+      <text
+         x="4950"
+         id="text334">89</text>
+      <text
+         x="5050"
+         id="text336">90</text>
+      <text
+         x="5150"
+         id="text338">91</text>
+      <text
+         x="5250"
+         id="text340">92</text>
+      <text
+         x="5350"
+         id="text342">93</text>
+      <text
+         x="5450"
+         id="text344">94</text>
+      <text
+         x="5550"
+         id="text346">95</text>
+      <text
+         x="5650"
+         id="text348">96</text>
+      <text
+         x="5750"
+         id="text350">97</text>
+      <text
+         x="5850"
+         id="text352">98</text>
+      <text
+         x="5950"
+         id="text354">99</text>
+    </g>
+    <g
+       id="g3995"
+       transform="translate(-6.7175139,-0.35355336)">
+      <text
+         x="-70"
+         y="225"
+         id="text358"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e144</text>
+      <text
+         x="-70"
+         y="375"
+         id="text360"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e138</text>
+      <text
+         x="-70"
+         y="525"
+         id="text362"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e132</text>
+      <text
+         x="-70"
+         y="676"
+         id="text364"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e126</text>
+      <text
+         x="-70"
+         y="831"
+         id="text366"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e120</text>
+      <text
+         x="-70"
+         y="981"
+         id="text368"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e114</text>
+      <text
+         x="-70"
+         y="1138"
+         id="text370"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e108</text>
+      <text
+         x="-70"
+         y="1288"
+         id="text372"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e102</text>
+      <text
+         x="-70"
+         y="1443"
+         id="text374"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e96</text>
+      <text
+         x="-70"
+         y="1593"
+         id="text376"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e90</text>
+      <text
+         x="-70"
+         y="1748"
+         id="text378"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e84</text>
+      <text
+         x="-70"
+         y="1898"
+         id="text380"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e78</text>
+      <text
+         x="-70"
+         y="2055"
+         id="text382"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e72</text>
+      <text
+         x="-70"
+         y="2205"
+         id="text384"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e66</text>
+      <text
+         x="-70"
+         y="2361"
+         id="text386"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e60</text>
+      <text
+         x="-70"
+         y="2511"
+         id="text388"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e54</text>
+      <text
+         x="-70"
+         y="2667"
+         id="text390"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e48</text>
+      <text
+         x="-70"
+         y="2817"
+         id="text392"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e42</text>
+      <text
+         x="-70"
+         y="2973"
+         id="text394"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e36</text>
+      <text
+         x="-70"
+         y="3123"
+         id="text396"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e30</text>
+      <text
+         x="-70"
+         y="3279"
+         id="text398"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e24</text>
+      <text
+         x="-70"
+         y="3429"
+         id="text400"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e18</text>
+      <text
+         x="-70"
+         y="3585"
+         id="text402"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e12</text>
+      <text
+         x="-70"
+         y="3735"
+         id="text404"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e6</text>
+      <text
+         x="-70"
+         y="3845"
+         id="text406"
+         style="font-size:60px;font-family:Arial;text-anchor:middle">e0</text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="Factions"
+     inkscape:label="Factions"
+     transform="translate(357.67823,39.376896)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#a8a8a8;fill-opacity:0.7;stroke-width:0.333144"
+       id="rect1748"
+       width="996.94629"
+       height="1276.0067"
+       x="5003.0537"
+       y="861.03113" />
+    <rect
+       y="1575"
+       x="3500"
+       height="179.95081"
+       width="100"
+       id="rect1752"
+       style="opacity:1;fill:url(#linearGradient4715);fill-opacity:0.7;stroke-width:1.45602" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient4715);fill-opacity:0.7;stroke-width:1.17189"
+       id="rect1754"
+       width="100"
+       height="435.45081"
+       x="3600"
+       y="1525" />
+    <rect
+       y="1420.5756"
+       x="3801.2373"
+       height="540.32031"
+       width="1200.1094"
+       id="rect1756"
+       style="opacity:1;fill:url(#linearGradient4715);fill-opacity:0.7;stroke-width:2.09205" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient4715);fill-opacity:0.7;stroke-width:1"
+       id="rect1758"
+       width="100"
+       height="485.45081"
+       x="3700"
+       y="1475" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient4715);fill-opacity:0.7;stroke-width:0.536353"
+       id="rect1760"
+       width="901.34668"
+       height="103.49146"
+       x="4100"
+       y="1319.4071" />
+    <rect
+       y="1320"
+       x="4000"
+       height="102.89856"
+       width="100"
+       id="rect1762"
+       style="opacity:1;fill:url(#linearGradient4715);fill-opacity:0.7;stroke-width:1.01887" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient4715);fill-opacity:0.7;stroke-width:1"
+       id="rect1764"
+       width="100"
+       height="50.89856"
+       x="3900"
+       y="1372" />
+    <rect
+       y="963.4071"
+       x="4700"
+       height="155"
+       width="301.34668"
+       id="rect1766"
+       style="opacity:1;fill:#7a0000;fill-opacity:0.7;stroke-width:0.712879" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient4715);fill-opacity:0.7;stroke-width:1.42127"
+       id="rect1768"
+       width="100"
+       height="101"
+       x="4200"
+       y="1220" />
+    <rect
+       y="1170"
+       x="4300"
+       height="151"
+       width="100"
+       id="rect1770"
+       style="opacity:1;fill:url(#linearGradient4715);fill-opacity:0.7;stroke-width:1.22882" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient4715);fill-opacity:0.7;stroke-width:3.06268"
+       id="rect1772"
+       width="601.34668"
+       height="201"
+       x="4400"
+       y="1118.4071" />
+    <rect
+       y="1065"
+       x="4500"
+       height="53.407097"
+       width="100"
+       id="rect1774"
+       style="opacity:1;fill:#7a0000;fill-opacity:0.7;stroke-width:0.51797" />
+    <rect
+       style="opacity:1;fill:#7a0000;fill-opacity:0.7;stroke-width:0.641689"
+       id="rect1776"
+       width="100"
+       height="103.4071"
+       x="4600"
+       y="1015" />
+    <rect
+       y="913.4071"
+       x="4800"
+       height="50"
+       width="100"
+       id="rect1778"
+       style="opacity:1;fill:#7a0000;fill-opacity:0.7" />
+    <rect
+       style="opacity:1;fill:#7a0000;fill-opacity:0.7"
+       id="rect1780"
+       width="100"
+       height="102"
+       x="4900"
+       y="861.4071" />
+    <rect
+       y="808.50006"
+       x="4999.9995"
+       height="52.531128"
+       width="1000"
+       id="rect1782"
+       style="opacity:1;fill:url(#linearGradient4715);fill-opacity:0.7;stroke-width:1" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient1396);fill-opacity:0.7;stroke-width:0.82664"
+       id="rect1784"
+       width="100"
+       height="102.5"
+       x="5900"
+       y="355" />
+    <rect
+       y="405"
+       x="5800"
+       height="52.5"
+       width="100"
+       id="rect1786"
+       style="opacity:1;fill:url(#linearGradient1396);fill-opacity:0.7;stroke-width:0.724569" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient1396);fill-opacity:0.7;stroke-width:2.46147"
+       id="rect1788"
+       width="300"
+       height="152.00006"
+       x="5700"
+       y="455" />
+    <rect
+       y="762.00006"
+       x="5100"
+       height="46.5"
+       width="899.99951"
+       id="rect1790"
+       style="opacity:1;fill:#7a0000;fill-opacity:0.7;stroke-width:5.07691" />
+    <rect
+       style="opacity:1;fill:#7a0000;fill-opacity:0.7;stroke-width:0.703732"
+       id="rect1792"
+       width="100"
+       height="52"
+       x="5200"
+       y="710" />
+    <rect
+       y="660"
+       x="5300"
+       height="102"
+       width="100"
+       id="rect1794"
+       style="opacity:1;fill:#7a0000;fill-opacity:0.7;stroke-width:0.811212" />
+    <rect
+       style="opacity:1;fill:#7a0000;fill-opacity:0.7;stroke-width:2.11451"
+       id="rect1796"
+       width="600"
+       height="154.99994"
+       x="5400"
+       y="607.00006" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient1396);fill-opacity:0.7;stroke-width:0.200409"
+       id="rect1800"
+       width="100"
+       height="103.60254"
+       x="5600"
+       y="503.39752" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient4715);fill-opacity:0.7;stroke-width:1"
+       id="rect1804"
+       width="100"
+       height="50"
+       x="4100"
+       y="1271" />
+    <rect
+       style="opacity:0.7;fill:url(#Strips_Goblin_Drow);fill-opacity:1;stroke-width:2.20265"
+       id="rect581"
+       width="100"
+       height="509.42664"
+       x="99"
+       y="3310.5732" />
+    <rect
+       y="3259.062"
+       x="199"
+       height="560.93781"
+       width="100"
+       id="rect583"
+       style="opacity:0.7;fill:url(#Strips_Goblin_Drow);fill-opacity:1;stroke-width:2.31133" />
+    <rect
+       y="557"
+       x="5500"
+       height="50.000061"
+       width="100"
+       id="rect1494"
+       style="opacity:1;fill:url(#linearGradient1396);fill-opacity:0.7;stroke-width:0.200409" />
+    <g
+       transform="translate(-457.67823,654.24831)"
+       id="layer1"
+       inkscape:label="Layer 1" />
+    <rect
+       y="2137.0378"
+       x="5001.3467"
+       height="1022.9621"
+       width="998.65332"
+       id="rect4443"
+       style="opacity:0.7;fill:url(#pattern4503);fill-opacity:1;stroke-width:0.333144" />
+    <rect
+       style="opacity:0.7;fill:url(#pattern4727);fill-opacity:1;stroke-width:0.333144"
+       id="rect4447"
+       width="2901.3467"
+       height="868.99994"
+       x="2100"
+       y="2291" />
+    <rect
+       y="1960.8959"
+       x="3400"
+       height="330.10422"
+       width="1601.3467"
+       id="rect4451"
+       style="opacity:0.7;fill:url(#pattern4695);fill-opacity:1;stroke-width:0.333144" />
+    <rect
+       style="opacity:0.7;fill:url(#pattern4457);fill-opacity:1;stroke-width:0.333144"
+       id="rect4455"
+       width="100"
+       height="51"
+       x="2200"
+       y="2240" />
+    <rect
+       y="2191.5"
+       x="2300"
+       height="99.5"
+       width="100"
+       id="rect4459"
+       style="opacity:0.7;fill:url(#pattern4461);fill-opacity:1;stroke-width:0.333144" />
+    <rect
+       style="opacity:0.7;fill:url(#pattern4465);fill-opacity:1;stroke-width:0.333144"
+       id="rect4463"
+       width="100"
+       height="153"
+       x="2400"
+       y="2138" />
+    <rect
+       y="2087"
+       x="2500"
+       height="204"
+       width="100"
+       id="rect4467"
+       style="opacity:0.7;fill:url(#pattern4469);fill-opacity:1;stroke-width:0.333144" />
+    <rect
+       style="opacity:0.7;fill:url(#pattern4473);fill-opacity:1;stroke-width:0.333144"
+       id="rect4471"
+       width="100"
+       height="255"
+       x="2600"
+       y="2036" />
+    <rect
+       y="1987.5"
+       x="2700"
+       height="303.5"
+       width="100"
+       id="rect4475"
+       style="opacity:0.7;fill:url(#pattern4477);fill-opacity:1;stroke-width:0.333144" />
+    <rect
+       style="opacity:0.7;fill:url(#pattern4481);fill-opacity:1;stroke-width:0.333144"
+       id="rect4479"
+       width="100"
+       height="357"
+       x="2800"
+       y="1934" />
+    <rect
+       y="1882.9999"
+       x="2900"
+       height="407.99997"
+       width="100"
+       id="rect4483"
+       style="opacity:0.7;fill:url(#pattern4485);fill-opacity:1;stroke-width:0.333144" />
+    <rect
+       style="opacity:0.7;fill:url(#pattern4489);fill-opacity:1;stroke-width:0.333144"
+       id="rect4487"
+       width="100"
+       height="458.99985"
+       x="3000"
+       y="1832" />
+    <rect
+       y="1780.9999"
+       x="3100"
+       height="509.99982"
+       width="100"
+       id="rect4491"
+       style="opacity:0.7;fill:url(#pattern4493);fill-opacity:1;stroke-width:0.333144" />
+    <rect
+       style="opacity:0.7;fill:url(#pattern4497);fill-opacity:1;stroke-width:0.333144"
+       id="rect4495"
+       width="100"
+       height="560.99969"
+       x="3200"
+       y="1730" />
+    <rect
+       y="1681.5"
+       x="3300"
+       height="609.49969"
+       width="100"
+       id="rect4499"
+       style="opacity:0.7;fill:url(#pattern4501);fill-opacity:1;stroke-width:0.333144" />
+    <rect
+       style="opacity:0.7;fill:url(#pattern4557);fill-opacity:1;stroke-width:0.333144"
+       id="rect4505"
+       width="500"
+       height="614"
+       x="1600"
+       y="2546" />
+    <rect
+       style="opacity:0.7;fill:url(#pattern4559);fill-opacity:1;stroke-width:0.333144"
+       id="rect4513"
+       width="100"
+       height="51"
+       x="1700"
+       y="2495" />
+    <rect
+       y="2446.5"
+       x="1800"
+       height="99.5"
+       width="100"
+       id="rect4517"
+       style="opacity:0.7;fill:url(#pattern4561);fill-opacity:1;stroke-width:0.333144" />
+    <rect
+       style="opacity:0.7;fill:url(#pattern4563);fill-opacity:1;stroke-width:0.333144"
+       id="rect4521"
+       width="100"
+       height="153"
+       x="1900"
+       y="2393" />
+    <rect
+       y="2344.5"
+       x="2000"
+       height="201.5"
+       width="100"
+       id="rect4525"
+       style="opacity:0.7;fill:url(#pattern4527);fill-opacity:1;stroke-width:0.333144" />
+    <rect
+       y="3004"
+       x="700"
+       height="156"
+       width="895.56506"
+       id="rect4537"
+       style="opacity:0.7;fill:url(#pattern4571);fill-opacity:1;stroke-width:0.333144" />
+    <rect
+       style="opacity:0.7;fill:url(#pattern4545);fill-opacity:1;stroke-width:0.333144"
+       id="rect4543"
+       width="5300.0005"
+       height="660"
+       x="699.99988"
+       y="3160" />
+    <rect
+       style="opacity:0.7;fill:url(#pattern4555);fill-opacity:1;stroke-width:0.333144"
+       id="rect4553"
+       width="100"
+       height="47.5"
+       x="800"
+       y="2956.5" />
+    <rect
+       y="2904.4998"
+       x="900"
+       height="99.5"
+       width="100"
+       id="rect4573"
+       style="opacity:0.7;fill:url(#pattern4575);fill-opacity:1;stroke-width:0.333144" />
+    <rect
+       style="opacity:0.7;fill:url(#pattern4579);fill-opacity:1;stroke-width:0.333144"
+       id="rect4577"
+       width="100"
+       height="151.99976"
+       x="1000"
+       y="2852" />
+    <rect
+       y="2803.5"
+       x="1100"
+       height="200.49976"
+       width="100"
+       id="rect4581"
+       style="opacity:0.7;fill:url(#pattern4583);fill-opacity:1;stroke-width:0.333144" />
+    <rect
+       style="opacity:0.7;fill:url(#pattern4587);fill-opacity:1;stroke-width:0.333144"
+       id="rect4585"
+       width="100"
+       height="251.49976"
+       x="1200"
+       y="2752.5" />
+    <rect
+       y="2699"
+       x="1300"
+       height="304.99976"
+       width="100"
+       id="rect4589"
+       style="opacity:0.7;fill:url(#pattern4591);fill-opacity:1;stroke-width:0.333144" />
+    <rect
+       style="opacity:0.7;fill:url(#pattern4595);fill-opacity:1;stroke-width:0.333144"
+       id="rect4593"
+       width="100"
+       height="355.99976"
+       x="1400"
+       y="2647.9998" />
+    <rect
+       y="2597"
+       x="1500"
+       height="406.99951"
+       width="100"
+       id="rect4597"
+       style="opacity:0.7;fill:url(#pattern4599);fill-opacity:1;stroke-width:0.333144" />
+    <rect
+       style="opacity:0.7;fill:url(#pattern5091);fill-opacity:1;stroke-width:0.333144"
+       id="rect4607"
+       width="400.99988"
+       height="612.5"
+       x="299"
+       y="3207.4998" />
+    <rect
+       y="3160.5"
+       x="400"
+       height="49.5"
+       width="100"
+       id="rect4613"
+       style="opacity:0.7;fill:url(#Strips_Goblin_Drow);fill-opacity:1;stroke-width:0.333144" />
+    <rect
+       style="opacity:0.7;fill:url(#Strips_Goblin_Drow);fill-opacity:1;stroke-width:0.333144"
+       id="rect4617"
+       width="100"
+       height="104"
+       x="500"
+       y="3106" />
+    <rect
+       y="3058.5"
+       x="600"
+       height="151.5"
+       width="100"
+       id="rect4621"
+       style="opacity:0.7;fill:url(#Strips_Goblin_Drow);fill-opacity:1;stroke-width:0.333144" />
+    <rect
+       style="opacity:0.7;fill:url(#Strips_Goblin_Drow);fill-opacity:1;stroke-width:0.333144"
+       id="rect4627"
+       width="95"
+       height="459.99988"
+       x="4"
+       y="3360" />
+    <rect
+       style="opacity:0.7;fill:url(#pattern4709);fill-opacity:1;stroke-width:0.333144"
+       id="rect4697"
+       width="100"
+       height="330.39587"
+       x="3400"
+       y="1630.5" />
+    <rect
+       y="1754.9508"
+       x="3500"
+       height="205.94507"
+       width="100"
+       id="rect4701"
+       style="opacity:0.7;fill:url(#pattern4703);fill-opacity:1;stroke-width:0.333144" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="Borders"
+     inkscape:label="Borders"
+     transform="translate(357.67823,39.376896)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <line
+       x1="100"
+       x2="200"
+       y1="3310"
+       y2="3310"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1824" />
+    <line
+       x1="200"
+       x2="200"
+       y1="3257.5"
+       y2="3312.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1830" />
+    <line
+       id="line1832"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="3260"
+       y1="3260"
+       x2="300"
+       x1="200" />
+    <line
+       x1="300"
+       x2="400"
+       y1="3210"
+       y2="3210"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1834" />
+    <line
+       id="line1836"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="3158"
+       y1="3158"
+       x2="500"
+       x1="400" />
+    <line
+       x1="500"
+       x2="600"
+       y1="3106"
+       y2="3106"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1838" />
+    <line
+       id="line1840"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="3056"
+       y1="3056"
+       x2="700"
+       x1="600" />
+    <line
+       id="line1842"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="3262.5"
+       y1="3207.5"
+       x2="300"
+       x1="300" />
+    <line
+       x1="400"
+       x2="400"
+       y1="3155.5"
+       y2="3212.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1844" />
+    <line
+       id="line1846"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="3160.5"
+       y1="3103.5"
+       x2="500"
+       x1="500" />
+    <line
+       x1="600"
+       x2="600"
+       y1="3053.5"
+       y2="3108.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1848" />
+    <line
+       id="line1850"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="3058.5"
+       y1="3001.5"
+       x2="700"
+       x1="700" />
+    <line
+       x1="700"
+       x2="800"
+       y1="3004"
+       y2="3004"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1852" />
+    <line
+       x1="700"
+       x2="700"
+       y1="3058.5"
+       y2="3820"
+       style="stroke:#000000;stroke-width:9"
+       id="line1854" />
+    <line
+       id="line1856"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2954"
+       y1="2954"
+       x2="900"
+       x1="800" />
+    <line
+       x1="900"
+       x2="1000"
+       y1="2902"
+       y2="2902"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1858" />
+    <line
+       id="line1860"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2852"
+       y1="2852"
+       x2="1100"
+       x1="1000" />
+    <line
+       x1="1100"
+       x2="1200"
+       y1="2801"
+       y2="2801"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1862" />
+    <line
+       id="line1864"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2750"
+       y1="2750"
+       x2="1300"
+       x1="1200" />
+    <line
+       x1="1300"
+       x2="1400"
+       y1="2699"
+       y2="2699"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1866" />
+    <line
+       id="line1868"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2648"
+       y1="2648"
+       x2="1500"
+       x1="1400" />
+    <line
+       x1="800"
+       x2="800"
+       y1="2951.5"
+       y2="3006.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1870" />
+    <line
+       id="line1872"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2956.5"
+       y1="2899.5"
+       x2="900"
+       x1="900" />
+    <line
+       x1="1000"
+       x2="1000"
+       y1="2849.5"
+       y2="2904.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1874" />
+    <line
+       id="line1876"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2854.5"
+       y1="2798.5"
+       x2="1100"
+       x1="1100" />
+    <line
+       x1="1200"
+       x2="1200"
+       y1="2747.5"
+       y2="2803.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1878" />
+    <line
+       id="line1880"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2752.5"
+       y1="2696.5"
+       x2="1300"
+       x1="1300" />
+    <line
+       x1="1400"
+       x2="1400"
+       y1="2645.5"
+       y2="2701.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1882" />
+    <line
+       x1="1500"
+       x2="1600"
+       y1="2597"
+       y2="2597"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1884" />
+    <line
+       id="line1886"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2650.5"
+       y1="2594.5"
+       x2="1500"
+       x1="1500" />
+    <line
+       x1="1600"
+       x2="1600"
+       y1="2597"
+       y2="3160"
+       style="stroke:#000000;stroke-width:9"
+       id="line1888" />
+    <line
+       id="line1892"
+       style="stroke:#000000;stroke-width:9"
+       y2="3160"
+       y1="2344.5"
+       x2="2100"
+       x1="2100" />
+    <line
+       id="line1894"
+       style="stroke:#000000;stroke-width:9"
+       y2="3160"
+       y1="3160"
+       x2="6000.0005"
+       x1="1595.5651" />
+    <line
+       id="line1898"
+       style="stroke:#000000;stroke-width:9"
+       y2="2141.2522"
+       y1="861.07532"
+       x2="5002.0371"
+       x1="5002.0371" />
+    <line
+       id="line1900"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2546"
+       y1="2546"
+       x2="1700"
+       x1="1600" />
+    <line
+       x1="1700"
+       x2="1800"
+       y1="2495"
+       y2="2495"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1902" />
+    <line
+       id="line1904"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2444"
+       y1="2444"
+       x2="1900"
+       x1="1800" />
+    <line
+       x1="1900"
+       x2="2000"
+       y1="2393"
+       y2="2393"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1906" />
+    <line
+       id="line1908"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2342"
+       y1="2342"
+       x2="2100"
+       x1="2000" />
+    <line
+       x1="2100"
+       x2="2200"
+       y1="2291"
+       y2="2291"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1910" />
+    <line
+       id="line1912"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2240"
+       y1="2240"
+       x2="2300"
+       x1="2200" />
+    <line
+       x1="2300"
+       x2="2400"
+       y1="2189"
+       y2="2189"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1914" />
+    <line
+       id="line1916"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2138"
+       y1="2138"
+       x2="2500"
+       x1="2400" />
+    <line
+       x1="2500"
+       x2="2600"
+       y1="2087"
+       y2="2087"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1918" />
+    <line
+       id="line1920"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2036"
+       y1="2036"
+       x2="2700"
+       x1="2600" />
+    <line
+       x1="2700"
+       x2="2800"
+       y1="1985"
+       y2="1985"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1922" />
+    <line
+       id="line1924"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1934"
+       y1="1934"
+       x2="2900"
+       x1="2800" />
+    <line
+       x1="2900"
+       x2="3000"
+       y1="1883"
+       y2="1883"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1926" />
+    <line
+       id="line1928"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1832"
+       y1="1832"
+       x2="3100"
+       x1="3000" />
+    <line
+       id="line1913"
+       style="stroke:#000000;stroke-width:9"
+       y2="1962.4259"
+       y1="1528.5"
+       x2="3699"
+       x1="3699" />
+    <line
+       x1="3100"
+       x2="3200"
+       y1="1781"
+       y2="1781"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1930" />
+    <line
+       id="line1932"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1730"
+       y1="1730"
+       x2="3300"
+       x1="3200" />
+    <line
+       x1="3300"
+       x2="3400"
+       y1="1679"
+       y2="1679"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1934" />
+    <line
+       id="line1936"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1628"
+       y1="1628"
+       x2="3500"
+       x1="3400" />
+    <line
+       x1="3500"
+       x2="3600"
+       y1="1577"
+       y2="1577"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1938" />
+    <line
+       id="line1940"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1526"
+       y1="1526"
+       x2="3700"
+       x1="3600" />
+    <line
+       x1="3700"
+       x2="3800"
+       y1="1475"
+       y2="1475"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1942" />
+    <line
+       id="line1944"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1420.5754"
+       y1="1420.5754"
+       x2="3901.2373"
+       x1="3801.2373" />
+    <line
+       id="line1948"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1372"
+       y1="1372"
+       x2="4000"
+       x1="3900" />
+    <line
+       x1="4000"
+       x2="4100"
+       y1="1321"
+       y2="1321"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1950" />
+    <line
+       x1="4200"
+       x2="4300"
+       y1="1219"
+       y2="1219"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1954" />
+    <line
+       id="line1956"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1168"
+       y1="1168"
+       x2="4400"
+       x1="4300" />
+    <line
+       x1="4400"
+       x2="4500"
+       y1="1119"
+       y2="1119"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1958" />
+    <line
+       id="line1960"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1067"
+       y1="1067"
+       x2="4600"
+       x1="4500" />
+    <line
+       x1="4600"
+       x2="4700"
+       y1="1016"
+       y2="1016"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1962" />
+    <line
+       id="line1964"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="965"
+       y1="965"
+       x2="4800"
+       x1="4700" />
+    <line
+       x1="4800"
+       x2="4900"
+       y1="914"
+       y2="914"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1968" />
+    <line
+       id="line1970"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="863"
+       y1="863"
+       x2="5000"
+       x1="4900" />
+    <line
+       id="line1476"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="761"
+       y1="761"
+       x2="5200"
+       x1="5100" />
+    <line
+       x1="5200"
+       x2="5300"
+       y1="710"
+       y2="710"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1976" />
+    <line
+       id="line1978"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="659"
+       y1="659"
+       x2="5400"
+       x1="5300" />
+    <line
+       x1="5400"
+       x2="5500"
+       y1="608"
+       y2="608"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1980" />
+    <line
+       id="line1982"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="557"
+       y1="557"
+       x2="5600"
+       x1="5500" />
+    <line
+       x1="5600.3169"
+       x2="5700.3169"
+       y1="502.66147"
+       y2="502.66147"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1984" />
+    <line
+       id="line1988"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="455"
+       y1="455"
+       x2="5800"
+       x1="5700" />
+    <line
+       x1="5800"
+       x2="5900"
+       y1="404"
+       y2="404"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1992" />
+    <line
+       id="line1994"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="353"
+       y1="353"
+       x2="6000"
+       x1="5900" />
+    <line
+       id="line1996"
+       style="stroke:#000000;stroke-width:9"
+       y2="2137.0378"
+       y1="2137.0378"
+       x2="6000"
+       x1="5001.3467" />
+    <line
+       id="line2002"
+       style="stroke:#000000;stroke-width:9"
+       y2="1755.2793"
+       y1="1755.2793"
+       x2="3599.5859"
+       x1="3498.5859" />
+    <line
+       x1="1600"
+       x2="1600"
+       y1="2543.5"
+       y2="2599.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line2004" />
+    <line
+       id="line2006"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2548.5"
+       y1="2492.5"
+       x2="1700"
+       x1="1700" />
+    <line
+       x1="1800"
+       x2="1800"
+       y1="2441.5"
+       y2="2497.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line2008" />
+    <line
+       id="line2010"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2446.5"
+       y1="2390.5"
+       x2="1900"
+       x1="1900" />
+    <line
+       x1="2000"
+       x2="2000"
+       y1="2339.5"
+       y2="2395.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line2012" />
+    <line
+       id="line2014"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2344.5"
+       y1="2288.5"
+       x2="2100"
+       x1="2100" />
+    <line
+       x1="2200"
+       x2="2200"
+       y1="2237.5"
+       y2="2293.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line2016" />
+    <line
+       id="line2018"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2242.5"
+       y1="2186.5"
+       x2="2300"
+       x1="2300" />
+    <line
+       x1="2400"
+       x2="2400"
+       y1="2135.5"
+       y2="2191.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1865" />
+    <line
+       id="line1867"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2140.5"
+       y1="2084.5"
+       x2="2500"
+       x1="2500" />
+    <line
+       x1="2600"
+       x2="2600"
+       y1="2033.5"
+       y2="2089.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1869" />
+    <line
+       id="line1893"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="2038.5"
+       y1="1982.5"
+       x2="2700"
+       x1="2700" />
+    <line
+       x1="2800"
+       x2="2800"
+       y1="1931.5"
+       y2="1987.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1895" />
+    <line
+       id="line1897"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1936.5"
+       y1="1880.5"
+       x2="2900"
+       x1="2900" />
+    <line
+       x1="3000"
+       x2="3000"
+       y1="1829.5"
+       y2="1885.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1899" />
+    <line
+       id="line1901"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1834.5"
+       y1="1778.5"
+       x2="3100"
+       x1="3100" />
+    <line
+       x1="3200"
+       x2="3200"
+       y1="1727.5"
+       y2="1783.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1903" />
+    <line
+       id="line1905"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1732.5"
+       y1="1676.5"
+       x2="3300"
+       x1="3300" />
+    <line
+       x1="3400"
+       x2="3400"
+       y1="1625.5"
+       y2="1681.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1907" />
+    <line
+       id="line1909"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1630.5"
+       y1="1574.5"
+       x2="3500"
+       x1="3500" />
+    <line
+       x1="3600"
+       x2="3600"
+       y1="1523.5"
+       y2="1579.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1911" />
+    <line
+       id="line1915"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1528.5"
+       y1="1472.5"
+       x2="3700"
+       x1="3700" />
+    <line
+       x1="3800"
+       x2="3800"
+       y1="1417.8986"
+       y2="1477.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1917" />
+    <line
+       id="line1919"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1422.8986"
+       y1="1369.5"
+       x2="3900"
+       x1="3900" />
+    <line
+       x1="4000"
+       x2="4000"
+       y1="1318.5"
+       y2="1374.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1921" />
+    <line
+       id="line1925"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1323.5"
+       y1="1267.5"
+       x2="4100"
+       x1="4100" />
+    <line
+       id="line1929"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1221.5"
+       y1="1165.5"
+       x2="4300"
+       x1="4300" />
+    <line
+       x1="4400"
+       x2="4400"
+       y1="1116.5"
+       y2="1170.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1931" />
+    <line
+       x1="4498.0225"
+       x2="5003.4678"
+       y1="1114.8716"
+       y2="1114.8716"
+       style="stroke:#000000;stroke-width:9"
+       id="line616" />
+    <line
+       id="line1933"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1121.5"
+       y1="1064.5"
+       x2="4500"
+       x1="4500" />
+    <line
+       x1="4600"
+       x2="4600"
+       y1="1013.5"
+       y2="1069.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1935" />
+    <line
+       id="line1937"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1018.5"
+       y1="962.5"
+       x2="4700"
+       x1="4700" />
+    <line
+       x1="4800"
+       x2="4800"
+       y1="911.5"
+       y2="967.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1939" />
+    <line
+       id="line1941"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="916.5"
+       y1="860.5"
+       x2="4900"
+       x1="4900" />
+    <line
+       x1="5000"
+       x2="5000"
+       y1="806.25"
+       y2="865.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1943" />
+    <line
+       x1="5200"
+       x2="5200"
+       y1="707.5"
+       y2="763.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1947" />
+    <line
+       id="line1949"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="712.5"
+       y1="656.5"
+       x2="5300"
+       x1="5300" />
+    <line
+       x1="5400"
+       x2="5400"
+       y1="605.5"
+       y2="661.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1951" />
+    <line
+       id="line1953"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="610.5"
+       y1="554.5"
+       x2="5500"
+       x1="5500" />
+    <line
+       x1="5600"
+       x2="5600"
+       y1="500.15512"
+       y2="559.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1955" />
+    <line
+       id="line1957"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="505.16147"
+       y1="452.5"
+       x2="5700"
+       x1="5700" />
+    <line
+       x1="5800"
+       x2="5800"
+       y1="401.5"
+       y2="457.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1959" />
+    <line
+       id="line1961"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="406.5"
+       y1="350.5"
+       x2="5900"
+       x1="5900" />
+    <line
+       id="line4729"
+       style="stroke:#000000;stroke-width:9"
+       y2="808.50006"
+       y1="808.50006"
+       x2="5999.9995"
+       x1="5100" />
+    <line
+       id="line1945"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="808.50006"
+       y1="758.5"
+       x2="5100"
+       x1="5100" />
+    <line
+       x1="4999.9995"
+       x2="5102.4995"
+       y1="808.50006"
+       y2="808.50006"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1972" />
+    <line
+       id="line1974"
+       style="stroke:#000000;stroke-width:9"
+       y2="1956.8735"
+       y1="1270.5"
+       x2="4200.5"
+       x1="4200.5" />
+    <line
+       id="line1952"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="1270"
+       y1="1270"
+       x2="4200"
+       x1="4100" />
+    <line
+       x1="4200"
+       x2="4200"
+       y1="1216.5"
+       y2="1272.5"
+       style="stroke:#ff0000;stroke-width:5"
+       id="line1927" />
+    <line
+       id="line594"
+       style="stroke:#000000;stroke-width:9"
+       y2="3827.5"
+       y1="3163.4856"
+       x2="3599"
+       x1="3599" />
+    <line
+       id="line1826"
+       style="stroke:#ff0000;stroke-width:5"
+       y2="3362.5"
+       y1="3307.5"
+       x2="100"
+       x1="100" />
+    <line
+       id="line1822"
+       style="stroke:#ff0000;stroke-width:5.02625"
+       y2="3360"
+       y1="3360"
+       x2="100"
+       x1="4" />
+    <line
+       x1="3499.2422"
+       x2="3499.2422"
+       y1="1627.1414"
+       y2="1759.8398"
+       style="stroke:#000000;stroke-width:9"
+       id="line4693" />
+    <line
+       x1="3599.5862"
+       x2="3599.5862"
+       y1="1750.7794"
+       y2="1965.4207"
+       style="stroke:#000000;stroke-width:9"
+       id="line4705" />
+    <line
+       id="line4707"
+       style="stroke:#000000;stroke-width:9"
+       y2="1960.8959"
+       y1="1960.8959"
+       x2="5001.3467"
+       x1="3596.397" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="Text"
+     inkscape:label="Text"
+     transform="translate(357.67823,39.376896)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       style="font-size:50px;font-family:Arial;text-anchor:middle"
+       id="g2177"
+       font-size="120"
+       transform="translate(4481.9034,4206.0179)">
+      <text
+         y="-152.02795"
+         id="text2175"
+         x="2893.9338">art by Kiluh, edited by Cyden, data from RG Discord, special thanks to Necrodoom &amp; Curunur</text>
+    </g>
+    <text
+       x="3000"
+       id="text2360"
+       style="font-size:120px;font-family:Arial;text-anchor:middle"
+       y="4040">Reincarnation</text>
+    <text
+       id="text1963"
+       x="6500"
+       y="20"
+       style="font-size:120px;font-family:Arial;text-anchor:middle">Things To Do</text>
+    <text
+       y="20"
+       x="7911.127"
+       id="text1965"
+       style="font-size:120px;font-family:Arial;text-anchor:middle">Do Before A2</text>
+    <g
+       style="font-size:120px;font-family:Arial;text-anchor:middle"
+       id="g1855"
+       font-size="120"
+       transform="rotate(-90,2374.6875,2665.3125)">
+      <text
+         id="text1853"
+         x="3020"
+         y="65">Gems</text>
+    </g>
+    <g
+       style="font-size:220px;font-family:Arial;text-anchor:middle"
+       id="g1863"
+       font-size="120"
+       transform="translate(4.7802734,37.77562)">
+      <text
+         id="text1861"
+         x="3000">Ascension 1 Production Guide</text>
+    </g>
+    <circle
+       r="40"
+       cy="3587.0115"
+       cx="48.056183"
+       id="circle1873"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+       id="circle1973"
+       cx="6084.375"
+       cy="240"
+       r="40" />
+    <circle
+       r="40"
+       cy="3799.2803"
+       cx="5051.3018"
+       id="circle1989"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+    <circle
+       r="40"
+       cy="3081.8198"
+       cx="648.16235"
+       id="circle1995"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+    <circle
+       r="40"
+       cy="2621.0386"
+       cx="1549.7249"
+       id="circle2001"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+    <circle
+       r="40"
+       cy="2363.6948"
+       cx="2047.5374"
+       id="circle2007"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+    <circle
+       r="40"
+       cy="2211.896"
+       cx="2348.5696"
+       id="circle2013"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+    <circle
+       r="40"
+       cy="1241.7769"
+       cx="4250.5972"
+       id="circle2015"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+    <circle
+       r="40"
+       cy="1750.4739"
+       cx="3549.23"
+       id="circle2025"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+       id="circle2110"
+       cx="6084.375"
+       cy="480"
+       r="40" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+       id="circle2124"
+       cx="6084.375"
+       cy="650"
+       r="40" />
+    <circle
+       r="40"
+       cy="820"
+       cx="6084.375"
+       id="circle1269"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+       id="circle2016"
+       cx="6084.375"
+       cy="1410"
+       r="40" />
+    <circle
+       r="40"
+       cy="1820"
+       cx="6084.375"
+       id="circle2046"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+       id="circle2065"
+       cx="6084.375"
+       cy="2060"
+       r="40" />
+    <circle
+       cy="2230"
+       cx="6084.375"
+       id="circle2079"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+       r="40" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+       id="circle2101"
+       cx="6084.375"
+       cy="1580"
+       r="40" />
+    <g
+       style="font-size:60px;font-family:Arial;text-anchor:middle"
+       id="g1881"
+       font-size="120"
+       transform="translate(-2951.9145,3608.4861)">
+      <text
+         id="text1879"
+         x="3000">A</text>
+    </g>
+    <g
+       transform="translate(3513.9717,425.87694)"
+       font-size="120"
+       id="g1977"
+       style="font-size:60px;font-family:Arial;text-anchor:middle">
+      <text
+         x="2570.4326"
+         id="text1975"
+         y="-164.40233">A</text>
+    </g>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       y="260"
+       id="text1979"
+       x="6150">R40:</text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       y="260"
+       id="text603"
+       x="6325"><tspan
+         style="font-style:normal;font-weight:bold;text-align:start;text-anchor:start"
+         id="tspan601">Mana Wave</tspan></text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       x="6148.0591"
+       id="text663"
+       y="330"><tspan
+         id="tspan665"
+         style="font-style:normal;font-weight:bold;text-align:start;text-anchor:start">Prismatic Mana</tspan></text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       y="400"
+       id="text1496"
+       x="6147.9858"><tspan
+         style="font-style:normal;font-weight:bold;text-align:start;text-anchor:start"
+         id="tspan1494">Fortune Teller Machine</tspan></text>
+    <g
+       style="font-size:60px;font-family:Arial;text-anchor:middle"
+       id="g1993"
+       font-size="120"
+       transform="translate(-2760.3416,3845.1968)">
+      <text
+         y="-741.90234"
+         id="text1991"
+         x="3407.9326">B</text>
+    </g>
+    <g
+       style="font-size:60px;font-family:Arial;text-anchor:middle"
+       id="g1999"
+       font-size="120"
+       transform="translate(-1021.0007,2806.9155)">
+      <text
+         y="-164.40233"
+         id="text1997"
+         x="2570.4326">C</text>
+    </g>
+    <g
+       style="font-size:60px;font-family:Arial;text-anchor:middle"
+       id="g2005"
+       font-size="120"
+       transform="translate(-2458.5984,3694.5718)">
+      <text
+         y="-1309.4023"
+         id="text2003"
+         x="4505.4326">D</text>
+    </g>
+    <g
+       style="font-size:60px;font-family:Arial;text-anchor:middle"
+       id="g2011"
+       font-size="120"
+       transform="translate(-222.59546,2397.7729)">
+      <text
+         y="-164.40233"
+         id="text2009"
+         x="2570.4326">E</text>
+    </g>
+    <g
+       style="font-size:60px;font-family:Arial;text-anchor:middle"
+       id="g2019"
+       font-size="120"
+       transform="translate(310.22803,3801.3508)">
+      <text
+         y="-2029.4023"
+         id="text2017"
+         x="3237.9326">F</text>
+    </g>
+    <g
+       style="font-size:60px;font-family:Arial;text-anchor:middle"
+       id="g2035"
+       font-size="120"
+       transform="translate(-118.28662,3676.1188)">
+      <text
+         y="144.63612"
+         id="text2033"
+         x="5169.4712">I</text>
+    </g>
+    <text
+       style="font-size:170px;font-family:Arial;text-align:start;text-anchor:start"
+       y="3566.3894"
+       id="text2054"
+       x="95.046974">Goblin</text>
+    <text
+       x="1830.5938"
+       id="text2056"
+       y="3456.7012"
+       style="font-size:160px;font-family:Arial;text-align:start;text-anchor:start">Druidline</text>
+    <text
+       style="font-size:160px;font-family:Arial;text-align:start;text-anchor:start"
+       y="3611.6582"
+       id="text2060"
+       x="1978.1719">Titan</text>
+    <text
+       style="font-size:100px;font-family:Arial;text-align:start;text-anchor:start"
+       y="2826.3403"
+       id="text2068"
+       x="1653.4546">Druidline</text>
+    <text
+       x="1650.4028"
+       id="text2070"
+       y="2930.1968"
+       style="font-size:100px;font-family:Arial;text-align:start;text-anchor:start">Faceless</text>
+    <text
+       style="font-size:160px;font-family:Arial;text-align:start;text-anchor:start"
+       y="2449.8406"
+       id="text2074"
+       x="3828.8501">Titanline</text>
+    <text
+       x="3803.2642"
+       id="text2076"
+       y="2620.0281"
+       style="font-size:160px;font-family:Arial;text-align:start;text-anchor:start">Faceless</text>
+    <g
+       transform="translate(1550.8711,3163.377)"
+       font-size="120"
+       id="g2114"
+       style="font-size:60px;font-family:Arial;text-anchor:middle">
+      <text
+         x="4532.9326"
+         id="text2112"
+         y="-2661.9023">B</text>
+    </g>
+    <g
+       transform="translate(1551.1494,3333.377)"
+       font-size="120"
+       id="g2128"
+       style="font-size:60px;font-family:Arial;text-anchor:middle">
+      <text
+         x="4532.9326"
+         id="text2126"
+         y="-2661.9023">C</text>
+    </g>
+    <g
+       transform="translate(3561.2012,-499.60876)"
+       font-size="120"
+       id="g1275"
+       style="font-size:60px;font-family:Arial;text-anchor:middle">
+      <text
+         x="2522.4707"
+         id="text1273"
+         y="1341.0834">D</text>
+    </g>
+    <g
+       transform="translate(3566.2429,-176.30933)"
+       font-size="120"
+       id="g2024"
+       style="font-size:60px;font-family:Arial;text-anchor:middle">
+      <text
+         x="2517.3997"
+         id="text2022"
+         y="1607.7839">E</text>
+    </g>
+    <g
+       transform="translate(3562.3706,-495.63866)"
+       font-size="120"
+       id="g2050"
+       style="font-size:60px;font-family:Arial;text-anchor:middle">
+      <text
+         x="2520.9351"
+         id="text2048"
+         y="2094.804">F</text>
+    </g>
+    <g
+       transform="translate(3563.7034,-497.28101)"
+       font-size="120"
+       id="g2069"
+       style="font-size:60px;font-family:Arial;text-anchor:middle">
+      <text
+         x="2520.9353"
+         id="text2067"
+         y="2338.7556">G</text>
+    </g>
+    <g
+       transform="translate(2120.9714,428.61255)"
+       font-size="120"
+       id="g2083"
+       style="font-size:60px;font-family:Arial;text-anchor:middle">
+      <text
+         x="3963.4329"
+         id="text2081"
+         y="1652.8621">H</text>
+    </g>
+    <g
+       transform="translate(3513.8252,2415.8769)"
+       font-size="120"
+       id="g2105"
+       style="font-size:60px;font-family:Arial;text-anchor:middle">
+      <text
+         x="2570.4326"
+         id="text2103"
+         y="-164.40233">I</text>
+    </g>
+    <g
+       style="font-weight:bold;font-size:75px;font-family:Arial;text-anchor:middle"
+       id="g2149"
+       font-size="120"
+       transform="translate(4985.282,399.89539)">
+      <text
+         y="-152.02795"
+         id="text2147"
+         x="2893.9338">Have ALL Lineages at L25+</text>
+    </g>
+    <g
+       style="font-size:75px;font-family:Arial;text-anchor:middle"
+       id="g2153"
+       font-size="120"
+       transform="translate(4985.4834,560.8964)">
+      <text
+         y="-152.02795"
+         id="text2151"
+         x="2893.9338">Elf, Dwarf and Dragon Perk 2</text>
+    </g>
+    <g
+       transform="translate(4919.0527,640.1334)"
+       font-size="120"
+       id="g2157"
+       style="font-size:75px;font-family:Arial;text-anchor:middle">
+      <text
+         x="2893.9338"
+         id="text2155"
+         y="-152.02795">Make sure that you have:</text>
+    </g>
+    <g
+       transform="translate(4986.0511,720.28589)"
+       font-size="120"
+       id="g2161"
+       style="font-size:75px;font-family:Arial;text-anchor:middle">
+      <text
+         x="2893.9338"
+         id="text2159"
+         y="-152.02795">Harlequin</text>
+    </g>
+    <g
+       transform="translate(4983.2313,801.35392)"
+       font-size="120"
+       id="g2165"
+       style="font-size:75px;font-family:Arial;text-anchor:middle">
+      <text
+         x="2893.9338"
+         id="text2163"
+         y="-152.02795">Lucifer</text>
+    </g>
+    <g
+       style="font-size:75px;font-family:Arial;text-anchor:middle"
+       id="g2169"
+       font-size="120"
+       transform="translate(4983.7073,881.50642)">
+      <text
+         y="-152.02795"
+         id="text2167"
+         x="2893.9338">Helden Sterben Nicht</text>
+    </g>
+    <g
+       style="font-size:75px;font-family:Arial;text-anchor:middle"
+       id="g2173"
+       font-size="120"
+       transform="translate(5001.1712,1119.1512)">
+      <text
+         y="-229.36777"
+         id="text2171"
+         x="2891.7241">Know Your Enemy, Part I &amp; II</text>
+    </g>
+    <g
+       transform="translate(4483.295,4260.0179)"
+       font-size="120"
+       id="g2181"
+       style="font-size:50px;font-family:Arial;text-anchor:middle">
+      <text
+         x="2894.6541"
+         id="text2179"
+         y="-152.02795"
+         inkscape:export-filename="A1_Plot_v3.7.3.1_v7.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">v12 for 4.0.2.0</text>
+    </g>
+    <line
+       x1="3142.3308"
+       x2="3564.2266"
+       y1="1368.5322"
+       y2="1647.4716"
+       style="stroke:#000000;stroke-width:7"
+       id="line2090" />
+    <g
+       transform="translate(3474.8664,3303.132)"
+       font-size="120"
+       id="g2145-0"
+       style="font-size:75px;font-family:Arial;text-anchor:middle">
+      <text
+         x="2893.9338"
+         id="text2143-1"
+         y="-152.02795" />
+    </g>
+    <g
+       style="font-weight:bold;font-size:75px;font-family:Arial;text-anchor:middle"
+       id="g2149-2"
+       font-size="120"
+       transform="translate(4981.1189,491.79226)">
+      <text
+         y="-163.07649"
+         id="text2147-3"
+         x="2898.3533">Have ALL possible artifacts</text>
+    </g>
+    <text
+       style="font-size:160px;font-family:Arial;text-align:start;text-anchor:start"
+       y="3463.2698"
+       id="text600"
+       x="4493.6411">Fairyline</text>
+    <text
+       style="font-size:160px;font-family:Arial;text-align:start;text-anchor:start"
+       y="3605.0898"
+       id="text602"
+       x="4628.1724">Titan</text>
+    <text
+       style="font-size:100px;font-family:Arial;text-align:start;text-anchor:start"
+       y="1396.6874"
+       id="text577"
+       x="2271.6785">Forgotten Warriors</text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       y="500"
+       id="text580"
+       x="6150.1465">End of R46:</text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       x="6148.0957"
+       id="text584"
+       y="570"><tspan
+         id="tspan582"
+         style="font-style:normal;font-weight:bold;text-align:start;text-anchor:start">Dragon Unlock</tspan></text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       x="6150.1465"
+       id="text588"
+       y="670">End of R55:</text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       y="740"
+       id="text592"
+       x="6147.7295"><tspan
+         style="font-style:normal;font-weight:normal;text-align:start;text-anchor:start"
+         id="tspan590">Dragon Challenge 2+3</tspan></text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       y="840"
+       id="text601"
+       x="6150.1465">End of R60:</text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       x="6560"
+       id="text585"
+       y="840"><tspan
+         id="tspan583"
+         style="font-style:normal;font-weight:normal;text-align:start;text-anchor:start">(in order)</tspan></text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       x="6147.7295"
+       id="text605"
+       y="910"><tspan
+         id="tspan603"
+         style="font-style:normal;font-weight:normal;text-align:start;text-anchor:start">Dragon Challenge 4+5</tspan></text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       y="980"
+       id="text617"
+       x="6150.1465"><tspan
+         style="font-style:normal;font-weight:normal;text-align:start;text-anchor:start"
+         id="tspan615">Spell Cataclysm</tspan></text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       x="6147.583"
+       id="text621"
+       y="1050"><tspan
+         id="tspan619"
+         style="font-style:normal;font-weight:normal;text-align:start;text-anchor:start">Exchange Highlord</tspan></text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       x="6148.1323"
+       id="text589"
+       y="1120"><tspan
+         id="tspan586"
+         style="font-style:normal;font-weight:bold;text-align:start;text-anchor:start">Undead Lineage level 15 (L15), Undead Perk 2</tspan></text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       y="1190"
+       id="text586"
+       x="6153.5156"><tspan
+         style="font-style:normal;font-weight:bold;text-align:start;text-anchor:start"
+         id="tspan584">Fairy Lineage L15, Fairy Perk 2</tspan></text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       y="1260"
+       id="text609"
+       x="6151.9043"><tspan
+         style="font-style:normal;font-weight:bold;text-align:start;text-anchor:start"
+         id="tspan607">Titan Lineage L15, Titan Perk 2</tspan></text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       x="6147.9858"
+       id="text607"
+       y="1330"><tspan
+         id="tspan605"
+         style="font-style:normal;font-weight:bold;text-align:start;text-anchor:start">Faceless Lineage L15</tspan></text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       x="6150.1465"
+       id="text623"
+       y="1430">End of R63:</text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       y="1500"
+       id="text627"
+       x="6147.7295"><tspan
+         style="font-style:normal;font-weight:normal;text-align:start;text-anchor:start"
+         id="tspan625">Dragon Challenge 6</tspan><tspan
+         style="font-style:normal;font-weight:normal;text-align:start;text-anchor:start"
+         id="tspan3301" /></text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       y="1600"
+       id="text647"
+       x="6150">R75, e82 gems:</text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       x="6148.2056"
+       id="text674"
+       y="1670"><tspan
+         id="tspan672"
+         style="font-style:normal;font-weight:bold;text-align:start;text-anchor:start">Mercenary Research Unlock</tspan></text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       y="1740"
+       id="text694"
+       x="6147.7661"><tspan
+         style="font-style:normal;font-weight:bold;text-align:start;text-anchor:start"
+         id="tspan692">Fairy Lineage L25</tspan></text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       y="2080"
+       id="text718"
+       x="6150.1465">End of R82:</text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       x="6148.0225"
+       id="text722"
+       y="2150"><tspan
+         id="tspan720"
+         style="font-style:normal;font-weight:normal;text-align:start;text-anchor:start">Lineages to L30</tspan></text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       y="2250"
+       id="text738"
+       x="6150">R90:</text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       y="2320"
+       id="text750"
+       x="6153.5522"><tspan
+         style="font-style:normal;font-weight:bold;text-align:start;text-anchor:start"
+         id="tspan748">Veteran Figurine (as early as possible)</tspan></text>
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       x="6148.0225"
+       id="text754"
+       y="2390"><tspan
+         id="tspan752"
+         style="font-style:normal;font-weight:normal;text-align:start;text-anchor:start">Lineages pushing (optional)</tspan></text>
+    <text
+       style="font-size:110px;font-family:Arial;text-align:start;text-anchor:start"
+       y="1547.1387"
+       id="text2803"
+       x="4422.46">Brilliant</text>
+    <text
+       style="font-size:120px;font-family:Arial;text-align:start;text-anchor:start"
+       y="1529.3567"
+       id="text2807"
+       x="5229.0659">Pixie Pyre</text>
+    <g
+       transform="translate(4983.7073,961.65893)"
+       font-size="120"
+       id="g4468"
+       style="font-size:75px;font-family:Arial;text-anchor:middle">
+      <text
+         x="2893.9338"
+         id="text4466"
+         y="-152.02795">Mercenary Spirit</text>
+    </g>
+    <text
+       x="6150"
+       id="text1406"
+       y="1840"
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start">End of R75:</text>
+    <text
+       x="6147.7661"
+       id="text1410"
+       y="1910"
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"><tspan
+         id="tspan1408"
+         style="font-style:normal;font-weight:bold;text-align:start;text-anchor:start">Lineages to L25</tspan></text>
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+       id="circle1418"
+       cx="3547.8394"
+       cy="1578.2708"
+       r="40" />
+    <g
+       style="font-size:60px;font-family:Arial;text-anchor:middle"
+       id="g2031"
+       font-size="120"
+       transform="translate(-282.30615,3925.1538)">
+      <text
+         y="-2661.9023"
+         id="text2029"
+         x="4532.9326">H</text>
+    </g>
+    <text
+       x="3871.7725"
+       id="text4731"
+       y="795.05127"
+       style="font-size:100px;font-family:Arial;text-align:start;text-anchor:start">Moonlight Shadow</text>
+    <text
+       x="3008.5454"
+       id="text4746"
+       y="1084.1931"
+       style="font-size:100px;font-family:Arial;text-align:start;text-anchor:start">Blessing of Ramiris</text>
+    <line
+       id="line6226"
+       style="stroke:#000000;stroke-width:7"
+       y2="1612.0822"
+       y1="1095.9907"
+       x2="3945.5835"
+       x1="3772.5312" />
+    <line
+       x1="4703.8818"
+       x2="4790.3599"
+       y1="816.83728"
+       y2="1037.9744"
+       style="stroke:#000000;stroke-width:7"
+       id="line2044" />
+    <text
+       x="4659.6357"
+       id="text1417"
+       y="449.56693"
+       style="font-size:100px;font-family:Arial;text-align:start;text-anchor:start">Toward the Unknown</text>
+    <text
+       x="4239.252"
+       id="text1421"
+       y="1655.1387"
+       style="font-size:110px;font-family:Arial;text-align:start;text-anchor:start">Lightning Rush</text>
+    <line
+       id="line3518"
+       style="stroke:#000000;stroke-width:7"
+       y2="687.91132"
+       y1="466.77426"
+       x2="5599.1724"
+       x1="5512.6943" />
+    <text
+       style="font-style:italic;font-size:75px;font-family:Arial;text-align:start;text-anchor:start"
+       y="1980"
+       id="text3746"
+       x="6147.7661"><tspan
+         style="font-style:normal;font-weight:bold;text-align:start;text-anchor:start"
+         id="tspan3744">All Perk 2s except Demon &amp; Drow</tspan></text>
+    <text
+       x="6152.1094"
+       id="text4116"
+       y="2680.2356"
+       style="font-style:italic;font-size:60px;font-family:Arial;text-align:start;text-anchor:start"><tspan
+         id="tspan4114"
+         style="font-style:normal;font-weight:normal;text-align:start;text-anchor:start">Tiering at any other points is an inefficient</tspan></text>
+    <text
+       style="font-style:italic;font-size:60px;font-family:Arial;text-align:start;text-anchor:start"
+       y="2750.2356"
+       id="text4120"
+       x="6156.3525"><tspan
+         style="font-style:normal;font-weight:normal;text-align:start;text-anchor:start"
+         id="tspan4118">use of your time and should be avoided</tspan></text>
+    <text
+       id="text4132"
+       y="2821.5913"
+       x="6283.1885"
+       style="font-style:normal;font-weight:normal;font-size:58.5453px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02485"
+       xml:space="preserve"><tspan
+         style="stroke-width:1.02485"
+         y="2821.5913"
+         x="6283.1885"
+         id="tspan4130"
+         sodipodi:role="line">Demon (spells) to T3: 1d 16h 3m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:58.5453px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02485"
+       x="6283.1885"
+       y="2889.917"
+       id="text4142"><tspan
+         sodipodi:role="line"
+         id="tspan4140"
+         x="6283.1885"
+         y="2889.917"
+         style="stroke-width:1.02485">Elf to T2: 20h 12m</tspan></text>
+    <text
+       id="text4146"
+       y="2958.2197"
+       x="6283.1885"
+       style="font-style:normal;font-weight:normal;font-size:58.5453px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02485"
+       xml:space="preserve"><tspan
+         style="stroke-width:1.02485"
+         y="2958.2197"
+         x="6283.1885"
+         id="tspan4144"
+         sodipodi:role="line">Faceless to T6: 3d 10h 33m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:58.5453px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02485"
+       x="6288.9058"
+       y="3026.5225"
+       id="text4150"><tspan
+         sodipodi:role="line"
+         id="tspan4148"
+         x="6288.9058"
+         y="3026.5225"
+         style="stroke-width:1.02485">Titanline Fairy to T6: 1d 11h 9m</tspan></text>
+    <text
+       id="text4154"
+       y="3094.8254"
+       x="6283.1885"
+       style="font-style:normal;font-weight:normal;font-size:58.5453px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02485"
+       xml:space="preserve"><tspan
+         style="stroke-width:1.02485"
+         y="3094.8254"
+         x="6283.1885"
+         id="tspan4152"
+         sodipodi:role="line">BF, GB, GH, NT (with E-Merc) to T6: 16h 59m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:58.5453px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02485"
+       x="6285.6182"
+       y="3163.1282"
+       id="text4162"><tspan
+         sodipodi:role="line"
+         id="tspan4160"
+         x="6285.6182"
+         y="3163.1282"
+         style="stroke-width:1.02485">Gob G, CS, MB (with E-Merc) to T6: 9h 28m</tspan></text>
+    <text
+       id="text4262"
+       y="3231.4309"
+       x="6285.6182"
+       style="font-style:normal;font-weight:normal;font-size:58.5453px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02485"
+       xml:space="preserve"><tspan
+         style="stroke-width:1.02485"
+         y="3231.4309"
+         x="6285.6182"
+         id="tspan4260"
+         sodipodi:role="line">HfB in A2</tspan></text>
+    <text
+       style="font-style:italic;font-size:60px;font-family:Arial;text-align:start;text-anchor:start"
+       y="2820.2356"
+       id="text4124"
+       x="6148.7988"><tspan
+         style="font-style:normal;font-weight:normal;text-align:start;text-anchor:start"
+         id="tspan4122">R46:</tspan></text>
+    <text
+       x="6148.7988"
+       id="text4234"
+       y="2956.6882"
+       style="font-style:italic;font-size:60px;font-family:Arial;text-align:start;text-anchor:start"><tspan
+         id="tspan4232"
+         style="font-style:normal;font-weight:normal;text-align:start;text-anchor:start">R55:</tspan></text>
+    <text
+       style="font-style:italic;font-size:60px;font-family:Arial;text-align:start;text-anchor:start"
+       y="3025.1667"
+       id="text4238"
+       x="6148.7988"><tspan
+         style="font-style:normal;font-weight:normal;text-align:start;text-anchor:start"
+         id="tspan4236">R70:</tspan></text>
+    <text
+       x="6148.7988"
+       id="text4242"
+       y="3093.4697"
+       style="font-style:italic;font-size:60px;font-family:Arial;text-align:start;text-anchor:start"><tspan
+         id="tspan4240"
+         style="font-style:normal;font-weight:normal;text-align:start;text-anchor:start">R85:</tspan></text>
+    <text
+       style="font-style:italic;font-size:60px;font-family:Arial;text-align:start;text-anchor:start"
+       y="3161.7725"
+       id="text4246"
+       x="6148.7988"><tspan
+         style="font-style:normal;font-weight:normal;text-align:start;text-anchor:start"
+         id="tspan4244">R99:</tspan></text>
+    <g
+       style="font-size:60px;font-family:Arial;text-anchor:middle"
+       id="g2023"
+       font-size="120"
+       transform="translate(112.67041,3726.6477)">
+      <text
+         y="-2126.9023"
+         id="text2021"
+         x="3435.4326">G</text>
+    </g>
+    <text
+       transform="matrix(0.97575454,0,0,0.97575454,40.95894,171.20552)"
+       id="text4066"
+       y="2466.0864"
+       x="6257.5352"
+       style="font-style:normal;font-weight:normal;font-size:122.982px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05031"
+       xml:space="preserve"><tspan
+         style="stroke-width:1.05031"
+         y="2466.0864"
+         x="6257.5352"
+         id="tspan4064"
+         sodipodi:role="line">Optimal tiering order</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:120px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05031"
+       x="6259.0503"
+       y="3320.2471"
+       id="text1051-9"
+       transform="matrix(0.97575454,0,0,0.97575454,40.95894,171.20552)"><tspan
+         sodipodi:role="line"
+         id="tspan1049-6"
+         x="6259.0503"
+         y="3320.2471"
+         style="stroke-width:1.05031">What to do offline</tspan></text>
+    <text
+       id="text1415"
+       y="3572.5874"
+       x="6145.3711"
+       style="font-style:normal;font-weight:normal;font-size:60px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02484"
+       xml:space="preserve"><tspan
+         style="stroke-width:1.02484"
+         y="3572.5874"
+         x="6145.3711"
+         id="tspan1413"
+         sodipodi:role="line">1) Druid until 2 days (across all Rs)</tspan></text>
+    <text
+       id="text1423"
+       y="3640.8904"
+       x="6148.7993"
+       style="font-style:normal;font-weight:normal;font-size:60px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02484"
+       xml:space="preserve"><tspan
+         style="stroke-width:1.02484"
+         y="3640.8904"
+         x="6148.7993"
+         id="tspan1421"
+         sodipodi:role="line">2) Faceless until 2 days </tspan></text>
+    <text
+       id="text1431"
+       y="3709.1931"
+       x="6148.6235"
+       style="font-style:normal;font-weight:normal;font-size:60px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02484"
+       xml:space="preserve"><tspan
+         style="stroke-width:1.02484"
+         y="3709.1931"
+         x="6148.6235"
+         id="tspan1429"
+         sodipodi:role="line">3) Druid until 4-5 days </tspan></text>
+    <text
+       id="text1439"
+       y="3777.4958"
+       x="6151.2603"
+       style="font-style:normal;font-weight:normal;font-size:60px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02484"
+       xml:space="preserve"><tspan
+         style="stroke-width:1.02484"
+         y="3777.4958"
+         x="6151.2603"
+         id="tspan1437"
+         sodipodi:role="line">4) Titan until 4-5 days</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:60px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02484"
+       x="6149.5903"
+       y="3504.2847"
+       id="text847"><tspan
+         style="stroke-width:1.02484"
+         sodipodi:role="line"
+         id="tspan845"
+         x="6149.5903"
+         y="3504.2847">Still applies for A1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:60px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02484"
+       x="6149.5024"
+       y="3914.1016"
+       id="text1806"><tspan
+         style="stroke-width:1.02484"
+         sodipodi:role="line"
+         id="tspan1804"
+         x="6149.5024"
+         y="3914.1016">6) Then always Angel</tspan></text>
+    <text
+       id="text1447-0"
+       y="3845.7988"
+       x="6148.0376"
+       style="font-style:normal;font-weight:normal;font-size:60px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02484"
+       xml:space="preserve"><tspan
+         style="stroke-width:1.02484"
+         y="3845.7988"
+         x="6148.0376"
+         id="tspan1445-1"
+         sodipodi:role="line">5) Merc until 14-15 days or you've ascended</tspan></text>
+  </g>
+</svg>
