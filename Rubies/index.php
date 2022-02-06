@@ -76,7 +76,7 @@
             $('#rubcalc :checkbox').on('change', rubcalc);
         </script>
     </div>
-    <p>The formula for the number of excavations required for each ruby is (25 * n * (n + 1), where n is the number of rubies.</p>
+    <p>The formula for the number of excavations required for each ruby is (25 * n * (n + 1)), where n is the number of rubies found from excavations.</p>
     <p>Finding the 1st, 10th, 25th and 50th ruby rewards a trophy.</p>
     <p><b>Spending Rubies</b></p>
     <p>Rubies enable you to buy: Excavation Resets (see <b><a target="_blank" href="http://musicfamily.org/realm/Artifacts/">Artifacts</a></b> page)), Event items (such as snowballs during the Christmas event) or mainly <b>Ruby Upgrades</b>.</p>

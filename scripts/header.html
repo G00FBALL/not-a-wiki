@@ -8,331 +8,331 @@
 <meta charset="UTF-8">
 <meta name="keywords" content="Realm Grinder, Game, Artifact, Artifacts, Factions, Reincarnation, Challenges, Mercenary Builds, Mercenary, Research Builds, Research, Upgrades, Spells, Ascension, Ascension Builds, Prestige Research, Prestige, Prestige Builds, Kongregate, Trophies, Trophy, Faction Champion, Games, Coins, Treasure, Mana, Assistants, Gem, Gems,  Archaeology, Excavation, Ruby, Rubies, Lore Artifacts, Quest Artifacts, Fairy, Elven, Angel, Goblin, Undead, Demon, Titan, Druid, Faceless, Dwarven, Drow, Research, Notation, Premium Upgrades, Requirements, Final Reward, Reward"/>
 <style>
-        table.Faction {
-            border-collapse: collapse;
-        }
-        .Faction th,.Faction td {
-            border: 2px solid black;
-        padding: 3px;
-        }
-        .Faction td {
-            font-weight: bold;
-        padding: 10px;
-        }
-       .gsc-cursor-page  {
-        padding-right: 10px;
-       }
-    </style>
+		table.Faction {
+			border-collapse: collapse;
+		}
+		.Faction th,.Faction td {
+			border: 2px solid black;
+		padding: 3px;
+		}
+		.Faction td {
+			font-weight: bold;
+		padding: 10px;
+		}
+	   .gsc-cursor-page  {
+		padding-right: 10px;
+	   }
+	</style>
 <style>
-        table.ManaColors {
-            border-collapse: collapse;
-        }
-        .ManaColors th,.ManaColors td {
-            border: 3px solid black;
-        }
-        .ManaColors td {
-            font-weight: bold
-        }
-       .gsc-cursor-page  {
-        padding: 4px;
-       }
+		table.ManaColors {
+			border-collapse: collapse;
+		}
+		.ManaColors th,.ManaColors td {
+			border: 3px solid black;
+		}
+		.ManaColors td {
+			font-weight: bold
+		}
+	   .gsc-cursor-page  {
+		padding: 4px;
+	   }
 </style>
 <style>
-        table.numtable {
-            border-collapse: collapse;
-        }
-        .numtable tr:hover {
-            background-color: #ffffff
-        }
-        .numtable tr:hover {
-            background-color: #ffffff
-        }
-        .numtable th,.numtable td {
-            border: 3px solid #4c5b86;
-        }
-        .numtable td {
-            font-weight: bold
-        }
-       .gsc-cursor-page  {
-        padding: 4px;
-       }
-    </style>
+		table.numtable {
+			border-collapse: collapse;
+		}
+		.numtable tr:hover {
+			background-color: #ffffff
+		}
+		.numtable tr:hover {
+			background-color: #ffffff
+		}
+		.numtable th,.numtable td {
+			border: 3px solid #4c5b86;
+		}
+		.numtable td {
+			font-weight: bold
+		}
+	   .gsc-cursor-page  {
+		padding: 4px;
+	   }
+	</style>
 <style>
-        table.imgtable {
-            border-collapse: collapse;
-        }
-        .imgtable th,.imgtable td {
-            border: none;
-        }
-        .imgtable td {
-            font-weight: bold
-        }
-       .gsc-cursor-page  {
-        padding: 4px;
-       }
-    </style>
+		table.imgtable {
+			border-collapse: collapse;
+		}
+		.imgtable th,.imgtable td {
+			border: none;
+		}
+		.imgtable td {
+			font-weight: bold
+		}
+	   .gsc-cursor-page  {
+		padding: 4px;
+	   }
+	</style>
 <style>
-    .black_overlay {
-        display: none;
-        position: absolute;
-        top: 0%;
-        left: 0%;
-        width: 100%;
-        height: 100%;
-        background-color: black;
-        z-index: 1001;
-        -moz-opacity: 0.8;
-        opacity: .80;
-        filter: alpha(opacity=80);
-    }
+	.black_overlay {
+		display: none;
+		position: absolute;
+		top: 0%;
+		left: 0%;
+		width: 100%;
+		height: 100%;
+		background-color: black;
+		z-index: 1001;
+		-moz-opacity: 0.8;
+		opacity: .80;
+		filter: alpha(opacity=80);
+	}
 
-    .white_content {
-        display: none;
-        position: absolute;
-        top: 0%;
-        left: 0%;
-        width: 99%;
-        height: 50%;
-        padding: 16px;
-        border: 1px solid orange;
-        background-color: white;
-        z-index: 1002;
-        overflow: auto;
-    }
+	.white_content {
+		display: none;
+		position: absolute;
+		top: 0%;
+		left: 0%;
+		width: 99%;
+		height: 50%;
+		padding: 16px;
+		border: 1px solid orange;
+		background-color: white;
+		z-index: 1002;
+		overflow: auto;
+	}
 </style>
 
 <script>
-    $(document).ready(function () {
-        $("#Expand").on("hide.bs.collapse", function () {
-            $(".btn").html('<span class="glyphicon glyphicon-collapse-down"></span> Expand');
-        });
-        $("#Expand").on("show.bs.collapse", function () {
-            $(".btn").html('<span class="glyphicon glyphicon-collapse-up"></span> Collapse');
-        });
-    });
+	$(document).ready(function () {
+		$("#Expand").on("hide.bs.collapse", function () {
+			$(".btn").html('<span class="glyphicon glyphicon-collapse-down"></span> Expand');
+		});
+		$("#Expand").on("show.bs.collapse", function () {
+			$(".btn").html('<span class="glyphicon glyphicon-collapse-up"></span> Collapse');
+		});
+	});
 </script>
 <script>
-    (function ($) {
-        $(document).ready(function () {
-            $("[research]").style_my_tooltips();
-        });
-    })(jQuery);
+	(function ($) {
+		$(document).ready(function () {
+			$("[research]").style_my_tooltips();
+		});
+	})(jQuery);
 </script>
 <script type="text/javascript">
-    function shohid(e) {
-        //$('.autohide').not(e.next()).hide();
-        $(e).parents('.autohide').show();
-        $(e).next().toggle();
-    }
+	function shohid(e) {
+		//$('.autohide').not(e.next()).hide();
+		$(e).parents('.autohide').show();
+		$(e).next().toggle();
+	}
 </script>
 <div id="outer">
-    <div id="parent">
-        <div id="header" align="center">
-        </div>
-    </div>
-    <div id="navbox">
-        <div class="menu">
-            <ul>
-                <li><a href="/realm/Challenges" research="A complete list of Challenges and their requirements in image map form">Challenges</a>
-                    <!--[if lte IE 6]>
-                    <a href="#">Category one
-                        <table>
-                            <tr>
-                                <td>
-                    <![endif]-->
-                    <ul>
-                        <li><a href="/realm/Fairy" research="All Fairy Challenges">Fairy</a>
-                        <li><a href="/realm/Elf" research="All Elven Challenges">Elven</a>
-                        <li><a href="/realm/Angel" research="All Angel Challenges">Angel</a>
-                        <li><a href="/realm/Goblin" research="All Goblin Challenges">Goblin</a>
-                        <li><a href="/realm/Undead" research="All Undead Challenges">Undead</a>
-                        <li><a href="/realm/Demon" research="All Demon Challenges">Demon</a>
-                        <li><a href="/realm/Titan" research="All Titan Challenges">Titan</a>
-                        <li><a href="/realm/Druid" research="All Druid Challenges">Druid</a>
-                        <li><a href="/realm/Faceless" research="All Faceless Challenges">Faceless</a>
-                        <li><a href="/realm/Dwarf" research="All Dwarven Challenges">Dwarven</a>
-                        <li><a href="/realm/Drow" research="All Drow Challenges">Drow</a>
-                        <li><a href="/realm/Dragons" research="All Dragon Challenges">Dragon</a>
-                        <li><a href="/realm/Archon" research="All Archon Challenges">Archon</a>
-                        <li><a href="/realm/Djinn" research="All Djinn Challenges">Djinn</a>
-                        <li><a href="/realm/Makers" research="All Makers Challenges">Makers</a>
-                        <li><a href="/realm/Mercenary" research="All Mercenary Challenges">Mercenary</a>
-                            <ul>
-                            </ul>
-                            <!--[if lte IE 6]>
-                            </td></tr></table>
-                            </a>
-                            <![endif]-->
-                        </li>
-                    </ul>
-                    <!--[if lte IE 6]>
-                    </td></tr></table>
-                    </a>
-                    <![endif]-->
-                </li>
-                <li><a href="/realm/TrophyPage" research="A complete list of Trophies and their requirements in image map form">Trophies</a>
-                </li>
-                <li><a href="/realm/Factions">Factions</a>
-                    <!--[if lte IE 6]>
-                    <a href="#">CATEGORY THREE
-                        <table>
-                            <tr>
-                                <td>
-                    <![endif]-->
-                    <ul>
-                        <li><a href="/realm/FairyFaction" research="Fairy">Fairy</a></li>
-                        <li><a href="/realm/ElfFaction" research="Elven">Elven</a></li>
-                        <li><a href="/realm/AngelFaction" research="Angel">Angel</a></li>
-                        <li><a href="/realm/GoblinFaction" research="Goblin">Goblin</a></li>
-                        <li><a href="/realm/UndeadFaction" research="Undead">Undead</a></li>
-                        <li><a href="/realm/DemonFaction" research="Demon">Demon</a></li>
-                        <li><a href="/realm/TitanFaction" research="Titan">Titan</a></li>
-                        <li><a href="/realm/DruidFaction" research="Druid">Druid</a></li>
-                        <li><a href="/realm/FacelessFaction" research="Faceless">Faceless</a></li>
-                        <li><a href="/realm/DwarfFaction" research="Dwarven">Dwarven</a></li>
-                        <li><a href="/realm/DrowFaction" research="Drow">Drow</a></li>
-                        <li><a href="/realm/DragonFaction" research="Dragon">Dragon</a></li>
-                        <li><a href="/realm/MercenaryFaction" research="Mercenary">Mercenary</a></li>
-                        <li><a href="/realm/ArchonFaction" research="Archon">Archon</a></li>
-                        <li><a href="/realm/DjinnFaction" research="Djinn">Djinn</a></li>
-                        <li><a href="/realm/MakersFaction" research="Makers">Makers</a></li>
-                    </ul>
-                    <!--[if lte IE 6]>
-                    </td></tr></table>
-                    </a>
-                    <![endif]-->
-                </li>
-                <li><a href="/realm/Artifacts" research="A complete list of Artifacts and their requirements in image map form">Artifacts</a>
-                    <!--[if lte IE 6]>
-                    <a href="#">category 4
-                        <table>
-                            <tr>
-                                <td>
-                    <![endif]-->
-                    <ul>
-                        <li><a href="/realm/QuestArtifacts/" research="Quest Artifacts">Quest Artifacts</a></li>
-                        <li><a href="/realm/LoreArtifacts/" research="Lore Artifacts">Lore Artifacts</a></li>
-                    </ul>
-                    <!--[if lte IE 6]>
-                    </td></tr></table>
-                    </a>
-                    <![endif]-->
-                </li>
-                <li><a href="/realm/Research">Research</a>
-                    <!--[if lte IE 6]>
-                    <a href="#">EXPLORER
-                        <table>
-                            <tr>
-                                <td>
-                    <![endif]-->
-                    <ul>
-                        <li><a href="/realm/ResearchList" research="Research List">Research List</a>
-                        <li><a href="/realm/Researchtree" research="Research Tree">Research Tree</a></li>
-                        <li><a href="/realm/UniqueBuilding" research="Unique Buildings">Unique Buildings</a></li>
-                    </ul>
-                    <!--[if lte IE 6]>
-                    </td></tr></table>
-                    </a>
-                    <![endif]-->
-                </li>
-                <li><a href="/realm/Notation">Notation</a>
-                    <!--[if lte IE 6]>
-                    </td></tr></table>
-                    </a>
-                    <![endif]-->
-                </li>
-                <li><a href="/realm/PremiumUpgrades/">Premium</a>
-                    <!--[if lte IE 6]>
-                    </td></tr></table>
-                    </a>
-                    <![endif]-->
-                </li>
-            </ul>
-        </div>
-    </div>
+	<div id="parent">
+		<div id="header" align="center">
+		</div>
+	</div>
+	<div id="navbox">
+		<div class="menu">
+			<ul>
+				<li><a href="/realm/Challenges" research="A complete list of Challenges and their requirements in image map form">Challenges</a>
+					<!--[if lte IE 6]>
+					<a href="#">Category one
+						<table>
+							<tr>
+								<td>
+					<![endif]-->
+					<ul>
+						<li><a href="/realm/Fairy" research="All Fairy Challenges">Fairy</a>
+						<li><a href="/realm/Elf" research="All Elven Challenges">Elven</a>
+						<li><a href="/realm/Angel" research="All Angel Challenges">Angel</a>
+						<li><a href="/realm/Goblin" research="All Goblin Challenges">Goblin</a>
+						<li><a href="/realm/Undead" research="All Undead Challenges">Undead</a>
+						<li><a href="/realm/Demon" research="All Demon Challenges">Demon</a>
+						<li><a href="/realm/Titan" research="All Titan Challenges">Titan</a>
+						<li><a href="/realm/Druid" research="All Druid Challenges">Druid</a>
+						<li><a href="/realm/Faceless" research="All Faceless Challenges">Faceless</a>
+						<li><a href="/realm/Dwarf" research="All Dwarven Challenges">Dwarven</a>
+						<li><a href="/realm/Drow" research="All Drow Challenges">Drow</a>
+						<li><a href="/realm/Dragons" research="All Dragon Challenges">Dragon</a>
+						<li><a href="/realm/Archon" research="All Archon Challenges">Archon</a>
+						<li><a href="/realm/Djinn" research="All Djinn Challenges">Djinn</a>
+						<li><a href="/realm/Makers" research="All Makers Challenges">Makers</a>
+						<li><a href="/realm/Mercenary" research="All Mercenary Challenges">Mercenary</a>
+							<ul>
+							</ul>
+							<!--[if lte IE 6]>
+							</td></tr></table>
+							</a>
+							<![endif]-->
+						</li>
+					</ul>
+					<!--[if lte IE 6]>
+					</td></tr></table>
+					</a>
+					<![endif]-->
+				</li>
+				<li><a href="/realm/TrophyPage" research="A complete list of Trophies and their requirements in image map form">Trophies</a>
+				</li>
+				<li><a href="/realm/Factions">Factions</a>
+					<!--[if lte IE 6]>
+					<a href="#">CATEGORY THREE
+						<table>
+							<tr>
+								<td>
+					<![endif]-->
+					<ul>
+						<li><a href="/realm/FairyFaction" research="Fairy">Fairy</a></li>
+						<li><a href="/realm/ElfFaction" research="Elven">Elven</a></li>
+						<li><a href="/realm/AngelFaction" research="Angel">Angel</a></li>
+						<li><a href="/realm/GoblinFaction" research="Goblin">Goblin</a></li>
+						<li><a href="/realm/UndeadFaction" research="Undead">Undead</a></li>
+						<li><a href="/realm/DemonFaction" research="Demon">Demon</a></li>
+						<li><a href="/realm/TitanFaction" research="Titan">Titan</a></li>
+						<li><a href="/realm/DruidFaction" research="Druid">Druid</a></li>
+						<li><a href="/realm/FacelessFaction" research="Faceless">Faceless</a></li>
+						<li><a href="/realm/DwarfFaction" research="Dwarven">Dwarven</a></li>
+						<li><a href="/realm/DrowFaction" research="Drow">Drow</a></li>
+						<li><a href="/realm/DragonFaction" research="Dragon">Dragon</a></li>
+						<li><a href="/realm/MercenaryFaction" research="Mercenary">Mercenary</a></li>
+						<li><a href="/realm/ArchonFaction" research="Archon">Archon</a></li>
+						<li><a href="/realm/DjinnFaction" research="Djinn">Djinn</a></li>
+						<li><a href="/realm/MakersFaction" research="Makers">Makers</a></li>
+					</ul>
+					<!--[if lte IE 6]>
+					</td></tr></table>
+					</a>
+					<![endif]-->
+				</li>
+				<li><a href="/realm/Artifacts" research="A complete list of Artifacts and their requirements in image map form">Artifacts</a>
+					<!--[if lte IE 6]>
+					<a href="#">category 4
+						<table>
+							<tr>
+								<td>
+					<![endif]-->
+					<ul>
+						<li><a href="/realm/QuestArtifacts/" research="Quest Artifacts">Quest Artifacts</a></li>
+						<li><a href="/realm/LoreArtifacts/" research="Lore Artifacts">Lore Artifacts</a></li>
+					</ul>
+					<!--[if lte IE 6]>
+					</td></tr></table>
+					</a>
+					<![endif]-->
+				</li>
+				<li><a href="/realm/Research">Research</a>
+					<!--[if lte IE 6]>
+					<a href="#">EXPLORER
+						<table>
+							<tr>
+								<td>
+					<![endif]-->
+					<ul>
+						<li><a href="/realm/ResearchList" research="Research List">Research List</a>
+						<li><a href="/realm/Researchtree" research="Research Tree">Research Tree</a></li>
+						<li><a href="/realm/UniqueBuilding" research="Unique Buildings">Unique Buildings</a></li>
+					</ul>
+					<!--[if lte IE 6]>
+					</td></tr></table>
+					</a>
+					<![endif]-->
+				</li>
+				<li><a href="/realm/Notation">Notation</a>
+					<!--[if lte IE 6]>
+					</td></tr></table>
+					</a>
+					<![endif]-->
+				</li>
+				<li><a href="/realm/PremiumUpgrades/">Premium</a>
+					<!--[if lte IE 6]>
+					</td></tr></table>
+					</a>
+					<![endif]-->
+				</li>
+			</ul>
+		</div>
+	</div>
 
-    <div id="parent">
-        <div id="leftcolumn">
-            <div id="leftbox">
-            </div>
-            <div id="navcontainer">
-                <ul id="navlist">
-                  <li id="active"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+	<div id="parent">
+		<div id="leftcolumn">
+			<div id="leftbox">
+			</div>
+			<div id="navcontainer">
+				<ul id="navlist">
+				  <li id="active"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----MIIHJwYJKoZIhvcNAQcEoIIHGDCCBxQCAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYABBed3WDi1lVV5pb+JKKoYxXUQAMvwYA+htRxJfFiGAMlMqfmaPiuCsUi++mOPAcx0wTGPbNZFt5j3GzM1PtKo7Ag7X06KwgnuGTc2M6N9wRsWTSUjVsZ5tw0cWlxCWj1CC0bzp373SfqYtypUH5XsY5G+XS55/GoZzF98vDuvMTELMAkGBSsOAwIaBQAwgaQGCSqGSIb3DQEHATAUBggqhkiG9w0DBwQIcDGWTXI8JiWAgYBzhzJtHTz8vZAY7UXlviKEHTZcr2ZwfsZgLTdzWsRGDwCslcnt7a7X1OVJWCHY6B8En5HibuEly48lX7LTL/IVQJKo9Jy2Z+w7RYLRZRRmKnlO36w+NoYeEXcWBrTiwFMWTc2whdE8/edgCtJqdCBqqYzINIyoIom44F3wRV0NEKCCA4cwggODMIIC7KADAgECAgEAMA0GCSqGSIb3DQEBBQUAMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbTAeFw0wNDAyMTMxMDEzMTVaFw0zNTAyMTMxMDEzMTVaMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAwUdO3fxEzEtcnI7ZKZL412XvZPugoni7i7D7prCe0AtaHTc97CYgm7NsAtJyxNLixmhLV8pyIEaiHXWAh8fPKW+R017+EmXrr9EaquPmsVvTywAAE1PMNOKqo2kl4Gxiz9zZqIajOm1fZGWcGS0f5JQ2kBqNbvbg2/Za+GJ/qwUCAwEAAaOB7jCB6zAdBgNVHQ4EFgQUlp98u8ZvF71ZP1LXChvsENZklGswgbsGA1UdIwSBszCBsIAUlp98u8ZvF71ZP1LXChvsENZklGuhgZSkgZEwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tggEAMAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEFBQADgYEAgV86VpqAWuXvX6Oro4qJ1tYVIT5DgWpE692Ag422H7yRIr/9j/iKG4Thia/Oflx4TdL+IFJBAyPK9v6zZNZtBgPBynXb048hsP16l2vi0k5Q2JKiPDsEfBhGI+HnxLXEaUWAcVfCsQFvd2A1sxRr67ip5y2wwBelUecP3AjJ+YcxggGaMIIBlgIBATCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE4MDMyOTEwNDMzMlowIwYJKoZIhvcNAQkEMRYEFBjsXbW7ntttO6jWnQyxxbGxQxK7MA0GCSqGSIb3DQEBAQUABIGAiWv748Lds8X4GoPOpfiDzdc0Fue/FXeUKsMAVnAcNuBolecQvJuOCvFAAfGxKtYk9MlJHRhn+GWPrWStmE+i1ptRh9rgeTrZ/BeHR8wyOMq7dGhEkQpvj4pZP1Pf4AmA0nse87p8e77itIiZ/0tYb+yh4hcw9Ij2jo80j8VwJ/A=-----END PKCS7-----
 ">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-                    <li id="active"><a href="/realm" id="current">Home</a></li>
-                    <li id="active"><a href="/realm/GuestBook/gbook.php" id="current">G00F's<br/>not a Guest Book</a></li>
-                    <li id="active"><a href="/realm/SiteMap/" id="current">Sitemap</a></li>
+					<li id="active"><a href="/realm" id="current">Home</a></li>
+					<li id="active"><a href="/realm/GuestBook/gbook.php" id="current">G00F's<br/>not a Guest Book</a></li>
+					<li id="active"><a href="/realm/SiteMap/" id="current">Sitemap</a></li>
 					<li id="active"><a href="/realm/Kong">Kongregate Links</a></li>
-                    <li id="active"><a href="/realm/WallofShame">Wall of Shame</a></li>
-                    <li id="active"><a href="/realm/Changes/" id="current">Latest Major Patch</a></li>
+					<li id="active"><a href="/realm/WallofShame">Wall of Shame</a></li>
+					<li id="active"><a href="/realm/Changes/" id="current">Latest Major Patch</a></li>
 					<li id="active"><a href="/realm/Changelog">Changelog</a></li>
-                    <li id="active"><a href="https://discord.gg/cq6zmQX" id="current">Official Realm Grinder Discord</a></li>
-                    <P align="center">The Game
-                    <li id="active"><a href="/realm/GameWindow">Game Window</a></li>
-                    <li id="active"><a href="/realm/Notation">Notation</a></li>
-                    <li id="active"><a href="/realm/Terminology">Terminology<br/>HotKeys</a></li>
-                    <li id="active"><a href="/realm/RNG/" id="current">Random Number Generator</a></li>
-                    <li id="active"><a href="/realm/Reset">Abdication<br/>Reincarnation<br/>Ascension</a></li>
-                    <li id="active"><a href="/realm/Ascension2">Ascension 2</a></li>
+					<li id="active"><a href="https://discord.gg/cq6zmQX" id="current">Official Realm Grinder Discord</a></li>
+					<P align="center">The Game
+					<li id="active"><a href="/realm/GameWindow">Game Window</a></li>
+					<li id="active"><a href="/realm/Notation">Notation</a></li>
+					<li id="active"><a href="/realm/Terminology">Terminology<br/>HotKeys</a></li>
+					<li id="active"><a href="/realm/RNG/" id="current">Random Number Generator</a></li>
+					<li id="active"><a href="/realm/Reset">Abdication<br/>Reincarnation<br/>Ascension</a></li>
+					<li id="active"><a href="/realm/Ascension2">Ascension 2</a></li>
 					<li id="active"><a href="/realm/Ascension4">Ascension 4</a></li>
-                    <li id="active"><a href="/realm/Events">Events</a></li>
-                    <P align="center">Tools and Guides
-                    <li id="active"><a href="/realm/Tools">Realm Grinder Tools</a></li>
-                    <li id="active"><a target="_blank" href="https://steamcommunity.com/sharedfiles/filedetails/?id=1118498519">Beginners Guide </a></li>
-                    <li id="active"><a href="/realm/TrophyGuide">Trophy Guide</a></li>
-                    <li id="active"><a href="/realm/R16Guide">R16 Research Guide</a></li>
-                    <P align="center">Upgrades
-                    <li id="active"><a href="/realm/Upgrades">Misc Upgrades</a></li>
+					<li id="active"><a href="/realm/Events">Events</a></li>
+					<P align="center">Tools and Guides
+					<li id="active"><a href="/realm/Tools">Realm Grinder Tools</a></li>
+					<li id="active"><a target="_blank" href="https://steamcommunity.com/sharedfiles/filedetails/?id=1118498519">Beginners Guide </a></li>
+					<li id="active"><a href="/realm/TrophyGuide">Trophy Guide</a></li>
+					<li id="active"><a href="/realm/R16Guide">R16 Research Guide</a></li>
+					<P align="center">Upgrades
+					<li id="active"><a href="/realm/Upgrades">Misc Upgrades</a></li>
 					<li id="active"><a href="/realm/BuildingAlignments">Building Alignments</a></li>
-                    <li id="active"><a href="/realm/BuildingUpgrades">Building Upgrades</a></li>
-                    <li id="active"><a href="/realm/PremiumUpgrades">Premium Upgrades</a></li>
-                    <li id="active"><a href="/realm/Rubies">Rubies</a></li>
-                    <li id="active"><a href="/realm/TrophyPage" reserach="A complete list of Trophies">Trophy Page</a></li>
-                    <li id="active"><a href="/realm/Factions">Factions</a></li>
-                    <li id="active"><a href="/realm/FactionUpgrades">Faction Upgrades</a></li>
+					<li id="active"><a href="/realm/BuildingUpgrades">Building Upgrades</a></li>
+					<li id="active"><a href="/realm/PremiumUpgrades">Premium Upgrades</a></li>
+					<li id="active"><a href="/realm/Rubies">Rubies</a></li>
+					<li id="active"><a href="/realm/TrophyPage" reserach="A complete list of Trophies">Trophy Page</a></li>
+					<li id="active"><a href="/realm/Factions">Factions</a></li>
+					<li id="active"><a href="/realm/FactionUpgrades">Faction Upgrades</a></li>
 					<li id="active"><a href="/realm/Spells">Spells</a></li>
-                    <li id="active"><a href="/realm/Heritages">Heritages</a></li>
-                    <li id="active"><a href="/realm/Artifacts/">Artifacts</a></li>
-                    <li id="active"><a href="/realm/Challenges/">Challenges</a></li>
-                    <li id="active"><a href="/realm/Bloodline">Bloodlines</a></li>
-                    <li id="active"><a href="/realm/Research">Research</a></li>
-                    <li id="active"><a href="/realm/Researchtree">Research Tree</a></li>
-                    <li id="active"><a href="/realm/SunForce">Sun Force</a></li>
+					<li id="active"><a href="/realm/Heritages">Heritages</a></li>
+					<li id="active"><a href="/realm/Artifacts/">Artifacts</a></li>
+					<li id="active"><a href="/realm/Challenges/">Challenges</a></li>
+					<li id="active"><a href="/realm/Bloodline">Bloodlines</a></li>
+					<li id="active"><a href="/realm/Research">Research</a></li>
+					<li id="active"><a href="/realm/Researchtree">Research Tree</a></li>
+					<li id="active"><a href="/realm/SunForce">Sun Force</a></li>
 					<li id="active"><a href="/realm/SpellTiers">Spell Tiers</a></li>
-                    <li id="active"><a href="/realm/Lineages">Lineages</a></li>
-                    <li id="active"><a href="/realm/ArtifactSet">Artifact Sets</a></li>
-		    	<li id="active"><a href="/realm/Legacies">Legacies</a></li>
-                    <P align="center">Builds
-		    <li id="active"><a target="_blank" research="R0 - R39 Guide" href="/realm/A0_Plot.png">A0 Plot <span style="color:gold">(Not updated for v4.2)</span></a></li>
-                    <li id="active"><a href="/realm/MercBuilds" research="Mercenaries">R3-R16 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
-                    <li id="active"><a href="/realm/ResearchBuilds" research="Research">R16-R29 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
-                    <li id="active"><a href="/realm/PBuilds" research="Prestige Research">R30-R39 Builds <span style="color:gold">(Not updated for v4.2)</span></span></a></li>
-                    <li id="active"><a target="_blank" research="R40 - R99 Guide" href="/realm/A1_Plot.png">A1 Plot <span style="color:gold">(Not updated for v4.2)</span></a></li>
-                    <li id="active"><a href="/realm/R40-R46" research="Ascension 1">R40-R46 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
-                    <li id="active"><a href="/realm/R47-R60" research="Dragons">R47-R59 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
-                    <li id="active"><a href="/realm/R60-R75" research="Lineages">R60-R75 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
-                    <li id="active"><a href="/realm/R75Plus" research="Mercenary Research">R75-R99 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
-                    <li id="active"><a target="_blank" research="R100 - R159 Guide" href="/realm/A2_Plot.png">A2 Plot <span style="color:gold">(Not updated for v4.2)</span></a></li>
-                    <li id="active"><a href="/realm/R100Plus" research="Ascension 2">R100-R115 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
-                    <li id="active"><a href="/realm/R116Plus" research="Prestige Ascension 2">R116-R125 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
-                    <li id="active"><a href="/realm/R125Plus" research="Elite Factions">R125-R135 Builds <span style="color:blue">(Outdated since v4.0)</span></a></li>
-                    <li id="active"><a href="/realm/R135Plus" research="Elite Challenges">R135-R159 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
-		    <li id="active"><a target="_blank" research="R160+ Guide" href="/realm/A3_Plot.png">A3 Plot <span style="color:gold">(Not updated for v4.2)</span></a></li>
-                    <li id="active"><a href="/realm/R160Plus" research="Ascension 3">R160-R189 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
-                    <li id="active"><a href="/realm/R190Plus" research="Mercenary Challenges">R190-R219 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>					
-                    <li id="active"><a href="/realm/R220Plus" research="Ascension 4">R220+ Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
+					<li id="active"><a href="/realm/Lineages">Lineages</a></li>
+					<li id="active"><a href="/realm/ArtifactSet">Artifact Sets</a></li>
+					<li id="active"><a href="/realm/Legacies">Legacies</a></li>
+					<P align="center">Builds
+					<li id="active"><a target="_blank" research="R0 - R39 Guide" href="/realm/A0_Plot.png">A0 Plot <span style="color:gold">(Not updated for v4.2)</span></a></li>
+					<li id="active"><a href="/realm/MercBuilds" research="Mercenaries">R3-R16 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
+					<li id="active"><a href="/realm/ResearchBuilds" research="Research">R16-R29 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
+					<li id="active"><a href="/realm/PBuilds" research="Prestige Research">R30-R39 Builds <span style="color:gold">(Not updated for v4.2)</span></span></a></li>
+					<li id="active"><a target="_blank" research="R40 - R99 Guide" href="/realm/A1_Plot.png">A1 Plot <span style="color:gold">(Not updated for v4.2)</span></a></li>
+					<li id="active"><a href="/realm/R40-R46" research="Ascension 1">R40-R46 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
+					<li id="active"><a href="/realm/R47-R60" research="Dragons">R47-R59 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
+					<li id="active"><a href="/realm/R60-R75" research="Lineages">R60-R75 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
+					<li id="active"><a href="/realm/R75Plus" research="Mercenary Research">R75-R99 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
+					<li id="active"><a target="_blank" research="R100 - R159 Guide" href="/realm/A2_Plot.png">A2 Plot</a></li>
+					<li id="active"><a href="/realm/R100Plus" research="Ascension 2">R100-R115 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
+					<li id="active"><a href="/realm/R116Plus" research="Prestige Ascension 2">R116-R125 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
+					<li id="active"><a href="/realm/R125Plus" research="Elite Factions">R125-R135 Builds <span style="color:blue">(Outdated since v4.0)</span></a></li>
+					<li id="active"><a href="/realm/R135Plus" research="Elite Challenges">R135-R159 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
+					<li id="active"><a target="_blank" research="R160+ Guide" href="/realm/A3_Plot.png">A3 Plot <span style="color:gold">(Not updated for v4.2)</span></a></li>
+					<li id="active"><a href="/realm/R160Plus" research="Ascension 3">R160-R189 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
+					<li id="active"><a href="/realm/R190Plus" research="Mercenary Challenges">R190-R219 Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>					
+					<li id="active"><a href="/realm/R220Plus" research="Ascension 4">R220+ Builds <span style="color:gold">(Not updated for v4.2)</span></a></li>
 
-                    </ul>
-                    </div>
-                    </div>
-                    <div id="rightcolumn">
-                    <div class="rightbox">
-                  <div class="rightboxcontent">
-                        <a href="https://discord.gg/cq6zmQX" research="Click to join Realm Grinder Chat on Discord"><img src="http://musicfamily.org/realm/Factions/picks/RealmGrinderGameRL.png"></img></a>
-                    </div>
-                    </div>
+					</ul>
+					</div>
+					</div>
+					<div id="rightcolumn">
+					<div class="rightbox">
+				  <div class="rightboxcontent">
+						<a href="https://discord.gg/cq6zmQX" research="Click to join Realm Grinder Chat on Discord"><img src="http://musicfamily.org/realm/Factions/picks/RealmGrinderGameRL.png"></img></a>
+					</div>
+					</div>

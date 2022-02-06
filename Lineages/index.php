@@ -145,7 +145,7 @@
 	<p><b>Cost</b>: 1 Novg (1e90) Emerald Coins, free in A3+</p>
 	<p><b>Effect</b>: Lowers the Lineage cost exponent based on Reincarnations made.</p>
 	<p><b>Formula</b>: -(0.01 * R), where R is the number of times you have reincarnated.</p>
-	<p><b>Note</b>: <b>Only counts actual Reincarnations</b>, not any "count more" boni.</p>
+	<p><b>Note</b>: <b>Only counts actual Reincarnations</b>, not any "count more" upgrades.</p>
 	<br/>
 	<div id="LineageCalculator" class="calc">
 		<table>
