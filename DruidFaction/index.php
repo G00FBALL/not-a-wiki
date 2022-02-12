@@ -148,7 +148,7 @@
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/DruidUniqueBuilding.png" align="middle"></b></p>
 	<hr>
 	<p><b>Ascension 2 - R100+</b></p>
-	<p><b>Additional Alignment</b>: Chaos</p>
+	<p><b>Additional Alignment</b>: Balance</p>
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/ZigguratQuest.png" alt="Ziggurat Quest" align="middle"> Ziggurat Quest</b></p>
 	<p><b>Description</b>: Hello, friend. We are close to restore the world balance... build us more Stonehenges, and we'll upgrade other buildings to be great places of power.</p>

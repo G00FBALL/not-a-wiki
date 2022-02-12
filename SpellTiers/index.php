@@ -78,7 +78,7 @@
 	<p><b>Formula</b>: (57600 * (0.4 + 0.1 * T) * ((T ^ 2 + 1) / (0.1 * U + 1)) * (0.97 ^ (R - 35))) Where T is Tier, U is number of unlocked tier upgrades in all spells (so tiers above tier 1), R is is the number of times you have reincarnated.</p>
 	<p>Because of above factors, if you attempt to unlock multiple spells at once, the unlock time of tiers will be reduce during the unlock process. For this reason it is difficult to show how long your current tiering target will take.</p>
 	<p>The chart below will only show how long it takes to unlock a tier with no other spell tiering in the meantime.</p>
-	<p><b>Please use <a target="_blank" href="https://dox4242.github.io/misc/tiers.html">the following tool</a> for a full tiering timeline.</b></p>
+	<p><b>Please use <a target="_blank" href="https://shadowgull.github.io/dox4242.github.io/misc/tiers.html">the following tool</a> for a full tiering timeline.</b></p>
 	<div id="tiercal" class="calculator" style="padding-left: 70px">
 	</div>
 	<br/>
@@ -93,7 +93,7 @@
 		<table>
 			<thead>
 			<tr>
-				<th><a target="_blank" style="font-size: 30px;color: red;" href="https://dox4242.github.io/misc/tiers.html">Click here to see your unlocked tiers</a></th>
+				<th><a target="_blank" style="font-size: 30px;color: red;" href="https://shadowgull.github.io/dox4242.github.io/misc/tiers.html">Click here to see your unlocked tiers</a></th>
 			</tr>
 			</thead>
 		</table>

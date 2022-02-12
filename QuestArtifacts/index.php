@@ -58,7 +58,7 @@
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/HornoftheKings.png" align="middle"> Horn of the Kings</b></p>
 	<p><b>Description</b>: It is said that when this horn is blown, the voices of past Dwarven Kings can be heard in the Wind.</p>
 	<p><b>Requirement</b>: have Dwarven Forges, 3250+ Excavations (as Dwarf)</p>
-	<p><b>Effect</b>: Unlocks Legacy of the Kings upgrade that adds 3 extra slots: 2 for Craftsmanship and 1 to the faction's facility you are playing</p>
+	<p><b>Effect</b>: Unlocks Legacy of the Kings upgrade that adds 3 extra slots: 2 for Craftsmanship and 1 to the faction's facility you are playing.</p>
 	<p><b>Chance</b>: 0.5%</p>
 	<p><b>Cost</b></b>: 10 SxSpg (1e232) and 100 M (1e8) Dwarven Coins</p>
 	<p><b>Alignment</b>: Dwarf</p>
@@ -66,7 +66,7 @@
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FlameofBondelnar.png" align="middle"> Flame of Bondelnar</b></p>
 	<p><b>Description</b>: The magical azure flame of Bondelnar constantly emanates a silent, yet subtle, evil aura.</p>
 	<p><b>Requirement</b>: Have Spider Sanctuaries (as Drow) Excavations: 3250+</p>
-	<p><b>Effect</b>: Unlocks the upgrade The Dark Light of Bondelnar that adds 3 extra slots: 2 for Warfare and 1 to the faction's facility you are playing</p>
+	<p><b>Effect</b>: Unlocks the upgrade The Dark Light of Bondelnar that adds 3 extra slots: 2 for Warfare and 1 to the faction's facility you are playing.</p>
 	<p><b>Chance</b>: 0.5%</p>
 	<p><b>Cost</b>: 10 SxSpg (1e232), 100 M (1e8) Drow Coins</p>
 	<p><b>Alignment</b>: Drow</p>
@@ -83,7 +83,7 @@
 	<p><b>Effect</b>: Unlocks Secrets of the Warriors</p>
 	<hr>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FirstIronFragment.png" align="middle"> First Iron Fragment</b></p>
-	<p><b>Clue</b>: This one seems to require a lot of magical renewance.
+	<p><b>Clue</b>: This one seems to require a lot of magical renewance.</p>
 	<p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 	<p><b>Requirement</b>: R125+, 12,500+ Excavations, Play as Angel</p>
 	<p><b>Chance</b>: (log10(1 + x) ^ 3 / 100,000)%, where x is your Mana Regeneration.</p>

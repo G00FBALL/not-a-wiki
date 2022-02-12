@@ -104,7 +104,7 @@
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/HornoftheKings.png' align='middle'> Horn of the Kings</b></p>
 	<p><b>Description</b>: It is said that when this horn is blown, the voices of past Dwarven Kings can be heard in the Wind.</p>
 	<p><b>Requirement</b>: Dwarven Faction, Dwarven Forges, 3250+ Excavations</p>
-	<p><b>Effect</b>: Unlocks the upgrade Legacy of the Kings that adds 3 extra slots: 2 for Craftsmanship and 1 related to the Good Base Faction's facility you are playing./p>
+	<p><b>Effect</b>: Unlocks the upgrade Legacy of the Kings that adds 3 extra slots: 2 for Craftsmanship and 1 related to the Good Base Faction's facility you are playing.</p>
 	<p><b>Chance</b>: 0.5%</p>
 	<p><b>Cost</b></b>: 10 SxSpg (1e232) and 100 M (1e8) Dwarven Coins</p>
 	<p><b>Note</b>: Has no effect in R100+</p>
@@ -133,14 +133,14 @@
 	" coords="303,103,356,156" shape="rect">
 		<area research="
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/FirstIronFragment.png' align='middle'> First Iron Fragment</b></p>
-	<p><b>Hint</b>: This one seems to require a lot of magical renewance.
+	<p><b>Hint</b>: This one seems to require a lot of magical renewance.</p>
 	<p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 	<p><b>Requirement</b>: R125+, Angel Faction, 12,500+ Excavations</p>
 	<p><b>Chance</b>: (log10(1 + x) ^ 3 / 100,000)%, where x is your Mana Regeneration.</p>
 	" coords="363,103,416,156" shape="rect">
 		<area research="
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/SecondIronFragment.png' align='middle'> Second Iron Fragment</b></p>
-	<p><b>Hint</b>: Found via extensive Royal Trading mandates.
+	<p><b>Hint</b>: Found via extensive Royal Trading mandates.</p>
 	<p><b>Description</b>: It looks like a piece of an iron object. It's broken off on two sides.</p>
 	<p><b>Requirement</b>: R125+, Titan Faction, 12,500+ Excavations</p>
 	<p><b>Chance</b>: (x ^ 3 / 5,000,000,000 (5 B))%, where x is the individual Royal Exchange bonus.</p>

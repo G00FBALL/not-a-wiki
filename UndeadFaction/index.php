@@ -111,7 +111,7 @@
 	<p>At R16, the Undead's building Necropolis can be upgraded to a Unique Building: Undercity, which is required for some challenges and research quests.</p>
 	<hr>
 	<p><b>Ascension 2 - R100+</b></p>
-	<p><b>Additional Alignment</b>: Chaos</p>
+	<p><b>Additional Alignment</b>: Order</p>
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopQuest.png" alt="Flesh Workshop Quest" align="middle"> Flesh Workshop Quest</b></p>
 	<p><b>Description</b>: Heelloo... The dead need to rest... accumulate a high enough offline production to allow them their peace, and they'll be forever your servants.</p>
