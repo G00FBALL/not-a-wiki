@@ -116,7 +116,7 @@
 	<p>At R16, the Goblin's building Witch Conclaves can be upgraded to a Unique Building: Goblin Bank, which is required for some challenges and research quests.</p>
 	<hr>
 	<p><b>Ascension 2 - R100+</b></p>
-	<p><b>Additional Alignment</b>: Chaos</p>
+	<p><b>Additional Alignment</b>: Balance</p>
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketQuest.png" alt="Slave Market Quest" align="middle"> Slave Market Quest</b></p>
 	<p><b>Description</b>: Time is money, friend! The markets are expanding, we need new places to sell our slaves to! Build more Neutral buildings for us, will you?</p>

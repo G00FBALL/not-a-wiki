@@ -18,8 +18,8 @@
 	</p>
 	<script>
 		var currentTime = new Date().getTime();
-		var countDownDate1 = new Date("December 20, 2021 13:01:00 UTC").getTime();
-		var countDownDate2 = new Date("January 4, 2022 19:59:00 UTC").getTime();
+		var countDownDate1 = new Date("February 12, 2021 13:01:00 UTC").getTime();
+		var countDownDate2 = new Date("February 16, 2022 19:59:00 UTC").getTime();
 		var x = setInterval(function() {
 			var now = new Date().getTime();
 			var distance = countDownDate1 - now;
@@ -61,12 +61,12 @@
 				<tr>
 					<th>Rubies</th>
 					<th colspan="1">Event</th>
-					<th colspan="7">Total Cumulative Bonus: 436%</th>
+					<th colspan="8">Total Cumulative Bonus: 440%</th>
 				</tr>
 			</thead>
 			<tbody>
 				<tr>
-					<td>182 Total </td>
+					<td>185 Total </td>
 					<td></td>
 					<td>2015</td>
 					<td>2016</td>
@@ -75,10 +75,11 @@
 					<td>2019</td>
 					<td>2020</td>
 					<td>2021</td>
+					<td>2022</td>
 				</tr>
 				<tbody>
 					<tr>
-						<td>18 (3)</td>
+						<td>21 (3)</td>
 						<td>Valentines</td>
 						<td></td>
 						<td>4%</td>
@@ -87,6 +88,7 @@
 						<td>4%</td>
 						<td>4%</td>
 						<td>4%</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>48 (8)</td>
@@ -326,6 +328,13 @@
 			<p><b>Type</b>: Feat</p>					
 			<p><b>Requirement</b>: While affiliated with the fairies, click 1000 times during the Valentine event.</p>
 			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+			" coords="63,123,117,177" shape="rect">
+			<area research="
+			<p><b>Valentines 2022</b></p>
+			<p><b><img src='/realm/Factions/picks/BurningPassion.png' align='middle'> Burning Passion</b></p>
+			<p><b>Type</b>: Feat</p>					
+			<p><b>Requirement</b>: Have at least 2 hour of Hellfire Blast activity time during the Valentine event.</p>
+			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new icon option for the spell.</p>
 			" coords="63,123,117,177" shape="rect">
 			<area research="
 			<p><b>Easter</b></p>
@@ -870,6 +879,104 @@
 	<hr>
 	<p><b>Events</b></p>
 	<div class="shlisting">
+		<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2022 Events</a></b></p>
+		<div class="category autohide">
+			<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Valentine (Feb 12 - Feb 16, 2022)</a></b></p>
+				<div class="autohide">
+					<p>The Valentine event will be starting on <b>Feb 12th 2022, 1:01 PM UTC</b> and will end on <b>Feb 16th 2022, 7:59 PM UTC</b>.</p>
+					<p><b>Event Theme</b>: <b><img src="/realm/Factions/picks/Valentine2017ThemeHeart.png" alt="" align="middle"> Hearts</b></p>
+					<p>Collected online and offline at a base rate of 1 per second and can be increased up to 4/s during the length of the event as follows:</p>
+					<p><b><img src="/realm/Factions/picks/CalltoLove2017.png" alt="CalltoLove" align="middle"> Call to Love</b></p>
+					<p><b>Requirement</b>: Play during the Valentines Event</p>
+					<p><b>Mana Cost</b>: 200 (Replaces Call to Arms)</p>
+					<p><b>Effect</b>: In addition to the Call to Arms spell effect, increases heart production per second based on the active time for Call to Love.</p>
+					<p><b>Base Production</b>: 1 heart/sec with no active time for CtL</p>
+					<p>2 hearts/sec for 10 seconds of active time for CtL (All time)</p>
+					<p>3 hearts/sec for 1000 seconds (16 min, 40 sec) of active time for CtL  (All time)</p>
+					<p>4 hearts/sec for 100000 seconds of active time for CtL (27 hours, 47 min) (All time)</p>
+					<p><b>Formula</b>:floor(1.5 + 0.5 * floor(log10(1 + x)))</p>
+					<hr>
+					<p><b><img src="/realm/Factions/picks/Valentine2017ThemeHeart.png" alt="" align="middle"> Hearts Upgrades</b></p>
+					<p><b>Note</b>: Every 100 Heart Upgrades purchased will give 1 free Ruby.</p>
+					<p><b>Note</b>: All Heart Upgrades will be like Ruby Upgrades for the duration of Event.(<b>Additive only</b>)</p>
+					<p><b>Note</b>: The first Upgrade for each is 100 Hearts. It increases by 100 for each additional Upgrade (ie..100,200,300).</p>
+					<p><b>Effects</b></p>
+					<p><b>Assistants</b>: Increases by 1 Assistant with each Upgrade.</p>
+					<p><b>Mana Regen</b>: Increases by 0.5 with each Upgrade.</p>
+					<p><b>Max Mana</b>: Increases by 25 with each Upgrade.</p>
+					<p><b>Gem Bonus</b>: Increases by 0.50 with each Upgrade.</p>
+					<p><b>Exchange Bonus</b>: Increases by 1.50 with each Upgrade.</p>
+					<hr>
+					<p><b>Quest</b></p>
+					<p><b>Note</b>: Buy 50 Heart Upgrades of each to complete Quest (<b>Must show 5100+ for each upgrade</b>)</p>
+					<p><b>Note</b>: Total Hearts needed to complete all quest <b>if spread equally</b> 637500</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/Valentine2017Quest1.png" alt="" align="middle"> Feel the Love 1</b></p>
+					<p><b>Requirement</b>: 50 Heart Upgrades</p>
+					<p><b>Effect</b>: Increases total Event bonus by 1%.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/Valentine2017Quest2.png" alt="" align="middle"> Feel the Love 2</b></p>
+					<p><b>Requirement</b>: 125 Heart Upgrades</p>
+					<p><b>Effect</b>: Increases total Event bonus by 1%.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/Valentine2017Quest4.png" alt="" align="middle"> Feel the Love 3</b></p>
+					<p><b>Requirement</b>: 250 Heart Upgrades</p>
+					<p><b>Effect</b>: Increases total Event bonus by 2%.</p>
+					<hr>
+					<p><b>Feats</b></p>
+					<p><b><img src="/realm/Factions/picks/Valentine2017Quest4.png" alt="" align="middle"> Call to Love</b></p>
+					<p><b>Requirement</b>: Purchase 250 Heart Upgrades</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/ILoveYouinEveryLanguage2017.png" alt="" align="middle"> I Love You in Every Language</b></p>
+					<p><b>Requirement</b>: Cast Call to Love at least once with 6 different Factions.</p>
+					<p><b>Note</b>: When doing the cast with 6 factions, if you do it to fast the game will not register it.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/AssistantLove2018.png" alt="" align="middle"> Assistant Love</b></p>
+					<p><b>Requirement</b>: Reach 50 Assistants from Heart Upgrades.</p>
+					<p><b>Reward</b>: If you unlock this feat, you will permanently unlock a new color option for the mana bar.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/ChocolateBoxFeat2019.png" align="middle"> Chocolate Box</b></p>
+					<p><b>Requirement</b>: Have at least 72 hours of Call to Love activity time during the Valentine event.</p>
+					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
+					<p><b>Cost</b>: Free</p>
+					<p><b>Effect</b>: Increase your event bonus by a multiplicative 50%.</p>
+					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/FairyLove.png" align="middle"> Fairy Love</b></p>
+					<p><b>Requirement</b>: While affiliated with the fairies, click 1000 times during the Valentine event.</p>
+					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/UnrequitednessFeat2021.png" align="middle"> Unrequitedness</b></p>
+					<p><b>Requirement</b>: Cast Call to Love while being affiliated with a Neutral Faction and with at least 2 hours of activity time with the spell during the Valentine event.</p>
+					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
+					<p><b>Cost</b>: Free</p>
+					<p><b>Effect</b>: Increase Neutral production by 50%.</p>
+					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/BurningPassion.png" align="middle"> Burning Passion</b></p>				
+					<p><b>Requirement</b>: Have at least 2 hour of Hellfire Blast activity time during the Valentine event.</p>
+					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new icon option for the spell.</p>
+					<hr>
+					<p><b>Shop</b></p>
+					<p><b><img src="/realm/Factions/picks/Valentine2017Quest1.png" align="middle"> 15000 Hearts</b></p>
+					<p><b>Effect</b>: A Love Machine will produce 15000 Hearts for 5 Rubies. It will offer you a new deal if you accept.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/Valentine2017Quest2.png" align="middle"> 50000 Hearts</b></p>
+					<p><b>Effect</b>: A Love Machine will produce 50000 Hearts for 55 Rubies. It will offer you a new deal if you accept.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/Valentine2017Quest3.png" align="middle"> 175000 Hearts</b></p>
+					<p><b>Effect</b>: A Love Machine will produce 175000 Hearts for 45 Rubies. It will offer you a new deal if you accept.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/Valentine2017Quest4.png" align="middle"> 400000 Hearts</b></p>
+					<p><b>Effect</b>: A Love Machine will produce 400000 Hearts for 100 Rubies. It will run out of power after you use this last time.</p>
+					<hr>
+					<p><b><img src="/realm/Factions/picks/Valentine2017Scry.png" align="middle"> Scrying</b></p>
+					<p><b>Effect</b>: Produces 1 heart every 5 seconds for 4 hours.</p>
+					<hr>
+				</div>
+			</div>
+		</div>
 		<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2021 Events</a></b></p>
 		<div class="category autohide">
 			<div class="shelementwhole">
@@ -2156,16 +2263,16 @@
 					<p><b>Effect</b>: Increase your event bonus by a multiplicative 50%.</p>
 					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 					<br/>
+					<p><b><img src="/realm/Factions/picks/FairyLove.png" align="middle"> Fairy Love</b></p>
+					<p><b>Requirement</b>: While affiliated with the fairies, click 1000 times during the Valentine event.</p>
+					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+					<br/>
 					<p><b><img src="/realm/Factions/picks/UnrequitednessFeat2021.png" align="middle"> Unrequitedness</b></p>
 					<p><b>Requirement</b>: Cast Call to Love while being affiliated with a Neutral Faction and with at least 2 hours of activity time with the spell during the Valentine event.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 					<p><b>Cost</b>: Free</p>
 					<p><b>Effect</b>: Increase Neutral production by 50%.</p>
 					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
-					<br/>
-					<p><b><img src="/realm/Factions/picks/FairyLove.png" align="middle"> Fairy Love</b></p>
-					<p><b>Requirement</b>: While affiliated with the fairies, click 1000 times during the Valentine event.</p>
-					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
 					<hr>
 					<p><b>Shop</b></p>
 					<p><b><img src="/realm/Factions/picks/Valentine2017Quest1.png" align="middle"> 15000 Hearts</b></p>
@@ -7037,4 +7144,4 @@
 	<p>Players who participate in all our Events will be rewarded with a greater cumulative bonus.</p>
 	<p><b>Event Announcements</b></p>
 	<p>Events are announced a few days in advance, by DivineGames, in the <a target="_blank" href="https://www.divinegames.it/discuss/viewtopic.php?id=395">Realm Grinder forums Developer Diary</a> at divinegames.it.
-	<?php include "../scripts/footer.html"; ?>
+<?php include "../scripts/footer.html"; ?>
