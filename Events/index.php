@@ -88,7 +88,7 @@
 						<td>4%</td>
 						<td>4%</td>
 						<td>4%</td>
-						<td></td>
+						<td>4%</td>
 					</tr>
 					<tr>
 						<td>48 (8)</td>
