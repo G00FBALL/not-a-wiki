@@ -340,7 +340,7 @@
        gradientUnits="userSpaceOnUse"
        x="499.64645"
        y="2677.1465"
-       gradientTransform="matrix(0.81815767,0,0,0.99791208,290.94767,-19.27057)">
+       gradientTransform="matrix(0.81815767,0,0,0.99791208,290.92117,-19.270512)">
       <meshrow
          id="meshrow2335">
         <meshpatch
@@ -484,11 +484,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.10503483"
-     inkscape:cx="4631.7969"
-     inkscape:cy="2089.783"
+     inkscape:zoom="0.21006966"
+     inkscape:cx="2849.0549"
+     inkscape:cy="759.27195"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer6"
      showgrid="false"
      units="px"
      inkscape:pagecheckerboard="true"
@@ -565,7 +565,8 @@
      id="layer3"
      inkscape:label="Faction"
      clip-path="url(#clipPath_faction)"
-     transform="translate(458,513)">
+     transform="translate(458,513)"
+     style="display:inline">
     <rect
        style="opacity:0.7;fill:#33cc33;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect111064"
@@ -573,27 +574,12 @@
        height="996.01288"
        x="1602.028"
        y="2879.9871" />
-    <text
-       xml:space="preserve"
-       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
-       x="2187.4275"
-       y="3374.6526"
-       id="text286144-9"><tspan
-         sodipodi:role="line"
-         id="tspan286142-3"
-         x="2187.4275"
-         y="3374.6526">Druidline Elf</tspan></text>
-    <text
-       y="-134.25977"
-       style="font-size:220px;font-family:Arial;text-anchor:middle;display:inline"
-       id="text1861"
-       x="4040.5303">Ascension 1 Production Guide</text>
     <rect
        style="opacity:1;fill:#33cc33;fill-opacity:0.701961;fill-rule:nonzero;stroke:url(#meshgradient2333);stroke-width:0.638923;stroke-opacity:1"
        id="rect1707"
        width="899.97345"
        height="305.36108"
-       x="700.02655"
+       x="700"
        y="2652.6389" />
     <rect
        style="opacity:1;fill:#585800;fill-opacity:0.701961;fill-rule:nonzero;stroke-width:10.9826;stroke-miterlimit:4;stroke-dasharray:32.9476, 32.9476;stroke-dashoffset:0"
@@ -609,44 +595,6 @@
        height="918"
        x="1100"
        y="2958" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:93.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1340.809"
-       y="3388.2622"
-       id="text5489"><tspan
-         sodipodi:role="line"
-         x="1340.809"
-         y="3388.2622"
-         id="tspan5491">Druidline</tspan><tspan
-         sodipodi:role="line"
-         x="1340.809"
-         y="3504.9287"
-         id="tspan2330">Elf</tspan></text>
-    <text
-       xml:space="preserve"
-       id="text5846"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5848);fill:#000000;fill-opacity:1;stroke:none" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:93.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1292.5754"
-       y="2929.5962"
-       id="text5854"><tspan
-         sodipodi:role="line"
-         x="1292.5754"
-         y="2929.5962"
-         id="tspan5856">Gobline Elf</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-       x="1473.5023"
-       y="2707.3606"
-       id="text1319"><tspan
-         sodipodi:role="line"
-         id="tspan1317"
-         x="1473.5023"
-         y="2707.3606" /></text>
     <rect
        style="opacity:1;fill:#33cc33;fill-opacity:0.701961;fill-rule:nonzero;stroke-width:0.2132"
        id="rect1707-3"
@@ -668,16 +616,6 @@
        height="277.19614"
        x="1604.7603"
        y="2602.3572" />
-    <text
-       xml:space="preserve"
-       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
-       x="2221.0879"
-       y="2792.3245"
-       id="text286144-7"><tspan
-         sodipodi:role="line"
-         id="tspan286142-1"
-         x="2221.0879"
-         y="2792.3245">Faceline Elf</tspan></text>
     <rect
        style="opacity:0.7;fill:#33cc33;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect147752"
@@ -685,56 +623,36 @@
        height="1273.6429"
        x="3604.7603"
        y="2602.3572" />
-    <text
-       xml:space="preserve"
-       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
-       x="4398.9277"
-       y="3253.4744"
-       id="text286144-3"><tspan
-         sodipodi:role="line"
-         id="tspan286142-9"
-         x="4398.9277"
-         y="3253.4744">Titanline Elf</tspan></text>
     <rect
-       style="opacity:0.7;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.7;fill:#4cffff;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect147754"
        width="2399.8223"
        height="451.95508"
        x="3600.1777"
        y="2150.4021" />
     <rect
-       style="opacity:0.7;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.7;fill:#4cffff;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect167941"
        width="2007.6838"
        height="575.66602"
        x="1595.2957"
        y="2026.6912" />
     <rect
-       style="opacity:0.7;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:9.04409;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.7;fill:#4cffff;fill-opacity:1;stroke:none;stroke-width:9.04409;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect167943"
-       width="602.74084"
-       height="574.11694"
-       x="2997.2593"
-       y="1452.5742" />
+       width="600.00049"
+       height="227.84616"
+       x="3000"
+       y="1798.845" />
     <rect
-       style="opacity:0.7;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.7;fill:#4cffff;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect168996"
        width="2401.762"
        height="694.48743"
        x="3600"
        y="1458.295" />
-    <text
-       xml:space="preserve"
-       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
-       x="4274.3838"
-       y="1893.5868"
-       id="text286144-8"><tspan
-         sodipodi:role="line"
-         id="tspan286142-4"
-         x="4274.3838"
-         y="1893.5868">Dragonline Angel</tspan></text>
     <rect
-       style="opacity:0.7;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.7;fill:#4cffff;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect169000"
        width="300"
        height="172.23004"
@@ -755,7 +673,7 @@
        x="3005.6743"
        y="1459.5104" />
     <rect
-       style="opacity:0.7;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.7;fill:#4cffff;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect249980"
        width="600.99084"
        height="530.10645"
@@ -775,31 +693,33 @@
        height="533.67993"
        x="3901.0913"
        y="928.1886" />
-    <text
-       xml:space="preserve"
-       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
-       x="-808.36475"
-       y="-402.06528"
-       id="text286144-6"><tspan
-         sodipodi:role="line"
-         id="tspan286142-15"
-         x="-808.36475"
-         y="-402.06528">Dragonline Angel</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
-       x="4328.2402"
-       y="2438.8884"
-       id="text286144-5"><tspan
-         sodipodi:role="line"
-         id="tspan286142-40"
-         x="4328.2402"
-         y="2438.8884">Faceline Angel</tspan></text>
+    <rect
+       style="opacity:0.7;fill:#4cffff;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       id="rect10949"
+       width="98.599091"
+       height="227.90068"
+       x="3500.8059"
+       y="1458.2949" />
+    <rect
+       style="opacity:0.7;fill:#4cffff;stroke-width:9;fill-opacity:1"
+       id="rect923"
+       width="599.40503"
+       height="112.6494"
+       x="3000"
+       y="1686.1956" />
+    <rect
+       style="opacity:0.7;fill:#4cffff;stroke-width:9;fill-opacity:1"
+       id="rect925"
+       width="305.25595"
+       height="187.95795"
+       x="3195.55"
+       y="1498.2375" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Faction_Border">
+     inkscape:label="Faction_Border"
+     style="display:inline">
     <path
        style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 2058,4389 V 3084.415"
@@ -818,9 +738,10 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:9.44005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 4058,4389.5697 V 1971.2949"
+       d="m 4058,4389.5697 -0.595,-2190.3741 -99.1941,-1.1153 L 3958,2028.415"
        id="path9217-3-0"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1558,3471 h 500"
@@ -1313,7 +1234,18 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="GraphText">
+     inkscape:label="GraphText"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
+       x="-808.36475"
+       y="-402.06528"
+       id="text286144-6"><tspan
+         sodipodi:role="line"
+         id="tspan286142-15"
+         x="-808.36475"
+         y="-402.06528">Dragonline Angel</tspan></text>
     <text
        y="341.24023"
        style="font-size:220px;font-family:Arial;text-anchor:middle;display:inline"
@@ -1399,6 +1331,90 @@
          id="tspan286142-2"
          x="1144.1653"
          y="2830.71">Dragonline Angel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
+       x="4818.5542"
+       y="2914.9209"
+       id="text286144-5"><tspan
+         sodipodi:role="line"
+         id="tspan286142-40"
+         x="4818.5542"
+         y="2914.9209">Faceline Angel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
+       x="4788.499"
+       y="2360.0986"
+       id="text286144-8"><tspan
+         sodipodi:role="line"
+         id="tspan286142-4"
+         x="4788.499"
+         y="2360.0986">Dragonline Angel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
+       x="4870.1997"
+       y="3762.8291"
+       id="text286144-3"><tspan
+         sodipodi:role="line"
+         id="tspan286142-9"
+         x="4870.1997"
+         y="3762.8291">Titanline Elf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
+       x="2654.2776"
+       y="3339.762"
+       id="text286144-7"><tspan
+         sodipodi:role="line"
+         id="tspan286142-1"
+         x="2654.2776"
+         y="3339.762">Faceline Elf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
+       x="2639.6584"
+       y="3950.6521"
+       id="text286144-9"><tspan
+         sodipodi:role="line"
+         id="tspan286142-3"
+         x="2639.6584"
+         y="3950.6521">Druidline Elf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:93.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1740.046"
+       y="3443.7114"
+       id="text5854"><tspan
+         sodipodi:role="line"
+         x="1740.046"
+         y="3443.7114"
+         id="tspan5856">Gobline Elf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:93.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1812.0812"
+       y="4002.3442"
+       id="text5489"><tspan
+         sodipodi:role="line"
+         x="1812.0812"
+         y="4002.3442"
+         id="tspan5491">Druidline</tspan><tspan
+         sodipodi:role="line"
+         x="1812.0812"
+         y="4119.0107"
+         id="tspan2330">Elf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:133.333px;line-height:0.5;font-family:sans-serif;display:inline"
+       x="2958.1267"
+       y="1922.8534"
+       id="text6808"><tspan
+         sodipodi:role="line"
+         id="tspan6806"
+         x="2958.1267"
+         y="1922.8534" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1417,7 +1433,7 @@
          style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
       <text
          id="text226"
-         y="20">K</text>
+         y="20">J</text>
     </g>
     <text
        style="font-size:120px;font-family:Arial;text-anchor:middle;display:inline"
@@ -1436,7 +1452,7 @@
          r="40" />
       <text
          y="20"
-         id="text235">J</text>
+         id="text235">I</text>
     </g>
     <g
        transform="translate(4800.2521,1518.9146)"
@@ -1450,7 +1466,7 @@
          style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
       <text
          id="text241"
-         y="20">I</text>
+         y="20">H</text>
     </g>
     <g
        id="g249"
@@ -1464,7 +1480,7 @@
          r="40" />
       <text
          y="20"
-         id="text247">H</text>
+         id="text247">G</text>
     </g>
     <g
        transform="translate(4006.1101,2195.9305)"
@@ -1478,7 +1494,7 @@
          style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
       <text
          id="text253"
-         y="20">G</text>
+         y="20">F</text>
     </g>
     <g
        id="g261"
@@ -1562,7 +1578,7 @@
          r="40" />
       <text
          y="20"
-         id="text289">L</text>
+         id="text289">K</text>
     </g>
     <g
        transform="translate(6893.5856,548.91467)"
@@ -1753,7 +1769,11 @@
              y="2011.697"
              x="6723.333"
              sodipodi:role="line"
-             id="tspan402">(Archon is the easiest Mask, Maker the hardest)</tspan></text>
+             id="tspan34055">(Archon is the easiest Mask, Maker the hardest)</tspan><tspan
+             y="2086.697"
+             x="6723.333"
+             sodipodi:role="line"
+             id="tspan34059">MAD spell trophies: Persistent Entropy, Reality Crater, Chrono Loading</tspan></text>
         <g
            transform="translate(6670.2523,1765.5813)"
            style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
@@ -1771,7 +1791,7 @@
       </g>
       <g
          id="g595"
-         transform="translate(0,-74.0003)">
+         transform="translate(0,35.487191)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:75px;line-height:1;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -1791,7 +1811,7 @@
              sodipodi:role="line"
              x="6723.333"
              y="2340.0303"
-             id="tspan448">MAD Bloodlines/Lineages, MAD perk 2 challenges, Chrono Loading </tspan></text>
+             id="tspan448">MAD Bloodlines/Lineages, MAD perk 2 challenges </tspan></text>
         <g
            id="g360"
            style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
@@ -1856,7 +1876,7 @@
              style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
           <text
              id="text364"
-             y="20">G</text>
+             y="20">F</text>
         </g>
       </g>
       <g
@@ -1907,7 +1927,7 @@
              r="40" />
           <text
              y="20"
-             id="text370">H</text>
+             id="text370">G</text>
         </g>
       </g>
       <g
@@ -1946,7 +1966,7 @@
              style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
           <text
              id="text376"
-             y="20">I</text>
+             y="20">H</text>
         </g>
       </g>
       <g
@@ -1985,7 +2005,7 @@
              r="40" />
           <text
              y="20"
-             id="text382">J</text>
+             id="text382">I</text>
         </g>
       </g>
       <g
@@ -2018,7 +2038,7 @@
              style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
           <text
              id="text388"
-             y="20">K</text>
+             y="20">J</text>
         </g>
       </g>
       <g
@@ -2065,40 +2085,7 @@
              r="40" />
           <text
              y="20"
-             id="text394">L</text>
-        </g>
-      </g>
-      <g
-         id="g459"
-         transform="translate(0,170.9997)">
-        <text
-           id="text451"
-           y="2190.0303"
-           x="6723.333"
-           style="font-style:normal;font-weight:normal;font-size:75px;line-height:1;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             y="2190.0303"
-             x="6723.333"
-             sodipodi:role="line"
-             id="tspan444"
-             style="font-style:italic">End R134:</tspan><tspan
-             id="tspan449"
-             y="2265.0303"
-             x="6723.333"
-             sodipodi:role="line">MAD spell trophies: Persistent Entropy, Reality Crater </tspan></text>
-        <g
-           transform="translate(6670.2523,2165.5813)"
-           style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
-           id="g457">
-          <circle
-             r="40"
-             cy="0"
-             cx="0"
-             id="circle453"
-             style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
-          <text
-             id="text455"
-             y="20">F</text>
+             id="text394">K</text>
         </g>
       </g>
       <text
@@ -2149,20 +2136,6 @@
              y="-152.02795">v1.6 for 4.2.1.0</text>
         </g>
       </g>
-    </g>
-    <g
-       id="g465"
-       style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
-       transform="translate(3906.0855,2036.4146)">
-      <circle
-         style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
-         id="circle461"
-         cx="0"
-         cy="0"
-         r="40" />
-      <text
-         y="20"
-         id="text463">F</text>
     </g>
     <text
        xml:space="preserve"
