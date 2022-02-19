@@ -485,10 +485,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.21006966"
-     inkscape:cx="2849.0549"
-     inkscape:cy="759.27195"
+     inkscape:cx="6452.6215"
+     inkscape:cy="3567.8641"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer5"
      showgrid="false"
      units="px"
      inkscape:pagecheckerboard="true"
@@ -1237,16 +1237,6 @@
      inkscape:label="GraphText"
      style="display:inline">
     <text
-       xml:space="preserve"
-       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
-       x="-808.36475"
-       y="-402.06528"
-       id="text286144-6"><tspan
-         sodipodi:role="line"
-         id="tspan286142-15"
-         x="-808.36475"
-         y="-402.06528">Dragonline Angel</tspan></text>
-    <text
        y="341.24023"
        style="font-size:220px;font-family:Arial;text-anchor:middle;display:inline"
        id="text1861-5"
@@ -1769,11 +1759,7 @@
              y="2011.697"
              x="6723.333"
              sodipodi:role="line"
-             id="tspan34055">(Archon is the easiest Mask, Maker the hardest)</tspan><tspan
-             y="2086.697"
-             x="6723.333"
-             sodipodi:role="line"
-             id="tspan34059">MAD spell trophies: Persistent Entropy, Reality Crater, Chrono Loading</tspan></text>
+             id="tspan34059">(Archon is the easiest Mask, Maker the hardest)</tspan></text>
         <g
            transform="translate(6670.2523,1765.5813)"
            style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
@@ -1791,7 +1777,7 @@
       </g>
       <g
          id="g595"
-         transform="translate(0,35.487191)">
+         transform="translate(-4,-74.5133)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:75px;line-height:1;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -1811,7 +1797,11 @@
              sodipodi:role="line"
              x="6723.333"
              y="2340.0303"
-             id="tspan448">MAD Bloodlines/Lineages, MAD perk 2 challenges </tspan></text>
+             id="tspan448">MAD Bloodlines/Lineages, MAD perk 2 challenges</tspan><tspan
+             sodipodi:role="line"
+             x="6723.333"
+             y="2415.0303"
+             id="tspan4530">Maker spell Trophy: Reality Crater </tspan></text>
         <g
            id="g360"
            style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
@@ -1829,7 +1819,7 @@
       </g>
       <g
          id="g606"
-         transform="translate(0,98.4997)">
+         transform="translate(0,-11.5)">
         <text
            id="text458"
            y="2436.697"
@@ -1881,7 +1871,7 @@
       </g>
       <g
          id="g617"
-         transform="translate(0,103.9187)">
+         transform="translate(0,-6.0813)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:75px;line-height:1;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -1932,7 +1922,7 @@
       </g>
       <g
          id="g626"
-         transform="translate(0,172.9191)">
+         transform="translate(0,62.9194)">
         <text
            id="text478"
            y="3090.0303"
@@ -1971,7 +1961,7 @@
       </g>
       <g
          id="g635"
-         transform="translate(4.5590551e-4,226.77534)">
+         transform="translate(4.5590551e-4,116.7757)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:75px;line-height:1;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -2010,7 +2000,7 @@
       </g>
       <g
          id="g644"
-         transform="translate(4.5590551e-4,285.62438)">
+         transform="translate(4.5590551e-4,175.62478)">
         <text
            id="text519"
            y="3460.0303"
@@ -2043,7 +2033,7 @@
       </g>
       <g
          id="g654"
-         transform="translate(4.5590551e-4,259.13546)">
+         transform="translate(4.5590551e-4,149.135)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:75px;line-height:1;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -2150,92 +2140,128 @@
     <text
        xml:space="preserve"
        style="font-size:74.6667px;line-height:0;font-family:sans-serif"
-       x="7561.7773"
-       y="3344.1289"
+       x="7518.9346"
+       y="3129.9143"
        id="text33752"
        inkscape:export-filename="C:\Users\corym\Downloads\text33752.png"
        inkscape:export-xdpi="41.739132"
        inkscape:export-ydpi="41.739132"><tspan
          sodipodi:role="line"
          id="tspan33750"
-         x="7561.7773"
-         y="3344.1289"
+         x="7518.9346"
+         y="3129.9143"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:86.6667px;line-height:0.5;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Recommended Uniformity Buff:</tspan><tspan
          sodipodi:role="line"
-         x="7561.7773"
-         y="3381.0144"
+         x="7518.9346"
+         y="3166.7998"
          id="tspan75012"
          style="line-height:0.5" /><tspan
          sodipodi:role="line"
-         x="7561.7773"
-         y="3430.7156"
+         x="7518.9346"
+         y="3216.501"
          id="tspan45506"
          style="font-size:66.6667px;line-height:1">These are just recommended buff times</tspan><tspan
          sodipodi:role="line"
-         x="7561.7773"
-         y="3497.3823"
+         x="7518.9346"
+         y="3283.1677"
          style="font-size:66.6667px;line-height:1"
          id="tspan185987">each R; buff as much or as little as you</tspan><tspan
          sodipodi:role="line"
-         x="7561.7773"
-         y="3564.0491"
+         x="7518.9346"
+         y="3349.8345"
          style="font-size:66.6667px;line-height:1"
          id="tspan221333">please.</tspan><tspan
          sodipodi:role="line"
-         x="7561.7773"
-         y="3630.7158"
+         x="7518.9346"
+         y="3416.5012"
          style="font-size:66.6667px;line-height:1"
          id="tspan55216" /><tspan
          sodipodi:role="line"
-         x="7561.7773"
-         y="3697.3826"
+         x="7518.9346"
+         y="3483.168"
          style="font-size:66.6667px;line-height:1"
          id="tspan187063">More time is recommended as you reach</tspan><tspan
          sodipodi:role="line"
-         x="7561.7773"
-         y="3764.0491"
+         x="7518.9346"
+         y="3549.8345"
          style="font-size:66.6667px;line-height:1"
          id="tspan188415">the end of an R range.</tspan><tspan
          sodipodi:role="line"
-         x="7561.7773"
-         y="3830.7158"
+         x="7518.9346"
+         y="3616.5012"
          style="font-size:66.6667px;line-height:1"
          id="tspan77798" /><tspan
          sodipodi:role="line"
-         x="7561.7773"
-         y="3897.3826"
+         x="7518.9346"
+         y="3683.168"
          style="font-size:66.6667px;line-height:1"
          id="tspan54308">R100-115: 30 mins</tspan><tspan
          sodipodi:role="line"
-         x="7561.7773"
-         y="3964.0493"
+         x="7518.9346"
+         y="3749.8347"
          style="font-size:66.6667px;line-height:1"
          id="tspan79630">R116-R120: 1 hour</tspan><tspan
          sodipodi:role="line"
-         x="7561.7773"
-         y="4030.7161"
+         x="7518.9346"
+         y="3816.5015"
          style="font-size:66.6667px;line-height:1"
          id="tspan80368">R120- R125: 4 hours</tspan><tspan
          sodipodi:role="line"
-         x="7561.7773"
-         y="4097.3828"
+         x="7518.9346"
+         y="3883.1682"
          style="font-size:66.6667px;line-height:1"
-         id="tspan202679">R126-R129: 4-10 hours (Start at 4 hours</tspan><tspan
+         id="tspan202679">R126-R129: 4-10 hours (Buff as needed)</tspan><tspan
          sodipodi:role="line"
-         x="7561.7773"
-         y="4164.0493"
+         x="7518.9346"
+         y="3949.8347"
          style="font-size:66.6667px;line-height:1"
-         id="tspan205929">R130-139: 4 hours         on R126, increase</tspan><tspan
+         id="tspan205929">R130-135: 4 hours</tspan><tspan
          style="font-size:66.6667px;line-height:1"
          sodipodi:role="line"
          id="tspan177127"
-         x="7561.7773"
-         y="4230.7163">R140+: 1 hour               as needed)</tspan><tspan
+         x="7518.9346"
+         y="4016.5015">R136+: &lt;1 hour</tspan><tspan
          style="font-size:42.6667px;line-height:0.5"
          sodipodi:role="line"
          id="tspan177129"
-         x="7561.7773"
-         y="4267.8203"> </tspan></text>
+         x="7518.9346"
+         y="4053.6057"> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:74.6667px;line-height:0;font-family:sans-serif"
+       x="6752.522"
+       y="4153.3843"
+       id="text22774"
+       inkscape:export-filename="C:\Users\corym\Downloads\text33752.png"
+       inkscape:export-xdpi="41.739132"
+       inkscape:export-ydpi="41.739132"><tspan
+         style="font-size:66.6667px;line-height:1"
+         sodipodi:role="line"
+         id="tspan22770"
+         x="6752.522"
+         y="4153.3843"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan2885">MAD spell trophies </tspan>- before R135</tspan><tspan
+         style="font-size:66.6667px;line-height:1"
+         sodipodi:role="line"
+         x="6752.522"
+         y="4220.0508"
+         id="tspan27167">CL - R130 or whenever before that if you want to spend a few hours</tspan><tspan
+         style="font-size:66.6667px;line-height:1"
+         sodipodi:role="line"
+         x="6752.522"
+         y="4286.7178"
+         id="tspan27169">PE - before your first faceline demon</tspan><tspan
+         style="font-size:66.6667px;line-height:1"
+         sodipodi:role="line"
+         x="6752.522"
+         y="4353.3843"
+         id="tspan27171">IS - R126+, useful for buffing DN AH but not necessary</tspan><tspan
+         style="font-size:42.6667px;line-height:0.5"
+         sodipodi:role="line"
+         id="tspan22772"
+         x="6752.522"
+         y="4390.4883"> </tspan></text>
   </g>
   <script
      id="mesh_polyfill"
