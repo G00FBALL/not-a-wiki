@@ -1,0 +1,2267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="9200"
+   height="4800"
+   viewBox="0 0 9200 4800"
+   version="1.1"
+   id="svg1672"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="A2_Plot.svg"
+   inkscape:export-filename="C:\Users\corym\Pictures\InkScape Projects\A2_Plot.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1666">
+    <rect
+       x="1043.8829"
+       y="2770.4349"
+       width="508.16481"
+       height="165.42133"
+       id="rect5848" />
+    <clipPath
+       id="clipPath_faction"
+       transform="translate(458,513)">
+      <path
+         d="M0,3359.625 h100 v-51.11 h100 v-51.33 h100 v-51.54 h100 v-51.76 h100 v-51.96 h100 v-52.17 h100 v-52.37 h100 v-52.57 h100 v-52.77 h100 v-52.97 h100 v-53.16 h100 v-53.35 h100 v-53.53 h100 v-53.72 h100 v-53.90 h100 v-54.08 h100 v-54.26 h100 v-54.44 h100 v-54.61 h100 v-54.78 h100 v-54.95 h100 v-55.12 h100 v-55.28 h100 v-55.44 h100 v-55.61 h100 v-55.77 h100 v-55.92 h100 v-56.08 h100 v-56.23 h100 v-56.39 h100 v-56.54 h100 v-56.69 h100 v-56.83 h100 v-56.98 h100 v-57.12 h100 v-57.27 h100 v-57.41 h100 v-57.55 h100 v-57.69 h100 v-57.82 h100 v-57.96 h100 v-58.09 h100 v-58.23 h100 v-58.36 h100 v-58.49 h100 v-58.62 h100 v-58.74 h100 v-58.87 h100 v-59.00 h100 v-59.12 h100 v-59.24 h100 v-59.37 h100 v-59.49 h100 v-59.61 h100 v-59.72 h100 v-59.84 h100 v-59.96 h100 v-60.07 h100 v-60.19 h100 V3876 h-6000 z"
+         id="path2" />
+    </clipPath>
+    <rect
+       width="1"
+       height="1"
+       style="fill:#ff99ff;stroke:none"
+       id="rect_FR"
+       x="0"
+       y="0" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#33cc33;stroke:none"
+       id="rect_EL"
+       x="0"
+       y="0" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#00ffff;stroke:none"
+       id="rect_AN"
+       x="0"
+       y="0" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#585800;stroke:none"
+       id="rect_GB"
+       x="0"
+       y="0" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#3b0058;stroke:none"
+       id="rect_UD"
+       x="0"
+       y="0" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#c00000;stroke:none"
+       id="rect_DM"
+       x="0"
+       y="0" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#ffd966;stroke:none"
+       id="rect_TT"
+       x="0"
+       y="0" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#833c0c;stroke:none"
+       id="rect_DD"
+       x="0"
+       y="0" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#9966ff;stroke:none"
+       id="rect_FC"
+       x="0"
+       y="0" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#78bfea;stroke:none"
+       id="rect_DN"
+       x="0"
+       y="0" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#840058;stroke:none"
+       id="rect_DW"
+       x="0"
+       y="0" />
+    <rect
+       width="1"
+       height="1"
+       style="fill:#8ac68a;stroke:none"
+       id="rect_DG"
+       x="0"
+       y="0" />
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Fairy_Dwarf">
+      <use
+         id="use2291"
+         xlink:href="#rect_FR" />
+      <use
+         id="use2293"
+         x="1"
+         xlink:href="#rect_DN" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Elf_Dwarf">
+      <use
+         id="use2296"
+         xlink:href="#rect_EL" />
+      <use
+         id="use2298"
+         x="1"
+         xlink:href="#rect_DN" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Angel_Dwarf">
+      <use
+         id="use2301"
+         xlink:href="#rect_AN" />
+      <use
+         id="use2303"
+         x="1"
+         xlink:href="#rect_DN" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Goblin_Drow">
+      <use
+         id="use2306"
+         xlink:href="#rect_GB" />
+      <use
+         id="use2308"
+         x="1"
+         xlink:href="#rect_DW" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Undead_Drow">
+      <use
+         id="use2311"
+         xlink:href="#rect_UD" />
+      <use
+         id="use2313"
+         x="1"
+         xlink:href="#rect_DW" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Demon_Drow">
+      <use
+         id="use2316"
+         xlink:href="#rect_DM" />
+      <use
+         id="use2318"
+         x="1"
+         xlink:href="#rect_DW" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Titan_Dragon">
+      <use
+         id="use2321"
+         xlink:href="#rect_TT" />
+      <use
+         id="use2323"
+         x="1"
+         xlink:href="#rect_DG" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Druid_Dragon">
+      <use
+         id="use2326"
+         xlink:href="#rect_DD" />
+      <use
+         id="use2328"
+         x="1"
+         xlink:href="#rect_DG" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Faceless_Dragon">
+      <use
+         id="use2331"
+         xlink:href="#rect_FC" />
+      <use
+         id="use2333"
+         x="1"
+         xlink:href="#rect_DG" />
+    </pattern>
+    <pattern
+       id="Pattern_Grid"
+       width="100"
+       height="76.5"
+       transform="translate(458,513)"
+       y="51"
+       patternUnits="userSpaceOnUse">
+      <rect
+         width="100"
+         height="76.5"
+         style="stroke:#0000ff;stroke-width:2;fill:none"
+         id="rect42" />
+    </pattern>
+    <pattern
+       id="Pattern_Grid_Big"
+       width="1000"
+       height="306"
+       transform="translate(458,513)"
+       y="204"
+       patternUnits="userSpaceOnUse">
+      <line
+         x1="0"
+         x2="1000"
+         y1="306"
+         y2="306"
+         style="stroke:#0000ff;stroke-width:10"
+         id="line45" />
+      <line
+         x1="0"
+         x2="0"
+         y1="0"
+         y2="306"
+         style="stroke:#0000ff;stroke-width:6"
+         id="line47" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Angel_Dwarf-4">
+      <use
+         id="use2301-5"
+         xlink:href="#rect_AN" />
+      <use
+         id="use2303-2"
+         x="1"
+         xlink:href="#rect_DN" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Elf_Dwarf-9">
+      <use
+         id="use2296-6"
+         xlink:href="#rect_EL" />
+      <use
+         id="use2298-6"
+         x="1"
+         xlink:href="#rect_DN" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Elf_Dwarf-94">
+      <use
+         id="use2296-4"
+         xlink:href="#rect_EL" />
+      <use
+         id="use2298-0"
+         x="1"
+         xlink:href="#rect_DN" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Elf_Dwarf-0">
+      <use
+         id="use2296-46"
+         xlink:href="#rect_EL" />
+      <use
+         id="use2298-8"
+         x="1"
+         xlink:href="#rect_DN" />
+    </pattern>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient2333"
+       gradientUnits="userSpaceOnUse"
+       x="499.64645"
+       y="2677.1465"
+       gradientTransform="matrix(0.81815767,0,0,0.99791208,290.92117,-19.270512)">
+      <meshrow
+         id="meshrow2335">
+        <meshpatch
+           id="meshpatch2337">
+          <stop
+             path="c 366.902,0  733.805,0  1100.71,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2339" />
+          <stop
+             path="c 0,102.236  0,204.471  0,306.707"
+             style="stop-color:#33cc33;stop-opacity:1"
+             id="stop2341" />
+          <stop
+             path="c -366.902,0  -733.805,0  -1100.71,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2343" />
+          <stop
+             path="c 0,-102.236  0,-204.471  0,-306.707"
+             style="stop-color:#33cc33;stop-opacity:1"
+             id="stop2345" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Angel_Dwarf-1">
+      <use
+         id="use2301-2"
+         xlink:href="#rect_AN" />
+      <use
+         id="use2303-6"
+         x="1"
+         xlink:href="#rect_DN" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Undead_Drow-7">
+      <use
+         id="use2311-4"
+         xlink:href="#rect_UD" />
+      <use
+         id="use2313-7"
+         x="1"
+         xlink:href="#rect_DW" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Angel_Dwarf-9">
+      <use
+         id="use2301-8"
+         xlink:href="#rect_AN" />
+      <use
+         id="use2303-8"
+         x="1"
+         xlink:href="#rect_DN" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Undead_Drow-0">
+      <use
+         id="use2311-7"
+         xlink:href="#rect_UD" />
+      <use
+         id="use2313-9"
+         x="1"
+         xlink:href="#rect_DW" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Elf_Dwarf-90">
+      <use
+         id="use2296-3"
+         xlink:href="#rect_EL" />
+      <use
+         id="use2298-9"
+         x="1"
+         xlink:href="#rect_DN" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Elf_Dwarf-1">
+      <use
+         id="use2296-63"
+         xlink:href="#rect_EL" />
+      <use
+         id="use2298-92"
+         x="1"
+         xlink:href="#rect_DN" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Angel_Dwarf-8">
+      <use
+         id="use2301-7"
+         xlink:href="#rect_AN" />
+      <use
+         id="use2303-7"
+         x="1"
+         xlink:href="#rect_DN" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(35,20,-22.5,22.5,0,0)"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       id="Stripes_Undead_Drow-02">
+      <use
+         id="use2311-2"
+         xlink:href="#rect_UD" />
+      <use
+         id="use2313-79"
+         x="1"
+         xlink:href="#rect_DW" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.21006966"
+     inkscape:cx="6452.6215"
+     inkscape:cy="3110.8728"
+     inkscape:document-units="px"
+     inkscape:current-layer="g473"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-path-clip="true"
+     gridtolerance="5"
+     inkscape:snap-page="false"
+     inkscape:snap-grids="true"
+     guidecolor="#ff00ff"
+     guideopacity="0.49803922"
+     objecttolerance="5"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1792"
+       originx="458"
+       originy="717"
+       spacingx="100"
+       spacingy="25.5"
+       color="#3f3fff"
+       opacity="0.32941176"
+       empcolor="#3f3fff"
+       empopacity="0.69803922"
+       empspacing="6" />
+    <sodipodi:guide
+       position="9339.759,6237.6184"
+       orientation="0,-1"
+       id="guide2389" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1669">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Grid"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(458,513)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="g50">
+      <rect
+         style="opacity:0.3;fill:url(#Pattern_Grid);fill-opacity:1;fill-rule:nonzero"
+         width="6000"
+         height="3876"
+         id="rect47"
+         x="0"
+         y="0" />
+      <rect
+         height="3876"
+         width="6000"
+         id="rect2012"
+         style="opacity:1;fill:url(#Pattern_Grid_Big);fill-opacity:1;fill-rule:nonzero"
+         x="0"
+         y="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Faction"
+     clip-path="url(#clipPath_faction)"
+     transform="translate(458,513)"
+     style="display:inline">
+    <rect
+       style="opacity:0.7;fill:#33cc33;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect111064"
+       width="1997.972"
+       height="996.01288"
+       x="1602.028"
+       y="2879.9871" />
+    <rect
+       style="opacity:1;fill:#33cc33;fill-opacity:0.701961;fill-rule:nonzero;stroke:url(#meshgradient2333);stroke-width:0.638923;stroke-opacity:1"
+       id="rect1707"
+       width="899.97345"
+       height="305.36108"
+       x="700"
+       y="2652.6389" />
+    <rect
+       style="opacity:1;fill:#585800;fill-opacity:0.701961;fill-rule:nonzero;stroke-width:10.9826;stroke-miterlimit:4;stroke-dasharray:32.9476, 32.9476;stroke-dashoffset:0"
+       id="rect9209"
+       width="1100"
+       height="841.5"
+       x="7.6605389e-14"
+       y="3034.5" />
+    <rect
+       style="opacity:1;fill:#33cc33;fill-opacity:0.701961;fill-rule:nonzero;stroke-width:0.825724"
+       id="rect1707-7"
+       width="500"
+       height="918"
+       x="1100"
+       y="2958" />
+    <rect
+       style="opacity:1;fill:#33cc33;fill-opacity:0.701961;fill-rule:nonzero;stroke-width:0.2132"
+       id="rect1707-3"
+       width="400"
+       height="76.5"
+       x="700"
+       y="2958" />
+    <rect
+       style="opacity:1;fill:#4cffff;fill-opacity:0.701961;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.156216;stroke-opacity:1"
+       id="rect1707-6"
+       width="202.96822"
+       height="80.940781"
+       x="1400.0114"
+       y="2570.9812" />
+    <rect
+       style="opacity:0.7;fill:#33cc33;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect111557"
+       width="1998.2192"
+       height="277.19614"
+       x="1604.7603"
+       y="2602.3572" />
+    <rect
+       style="opacity:0.7;fill:#33cc33;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect147752"
+       width="2395.2397"
+       height="1273.6429"
+       x="3604.7603"
+       y="2602.3572" />
+    <rect
+       style="opacity:0.7;fill:#4cffff;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect147754"
+       width="2399.8223"
+       height="451.95508"
+       x="3600.1777"
+       y="2150.4021" />
+    <rect
+       style="opacity:0.7;fill:#4cffff;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect167941"
+       width="2007.6838"
+       height="575.66602"
+       x="1595.2957"
+       y="2026.6912" />
+    <rect
+       style="opacity:0.7;fill:#4cffff;fill-opacity:1;stroke:none;stroke-width:9.04409;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect167943"
+       width="600.00049"
+       height="227.84616"
+       x="3000"
+       y="1798.845" />
+    <rect
+       style="opacity:0.7;fill:#4cffff;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect168996"
+       width="2401.762"
+       height="694.48743"
+       x="3600"
+       y="1458.295" />
+    <rect
+       style="opacity:0.7;fill:#4cffff;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect169000"
+       width="300"
+       height="172.23004"
+       x="3600"
+       y="1286.0649" />
+    <rect
+       style="opacity:0.7;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect169494"
+       width="411.81781"
+       height="229.036"
+       x="2593.332"
+       y="1794.4332" />
+    <rect
+       style="opacity:0.7;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect169807"
+       width="11.781194"
+       height="1.4790369"
+       x="3005.6743"
+       y="1459.5104" />
+    <rect
+       style="opacity:0.7;fill:#4cffff;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect249980"
+       width="600.99084"
+       height="530.10645"
+       x="5400.771"
+       y="928.1886" />
+    <rect
+       style="opacity:0.7;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect250093"
+       width="1573.2308"
+       height="890.34509"
+       x="4426.1509"
+       y="39.03363" />
+    <rect
+       style="opacity:0.7;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect250095"
+       width="1499.6798"
+       height="533.67993"
+       x="3901.0913"
+       y="928.1886" />
+    <rect
+       style="opacity:0.7;fill:#4cffff;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       id="rect10949"
+       width="98.599091"
+       height="227.90068"
+       x="3500.8059"
+       y="1458.2949" />
+    <rect
+       style="opacity:0.7;fill:#4cffff;stroke-width:9;fill-opacity:1"
+       id="rect923"
+       width="599.40503"
+       height="112.6494"
+       x="3000"
+       y="1686.1956" />
+    <rect
+       style="opacity:0.7;fill:#4cffff;stroke-width:9;fill-opacity:1"
+       id="rect925"
+       width="305.25595"
+       height="187.95795"
+       x="3195.55"
+       y="1498.2375" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Faction_Border"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2058,4389 V 3084.415"
+       id="path9217"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.88314;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1558,4389 V 3466.5"
+       id="path9217-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2062.7603,3115.3571 h 2000"
+       id="path1879-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.44005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4058,4389.5697 -0.595,-2190.3741 -99.1941,-1.1153 L 3958,2028.415"
+       id="path9217-3-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1558,3471 h 500"
+       id="path9203-4-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.0421;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 700,3034.5 h 400"
+       id="path9203-4-3"
+       inkscape:connector-curvature="0"
+       transform="translate(458,513)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10.38;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 4060.9795,3115.3572 H 6461.2719"
+       id="path1879-4-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.07542;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1857.6135,3164.922 h 203.3661"
+       id="path9203-4-3-1-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.41148;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3058.0394,2535.8581 405.1106,0.6111"
+       id="path111038"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2060.0279,3392.9871 1996.0727,-3.3661"
+       id="path111040" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4058.1777,2663.4022 c 347.5038,-2.3801 2401.5843,2.3802 2401.5843,2.3802"
+       id="path135645" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.11188;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4359.1012,1971.2941 1497.2797,0.6718 2.39,-530.7773 598.611,1.1901"
+       id="path135760"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3458.5217,2539.8352 3458,2311.845"
+       id="path166467"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.08952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4358.0004,1799.0617 1.0908,175.8068"
+       id="path167482" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Border"
+     transform="translate(458,513)"
+     sodipodi:insensitive="true">
+    <path
+       id="R_gems"
+       d="m 0,3359.625 h 100 v -51.11 h 100 v -51.33 h 100 v -51.54 h 100 v -51.76 h 100 v -51.96 h 100 v -52.17 h 100 v -52.37 h 100 v -52.57 h 100 v -52.77 h 100 v -52.97 h 100 v -53.16 h 100 v -53.35 h 100 v -53.53 h 100 v -53.72 h 100 v -53.9 h 100 v -54.08 h 100 v -54.26 h 100 v -54.44 h 100 v -54.61 h 100 v -54.78 h 100 v -54.95 h 100 v -55.12 h 100 v -55.28 h 100 v -55.44 h 100 v -55.61 h 100 v -55.77 h 100 v -55.92 h 100 v -56.08 h 100 v -56.23 h 100 v -56.39 h 100 v -56.54 h 100 v -56.69 h 100 v -56.83 h 100 v -56.98 h 100 v -57.12 h 100 v -57.27 h 100 v -57.41 h 100 v -57.55 h 100 v -57.69 h 100 v -57.82 h 100 v -57.96 h 100 v -58.09 h 100 v -58.23 h 100 v -58.36 h 100 v -58.49 h 100 v -58.62 h 100 v -58.74 h 100 v -58.87 h 100 v -59 h 100 v -59.12 h 100 v -59.24 h 100 v -59.37 h 100 v -59.49 h 100 v -59.61 h 100 v -59.72 h 100 v -59.84 h 100 v -59.96 h 100 v -60.07 h 100 v -60.19 h 100"
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 0,0 V 3876 H 6000"
+       style="fill:none;stroke:#000000;stroke-width:10"
+       id="path56"
+       inkscape:connector-curvature="0" />
+    <text
+       style="font-size:50px;font-family:Arial;text-anchor:middle"
+       id="text105"
+       x="-81.818184"
+       y="15"><tspan
+         dy="51"
+         id="tspan59">e150</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan61">e144</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan57">e138</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan64">e132</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan66">e126</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan63">e120</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan65">e114</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan67">e108</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan69">e102</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan71">e96</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan73">e90</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan75">e84</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan77">e78</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan79">e72</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan81">e66</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan83">e60</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan85">e54</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan87">e48</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan89">e42</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan91">e36</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan93">e30</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan95">e24</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan97">e18</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan99">e12</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan101">e6</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan103">0</tspan></text>
+    <text
+       style="font-size:40px;font-family:Arial;text-anchor:middle"
+       transform="translate(6163)"
+       x="-81.818184"
+       y="15"
+       id="text1791"><tspan
+         dy="51"
+         id="tspan3815">Noqag</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7138">Ocqag</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7140">Spqag</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7142">Sxqag</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7144">Qiqag</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7146">Qaqag</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7148">Tqag</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7150">Dqag</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7152">Uqag</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7154">Qag</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7156">Notg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7158">Octg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7160">Sptg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7162">Sxtg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7164">Qitg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7166">Qatg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7168">Ttg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7170">Dtg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7172">Utg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7174">Tg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7176">Novg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7178">Ocvg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7180">Spvg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7182">Sxvg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7184">Qivg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7186">Qavg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7188">Tvg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7190">Dvg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7192">Uvg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7194">Vg</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7196">Nod</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7198">Ocd</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7200">Spd</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7202">Sxd</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7204">Qid</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7206">Qad</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7208">Td</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7210">Dd</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7212">Ud</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7214">Dc</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7216">No</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7218">Oc</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7220">Sp</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7222">Sx</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7224">Qi</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7226">Qa</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7228">T</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7230">B</tspan><tspan
+         x="-81.818184"
+         dy="76.5"
+         id="tspan7232">M</tspan><tspan
+         x="-81.818184"
+         dy="153"
+         id="tspan7234">0</tspan></text>
+    <g
+       transform="translate(-5,3930)"
+       style="font-size:45px;font-family:Arial;text-anchor:middle"
+       id="g210">
+      <text
+         x="50"
+         id="text90">100</text>
+      <text
+         x="150"
+         id="text92">101</text>
+      <text
+         x="250"
+         id="text94">102</text>
+      <text
+         x="350"
+         id="text96">103</text>
+      <text
+         x="450"
+         id="text98">104</text>
+      <text
+         x="550"
+         id="text100">105</text>
+      <text
+         x="650"
+         id="text102">106</text>
+      <text
+         x="750"
+         id="text104">107</text>
+      <text
+         x="850"
+         id="text106">108</text>
+      <text
+         x="950"
+         id="text108">109</text>
+      <text
+         x="1050"
+         id="text110">110</text>
+      <text
+         x="1150"
+         id="text112">111</text>
+      <text
+         x="1250"
+         id="text114">112</text>
+      <text
+         x="1350"
+         id="text116">113</text>
+      <text
+         x="1450"
+         id="text118">114</text>
+      <text
+         x="1550"
+         id="text120">115</text>
+      <text
+         x="1650"
+         id="text122">116</text>
+      <text
+         x="1750"
+         id="text124">117</text>
+      <text
+         x="1850"
+         id="text126">118</text>
+      <text
+         x="1950"
+         id="text128">119</text>
+      <text
+         x="2050"
+         id="text130">120</text>
+      <text
+         x="2150"
+         id="text132">121</text>
+      <text
+         x="2250"
+         id="text134">122</text>
+      <text
+         x="2350"
+         id="text136">123</text>
+      <text
+         x="2450"
+         id="text138">124</text>
+      <text
+         x="2550"
+         id="text140">125</text>
+      <text
+         x="2650"
+         id="text142">126</text>
+      <text
+         x="2750"
+         id="text144">127</text>
+      <text
+         x="2850"
+         id="text146">128</text>
+      <text
+         x="2950"
+         id="text148">129</text>
+      <text
+         x="3050"
+         id="text150">130</text>
+      <text
+         x="3150"
+         id="text152">131</text>
+      <text
+         x="3250"
+         id="text154">132</text>
+      <text
+         x="3350"
+         id="text156">133</text>
+      <text
+         x="3450"
+         id="text158">134</text>
+      <text
+         x="3550"
+         id="text160">135</text>
+      <text
+         x="3650"
+         id="text162">136</text>
+      <text
+         x="3750"
+         id="text164">137</text>
+      <text
+         x="3850"
+         id="text166">138</text>
+      <text
+         x="3950"
+         id="text168">139</text>
+      <text
+         x="4050"
+         id="text170">140</text>
+      <text
+         x="4150"
+         id="text172">141</text>
+      <text
+         x="4250"
+         id="text174">142</text>
+      <text
+         x="4350"
+         id="text176">143</text>
+      <text
+         x="4450"
+         id="text178">144</text>
+      <text
+         x="4550"
+         id="text180">145</text>
+      <text
+         x="4650"
+         id="text182">146</text>
+      <text
+         x="4750"
+         id="text184">147</text>
+      <text
+         x="4850"
+         id="text186">148</text>
+      <text
+         x="4950"
+         id="text188">149</text>
+      <text
+         x="5050"
+         id="text190">150</text>
+      <text
+         x="5150"
+         id="text192">151</text>
+      <text
+         x="5250"
+         id="text194">152</text>
+      <text
+         x="5350"
+         id="text196">153</text>
+      <text
+         x="5450"
+         id="text198">154</text>
+      <text
+         x="5550"
+         id="text200">155</text>
+      <text
+         x="5650"
+         id="text202">156</text>
+      <text
+         x="5750"
+         id="text204">157</text>
+      <text
+         x="5850"
+         id="text206">158</text>
+      <text
+         x="5950"
+         id="text208">159</text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="GraphText"
+     style="display:inline">
+    <text
+       y="341.24023"
+       style="font-size:220px;font-family:Arial;text-anchor:middle;display:inline"
+       id="text1861-5"
+       x="3448.5303">Ascension 2 Production Guide</text>
+    <g
+       style="font-size:120px;font-family:Arial;text-anchor:middle;display:inline"
+       id="g1855"
+       font-size="120"
+       transform="rotate(-90,2811.9141,2677.7148)">
+      <text
+         id="text1853"
+         x="3020"
+         y="65">Gems</text>
+    </g>
+    <text
+       y="4667.2461"
+       style="font-size:120px;font-family:Arial;text-anchor:middle;display:inline"
+       x="3461.9434"
+       id="text2360">Reincarnation</text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="5815.582"
+       y="1366.1971"
+       id="text179"><tspan
+         sodipodi:role="line"
+         x="5815.582"
+         y="1366.1971"
+         id="tspan181"
+         style="font-size:133.333px">Angeline Demon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1017.928"
+       y="3995.3867"
+       id="text1823"><tspan
+         sodipodi:role="line"
+         id="tspan1819"
+         x="1017.928"
+         y="3995.3867">Undeadline</tspan><tspan
+         sodipodi:role="line"
+         x="1017.928"
+         y="4145.3867"
+         id="tspan1821">Goblin</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2016.2691,3110.2381 1733.1408,2869.9528"
+       id="path107615"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#d40000;stroke:#000000;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3312.5837,2456.5348 3135.0163,2263.193"
+       id="path154798"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
+       x="2497.6155"
+       y="2992.4263"
+       id="text286144"><tspan
+         sodipodi:role="line"
+         id="tspan286142"
+         x="2497.6155"
+         y="2992.4263">Dragonline Angel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
+       x="2359.3123"
+       y="2224.8196"
+       id="text286144-67"><tspan
+         sodipodi:role="line"
+         id="tspan286142-155"
+         x="2359.3123"
+         y="2224.8196">Faceline Demon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
+       x="1144.1653"
+       y="2830.71"
+       id="text286144-74"><tspan
+         sodipodi:role="line"
+         id="tspan286142-2"
+         x="1144.1653"
+         y="2830.71">Dragonline Angel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
+       x="4818.5542"
+       y="2914.9209"
+       id="text286144-5"><tspan
+         sodipodi:role="line"
+         id="tspan286142-40"
+         x="4818.5542"
+         y="2914.9209">Faceline Angel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
+       x="4788.499"
+       y="2360.0986"
+       id="text286144-8"><tspan
+         sodipodi:role="line"
+         id="tspan286142-4"
+         x="4788.499"
+         y="2360.0986">Dragonline Angel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
+       x="4870.1997"
+       y="3762.8291"
+       id="text286144-3"><tspan
+         sodipodi:role="line"
+         id="tspan286142-9"
+         x="4870.1997"
+         y="3762.8291">Titanline Elf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
+       x="2654.2776"
+       y="3339.762"
+       id="text286144-7"><tspan
+         sodipodi:role="line"
+         id="tspan286142-1"
+         x="2654.2776"
+         y="3339.762">Faceline Elf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:133.333px;line-height:0.5;font-family:sans-serif"
+       x="2639.6584"
+       y="3950.6521"
+       id="text286144-9"><tspan
+         sodipodi:role="line"
+         id="tspan286142-3"
+         x="2639.6584"
+         y="3950.6521">Druidline Elf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:93.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1740.046"
+       y="3443.7114"
+       id="text5854"><tspan
+         sodipodi:role="line"
+         x="1740.046"
+         y="3443.7114"
+         id="tspan5856">Gobline Elf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:93.3333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1812.0812"
+       y="4002.3442"
+       id="text5489"><tspan
+         sodipodi:role="line"
+         x="1812.0812"
+         y="4002.3442"
+         id="tspan5491">Druidline</tspan><tspan
+         sodipodi:role="line"
+         x="1812.0812"
+         y="4119.0107"
+         id="tspan2330">Elf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:133.333px;line-height:0.5;font-family:sans-serif;display:inline"
+       x="2958.1267"
+       y="1922.8534"
+       id="text6808"><tspan
+         sodipodi:role="line"
+         id="tspan6806"
+         x="2958.1267"
+         y="1922.8534" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Notes"
+     style="display:inline">
+    <g
+       transform="translate(5703.5854,995.5813)"
+       style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+       id="g228">
+      <circle
+         r="40"
+         cy="0"
+         cx="0"
+         id="circle1873"
+         style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+      <text
+         id="text226"
+         y="20">J</text>
+    </g>
+    <text
+       style="font-size:120px;font-family:Arial;text-anchor:middle;display:inline"
+       id="text1963"
+       x="7106.6826"
+       y="370.32227">Things To Do</text>
+    <g
+       id="g237"
+       style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+       transform="translate(5306.9187,1732.2479)">
+      <circle
+         style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+         id="circle233"
+         cx="0"
+         cy="0"
+         r="40" />
+      <text
+         y="20"
+         id="text235">I</text>
+    </g>
+    <g
+       transform="translate(4800.2521,1518.9146)"
+       style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+       id="g243">
+      <circle
+         r="40"
+         cy="0"
+         cx="0"
+         id="circle239"
+         style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+      <text
+         id="text241"
+         y="20">H</text>
+    </g>
+    <g
+       id="g249"
+       style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+       transform="translate(4403.5855,1972.248)">
+      <circle
+         style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+         id="circle245"
+         cx="0"
+         cy="0"
+         r="40" />
+      <text
+         y="20"
+         id="text247">G</text>
+    </g>
+    <g
+       transform="translate(4006.1101,2195.9305)"
+       style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+       id="g255">
+      <circle
+         r="40"
+         cy="0"
+         cx="0"
+         id="circle251"
+         style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+      <text
+         id="text253"
+         y="20">F</text>
+    </g>
+    <g
+       id="g261"
+       style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+       transform="translate(3503.5855,2262.248)">
+      <circle
+         style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+         id="circle257"
+         cx="0"
+         cy="0"
+         r="40" />
+      <text
+         y="20"
+         id="text259">E</text>
+    </g>
+    <g
+       transform="translate(3003.5855,2542.248)"
+       style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+       id="g267">
+      <circle
+         r="40"
+         cy="0"
+         cx="0"
+         id="circle263"
+         style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+      <text
+         id="text265"
+         y="20">D</text>
+    </g>
+    <g
+       id="g273"
+       style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+       transform="translate(2503.5855,2812.248)">
+      <circle
+         style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+         id="circle269"
+         cx="0"
+         cy="0"
+         r="40" />
+      <text
+         y="20"
+         id="text271">C</text>
+    </g>
+    <g
+       transform="translate(2103.5855,4245.5813)"
+       style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+       id="g279">
+      <circle
+         r="40"
+         cy="0"
+         cx="0"
+         id="circle275"
+         style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+      <text
+         id="text277"
+         y="20">B</text>
+    </g>
+    <g
+       id="g285"
+       style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+       transform="translate(503.58551,4335.5813)">
+      <circle
+         style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+         id="circle281"
+         cx="0"
+         cy="0"
+         r="40" />
+      <text
+         y="20"
+         id="text283">A</text>
+    </g>
+    <g
+       id="g291"
+       style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+       transform="translate(5810.2521,2608.9146)">
+      <circle
+         style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+         id="circle287"
+         cx="0"
+         cy="0"
+         r="40" />
+      <text
+         y="20"
+         id="text289">K</text>
+    </g>
+    <g
+       transform="translate(6893.5856,548.91467)"
+       style="font-size:75px;font-family:Arial;text-anchor:start"
+       id="g278">
+      <text
+         id="text276"><tspan
+           style="font-style:italic"
+           id="tspan262" /></text>
+    </g>
+    <g
+       id="g473"
+       transform="translate(30)">
+      <g
+         id="g308"
+         style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+         transform="translate(6670.2523,548.91467)">
+        <circle
+           style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+           id="circle304"
+           cx="0"
+           cy="0"
+           r="40" />
+        <text
+           y="20"
+           id="text306">A</text>
+      </g>
+      <g
+         id="g550">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:75px;line-height:1;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="6723.333"
+           y="580.0304"
+           id="text284"><tspan
+             sodipodi:role="line"
+             x="6723.333"
+             y="580.0304"
+             id="tspan288"
+             style="font-style:italic">R100-110:</tspan><tspan
+             sodipodi:role="line"
+             x="6723.333"
+             y="955.0304"
+             id="tspan290"
+             style="font-weight:bold">Spell Tiers (T7);</tspan><tspan
+             id="tspan268"> Holy Frenzy, Uniformity Trophies</tspan><tspan
+             sodipodi:role="line"
+             x="6723.333"
+             y="730.0304"
+             id="tspan292"
+             style="font-weight:bold">Faction Artifact Sets, Art of the Crow</tspan><tspan
+             sodipodi:role="line"
+             x="6723.333"
+             y="805.0304"
+             id="tspan294"
+             style="font-weight:bold">Note: Art of the Crow is required to progress R114+!</tspan><tspan
+             sodipodi:role="line"
+             x="6723.333"
+             y="880.0304"
+             id="tspan296">Excavated Mirage, Planetary Force Artifacts</tspan><tspan
+             sodipodi:role="line"
+             x="6723.333"
+             y="955.0304"
+             id="tspan298">Base Factions 2nd Unique Buildings Unlocks</tspan></text>
+        <g
+           id="g336"
+           style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+           transform="translate(6670.2523,548.91467)">
+          <circle
+             style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+             id="circle332"
+             cx="0"
+             cy="0"
+             r="40" />
+          <text
+             y="20"
+             id="text334">A</text>
+        </g>
+      </g>
+      <g
+         id="g561">
+        <text
+           id="text315"
+           y="1056.6971"
+           x="6723.333"
+           style="font-style:normal;font-weight:normal;font-size:75px;line-height:1;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:italic"
+             id="tspan313"
+             y="1056.6971"
+             x="6723.333"
+             sodipodi:role="line">R116:</tspan><tspan
+             y="1131.6971"
+             x="6723.333"
+             sodipodi:role="line"
+             id="tspan333">Prestige Factions 2nd Unique Buildings Unlocks</tspan><tspan
+             y="1206.6971"
+             x="6723.333"
+             sodipodi:role="line"
+             id="tspan335">Prestige Factions Artifact Sets</tspan><tspan
+             style="font-weight:bold"
+             y="1281.6971"
+             x="6723.333"
+             sodipodi:role="line"
+             id="tspan337">Ancestral Hourglass Artifact</tspan></text>
+        <g
+           transform="translate(6670.2523,1032.248)"
+           style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+           id="g342">
+          <circle
+             r="40"
+             cy="0"
+             cx="0"
+             id="circle338"
+             style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+          <text
+             id="text340"
+             y="20">B</text>
+        </g>
+      </g>
+      <g
+         id="g573">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:75px;line-height:1;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="6723.333"
+           y="1386.697"
+           id="text349"><tspan
+             style="font-style:italic"
+             id="tspan347"
+             sodipodi:role="line"
+             x="6723.333"
+             y="1386.697">R120:</tspan><tspan
+             sodipodi:role="line"
+             x="6723.333"
+             y="1461.697"
+             id="tspan360">Future Linkin Trophy</tspan><tspan
+             sodipodi:role="line"
+             x="6723.333"
+             y="1536.697"
+             id="tspan362">Lantern of Guidance, Oil Lamp, Spark of Life Artifacts</tspan><tspan
+             sodipodi:role="line"
+             x="6723.333"
+             y="1611.697"
+             id="tspan364">Lineages to L30</tspan><tspan
+             style="font-weight:bold"
+             sodipodi:role="line"
+             x="6723.333"
+             y="1686.697"
+             id="tspan366">Master Trophies, Advanced Heritages</tspan></text>
+        <g
+           id="g348"
+           style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+           transform="translate(6670.2523,1362.248)">
+          <circle
+             style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+             id="circle344"
+             cx="0"
+             cy="0"
+             r="40" />
+          <text
+             y="20"
+             id="text346">C</text>
+        </g>
+      </g>
+      <g
+         id="g585">
+        <text
+           id="text380"
+           y="1786.697"
+           x="6723.333"
+           style="font-style:normal;font-weight:normal;font-size:75px;line-height:1;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:italic"
+             id="tspan378"
+             y="1786.697"
+             x="6723.333"
+             sodipodi:role="line">R125:</tspan><tspan
+             style="font-weight:bold"
+             y="1861.697"
+             x="6723.333"
+             sodipodi:role="line"
+             id="tspan396">MAD Artifacts/Quests</tspan><tspan
+             y="1936.697"
+             x="6723.333"
+             sodipodi:role="line"
+             id="tspan398">Best Mask Priority: Djinn = Maker &gt; Archon</tspan><tspan
+             y="2011.697"
+             x="6723.333"
+             sodipodi:role="line"
+             id="tspan34059">(Archon is the easiest Mask, Maker the hardest)</tspan></text>
+        <g
+           transform="translate(6670.2523,1765.5813)"
+           style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+           id="g354">
+          <circle
+             r="40"
+             cy="0"
+             cx="0"
+             id="circle350"
+             style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+          <text
+             id="text352"
+             y="20">D</text>
+        </g>
+      </g>
+      <g
+         id="g595"
+         transform="translate(-4,-74.5133)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:75px;line-height:1;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="6723.333"
+           y="2190.0303"
+           id="text430"><tspan
+             style="font-style:italic"
+             id="tspan428"
+             sodipodi:role="line"
+             x="6723.333"
+             y="2190.0303">R130:</tspan><tspan
+             style="font-weight:bold"
+             sodipodi:role="line"
+             x="6723.333"
+             y="2265.0303"
+             id="tspan446">MAD Unique Buildings</tspan><tspan
+             sodipodi:role="line"
+             x="6723.333"
+             y="2340.0303"
+             id="tspan4530">MAD Bloodlines/Lineages, MAD perk 2 challenges </tspan></text>
+        <g
+           id="g360"
+           style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+           transform="translate(6670.2523,2165.5813)">
+          <circle
+             style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+             id="circle356"
+             cx="0"
+             cy="0"
+             r="40" />
+          <text
+             y="20"
+             id="text358">E</text>
+        </g>
+      </g>
+      <g
+         id="g606"
+         transform="translate(0,-61.5)">
+        <text
+           id="text458"
+           y="2436.697"
+           x="6723.333"
+           style="font-style:normal;font-weight:normal;font-size:75px;line-height:1;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:italic"
+             id="tspan456"
+             y="2436.697"
+             x="6723.333"
+             sodipodi:role="line">R135:</tspan><tspan
+             style="font-weight:bold"
+             y="2511.697"
+             x="6723.333"
+             sodipodi:role="line"
+             id="tspan485">MAD Challenges 1: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+   id="tspan344217">Starts at e86 gems</tspan></tspan><tspan
+             id="tspan404"
+             y="2586.697"
+             x="6723.333"
+             sodipodi:role="line">(Recommended postpone Makers Challenge 1 until R139</tspan><tspan
+             y="2661.697"
+             x="6723.333"
+             sodipodi:role="line"
+             id="tspan2941">  to buff clicks before lineage leveling)</tspan><tspan
+             y="2736.697"
+             x="6723.333"
+             sodipodi:role="line"
+             id="tspan2939" /><tspan
+             y="2811.697"
+             x="6723.333"
+             sodipodi:role="line"
+             id="tspan2937" /></text>
+        <g
+           transform="translate(6670.2523,2412.248)"
+           style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+           id="g366">
+          <circle
+             r="40"
+             cy="0"
+             cx="0"
+             id="circle362"
+             style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+          <text
+             id="text364"
+             y="20">F</text>
+        </g>
+      </g>
+      <g
+         id="g617"
+         transform="translate(0,-56.0813)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:75px;line-height:1;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="6723.333"
+           y="2753.3635"
+           id="text468"><tspan
+             style="font-style:italic"
+             sodipodi:role="line"
+             x="6723.333"
+             y="2753.3635"
+             id="tspan466">R139:</tspan><tspan
+             style="font-weight:bold"
+             sodipodi:role="line"
+             x="6723.333"
+             y="2828.3635"
+             id="tspan492">MAD Challenges 2: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+   id="tspan354865">Starts at e92 gems</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="6723.333"
+             y="2903.3635"
+             id="tspan496">Lineages to L40 after challenges: </tspan><tspan
+             sodipodi:role="line"
+             style="font-weight:bold"
+             x="6723.333"
+             y="3053.3635"
+             id="tspan10058">Goblin</tspan><tspan
+             y="2978.3635"
+             id="tspan10060">, Angel, Fairy, Faceless, Dragon, Titan</tspan><tspan
+             sodipodi:role="line"
+             x="6723.333"
+             y="3053.3635"
+             id="tspan440">Rest optional</tspan></text>
+        <g
+           id="g372"
+           style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+           transform="translate(6670.2523,2735.5813)">
+          <circle
+             style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+             id="circle368"
+             cx="0"
+             cy="0"
+             r="40" />
+          <text
+             y="20"
+             id="text370">G</text>
+        </g>
+      </g>
+      <g
+         id="g626"
+         transform="translate(0,12.9194)">
+        <text
+           id="text478"
+           y="3090.0303"
+           x="6723.333"
+           style="font-style:normal;font-weight:normal;font-size:75px;line-height:1;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:italic"
+             id="tspan476"
+             y="3090.0303"
+             x="6723.333"
+             sodipodi:role="line">R143:</tspan><tspan
+             style="font-weight:bold"
+             y="3165.0303"
+             x="6723.333"
+             sodipodi:role="line"
+             id="tspan503">MAD Challenges 3:</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+             y="3240.0303"
+             x="6723.333"
+             sodipodi:role="line"
+             id="tspan358251">Starts at e100 gems</tspan></text>
+        <g
+           transform="translate(6670.2523,3068.9146)"
+           style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+           id="g378">
+          <circle
+             r="40"
+             cy="0"
+             cx="0"
+             id="circle374"
+             style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+          <text
+             id="text376"
+             y="20">H</text>
+        </g>
+      </g>
+      <g
+         id="g635"
+         transform="translate(4.5590551e-4,66.7757)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:75px;line-height:1;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="6723.333"
+           y="3280.0303"
+           id="text511"><tspan
+             style="font-style:italic"
+             sodipodi:role="line"
+             x="6723.333"
+             y="3280.0303"
+             id="tspan507">R148:</tspan><tspan
+             style="font-weight:bold"
+             id="tspan509"
+             sodipodi:role="line"
+             x="6723.333"
+             y="3355.0303">MAD Challenges 4:</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+             sodipodi:role="line"
+             x="6723.333"
+             y="3430.0303"
+             id="tspan364587">Starts at e95 gems</tspan></text>
+        <g
+           id="g384"
+           style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+           transform="translate(6670.2523,3255.5813)">
+          <circle
+             style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+             id="circle380"
+             cx="0"
+             cy="0"
+             r="40" />
+          <text
+             y="20"
+             id="text382">I</text>
+        </g>
+      </g>
+      <g
+         id="g644"
+         transform="translate(4.5590551e-4,125.62478)">
+        <text
+           id="text519"
+           y="3460.0303"
+           x="6723.333"
+           style="font-style:normal;font-weight:normal;font-size:75px;line-height:1;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:italic"
+             y="3460.0303"
+             x="6723.333"
+             sodipodi:role="line"
+             id="tspan517">End of R152:</tspan><tspan
+             y="3535.0303"
+             x="6723.333"
+             sodipodi:role="line"
+             id="tspan531">Lineages to L45</tspan></text>
+        <g
+           transform="translate(6670.2523,3448.9147)"
+           style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+           id="g390">
+          <circle
+             r="40"
+             cy="0"
+             cx="0"
+             id="circle386"
+             style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1" />
+          <text
+             id="text388"
+             y="20">J</text>
+        </g>
+      </g>
+      <g
+         id="g654"
+         transform="translate(4.5590551e-4,99.135)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:75px;line-height:1;font-family:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="6723.333"
+           y="3653.3638"
+           id="text527"><tspan
+             style="font-style:italic"
+             sodipodi:role="line"
+             x="6723.333"
+             y="3653.3638"
+             id="tspan523">R153:</tspan><tspan
+             style="font-weight:bold"
+             id="tspan525"
+             sodipodi:role="line"
+             x="6723.333"
+             y="3728.3638">MAD Challenges 5:</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+             sodipodi:role="line"
+             x="6723.333"
+             y="3803.3638"
+             id="tspan372787">Starts at e70 gems</tspan><tspan
+             sodipodi:role="line"
+             x="6723.333"
+             y="3878.3638"
+             id="tspan533">Fast Lineages to L50</tspan><tspan
+             sodipodi:role="line"
+             x="6723.333"
+             y="3953.3638"
+             id="tspan1359" /></text>
+        <g
+           id="g396"
+           style="font-size:60px;font-family:Arial;text-anchor:middle;display:inline"
+           transform="translate(6670.2523,3632.248)">
+          <circle
+             style="text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-opacity:1"
+             id="circle392"
+             cx="0"
+             cy="0"
+             r="40" />
+          <text
+             y="20"
+             id="text394">K</text>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="8748.041"
+         y="913.9826"
+         id="text474"><tspan
+           sodipodi:role="line"
+           id="tspan472"
+           x="8748.041"
+           y="913.9826" /></text>
+    </g>
+    <g
+       style="font-size:50px;font-family:Arial;text-anchor:middle;display:inline"
+       id="g2177"
+       font-size="120"
+       transform="translate(4911.9671,4764.9674)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="2703.7632"
+         y="-104.9674"
+         id="text381" />
+      <g
+         transform="translate(-275.94646,68.277188)"
+         font-size="120"
+         id="g2181"
+         style="font-size:50px;font-family:Arial;text-anchor:middle;display:inline">
+        <g
+           style="font-size:50px;font-family:Arial;text-anchor:middle;display:inline"
+           id="g2177-2"
+           font-size="120"
+           transform="translate(545.94645,-30.333333)">
+          <text
+             y="-152.02795"
+             id="text2175"
+             x="2893.9338">art by Kiluh, edited by ensteffahn and The Mop, things to do list by Alright, data from RG Discord</text>
+        </g>
+        <g
+           transform="translate(35.946454,23.666667)"
+           font-size="120"
+           id="g2181-3"
+           style="font-size:50px;font-family:Arial;text-anchor:middle;display:inline">
+          <text
+             x="3403.9338"
+             id="text2179"
+             y="-152.02795">v1.6 for 4.2.1.0</text>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:74.6667px;line-height:1.25;font-family:sans-serif"
+       x="6716.8198"
+       y="4105.7808"
+       id="text28380"><tspan
+         sodipodi:role="line"
+         id="tspan28378"
+         x="6716.8198"
+         y="4105.7808" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:74.6667px;line-height:0;font-family:sans-serif"
+       x="7518.9346"
+       y="3129.9143"
+       id="text33752"
+       inkscape:export-filename="C:\Users\corym\Downloads\text33752.png"
+       inkscape:export-xdpi="41.739132"
+       inkscape:export-ydpi="41.739132"><tspan
+         sodipodi:role="line"
+         id="tspan33750"
+         x="7518.9346"
+         y="3129.9143"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:86.6667px;line-height:0.5;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Recommended Uniformity Buff:</tspan><tspan
+         sodipodi:role="line"
+         x="7518.9346"
+         y="3166.7998"
+         id="tspan75012"
+         style="line-height:0.5" /><tspan
+         sodipodi:role="line"
+         x="7518.9346"
+         y="3216.501"
+         id="tspan45506"
+         style="font-size:66.6667px;line-height:1">These are just recommended buff times</tspan><tspan
+         sodipodi:role="line"
+         x="7518.9346"
+         y="3283.1677"
+         style="font-size:66.6667px;line-height:1"
+         id="tspan185987">each R; buff as much or as little as you</tspan><tspan
+         sodipodi:role="line"
+         x="7518.9346"
+         y="3349.8345"
+         style="font-size:66.6667px;line-height:1"
+         id="tspan221333">please.</tspan><tspan
+         sodipodi:role="line"
+         x="7518.9346"
+         y="3416.5012"
+         style="font-size:66.6667px;line-height:1"
+         id="tspan55216" /><tspan
+         sodipodi:role="line"
+         x="7518.9346"
+         y="3483.168"
+         style="font-size:66.6667px;line-height:1"
+         id="tspan187063">More time is recommended as you reach</tspan><tspan
+         sodipodi:role="line"
+         x="7518.9346"
+         y="3549.8345"
+         style="font-size:66.6667px;line-height:1"
+         id="tspan188415">the end of an R range.</tspan><tspan
+         sodipodi:role="line"
+         x="7518.9346"
+         y="3616.5012"
+         style="font-size:66.6667px;line-height:1"
+         id="tspan77798" /><tspan
+         sodipodi:role="line"
+         x="7518.9346"
+         y="3683.168"
+         style="font-size:66.6667px;line-height:1"
+         id="tspan54308">R100-115: 30 mins</tspan><tspan
+         sodipodi:role="line"
+         x="7518.9346"
+         y="3749.8347"
+         style="font-size:66.6667px;line-height:1"
+         id="tspan79630">R116-R120: 1 hour</tspan><tspan
+         sodipodi:role="line"
+         x="7518.9346"
+         y="3816.5015"
+         style="font-size:66.6667px;line-height:1"
+         id="tspan80368">R120- R125: 4 hours</tspan><tspan
+         sodipodi:role="line"
+         x="7518.9346"
+         y="3883.1682"
+         style="font-size:66.6667px;line-height:1"
+         id="tspan202679">R126-R129: 4-10 hours (Buff as needed)</tspan><tspan
+         sodipodi:role="line"
+         x="7518.9346"
+         y="3949.8347"
+         style="font-size:66.6667px;line-height:1"
+         id="tspan205929">R130-135: 4 hours</tspan><tspan
+         style="font-size:66.6667px;line-height:1"
+         sodipodi:role="line"
+         id="tspan177127"
+         x="7518.9346"
+         y="4016.5015">R136+: &lt;1 hour</tspan><tspan
+         style="font-size:42.6667px;line-height:0.5"
+         sodipodi:role="line"
+         id="tspan177129"
+         x="7518.9346"
+         y="4053.6057"> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:74.6667px;line-height:0;font-family:sans-serif"
+       x="6752.522"
+       y="4153.3843"
+       id="text22774"
+       inkscape:export-filename="C:\Users\corym\Downloads\text33752.png"
+       inkscape:export-xdpi="41.739132"
+       inkscape:export-ydpi="41.739132"><tspan
+         style="font-size:66.6667px;line-height:1"
+         sodipodi:role="line"
+         id="tspan22770"
+         x="6752.522"
+         y="4153.3843"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan2885">MAD spell trophies </tspan>- before R135</tspan><tspan
+         style="font-size:66.6667px;line-height:1"
+         sodipodi:role="line"
+         x="6752.522"
+         y="4220.0508"
+         id="tspan27167">CL - R130 or whenever before that if you want to spend a few hours</tspan><tspan
+         style="font-size:66.6667px;line-height:1"
+         sodipodi:role="line"
+         x="6752.522"
+         y="4286.7178"
+         id="tspan27169">PE - before your first faceline demon</tspan><tspan
+         style="font-size:66.6667px;line-height:1"
+         sodipodi:role="line"
+         x="6752.522"
+         y="4353.3843"
+         id="tspan27171">IS - R126+, useful for buffing DN AH but not necessary</tspan><tspan
+         style="font-size:42.6667px;line-height:0.5"
+         sodipodi:role="line"
+         id="tspan22772"
+         x="6752.522"
+         y="4390.4883"> </tspan></text>
+  </g>
+  <script
+     id="mesh_polyfill"
+     type="text/javascript">
+!function(){const t=&quot;http://www.w3.org/2000/svg&quot;,e=&quot;http://www.w3.org/1999/xlink&quot;,s=&quot;http://www.w3.org/1999/xhtml&quot;,r=2;if(document.createElementNS(t,&quot;meshgradient&quot;).x)return;const n=(t,e,s,r)=&gt;{let n=new x(.5*(e.x+s.x),.5*(e.y+s.y)),o=new x(.5*(t.x+e.x),.5*(t.y+e.y)),i=new x(.5*(s.x+r.x),.5*(s.y+r.y)),a=new x(.5*(n.x+o.x),.5*(n.y+o.y)),h=new x(.5*(n.x+i.x),.5*(n.y+i.y)),l=new x(.5*(a.x+h.x),.5*(a.y+h.y));return[[t,o,a,l],[l,h,i,r]]},o=t=&gt;{let e=t[0].distSquared(t[1]),s=t[2].distSquared(t[3]),r=.25*t[0].distSquared(t[2]),n=.25*t[1].distSquared(t[3]),o=e&gt;s?e:s,i=r&gt;n?r:n;return 18*(o&gt;i?o:i)},i=(t,e)=&gt;Math.sqrt(t.distSquared(e)),a=(t,e)=&gt;t.scale(2/3).add(e.scale(1/3)),h=t=&gt;{let e,s,r,n,o,i,a,h=new g;return t.match(/(\w+\(\s*[^)]+\))+/g).forEach(t=&gt;{let l=t.match(/[\w.-]+/g),d=l.shift();switch(d){case&quot;translate&quot;:2===l.length?e=new g(1,0,0,1,l[0],l[1]):(console.error(&quot;mesh.js: translate does not have 2 arguments!&quot;),e=new g(1,0,0,1,0,0)),h=h.append(e);break;case&quot;scale&quot;:1===l.length?s=new g(l[0],0,0,l[0],0,0):2===l.length?s=new g(l[0],0,0,l[1],0,0):(console.error(&quot;mesh.js: scale does not have 1 or 2 arguments!&quot;),s=new g(1,0,0,1,0,0)),h=h.append(s);break;case&quot;rotate&quot;:if(3===l.length&amp;&amp;(e=new g(1,0,0,1,l[1],l[2]),h=h.append(e)),l[0]){r=l[0]*Math.PI/180;let t=Math.cos(r),e=Math.sin(r);Math.abs(t)&lt;1e-16&amp;&amp;(t=0),Math.abs(e)&lt;1e-16&amp;&amp;(e=0),a=new g(t,e,-e,t,0,0),h=h.append(a)}else console.error(&quot;math.js: No argument to rotate transform!&quot;);3===l.length&amp;&amp;(e=new g(1,0,0,1,-l[1],-l[2]),h=h.append(e));break;case&quot;skewX&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),o=new g(1,0,n,1,0,0),h=h.append(o)):console.error(&quot;math.js: No argument to skewX transform!&quot;);break;case&quot;skewY&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),i=new g(1,n,0,1,0,0),h=h.append(i)):console.error(&quot;math.js: No argument to skewY transform!&quot;);break;case&quot;matrix&quot;:6===l.length?h=h.append(new g(...l)):console.error(&quot;math.js: Incorrect number of arguments for matrix!&quot;);break;default:console.error(&quot;mesh.js: Unhandled transform type: &quot;+d)}}),h},l=t=&gt;{let e=[],s=t.split(/[ ,]+/);for(let t=0,r=s.length-1;t&lt;r;t+=2)e.push(new x(parseFloat(s[t]),parseFloat(s[t+1])));return e},d=(t,e)=&gt;{for(let s in e)t.setAttribute(s,e[s])},c=(t,e,s,r,n)=&gt;{let o,i,a=[0,0,0,0];for(let h=0;h&lt;3;++h)e[h]&lt;t[h]&amp;&amp;e[h]&lt;s[h]||t[h]&lt;e[h]&amp;&amp;s[h]&lt;e[h]?a[h]=0:(a[h]=.5*((e[h]-t[h])/r+(s[h]-e[h])/n),o=Math.abs(3*(e[h]-t[h])/r),i=Math.abs(3*(s[h]-e[h])/n),a[h]&gt;o?a[h]=o:a[h]&gt;i&amp;&amp;(a[h]=i));return a},u=[[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0],[-3,3,0,0,-2,-1,0,0,0,0,0,0,0,0,0,0],[2,-2,0,0,1,1,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0],[0,0,0,0,0,0,0,0,-3,3,0,0,-2,-1,0,0],[0,0,0,0,0,0,0,0,2,-2,0,0,1,1,0,0],[-3,0,3,0,0,0,0,0,-2,0,-1,0,0,0,0,0],[0,0,0,0,-3,0,3,0,0,0,0,0,-2,0,-1,0],[9,-9,-9,9,6,3,-6,-3,6,-6,3,-3,4,2,2,1],[-6,6,6,-6,-3,-3,3,3,-4,4,-2,2,-2,-2,-1,-1],[2,0,-2,0,0,0,0,0,1,0,1,0,0,0,0,0],[0,0,0,0,2,0,-2,0,0,0,0,0,1,0,1,0],[-6,6,6,-6,-4,-2,4,2,-3,3,-3,3,-2,-1,-2,-1],[4,-4,-4,4,2,2,-2,-2,2,-2,2,-2,1,1,1,1]],f=t=&gt;{let e=[];for(let s=0;s&lt;16;++s){e[s]=0;for(let r=0;r&lt;16;++r)e[s]+=u[s][r]*t[r]}return e},p=(t,e,s)=&gt;{const r=e*e,n=s*s,o=e*e*e,i=s*s*s;return t[0]+t[1]*e+t[2]*r+t[3]*o+t[4]*s+t[5]*s*e+t[6]*s*r+t[7]*s*o+t[8]*n+t[9]*n*e+t[10]*n*r+t[11]*n*o+t[12]*i+t[13]*i*e+t[14]*i*r+t[15]*i*o},y=t=&gt;{let e=[],s=[],r=[];for(let s=0;s&lt;4;++s)e[s]=[],e[s][0]=n(t[0][s],t[1][s],t[2][s],t[3][s]),e[s][1]=[],e[s][1].push(...n(...e[s][0][0])),e[s][1].push(...n(...e[s][0][1])),e[s][2]=[],e[s][2].push(...n(...e[s][1][0])),e[s][2].push(...n(...e[s][1][1])),e[s][2].push(...n(...e[s][1][2])),e[s][2].push(...n(...e[s][1][3]));for(let t=0;t&lt;8;++t){s[t]=[];for(let r=0;r&lt;4;++r)s[t][r]=[],s[t][r][0]=n(e[0][2][t][r],e[1][2][t][r],e[2][2][t][r],e[3][2][t][r]),s[t][r][1]=[],s[t][r][1].push(...n(...s[t][r][0][0])),s[t][r][1].push(...n(...s[t][r][0][1])),s[t][r][2]=[],s[t][r][2].push(...n(...s[t][r][1][0])),s[t][r][2].push(...n(...s[t][r][1][1])),s[t][r][2].push(...n(...s[t][r][1][2])),s[t][r][2].push(...n(...s[t][r][1][3]))}for(let t=0;t&lt;8;++t){r[t]=[];for(let e=0;e&lt;8;++e)r[t][e]=[],r[t][e][0]=s[t][0][2][e],r[t][e][1]=s[t][1][2][e],r[t][e][2]=s[t][2][2][e],r[t][e][3]=s[t][3][2][e]}return r};class x{constructor(t,e){this.x=t||0,this.y=e||0}toString(){return`(x=${this.x}, y=${this.y})`}clone(){return new x(this.x,this.y)}add(t){return new x(this.x+t.x,this.y+t.y)}scale(t){return void 0===t.x?new x(this.x*t,this.y*t):new x(this.x*t.x,this.y*t.y)}distSquared(t){let e=this.x-t.x,s=this.y-t.y;return e*e+s*s}transform(t){let e=this.x*t.a+this.y*t.c+t.e,s=this.x*t.b+this.y*t.d+t.f;return new x(e,s)}}class g{constructor(t,e,s,r,n,o){void 0===t?(this.a=1,this.b=0,this.c=0,this.d=1,this.e=0,this.f=0):(this.a=t,this.b=e,this.c=s,this.d=r,this.e=n,this.f=o)}toString(){return`affine: ${this.a} ${this.c} ${this.e} \n       ${this.b} ${this.d} ${this.f}`}append(t){t instanceof g||console.error(&quot;mesh.js: argument to Affine.append is not affine!&quot;);let e=this.a*t.a+this.c*t.b,s=this.b*t.a+this.d*t.b,r=this.a*t.c+this.c*t.d,n=this.b*t.c+this.d*t.d,o=this.a*t.e+this.c*t.f+this.e,i=this.b*t.e+this.d*t.f+this.f;return new g(e,s,r,n,o,i)}}class w{constructor(t,e){this.nodes=t,this.colors=e}paintCurve(t,e){if(o(this.nodes)&gt;r){const s=n(...this.nodes);let r=[[],[]],o=[[],[]];for(let t=0;t&lt;4;++t)r[0][t]=this.colors[0][t],r[1][t]=(this.colors[0][t]+this.colors[1][t])/2,o[0][t]=r[1][t],o[1][t]=this.colors[1][t];let i=new w(s[0],r),a=new w(s[1],o);i.paintCurve(t,e),a.paintCurve(t,e)}else{let s=Math.round(this.nodes[0].x);if(s&gt;=0&amp;&amp;s&lt;e){let r=4*(~~this.nodes[0].y*e+s);t[r]=Math.round(this.colors[0][0]),t[r+1]=Math.round(this.colors[0][1]),t[r+2]=Math.round(this.colors[0][2]),t[r+3]=Math.round(this.colors[0][3])}}}}class m{constructor(t,e){this.nodes=t,this.colors=e}split(){let t=[[],[],[],[]],e=[[],[],[],[]],s=[[[],[]],[[],[]]],r=[[[],[]],[[],[]]];for(let s=0;s&lt;4;++s){const r=n(this.nodes[0][s],this.nodes[1][s],this.nodes[2][s],this.nodes[3][s]);t[0][s]=r[0][0],t[1][s]=r[0][1],t[2][s]=r[0][2],t[3][s]=r[0][3],e[0][s]=r[1][0],e[1][s]=r[1][1],e[2][s]=r[1][2],e[3][s]=r[1][3]}for(let t=0;t&lt;4;++t)s[0][0][t]=this.colors[0][0][t],s[0][1][t]=this.colors[0][1][t],s[1][0][t]=(this.colors[0][0][t]+this.colors[1][0][t])/2,s[1][1][t]=(this.colors[0][1][t]+this.colors[1][1][t])/2,r[0][0][t]=s[1][0][t],r[0][1][t]=s[1][1][t],r[1][0][t]=this.colors[1][0][t],r[1][1][t]=this.colors[1][1][t];return[new m(t,s),new m(e,r)]}paint(t,e){let s,n=!1;for(let t=0;t&lt;4;++t)if((s=o([this.nodes[0][t],this.nodes[1][t],this.nodes[2][t],this.nodes[3][t]]))&gt;r){n=!0;break}if(n){let s=this.split();s[0].paint(t,e),s[1].paint(t,e)}else{new w([...this.nodes[0]],[...this.colors[0]]).paintCurve(t,e)}}}class b{constructor(t){this.readMesh(t),this.type=t.getAttribute(&quot;type&quot;)||&quot;bilinear&quot;}readMesh(t){let e=[[]],s=[[]],r=Number(t.getAttribute(&quot;x&quot;)),n=Number(t.getAttribute(&quot;y&quot;));e[0][0]=new x(r,n);let o=t.children;for(let t=0,r=o.length;t&lt;r;++t){e[3*t+1]=[],e[3*t+2]=[],e[3*t+3]=[],s[t+1]=[];let r=o[t].children;for(let n=0,o=r.length;n&lt;o;++n){let o=r[n].children;for(let r=0,i=o.length;r&lt;i;++r){let i=r;0!==t&amp;&amp;++i;let h,d=o[r].getAttribute(&quot;path&quot;),c=&quot;l&quot;;null!=d&amp;&amp;(c=(h=d.match(/\s*([lLcC])\s*(.*)/))[1]);let u=l(h[2]);switch(c){case&quot;l&quot;:0===i?(e[3*t][3*n+3]=u[0].add(e[3*t][3*n]),e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0].add(e[3*t+3][3*n+3])),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;L&quot;:0===i?(e[3*t][3*n+3]=u[0],e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0],e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0]),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;c&quot;:0===i?(e[3*t][3*n+1]=u[0].add(e[3*t][3*n]),e[3*t][3*n+2]=u[1].add(e[3*t][3*n]),e[3*t][3*n+3]=u[2].add(e[3*t][3*n])):1===i?(e[3*t+1][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+2][3*n+3]=u[1].add(e[3*t][3*n+3]),e[3*t+3][3*n+3]=u[2].add(e[3*t][3*n+3])):2===i?(e[3*t+3][3*n+2]=u[0].add(e[3*t+3][3*n+3]),e[3*t+3][3*n+1]=u[1].add(e[3*t+3][3*n+3]),0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2].add(e[3*t+3][3*n+3]))):(e[3*t+2][3*n]=u[0].add(e[3*t+3][3*n]),e[3*t+1][3*n]=u[1].add(e[3*t+3][3*n]));break;case&quot;C&quot;:0===i?(e[3*t][3*n+1]=u[0],e[3*t][3*n+2]=u[1],e[3*t][3*n+3]=u[2]):1===i?(e[3*t+1][3*n+3]=u[0],e[3*t+2][3*n+3]=u[1],e[3*t+3][3*n+3]=u[2]):2===i?(e[3*t+3][3*n+2]=u[0],e[3*t+3][3*n+1]=u[1],0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2])):(e[3*t+2][3*n]=u[0],e[3*t+1][3*n]=u[1]);break;default:console.error(&quot;mesh.js: &quot;+c+&quot; invalid path type.&quot;)}if(0===t&amp;&amp;0===n||r&gt;0){let e=window.getComputedStyle(o[r]).stopColor.match(/^rgb\s*\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)$/i),a=window.getComputedStyle(o[r]).stopOpacity,h=255;a&amp;&amp;(h=Math.floor(255*a)),e&amp;&amp;(0===i?(s[t][n]=[],s[t][n][0]=Math.floor(e[1]),s[t][n][1]=Math.floor(e[2]),s[t][n][2]=Math.floor(e[3]),s[t][n][3]=h):1===i?(s[t][n+1]=[],s[t][n+1][0]=Math.floor(e[1]),s[t][n+1][1]=Math.floor(e[2]),s[t][n+1][2]=Math.floor(e[3]),s[t][n+1][3]=h):2===i?(s[t+1][n+1]=[],s[t+1][n+1][0]=Math.floor(e[1]),s[t+1][n+1][1]=Math.floor(e[2]),s[t+1][n+1][2]=Math.floor(e[3]),s[t+1][n+1][3]=h):3===i&amp;&amp;(s[t+1][n]=[],s[t+1][n][0]=Math.floor(e[1]),s[t+1][n][1]=Math.floor(e[2]),s[t+1][n][2]=Math.floor(e[3]),s[t+1][n][3]=h))}}e[3*t+1][3*n+1]=new x,e[3*t+1][3*n+2]=new x,e[3*t+2][3*n+1]=new x,e[3*t+2][3*n+2]=new x,e[3*t+1][3*n+1].x=(-4*e[3*t][3*n].x+6*(e[3*t][3*n+1].x+e[3*t+1][3*n].x)+-2*(e[3*t][3*n+3].x+e[3*t+3][3*n].x)+3*(e[3*t+3][3*n+1].x+e[3*t+1][3*n+3].x)+-1*e[3*t+3][3*n+3].x)/9,e[3*t+1][3*n+2].x=(-4*e[3*t][3*n+3].x+6*(e[3*t][3*n+2].x+e[3*t+1][3*n+3].x)+-2*(e[3*t][3*n].x+e[3*t+3][3*n+3].x)+3*(e[3*t+3][3*n+2].x+e[3*t+1][3*n].x)+-1*e[3*t+3][3*n].x)/9,e[3*t+2][3*n+1].x=(-4*e[3*t+3][3*n].x+6*(e[3*t+3][3*n+1].x+e[3*t+2][3*n].x)+-2*(e[3*t+3][3*n+3].x+e[3*t][3*n].x)+3*(e[3*t][3*n+1].x+e[3*t+2][3*n+3].x)+-1*e[3*t][3*n+3].x)/9,e[3*t+2][3*n+2].x=(-4*e[3*t+3][3*n+3].x+6*(e[3*t+3][3*n+2].x+e[3*t+2][3*n+3].x)+-2*(e[3*t+3][3*n].x+e[3*t][3*n+3].x)+3*(e[3*t][3*n+2].x+e[3*t+2][3*n].x)+-1*e[3*t][3*n].x)/9,e[3*t+1][3*n+1].y=(-4*e[3*t][3*n].y+6*(e[3*t][3*n+1].y+e[3*t+1][3*n].y)+-2*(e[3*t][3*n+3].y+e[3*t+3][3*n].y)+3*(e[3*t+3][3*n+1].y+e[3*t+1][3*n+3].y)+-1*e[3*t+3][3*n+3].y)/9,e[3*t+1][3*n+2].y=(-4*e[3*t][3*n+3].y+6*(e[3*t][3*n+2].y+e[3*t+1][3*n+3].y)+-2*(e[3*t][3*n].y+e[3*t+3][3*n+3].y)+3*(e[3*t+3][3*n+2].y+e[3*t+1][3*n].y)+-1*e[3*t+3][3*n].y)/9,e[3*t+2][3*n+1].y=(-4*e[3*t+3][3*n].y+6*(e[3*t+3][3*n+1].y+e[3*t+2][3*n].y)+-2*(e[3*t+3][3*n+3].y+e[3*t][3*n].y)+3*(e[3*t][3*n+1].y+e[3*t+2][3*n+3].y)+-1*e[3*t][3*n+3].y)/9,e[3*t+2][3*n+2].y=(-4*e[3*t+3][3*n+3].y+6*(e[3*t+3][3*n+2].y+e[3*t+2][3*n+3].y)+-2*(e[3*t+3][3*n].y+e[3*t][3*n+3].y)+3*(e[3*t][3*n+2].y+e[3*t+2][3*n].y)+-1*e[3*t][3*n].y)/9}}this.nodes=e,this.colors=s}paintMesh(t,e){let s=(this.nodes.length-1)/3,r=(this.nodes[0].length-1)/3;if(&quot;bilinear&quot;===this.type||s&lt;2||r&lt;2){let n;for(let o=0;o&lt;s;++o)for(let s=0;s&lt;r;++s){let r=[];for(let t=3*o,e=3*o+4;t&lt;e;++t)r.push(this.nodes[t].slice(3*s,3*s+4));let i=[];i.push(this.colors[o].slice(s,s+2)),i.push(this.colors[o+1].slice(s,s+2)),(n=new m(r,i)).paint(t,e)}}else{let n,o,a,h,l,d,u;const x=s,g=r;s++,r++;let w=new Array(s);for(let t=0;t&lt;s;++t){w[t]=new Array(r);for(let e=0;e&lt;r;++e)w[t][e]=[],w[t][e][0]=this.nodes[3*t][3*e],w[t][e][1]=this.colors[t][e]}for(let t=0;t&lt;s;++t)for(let e=0;e&lt;r;++e)0!==t&amp;&amp;t!==x&amp;&amp;(n=i(w[t-1][e][0],w[t][e][0]),o=i(w[t+1][e][0],w[t][e][0]),w[t][e][2]=c(w[t-1][e][1],w[t][e][1],w[t+1][e][1],n,o)),0!==e&amp;&amp;e!==g&amp;&amp;(n=i(w[t][e-1][0],w[t][e][0]),o=i(w[t][e+1][0],w[t][e][0]),w[t][e][3]=c(w[t][e-1][1],w[t][e][1],w[t][e+1][1],n,o));for(let t=0;t&lt;r;++t){w[0][t][2]=[],w[x][t][2]=[];for(let e=0;e&lt;4;++e)n=i(w[1][t][0],w[0][t][0]),o=i(w[x][t][0],w[x-1][t][0]),w[0][t][2][e]=n&gt;0?2*(w[1][t][1][e]-w[0][t][1][e])/n-w[1][t][2][e]:0,w[x][t][2][e]=o&gt;0?2*(w[x][t][1][e]-w[x-1][t][1][e])/o-w[x-1][t][2][e]:0}for(let t=0;t&lt;s;++t){w[t][0][3]=[],w[t][g][3]=[];for(let e=0;e&lt;4;++e)n=i(w[t][1][0],w[t][0][0]),o=i(w[t][g][0],w[t][g-1][0]),w[t][0][3][e]=n&gt;0?2*(w[t][1][1][e]-w[t][0][1][e])/n-w[t][1][3][e]:0,w[t][g][3][e]=o&gt;0?2*(w[t][g][1][e]-w[t][g-1][1][e])/o-w[t][g-1][3][e]:0}for(let s=0;s&lt;x;++s)for(let r=0;r&lt;g;++r){let n=i(w[s][r][0],w[s+1][r][0]),o=i(w[s][r+1][0],w[s+1][r+1][0]),c=i(w[s][r][0],w[s][r+1][0]),x=i(w[s+1][r][0],w[s+1][r+1][0]),g=[[],[],[],[]];for(let t=0;t&lt;4;++t){(d=[])[0]=w[s][r][1][t],d[1]=w[s+1][r][1][t],d[2]=w[s][r+1][1][t],d[3]=w[s+1][r+1][1][t],d[4]=w[s][r][2][t]*n,d[5]=w[s+1][r][2][t]*n,d[6]=w[s][r+1][2][t]*o,d[7]=w[s+1][r+1][2][t]*o,d[8]=w[s][r][3][t]*c,d[9]=w[s+1][r][3][t]*x,d[10]=w[s][r+1][3][t]*c,d[11]=w[s+1][r+1][3][t]*x,d[12]=0,d[13]=0,d[14]=0,d[15]=0,u=f(d);for(let e=0;e&lt;9;++e){g[t][e]=[];for(let s=0;s&lt;9;++s)g[t][e][s]=p(u,e/8,s/8),g[t][e][s]&gt;255?g[t][e][s]=255:g[t][e][s]&lt;0&amp;&amp;(g[t][e][s]=0)}}h=[];for(let t=3*s,e=3*s+4;t&lt;e;++t)h.push(this.nodes[t].slice(3*r,3*r+4));l=y(h);for(let s=0;s&lt;8;++s)for(let r=0;r&lt;8;++r)(a=new m(l[s][r],[[[g[0][s][r],g[1][s][r],g[2][s][r],g[3][s][r]],[g[0][s][r+1],g[1][s][r+1],g[2][s][r+1],g[3][s][r+1]]],[[g[0][s+1][r],g[1][s+1][r],g[2][s+1][r],g[3][s+1][r]],[g[0][s+1][r+1],g[1][s+1][r+1],g[2][s+1][r+1],g[3][s+1][r+1]]]])).paint(t,e)}}}transform(t){if(t instanceof x)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].add(t);else if(t instanceof g)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].transform(t)}scale(t){for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].scale(t)}}document.querySelectorAll(&quot;rect,circle,ellipse,path,text&quot;).forEach((r,n)=&gt;{let o=r.getAttribute(&quot;id&quot;);o||(o=&quot;patchjs_shape&quot;+n,r.setAttribute(&quot;id&quot;,o));const i=r.style.fill.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/),a=r.style.stroke.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/);if(i&amp;&amp;i[1]){const a=document.getElementById(i[1]);if(a&amp;&amp;&quot;meshgradient&quot;===a.nodeName){const i=r.getBBox();let l=document.createElementNS(s,&quot;canvas&quot;);d(l,{width:i.width,height:i.height});const c=l.getContext(&quot;2d&quot;);let u=c.createImageData(i.width,i.height);const f=new b(a);&quot;objectBoundingBox&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.scale(new x(i.width,i.height));const p=a.getAttribute(&quot;gradientTransform&quot;);null!=p&amp;&amp;f.transform(h(p)),&quot;userSpaceOnUse&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.transform(new x(-i.x,-i.y)),f.paintMesh(u.data,l.width),c.putImageData(u,0,0);const y=document.createElementNS(t,&quot;image&quot;);d(y,{width:i.width,height:i.height,x:i.x,y:i.y});let g=l.toDataURL();y.setAttributeNS(e,&quot;xlink:href&quot;,g),r.parentNode.insertBefore(y,r),r.style.fill=&quot;none&quot;;const w=document.createElementNS(t,&quot;use&quot;);w.setAttributeNS(e,&quot;xlink:href&quot;,&quot;#&quot;+o);const m=&quot;patchjs_clip&quot;+n,M=document.createElementNS(t,&quot;clipPath&quot;);M.setAttribute(&quot;id&quot;,m),M.appendChild(w),r.parentElement.insertBefore(M,r),y.setAttribute(&quot;clip-path&quot;,&quot;url(#&quot;+m+&quot;)&quot;),u=null,l=null,g=null}}if(a&amp;&amp;a[1]){const o=document.getElementById(a[1]);if(o&amp;&amp;&quot;meshgradient&quot;===o.nodeName){const i=parseFloat(r.style.strokeWidth.slice(0,-2))*(parseFloat(r.style.strokeMiterlimit)||parseFloat(r.getAttribute(&quot;stroke-miterlimit&quot;))||1),a=r.getBBox(),l=Math.trunc(a.width+i),c=Math.trunc(a.height+i),u=Math.trunc(a.x-i/2),f=Math.trunc(a.y-i/2);let p=document.createElementNS(s,&quot;canvas&quot;);d(p,{width:l,height:c});const y=p.getContext(&quot;2d&quot;);let g=y.createImageData(l,c);const w=new b(o);&quot;objectBoundingBox&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.scale(new x(l,c));const m=o.getAttribute(&quot;gradientTransform&quot;);null!=m&amp;&amp;w.transform(h(m)),&quot;userSpaceOnUse&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.transform(new x(-u,-f)),w.paintMesh(g.data,p.width),y.putImageData(g,0,0);const M=document.createElementNS(t,&quot;image&quot;);d(M,{width:l,height:c,x:0,y:0});let S=p.toDataURL();M.setAttributeNS(e,&quot;xlink:href&quot;,S);const k=&quot;pattern_clip&quot;+n,A=document.createElementNS(t,&quot;pattern&quot;);d(A,{id:k,patternUnits:&quot;userSpaceOnUse&quot;,width:l,height:c,x:u,y:f}),A.appendChild(M),o.parentNode.appendChild(A),r.style.stroke=&quot;url(#&quot;+k+&quot;)&quot;,g=null,p=null,S=null}}})}();
+</script>
+</svg>
