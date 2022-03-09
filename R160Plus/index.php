@@ -105,12 +105,12 @@
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="AN5,AN12,GB3,GB4,UD7,UD10,DM4,DD11,FC3,DM2,DW7,DW12,DG7,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:FR,S5875,S200,S50,S135,S150,S400,S330,S215,S460,S250,C5125,C340,C400,C175,C250,C590,C25,C105,C150,D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,E3300,E1225,E230,E135,E320,E290,E1,E25,E30,E145,E400,E460,E495,A1500,A2950,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,A590,W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,F5750">
-				<b>???+ Evil time this R.</b>
+				<b>1h+ Evil time this R.</b>
 		    		</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="AN5,AN12,GB3,GB4,UD7,UD10,DM4,DD11,FC3,DM2,DW7,DW12,DG7,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:UD,S5875,S200,S50,S135,S150,S400,S330,S215,S460,S250,C5125,C340,C400,C175,C250,C590,C25,C105,C150,D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,E3300,E1225,E230,E135,E320,E290,E1,E25,E30,E145,E400,E460,E495,A1500,A2950,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,A590,W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,F5750">
-				<b>Gift of the Kings, ???+ Evil time this R.</b>
+				<b>Gift of the Kings, 1h+ Evil time this R.</b>
 		    		</p>
                 <p>AN5,AN12,GB3,GB4,UD7,UD10,DM4,DD11,FC3,DN2,DW7,DW12,DG7,AR2,DJ5,DJ7,</p>
                 <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:UD,</p>
@@ -123,7 +123,7 @@
                 <p>F5750</p>
 		<p><b>Note</b>: Maintain odd building count for Fairy Union.</p>
 		<p><b>Note</b>: If you have Gift of the Kings, swap Fairy Union to Undead Union.</p>
-		<p><b>Note</b>: Swap DN2 to DM2 once you have ??? Evil time this R.</p>
+		<p><b>Note</b>: Swap DN2 to DM2 once you have 1 hour Evil time this R.</p>
 		<p><b>Note</b>: This build can be used as a starter in R190.</p>
             </div>
         </div>
@@ -142,9 +142,9 @@
                 <p><b>Artifact Set</b>: Demon</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="AN4,AN5,AN12,GB3,DM4,UD7,UD10,FC3,DD11,DN2,DN8,DW7,DW12,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,S5125,S200,S50,S135,S150,S400,S330,S215,S250,S180,S30,S105,C5125,C340,C400,C175,C250,C590,C25,C105,C150,D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,E290,E3300,E1225,E230,E135,E320,E1,E25,E30,E145,E400,E460,E495,A2950,A1500,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,F5750">
+                    <input type="text" value="AN4,AN5,AN12,GB3,DM4,UD10,FC3,DD11,DN2,DN8,DW7,DW12,DG7,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,S5125,S200,S50,S135,S150,S400,S330,S215,S250,S180,S30,S105,C5125,C340,C400,C175,C250,C590,C25,C105,C150,D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,E290,E3300,E1225,E230,E135,E320,E1,E25,E30,E145,E400,E460,E495,A2950,A1500,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,F5750">
 				</p>
-                <p>AN4,AN5,AN12,GB3,DM4,UD7,UD10,FC3,DD11,DN2,DN8,DW7,DW12,AR2,DJ5,DJ7,</p>
+                <p>AN4,AN5,AN12,GB3,DM4,UD10,FC3,DD11,DN2,DN8,DW7,DW12,DG7,AR2,DJ5,DJ7,</p>
                 <p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,</p>
                 <p>S5125,S200,S50,S135,S150,S400,S330,S215,S250,S180,S30,S105,</p>
                 <p>C5125,C340,C400,C175,C250,C590,C25,C105,C150,</p>
