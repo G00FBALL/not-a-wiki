@@ -63,17 +63,23 @@
                 <p><b>Artifact Set</b>: Demon</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL9,AN5,GB3,GB4,UD7,UD10,DM2,DM4,DD11,DN2,DW7,DW12,AR2,AR12,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DW,S50,S135,S150,S200,S215,S330,S400,S460,S1500,S590,C175,C250,C340,C400,C590,C1300,C500,C305,C330,C25,C105,D200,D275,D290,D320,D330,D1375,D590,D55,D25,E3300,E135,E495,E230,A2950,A30,A120,A270,A305,A545,A10,W135,W205,W275,W400,W1275,W1375,W150,W25,W180,">
+                    <input type="text" value="AN5,AN12,GB3,GB4,UD7,UD10,DM2,DM4,DD11,FC3,DW7,DW12,DG7,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:UD,S50,S135,S150,S200,S215,S330,S400,S460,S1500,S590,C175,C250,C340,C400,C590,C1300,C500,C305,C330,C25,C105,D200,D275,D290,D320,D330,D1375,D590,D55,D25,E3300,E135,E495,E230,E290,A2950,A30,A120,A270,A305,A545,A10,W135,W205,W275,W400,W1275,W1375,W150,W25,W180,W175">
 				</p>
-                <p>EL9,AN5,GB3,GB4,UD7,UD10,DM2,DM4,DD11,DN2,DW7,DW12,AR2,AR12,DJ5,DJ7,</p>
-                <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DW,</p>
+		<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="AN5,AN12,GB3,GB4,UD7,UD10,DM2,DM4,DD11,FC3,DW7,DW12,DG7,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:FR,S50,S135,S150,S200,S215,S330,S400,S460,S1500,S590,C175,C250,C340,C400,C590,C1300,C500,C305,C330,C25,C105,D200,D275,D290,D320,D330,D1375,D590,D55,D25,E3300,E135,E495,E230,E290,A2950,A30,A120,A270,A305,A545,A10,W135,W205,W275,W400,W1275,W1375,W150,W25,W180,W175">
+				<b>No Gifts</b>
+		    		</p>
+                <p>AN5,AN12,GB3,GB4,UD7,UD10,DM2,DM4,DD11,FC3,DW7,DW12,DG7,AR2,DJ5,DJ7,</p>
+                <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:UD,</p>
                 <p>S50,S135,S150,S200,S215,S330,S400,S460,S1500,S590,</p>
                 <p>C175,C250,C340,C400,C590,C1300,C500,C305,C330,C25,C105,</p>
                 <p>D200,D275,D290,D320,D330,D1375,D590,D55,D25,</p>
-                <p>E3300,E135,E495,E230,</p>
+                <p>E3300,E135,E495,E230,E290,</p>
                 <p>A2950,A30,A120,A270,A305,A545,A10,</p>
-                <p>W135,W205,W275,W400,W1275,W1375,W150,W25,W180,</p>
+                <p>W135,W205,W275,W400,W1275,W1375,W150,W25,W180,W175,</p>
                 <p><b>Note</b>: Get Archonline before importing Researches. Reimport frequently to unlock each Research as Archonline grows.</p>
+		<p><b>Note</b>: Swap Undead Union for Fairy Union and maintain odd building count if you do not have Gift of Kings.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -81,57 +87,47 @@
             <div class="autohide">
                 <p><b>Author</b>: Ensteffahn, modified by Kain, Regulus</p>
                 <p><b>Requirement</b>: R180 artifacts</p>
-                <p><b>Range</b>: ?</p>
+                <p><b>Range</b>: 0 - 1e85 (10 Spvg) Gems</p>
                 <p><b>Faction</b>: Evil/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Archon</p>
                 <p><b>A2950</b>: Dragon</p>
                 <p><b>Artifact Set</b>: Demon</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL9,AN4,AN5,AN12,GB3,UD7,UD10,DM4,FC3,DD11,DN2,DW7,DW12,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DW,S5125,S200,S50,S135,S150,S400,S330,S215,S250,S180,S30,S105,C5125,C340,C400,C175,C250,C590,C25,C105,C150,D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,E3300,E1225,E230,E135,E320,E290,E1,E25,E30,E145,E400,E460,E495,A1500,A2950,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,F5750">
+                    <input type="text" value="AN5,AN12,GB3,GB4,UD7,UD10,DM4,DD11,FC3,DN2,DW7,DW12,DG7,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:UD,S5875,S200,S50,S135,S150,S400,S330,S215,S460,S250,C5125,C340,C400,C175,C250,C590,C25,C105,C150,D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,E3300,E1225,E230,E135,E320,E290,E1,E25,E30,E145,E400,E460,E495,A1500,A2950,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,A590,W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,F5750">
 				</p>
-                <p>EL9,AN4,AN5,AN12,GB3,UD7,UD10,DM4,FC3,DD11,DN2,DW7,DW12,AR2,DJ5,DJ7,</p>
-                <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:DW,</p>
-                <p>S5125,S200,S50,S135,S150,S400,S330,S215,S250,S180,S30,S105,</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="AN5,AN12,GB3,GB4,UD7,UD10,DM4,DD11,FC3,DN2,DW7,DW12,DG7,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:FR,S5875,S200,S50,S135,S150,S400,S330,S215,S460,S250,C5125,C340,C400,C175,C250,C590,C25,C105,C150,D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,E3300,E1225,E230,E135,E320,E290,E1,E25,E30,E145,E400,E460,E495,A1500,A2950,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,A590,W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,F5750">
+				<b>No Gifts</b>
+		    		</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="AN5,AN12,GB3,GB4,UD7,UD10,DM4,DD11,FC3,DM2,DW7,DW12,DG7,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:UD,S5875,S200,S50,S135,S150,S400,S330,S215,S460,S250,C5125,C340,C400,C175,C250,C590,C25,C105,C150,D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,E3300,E1225,E230,E135,E320,E290,E1,E25,E30,E145,E400,E460,E495,A1500,A2950,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,A590,W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,F5750">
+				<b>???+ Evil time this R.</b>
+		    		</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="AN5,AN12,GB3,GB4,UD7,UD10,DM4,DD11,FC3,DM2,DW7,DW12,DG7,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:FR,S5875,S200,S50,S135,S150,S400,S330,S215,S460,S250,C5125,C340,C400,C175,C250,C590,C25,C105,C150,D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,E3300,E1225,E230,E135,E320,E290,E1,E25,E30,E145,E400,E460,E495,A1500,A2950,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,A590,W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,F5750">
+				<b>No Gifts, ???+ Evil time this R.</b>
+		    		</p>
+                <p>AN5,AN12,GB3,GB4,UD7,UD10,DM4,DD11,FC3,DN2,DW7,DW12,DG7,AR2,DJ5,DJ7,</p>
+                <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:UD,</p>
+                <p>S5875,S200,S50,S135,S150,S400,S330,S215,S460,S250,</p>
                 <p>C5125,C340,C400,C175,C250,C590,C25,C105,C150,</p>
                 <p>D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,</p>
                 <p>E3300,E1225,E230,E135,E320,E290,E1,E25,E30,E145,E400,E460,E495,</p>
-                <p>A1500,A2950,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,</p>
+                <p>A1500,A2950,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,A590,</p>
                 <p>W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,</p>
                 <p>F5750</p>
-                <p><b>Note</b>: Swap DN2->DM2, once you have 1h+ evil time this R.</p>
+		<p><b>Note</b>: Swap Undead Union for Fairy Union and maintain odd building count if you do not have Gift of Kings.</p>   
+                <p><b>Note</b>: Swap DN2->DM2 once you have ??? Evil time this R.</p>
             </div>
         </div>
     </div>
     <br/>
     <p><b>Buff Builds</b></p>
 	<div class="category">
-        <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ Mana Produced</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="MediumTurquoise">Order</font></b></p>
-            <div class="autohide">
-                <p><b>Author</b>: Rade, assisted by Regulus</p>
-                <p><b>Requirement</b>: R180</p>
-                <p><b>Range</b>: ?</p>
-                <p><b>Faction</b>: Neutral/Order Mercenary</p>
-                <p><b>Bloodline</b>: Titan</p>
-                <p><b>A2950</b>: Faceless</p>
-                <p><b>Artifact Set</b>: Mercenary</p>
-                <p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="AN4,AN5,AN8,AN12,GB3,UD7,DM2,TT8,TT10,DD10,FC3,DN9,DW6,AR5,AR10,DJ3,SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:AR,S30,S105,S135,S150,S180,S200,S215,S250,S270,S300,S330,S400,S435,S460,S545,S590,S1275,C25,C5875,D25,D55,D135,D150,D200,D245,D250,D275,D290,D320,D330,D350,D480,D560,D590,D1375,E25,E30,E135,E145,E150,E230,E250,E275,E290,E320,E350,E480,E3300,A30,A55,A105,A120,A135,A150,A175,A250,A270,A305,A375,A495,A545,A2950,W25,W120,W135,W150,W175,W180,W250,W260,W275,W290,W330,W400,W590,W1275,W1375,F5500">
-				</p>
-                <p>AN4,AN5,AN8,AN12,GB3,UD7,DM2,TT8,TT10,DD10,FC3,DN9,DW6,AR5,AR10,DJ3,</p>
-                <p>SP:Fairy Chanting,SP:Precognition,UB:Mountain Palace,UNN:AR,</p>
-                <p>S30,S105,S135,S150,S180,S200,S215,S250,S270,S300,S330,S400,S435,S460,S545,S590,S1275,</p>
-                <p>C25,C5875,</p>
-                <p>D25,D55,D135,D150,D200,D245,D250,D275,D290,D320,D330,D350,D480,D560,D590,D1375,</p>
-                <p>E25,E30,E135,E145,E150,E230,E250,E275,E290,E320,E350,E480,E3300,</p>
-                <p>A30,A55,A105,A120,A135,A150,A175,A250,A270,A305,A375,A495,A545,A2950,</p>
-                <p>W25,W120,W135,W150,W175,W180,W250,W260,W275,W290,W330,W400,W590,W1275,W1375,</p>
-                <p>F5500</p>
-                <p><b>Note</b>: Reset spells periodically, especially Fairy Chanting. Capable of 1e18 max mana/regeneration at e80 gems, requires buffing max Ziggurat count. Also allows TTC4 buffing.</p>
-            </div>
-        </div>
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ Excavation Resets</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
@@ -177,7 +173,7 @@
                 <p>A2950,A270,A5375,</p>
                 <p>W275,W1275,W1375,W400,W180,</p>
                 <p>F6000,F5500</p>
-                <p><b>Note</b>: After buying A5375, buy A120 and A545</p>
+                <p><b>Note</b>: After buying A5375, buy A120 and A545.</p>
             </div>
         </div>
     </div>
