@@ -11,45 +11,55 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archonline Goblin (R160-R170)</a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: ?</p>
-                <p><b>Range</b>: 0 - 1e40 (10 Dd) Gems</p>
+                <p><b>Range</b>: 0 - 1e40+ (10 Dd) Gems</p>
                 <p><b>Faction</b>: Goblin</p>
                 <p><b>Bloodline</b>: Archon</p>
                 <p><b>Artifact Set</b>: Dwarf</p>
                 <p><b>Stoneheart Set</b>: Goblin</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S200,S30,S50,S105,S135,S150,S215,C80,C105,C120,C135,C150,C340,D55,D150,D200,D250,D290,E135,E145,E200,E250,E1,E30,E80,A120,A400,A10,A55,A105,A135,A150,W25,W135,W180,W205,W290,W150">
+                    <input type="text" value="S50,S200,C105,C340,D330,E135,E145,A120,A270,W135,W205">
 				</p>
-                <p>S200,S30,S50,S105,S135,S150,S215,</p>
-                <p>C80,C105,C120,C135,C150,C340,</p>
-                <p>D55,D150,D200,D250,D290,</p>
-                <p>E135,E145,E200,E250,E1,E30,E80,</p>
-                <p>A120,A400,A10,A55,A105,A135,A150,</p>
-                <p>W25,W135,W180,W205,W290,W150</p>
+		<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="S400,C175,C400,D200,D290,E290,E495,A250,A400,W400">
+				<b>Secondary Researches</b>
+		    		</p>
+                <p>S50,S200,</p>
+                <p>C105,C340,</p>
+                <p>D330,</p>
+                <p>E135,E145,</p>
+                <p>A120,A270,</p>
+                <p>W135,W205</p>
+		<p><b>Secondary Researches</b>:</p>
+		<p>S400,</p>
+		<p>C175,C400,</p>
+		<p>D200,D290,</p>
+		<p>E290,E495,</p>
+		<p>A250,A400,</p>
+		<p>W400</p>
+		<p><b>Note</b>: Import the primary Researches first, then reset Precognition to update its spell duration and increase Research Budget, then import the secondary Researches. Shouldn’t need to run for more than a couple of minutes before abdicating for more gems.
             </div>
         </div>
         <div class="shelementwhole">
-            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archonline Fairy (R167-R169)</a></b></p>
+            <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Archonline Demon (R167-R169)</a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: Regulus</p>
+                <p><b>Author</b>: Rade</p>
                 <p><b>Range</b>: 1e40 (10 Dd) Gems - 1e45 (1 Qad) Gems</p>
-                <p><b>Faction</b>: Fairy</p>
+                <p><b>Faction</b>: Demon</p>
                 <p><b>Bloodline</b>: Archon</p>
-                <p><b>Artifact Set</b>: Dwarf (First run), Fairy (Subsequent runs)</p>
+                <p><b>Artifact Set</b>: Demon</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="S200,S400,S180,C340,C250,C400,C105,D200,D290,D330,D205,E50,E135,E145,E320,E410,E290,A30,A120,A270,A305,A400,W1375">
+                    <input type="text" value="S30,S105,S135,S150,S200,S215,S270,S400,C50,C80,C105,C135,C150,C250,C340,C400,D10,D55,D135,D200,D245,D250,D290,D330,E30,E80,E135,E145,E150,E230,E290,E320,A25,A55,A120,A135,A250,A270,A305,A400,W1,W120,W135,W175,W180,W205,W250,W400">
 				</p>
-                <p>S200,S400,S180,</p>
-                <p>C340,C250,C400,C105,</p>
-                <p>D200,D290,D330,D205,</p>
-                <p>E50,E135,E145,E320,E410,E290,</p>
-                <p>A30,A120,A270,A305,A400,</p>
-                <p>W1375</p>
-                <p><b>Additional</b>: S215,S330,S150,D525,E410,A250,A150,W180,W120,W150</p>
-                <p><b>Note</b>: Reimport build when Limited Wish hits Spell duration. Don't reset Fairy Chanting, instead export/import your save to update the Spell durations.</p>
-                <p><i>Combo for maximum production</i>: Maelstrom on HoL with assistants or Faction Coins. Catalyst on Gem Grinder. Limited Wish on Spell duration. DJC4 on 888% maximum Mana</p>
+		<p>S30,S105,S135,S150,S200,S215,S270,S400,</p>
+		<p>C50,C80,C105,C135,C150,C250,C340,C400,</p>
+		<p>D10,D55,D135,D200,D245,D250,D290,D330,</p>
+		<p>E30,E80,E135,E145,E150,E230,E290,E320,</p>
+		<p>A25,A55,A120,A135,A250,A270,A305,A400,</p>
+		<p>W1,W120,W135,W175,W180,W205,W250,W400</p>
+                <p><b>Note</b>: Relies on typical Djinn Demon randomness for best results - ensure Maelstrom targets Burning Abysses with Trophy Count and that Drow Union is also targeting Burning Abysses, then you can hope for or micromanage LW/Catalyst to hit Trophy Count & Gem Grinder at the same time as DJC4 targets Assistants for best results. Has the highest potential power of pre-Merc builds, but the setup/growth time needed is long enough that Archonlin Goblin can outpace it until higher gem counts from simply abdicating faster than this build can finish setting up.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -77,7 +87,7 @@
                 <p>D200,D275,D290,D320,D330,D1375,D590,D55,D25,</p>
                 <p>E3300,E135,E495,E230,E290,</p>
                 <p>A2950,A30,A120,A270,A305,A545,A10,</p>
-                <p>W135,W205,W275,W400,W1275,W1375,W150,W25,W180,W175,</p>
+                <p>W135,W205,W275,W400,W1275,W1375,W150,W25,W180,W175</p>
                 <p><b>Note</b>: Get Archonline before importing Researches. Reimport frequently to unlock each Research as Archonline grows.</p>
 		<p><b>Note</b>: Maintain odd building count for Fairy Union.</p>
 		<p><b>Note</b>: If you have Gift of the Kings, swap Fairy Union to Undead Union.</p>
@@ -135,17 +145,16 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R180+ Excavation Resets</a></b><b><font color="darkred"> Evil</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: Nov'Art</p>
-                <p><b>Range</b>: ?</p>
                 <p><b>Faction</b>: Evil/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Makers</p>
                 <p><b>A2950</b>: Archon</p>
                 <p><b>Artifact Set</b>: Demon</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="AN4,AN5,AN12,GB3,DM4,UD10,FC3,DD11,DN2,DN8,DW7,DW12,DG7,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,S5125,S200,S50,S135,S150,S400,S330,S215,S250,S180,S30,S105,C5125,C340,C400,C175,C250,C590,C25,C105,C150,D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,E290,E3300,E1225,E230,E135,E320,E1,E25,E30,E145,E400,E460,E495,A2950,A1500,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,F5750">
+                    <input type="text" value="AN4,AN5,AN12,GB3,DM4,UD10,FC3,DD11,DN2,DN8,DW7,DW12,DG7,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:FR,S5125,S200,S50,S135,S150,S400,S330,S215,S250,S180,S30,S105,C5125,C340,C400,C175,C250,C590,C25,C105,C150,D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,E290,E3300,E1225,E230,E135,E320,E1,E25,E30,E145,E400,E460,E495,A2950,A1500,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,F5750">
 				</p>
                 <p>AN4,AN5,AN12,GB3,DM4,UD10,FC3,DD11,DN2,DN8,DW7,DW12,DG7,AR2,DJ5,DJ7,</p>
-                <p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:DW,</p>
+                <p>SP:Fairy Chanting,SP:Precognition,UB:Flesh Workshop,UNN:FR,</p>
                 <p>S5125,S200,S50,S135,S150,S400,S330,S215,S250,S180,S30,S105,</p>
                 <p>C5125,C340,C400,C175,C250,C590,C25,C105,C150,</p>
                 <p>D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,</p>
@@ -153,6 +162,7 @@
                 <p>A2950,A1500,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,</p>
                 <p>W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,</p>
                 <p>F5750</p>
+		<p><b>Note</b>: Maintain odd building count for Fairy Union.</p>
             </div>
         </div>
         <div class="shelementwhole">
@@ -165,9 +175,9 @@
                 <p><b>Artifact Set</b>: Dragon</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="DN2,DM2,FC3,AR2,AN4,AN5,AR5,DW6,AN8,UD7,DN9,DW7,DD10,FC11,AN12,AR10,SP:Dragon's Breath,SP:Precognition,UB:Ziggurat,UNN:AR,S180,S200,S400,S5125,C175,C340,C5125,D200,D275,D290,D330,E320,E135,E1325,A2950,A270,A5375,W275,W1275,W1375,W400,W180,F6000,F5500">
+                    <input type="text" value="DN2,DM2,FC3,AR2,AN4,AN5,AR5,DW6,AN8,DG7,DN9,DW7,DD10,FC11,AN12,AR10,SP:Dragon's Breath,SP:Precognition,UB:Ziggurat,UNN:AR,S180,S200,S400,S5125,C175,C340,C5125,D200,D275,D290,D330,E320,E135,E1325,A2950,A270,A5375,W275,W1275,W1375,W400,W180,F6000,F5500">
 				</p>
-                <p>DN2,DM2,FC3,AR2,AN4,AN5,AR5,DW6,AN8,UD7,DN9,DW7,DD10,FC11,AN12,AR10,</p>
+                <p>DN2,DM2,FC3,AR2,AN4,AN5,AR5,DW6,AN8,DG7,DN9,DW7,DD10,FC11,AN12,AR10,</p>
                 <p>SP:Dragon's Breath,SP:Precognition,UB:Ziggurat,UNN:AR,</p>
                 <p>S180,S200,S400,S5125,</p>
                 <p>C175,C340,C5125,</p>
