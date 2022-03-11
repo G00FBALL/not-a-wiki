@@ -73,15 +73,15 @@
                 <p><b>Artifact Set</b>: Demon</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="AN5,AN12,GB3,GB4,UD7,UD10,DM2,DM4,DD11,FC3,DW7,DW12,DG7,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:FR,S50,S135,S150,S200,S215,S330,S400,S460,S1500,S590,C175,C250,C340,C400,C590,C1300,C500,C305,C330,C25,C105,D200,D275,D290,D320,D330,D1375,D590,D55,D25,E3300,E135,E495,E230,E290,A2950,A30,A120,A270,A305,A545,A10,W135,W205,W275,W400,W1275,W1375,W150,W25,W180,W175">
+                    <input type="text" value="AN5,AN12,GB3,GB4,UD7,UD10,DM2,DN4,DD11,FC3,DW7,DW12,DG7,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:FR,S50,S135,S150,S200,S215,S330,S400,S460,S1500,S590,C175,C250,C340,C400,C590,C1300,C500,C305,C330,C25,C105,D200,D275,D290,D320,D330,D1375,D590,D55,D25,E3300,E135,E495,E230,E290,A2950,A30,A120,A270,A305,A545,A10,W135,W205,W275,W400,W1275,W1375,W150,W25,W180,W175">
 				</p>
 		<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="AN5,AN12,GB3,GB4,UD7,UD10,DM2,DM4,DD11,FC3,DW7,DW12,DG7,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:UD,S50,S135,S150,S200,S215,S330,S400,S460,S1500,S590,C175,C250,C340,C400,C590,C1300,C500,C305,C330,C25,C105,D200,D275,D290,D320,D330,D1375,D590,D55,D25,E3300,E135,E495,E230,E290,A2950,A30,A120,A270,A305,A545,A10,W135,W205,W275,W400,W1275,W1375,W150,W25,W180,W175">
+                    <input type="text" value="AN5,AN12,GB3,GB4,UD7,UD10,DM2,DN4,DD11,FC3,DW7,DW12,DG7,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:UD,S50,S135,S150,S200,S215,S330,S400,S460,S1500,S590,C175,C250,C340,C400,C590,C1300,C500,C305,C330,C25,C105,D200,D275,D290,D320,D330,D1375,D590,D55,D25,E3300,E135,E495,E230,E290,A2950,A30,A120,A270,A305,A545,A10,W135,W205,W275,W400,W1275,W1375,W150,W25,W180,W175">
 				<b>Gift of the Kings</b>
 		    		</p>
-                <p>AN5,AN12,GB3,GB4,UD7,UD10,DM2,DM4,DD11,FC3,DW7,DW12,DG7,AR2,DJ5,DJ7,</p>
-                <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:UD,</p>
+                <p>AN5,AN12,GB3,GB4,UD7,UD10,DM2,DN4,DD11,FC3,DW7,DW12,DG7,AR2,DJ5,DJ7,</p>
+                <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:FR,</p>
                 <p>S50,S135,S150,S200,S215,S330,S400,S460,S1500,S590,</p>
                 <p>C175,C250,C340,C400,C590,C1300,C500,C305,C330,C25,C105,</p>
                 <p>D200,D275,D290,D320,D330,D1375,D590,D55,D25,</p>
@@ -115,15 +115,15 @@
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="AN5,AN12,GB3,GB4,UD7,UD10,DM4,DD11,FC3,DM2,DW7,DW12,DG7,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:FR,S5875,S200,S50,S135,S150,S400,S330,S215,S460,S250,C5125,C340,C400,C175,C250,C590,C25,C105,C150,D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,E3300,E1225,E230,E135,E320,E290,E1,E25,E30,E145,E400,E460,E495,A1500,A2950,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,A590,W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,F5750">
-				<b>1h+ Evil time this R.</b>
+				<b>1h+ Evil time this R</b>
 		    		</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="AN5,AN12,GB3,GB4,UD7,UD10,DM4,DD11,FC3,DM2,DW7,DW12,DG7,AR2,DJ5,DJ7,SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:UD,S5875,S200,S50,S135,S150,S400,S330,S215,S460,S250,C5125,C340,C400,C175,C250,C590,C25,C105,C150,D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,E3300,E1225,E230,E135,E320,E290,E1,E25,E30,E145,E400,E460,E495,A1500,A2950,A30,A120,A410,A545,A10,A105,A150,A250,A270,A305,A375,A55,A590,W5125,W275,W400,W205,W25,W135,W150,W180,W250,W175,W120,F5750">
-				<b>Gift of the Kings, 1h+ Evil time this R.</b>
+				<b>Gift of the Kings, 1h+ Evil time this R</b>
 		    		</p>
                 <p>AN5,AN12,GB3,GB4,UD7,UD10,DM4,DD11,FC3,DN2,DW7,DW12,DG7,AR2,DJ5,DJ7,</p>
-                <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:UD,</p>
+                <p>SP:Fairy Chanting,SP:Infinite Spiral,UB:Flesh Workshop,UNN:FR,</p>
                 <p>S5875,S200,S50,S135,S150,S400,S330,S215,S460,S250,</p>
                 <p>C5125,C340,C400,C175,C250,C590,C25,C105,C150,</p>
                 <p>D1375,D2775,D275,D290,D200,D330,D590,D320,D55,D135,D150,D25,D245,D250,</p>
@@ -209,7 +209,7 @@
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
                     <input type="text" value="EL1,MK1,FC2,FC3,DG6,AN5,AR5,DD6,EL7,DG7,DW7,DJ9,EL11,UD10,DW12,AN12,SP:Dragon's Breath,SP:Infinite Spiral,UNN:DG,UB:Dragon Pasture,S400,S200,S5125,C5375,C400,C175,D275,D290,D200,D330,D3350,E5625,E320,A30,A120,A270,A305,A545,A2950,A1500,W275,W1275,W1375,W400,W1400,F5250">
-				<b>Secondary Lineages.</b>
+				<b>Secondary Lineages</b>
 		    		</p>
                 <p>EL1,MK1,FC2,FC3,DG6,AN5,AR5,DD6,EL7,DG7,DW7,DJ9,EL11,UD10,DW12,AN12,</p>
                 <p>SP:Dragon's Breath,SP:Infinite Spiral,UNN:DW,UB:Dragon Pasture,</p>
