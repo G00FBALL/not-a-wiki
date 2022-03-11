@@ -197,16 +197,22 @@
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Lineage Leveler (R180+)</a></b><b><font color="darkgoldenrod"> Neutral</font></b>/<b><font color="gray">Balance</font></b></p>
             <div class="autohide">
                 <p><b>Author</b>: kabuto44, Regulus, Ximane</p>
+		<p><b>Range</b>: e60+ (1 Nod) Gems
                 <p><b>Faction</b>: Neutral/Balance Mercenary</p>
                 <p><b>Bloodline</b>: Fairy (first)</p>
                 <p><b>A2950</b>: Elf</p>
-                <p><b>Artifact Set</b>: Faceless</p>
+                <p><b>Artifact Set</b>: Matching lineage; Dwarven for Elite factions</p>
                 <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-                    <input type="text" value="EL1,MK1,FC2,FC3,AN4,AN5,AR5,DD6,EL7,UD7,DW7,DJ9,EL11,UD10,DW12,AN12,SP:Dragon's Breath,SP:Infinite Spiral,UNN:DG,UB:Dragon Pasture,S400,S200,S5125,C5375,C400,C175,D275,D290,D200,D330,D3350,E5625,E320,A30,A120,A270,A305,A545,A2950,A1500,W275,W1275,W1375,W400,W1400,F5250,">
+                    <input type="text" value="EL1,MK1,FC2,FC3,DG6,AN5,AR5,DD6,EL7,DG7,DW7,DJ9,EL11,UD10,DW12,AN12,SP:Dragon's Breath,SP:Infinite Spiral,UNN:DW,UB:Dragon Pasture,S400,S200,S5125,C5375,C400,C175,D275,D290,D200,D330,D3350,E5625,E320,A30,A120,A270,A305,A545,A2950,A1500,W275,W1275,W1375,W400,W1400,F5250">
 				</p>
-                <p>EL1,MK1,FC2,FC3,AN4,AN5,AR5,DD6,EL7,UD7,DW7,DJ9,EL11,UD10,DW12,AN12,</p>
-                <p>SP:Dragon's Breath,SP:Infinite Spiral,UNN:DG,UB:Dragon Pasture,</p>
+                <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+                    <input type="text" value="EL1,MK1,FC2,FC3,DG6,AN5,AR5,DD6,EL7,DG7,DW7,DJ9,EL11,UD10,DW12,AN12,SP:Dragon's Breath,SP:Infinite Spiral,UNN:DG,UB:Dragon Pasture,S400,S200,S5125,C5375,C400,C175,D275,D290,D200,D330,D3350,E5625,E320,A30,A120,A270,A305,A545,A2950,A1500,W275,W1275,W1375,W400,W1400,F5250">
+				<b>Secondary Lineages.</b>
+		    		</p>
+                <p>EL1,MK1,FC2,FC3,DG6,AN5,AR5,DD6,EL7,DG7,DW7,DJ9,EL11,UD10,DW12,AN12,</p>
+                <p>SP:Dragon's Breath,SP:Infinite Spiral,UNN:DW,UB:Dragon Pasture,</p>
                 <p>S400,S200,S5125,</p>
                 <p>C5375,C400,C175,</p>
                 <p>D275,D290,D200,D330,D3350,</p>
@@ -214,7 +220,9 @@
                 <p>A30,A120,A270,A305,A545,A2950,A1500,</p>
                 <p>W275,W1275,W1375,W400,W1400,</p>
                 <p>F5250</p>
-                <p><b>Note</b>: Elfline -> A2950:Maker/Druid(?). Dragonline/Makersline -> Replace Dragon Breath/Infinite Spiral with Lightning Strike. Buff assistants, max Flesh Workshops Excavations and resets.</p>
+		<p><b>Note</b>: Start with Fairy Lineage. Buff Excavations and resets; build benefits from max Flesh Workshops built this R. Refresh DB's duration occasionally.</p>
+		<p><b>Note</b>: Swap Drow Union to Dragon Union for secondary Lineages. DWU takes about 30 seconds to pass DGU and secondary Lineages are almost instant, so DGU is slightly better. </p>
+                <p><b>Note</b>: For Elf Lineage, use A2950:Makers. For Dragonline and Makersline, replace Dragon's Breath/Infinite Spiral respectively with Lightning Strike. </p>
             </div>
         </div>
     </div>
@@ -245,7 +253,6 @@
         <div class="shelementwhole">
             <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Other Requirements</a></b></p>
             <div class="autohide">
-                <p><b>Author</b>: ?</p>
                 <p><b>Faction</b>: Fairy</p>
                 <p><b>Bloodline</b>: Faceless</p>
                 <p><b>Artifact Set</b>: Dwarf</p>
