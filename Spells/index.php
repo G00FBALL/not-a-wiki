@@ -151,7 +151,7 @@
 		<area href="#HellfireBlast" research="
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/HellfireBlast.png' alt='Evil' align='middle'> Hellfire Blast</b></p>
 	<p><b>Spell Type</b>: (Evil/Chaos) Demon Faction Spell</p>
-	<p><b>Cost</b>: 900 Mana - <b>Duration</b>: 10 seconds</p>
+	<p><b>Cost</b>: 1,000 Mana - <b>Duration</b>: 20 seconds</p>
 	<p><b>Effect</b>: Increase the production of Evil Fortresses and Hell Portals based on your amount of trophies.</p>
 	<p><b>Formula</b>: (round(200 * x ^ 0.8))%, where x is your amount of trophies.</p>
 		" coords="70,70,124,124" shape="rect">
@@ -166,7 +166,7 @@
 		<area href="#BloodFrenzy" research="
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/BloodFrenzy.png' alt='Evil' align='middle'> Blood Frenzy</b></p>
 	<p><b>Spell Type</b>: Evil Alignment Spell</p>
-	<p><b>Cost</b>: 900 Mana - <b>Duration</b>: 10 seconds</p>
+	<p><b>Cost</b>: 600 Mana - <b>Duration</b>: 20 seconds</p>
 	<p><b>Effect</b>: Increases the production of all Evil buildings by 1250%.</p>
 		" coords="190,70,244,124" shape="rect">
 		<area href="#ComboStrike" research="
@@ -900,7 +900,7 @@
 <p id="DiamondPickaxe"><b><img src="http://musicfamily.org/realm/Factions/picks/DiamondPickaxe.png" alt="Good" align="middle"> Diamond Pickaxe</b> (Dwarven)</p>
 <p><b>Cost</b>: 1000 Mana - <b>Duration</b>: 12 seconds </p>
 <p><b>Effect</b>: Increase clicking reward by 25% per Excavation you made and increase your Faction Coin find chance by 200%.</p>
-<p><b>Spell Trophy & Upgrade</b>: <b><img src="http://musicfamily.org/realm/Factions/picks/MinedwarfSpellUpgradeUpgrade.png" align="middle"> Minedwarf</b></p>
+<p><b>Spell Trophy & Upgrade</b>: <b><img src="http://musicfamily.org/realm/Factions/picks/MinedwarfSpellUpgrade.png" align="middle"> Minedwarf</b></p>
 <p><b>Requirement</b>: Find 30,000 Faction Coins using Diamond Pickaxe in a single game.</p>
 <p><b>Effect</b>: Increases Diamond Pickaxe bonus to "Faction Coin Find Chance" to +300%.</p>
 <p><b>Cost</b>: 100 Sxd (1e53), A1+ Free</p>
@@ -1336,10 +1336,8 @@
 <p><b>Cost</b>: 505000 mana - <b>Duration</b>: 10 seconds</p>
 <p><b>Effect</b>: Temporarily increase assistants based on Maximum Mana (multiplicative).</p>
 <p><b>Formula</b>: (10 * ln(1 + x) ^ 1.25)%, where x is your Maximum Mana.</p>
-<br/>
 <p><b>Effect</b>: Multiplicatively increase Maximum Mana based on Faction Coin find chance.</p>
 <p><b>Formula</b>: (1.5 * log10(1 + x) ^ 1.5)%, where x is your Faction Coin find chance.</p>
-<br/>
 <p><b>Effect</b>: Multiplicatively increase Faction Coin find chance based on Excavations made, including resets, in this Reincarnation.</p>
 <p><b>Formula</b>: (10 + 0.05 * (x * y) ^ 0.75)%, where x is excavations done this Reincarnation (NOT current excavation count), y is free and ruby Excavation Resets this Reincarnation</p>
 <br/>
