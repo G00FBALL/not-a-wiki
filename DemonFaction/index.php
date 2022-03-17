@@ -13,7 +13,7 @@
 	<br/>
 	<p><b>Faction spell</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/HellFireBlast.png" align="middle"> Hellfire Blast</b></p>
-	<p><b>Cost</b>: 900 Mana - <b>Duration</b>: 10 seconds</p>
+	<p><b>Cost</b>: 1000 Mana - <b>Duration</b>: 20 seconds</p>
 	<p><b>Effect</b>: Increase the production of Evil Fortresses and Hell Portals based on your amount of trophies.</p>
 	<p><b>Formula</b>: (round(200 * x ^ 0.8))%, where x is your amount of trophies.</p>
 	<br/>

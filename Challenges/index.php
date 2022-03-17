@@ -578,6 +578,7 @@
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/TrainedAssasinsChallenge.png' align='middle'> Trained Assassins</b></p>
 	<p>&quot;There is a civil war between 2 Spider Gods. Bolster our forces and wipe the weaklings off the face of the realm.&quot;</p>
 	<p><b>Requirements</b>: Any Evil as Base Faction, Drow as Prestige Faction, Reincarnation 27+, 2000 excavations, Drow Challenge 3 completed.</p>
+	<p><b>Challenge</b>: Cast Call to Arms with at least 30,000 buildings.</p>
 	<p><b>Effect</b>: Increase your Offline Time (This Game) based on spells cast in this Reincarnation.</p>
 	<p><b>Formula</b>: (8 * log10(1 + x) ^ 4) where x is spells cast in this Reincarnation.</p>
 	<p><b>Upgrade</b>: Works with any Evil + Drow</p>

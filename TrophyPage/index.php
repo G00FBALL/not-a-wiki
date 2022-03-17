@@ -73,7 +73,7 @@
 	<p><b>Requirement</b>: Purchase the first 6 Faction Heritage upgrades in a single game.</p>
 	<p><b>Cost</b>: 1 M (1e6), A1+ Free</p>
 	<p><b>Effect</b>: Increase your chance to find Faction Coins by additional 2%.</p>
-	<p><b>Note</b>: This can be done at R0 (use Elf).</p>
+	<p><b>Note</b>: This can be done at R0 (use Elven).</p>
 	" coords="183,103,237,157" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/MasterArcheologistSecretTrophy.png align=middle> <b>Master Archeologist</b></p>
 	<p>You have discovered all the relics of the Ancient Races.</p>
@@ -220,7 +220,7 @@
 	<p><b>Requirement</b>: Reach 1.5 M (1.5E6) Faction Coins in less than 5 minutes, without using Gem Power, Excavations or any spell.</p>
 	<p><b>Cost</b>: 1 coins, A1+ Free</p>
 	<p><b>Effect</b>: Increase Faction Coin find chance by +10%.</p>
-	<p><b>Note</b>: Can be done from R7+ with elf/elfline</p>
+	<p><b>Note</b>: Can be done from R7+ with Elven/Elvenline</p>
 	" coords="363,283,417,337" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/NoRecruitingSecretTrophy.png align=middle> <b>No Recruiting</b>
 	<p><b>Requirement</b>: Reach 1 NoVg (1E90) gems in a Reincarnation without ever affiliating with the Mercenaries.</p>
@@ -288,7 +288,7 @@
 	<p><b>Requirement</b>: Reach 725 Iron Strongholds in 5 minutes without use of Gem Power and Reincarnation Power.</p>
 	<p><b>Cost</b>: 3.8 SxSxg (3.8e201), A1+ Free</p>
 	<p><b>Effect</b>: Iron Strongholds count 5% more for all purposes.</p>
-	<p><b>Note</b>: Post-Ascension with Mercs + Gobline +Dwarf Expert Masonry, GG or LS for Faction Coins for first spell.</p>
+	<p><b>Note</b>: Post-Ascension with Mercs + Gobline +Dwarven Expert Masonry, GG or LS for Faction Coins for first spell.</p>
 	" coords="183,403,237,457" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ColorfulAutocastingSecretTrophy.png align=middle> </b>Colorful Autocasting</b>
 	<p><b>Requirement</b>: R42+, Have each type of autocasting active simultaneously.</p>
@@ -483,40 +483,40 @@
 	<p><b>Requirement</b>: Purchase Mercenary Tribute & Oath of the Mercenaries.</p>
 	" coords="123,163,177,217" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/FairyGrandChampionTrophy.png align=middle> </b>Fairy Grand Champion</b>
-	<p><b>Requirement</b>: R60+, Upgrade Fairy Lineage to level 20 and purchase 3 Fairy Lineage perks.</p>
+	<p><b>Requirement</b>: R60+, Upgrade Fairy Lineage to level 20 and purchase the first 3 Fairy Lineage perks.</p>
 	" coords="183,163,237,217" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ElvenGrandChampionTrophy.png align=middle> </b>Elven Grand Champion</b>
-	<p><b>Requirement</b>: R60+, Upgrade Elven Lineage to level 20 and purchase 3 Elven Lineage perks.</p>
+	<p><b>Requirement</b>: R60+, Upgrade Elven Lineage to level 20 and purchase the first 3 Elven Lineage perks.</p>
 	" coords="243,163,297,217" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/AngelGrandChampionTrophy.png align=middle> </b>Angel Grand Champion</b>
-	<p><b>Requirement</b>: R60+, Upgrade Angel Lineage to level 20 and purchase 3 Angel Lineage perks.</p>
+	<p><b>Requirement</b>: R60+, Upgrade Angel Lineage to level 20 and purchase the first 3 Angel Lineage perks.</p>
 	" coords="303,163,357,217" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/GoblinGrandChampionTrophy.png align=middle> </b>Goblin Grand Champion</b>
-	<p><b>Requirement</b>: R60+, Upgrade Goblin Lineage to level 20 and purchase 3 Goblin Lineage perks.</p>
+	<p><b>Requirement</b>: R60+, Upgrade Goblin Lineage to level 20 and purchase the first 3 Goblin Lineage perks.</p>
 	" coords="363,163,417,217" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/UndeadGrandChampionTrophy.png align=middle> </b>Undead Grand Champion</b>
-	<p><b>Requirement</b>: R60+, Upgrade Undead Lineage to level 20 and purchase 3 Undead Lineage perks.</p>
+	<p><b>Requirement</b>: R60+, Upgrade Undead Lineage to level 20 and purchase the first 3 Undead Lineage perks.</p>
 	" coords="3,223,57,277" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/DemonGrandChampionTrophy.png align=middle> </b>Demon Grand Champion</b>
-	<p><b>Requirement</b>: R60+, Upgrade Demon Lineage to level 20 and purchase 3 Demon Lineage perks.</p>
+	<p><b>Requirement</b>: R60+, Upgrade Demon Lineage to level 20 and purchase the first 3 Demon Lineage perks.</p>
 	" coords="63,223,117,277" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/TitanGrandChampionTrophy.png align=middle> </b>Titan Grand Champion</b>
-	<p><b>Requirement</b>: R60+, Upgrade Titan Lineage to level 20 and purchase 3 Titan Lineage perks.</p>
+	<p><b>Requirement</b>: R60+, Upgrade Titan Lineage to level 20 and purchase the first 3 Titan Lineage perks.</p>
 	" coords="123,223,177,277" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/DruidGrandChampionTrophy.png align=middle> </b>Druid Grand Champion</b>
-	<p><b>Requirement</b>: R60+, Upgrade Druid Lineage to level 20 and purchase 3 Druid Lineage perks.</p>
+	<p><b>Requirement</b>: R60+, Upgrade Druid Lineage to level 20 and purchase the first 3 Druid Lineage perks.</p>
 	" coords="183,223,237,277" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/FacelessGrandChampionTrophy.png align=middle> </b>Faceless Grand Champion</b>
-	<p><b>Requirement</b>: R60+, Upgrade Faceless Lineage to level 20 and purchase 3 Faceless Lineage perks.</p>
+	<p><b>Requirement</b>: R60+, Upgrade Faceless Lineage to level 20 and purchase the first 3 Faceless Lineage perks.</p>
 	" coords="243,223,297,277" shape="rect">
-		<area research="<img src=http://musicfamily.org/realm/Factions/picks/DwarfGrandChampionTrophy.png align=middle> </b>Dwarf Grand Champion</b>
-	<p><b>Requirement</b>: R60+, Upgrade Dwarf Lineage to level 20 and purchase 3 Dwarf Lineage perks.</p>
+		<area research="<img src=http://musicfamily.org/realm/Factions/picks/DwarfGrandChampionTrophy.png align=middle> </b>Dwarven Grand Champion</b>
+	<p><b>Requirement</b>: R60+, Upgrade Dwarven Lineage to level 20 and purchase the first 3 Dwarven Lineage perks.</p>
 	" coords="303,223,357,277" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/DrowGrandChampionTrophy.png align=middle> </b>Drow Grand Champion</b>
-	<p><b>Requirement</b>: R60+, Upgrade Drow Lineage to level 20 and purchase 3 Drow Lineage perks.</p>
+	<p><b>Requirement</b>: R60+, Upgrade Drow Lineage to level 20 and purchase the first 3 Drow Lineage perks.</p>
 	" coords="363,223,417,277" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/DragonGrandChampionTrophy.png align=middle> </b>Dragon Grand Champion</b>
-	<p><b>Requirement</b>: R60+, Upgrade Dragon Lineage to level 20 and purchase 3 Dragon Lineage perks.</p>
+	<p><b>Requirement</b>: R60+, Upgrade Dragon Lineage to level 20 and purchase the first 3 Dragon Lineage perks.</p>
 	" coords="3,283,57,337" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/FairyMasterTrophy.png align=middle> </b>Fairy Master</b>
 	<p><b>Requirements</b>: A2, Reach lineage level 30 and purchase all Fairy Upgrades</p>
@@ -1396,7 +1396,7 @@
 	<p><b>Requirement</b>: Find 30,000 Faction Coins from Diamond Pickaxe in a single game.</p>
 	<p><b>Cost</b>: 100 Sxd (1e53), A1+ Free</p>
 	<p><b>Effect</b>: Increases Diamond Pickaxe bonus to 'Faction Coin Find Chance' to 300%.</p>
-	<p><b>Note</b>: Dwarf Spell</p>
+	<p><b>Note</b>: Dwarven Spell</p>
 	" coords="363,463,417,517" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/PerfectComboSpellUpgrade.png align=middle> </b>Perfect Combo</b>
 	<p><b>Requirement</b>: Cast a chain of 100 Combo Strikes in a single game. The chain is interrupted by casting a different spell.</p>
