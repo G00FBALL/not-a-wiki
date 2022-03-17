@@ -5,6 +5,62 @@
 	<p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 	<div class="shlisting">
 		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.2, Feb 7, 2021, Valentine Event</a></b></p>
+			<div class="autohide">
+				<p><b>Global Reminder</b>: The Valentine Event will be starting on Feb 12th 2022, 1.01 PM UTC and will end on Feb 16th 2021, 7.59 PM UTC.</p>
+				<p>ADDED A NEW VALENTINE FEAT, unlocking a new cosmetic option.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.1, Dec 17, 2021, Christmas Event</a></b></p>
+			<div class="autohide">
+				<p><b>Global Reminder</b>: Christmas Event will be starting on Dec 20th 2021, 1.01 PM UTC and will end on Jan 04th 2022, 7.59 PM UTC.</p>
+				<p>ADDED A NEW CHRISTMAS FEAT, unlocking a new upgrade.</p>
+				<p>Prestige Artifacts can now be excavated properly.</p>
+				<p>AN1 base decreased.</p>
+				<p>AN2 now also increases Angel Coin find chance by 500%.</p>
+				<p>AN10 first effect increased.</p>
+				<p>DD12 base and scaling decreased.</p>
+				<p>DG4 additive and production parts, effects decreased.</p>
+				<p>DG6 scaling decreased for both effects.</p>
+				<p>DG8 scaling decreased.</p>
+				<p>DG11 multiplicative effect decreased.</p>
+				<p>AR2 now changes Precognition starting duration to 5 minutes.</p>
+				<p>MK7 start value decreased, base increased, scaling decreased.</p>
+				<p>White Dragon's Breath scaling decreased.</p>
+				<p>All Creation, all effects decreased.</p>
+				<p>S11125 (Multiplication) is now based on mana produced in this game.</p>
+				<p>S12250 (Necrodoomancy) base and scaling decreased.</p>
+				<p>S13125 (Fantasia) base decreased.</p>
+				<p>S13500 (Legerdemain) reworked: now increases the production of all buildings based on Royal Exchange bonus.</p>
+				<p>C5375 (Manufacture) base increased and scaling decreased for both effects.</p>
+				<p>D13125 (Asceticism) now also increases all faction times.</p>
+				<p>E11125 (Grey Friday) now also increases the production of all buildings based on Royal Exchange bonus.</p>
+				<p>W11625 (Genocide) scaling decreased.</p>
+				<p>W12250 (Raiding) base increased, scaling decreased.</p>
+				<p>E11875 (Overworking) base increased, scaling decreased.</p>
+				<p>Archon Challenges 1, 2 and 3 now remove Ascension Penalties from Angel's, Undead's and Titan's Upgrade 9s respectively.</p>
+				<p>Makers Challenge 5 max mana requirement reduced.</p>
+				<p>Druid Union base and scaling decreased.</p>
+				<p>Dragon Order Union base decreased.</p>
+				<p>Dragon Balance union base increased, scaling decreased.</p>
+				<p>Dragon Chaos Union base increased, scaling decreased.</p>
+				<p>Drow Set 1 effect swapped with Drow Set 2. New Drow Set 1 scaling increased.</p>
+				<p>Chrono Loading formula changed to logarithmic. Start value removed.</p>
+				<p>True Harlequin upgrade is now available at 5 different upgrades purchased. Formula reworked. Unlock conditions for the secret trophy and Mercenary Challenge 5 remain unchanged.</p>
+				<p>Expert Combinator now has the same formula as Novice Combinator.</p>
+				<p>Fairy-Demon Legacy Combo (Brooding Abyss) all values decreased.</p>
+				<p>Goblin-Undead Legacy Combo (Homunculus Lab) formula reworked, and now also increases the production of all buildings based on unspent research budget.</p>
+				<p>Lineage Perk 5's requirement increased to Reincarnation 139.</p>
+				<p>Former R180 power reintroduced, moved up to R190.</p>
+				<p>A4 Prestige factions entry requirement decreased to Reincarnation 235.</p>
+				<p>Prestige artifacts requirement decreased to Reincarnation 235.</p>
+				<p>Added a cap of R279 for A4.</p>
+				<p>All effects that increase spell tiers should also increase the automax tier when autocasting.</p>
+				<p>Added new advisor hints.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.0, Oct 27, 2021, Halloween Event</a></b></p>
 			<div class="autohide">
 				<p><b>Global Reminder</b>: the Halloween Event will be starting on Oct 29th 2021, 12.01 PM UTC and will end on Nov 5th 2021, 7.59 PM UTC.</p>
@@ -50,6 +106,15 @@
 				<p>Advanced Heritages time requirement reduced to 6 hours.</p>
 				<p>MAD quests for masks time requirement reduced to 1 day.</p>
 				<p>Twisting Nether was adding points to the sum of Lineage levels, not per individual Lineage. This has been fixed.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.1.3, Sep 21, 2021, Idillium Event</a></b></p>
+			<div class="autohide">
+				<p><b>Global Reminder</b>: Idillium Event will be starting on Sep 23rd 2021, 12.01 PM UTC and will end on Sep 30th 2021, 6.59 PM UTC.</p>
+				<p>ADDED A NEW IDILLIUM FEAT, unlocking a new upgrade.</p>
+				<p>Added the COPY ID feature: by clicking on the ID in your Options menu, it will be copied to clipboard, then you can paste it on any text area.</p>
+				<p>Added a spell counter on the Golden Age feat.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
@@ -137,7 +202,7 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.0.2, Mar 25, 2021, Easter Event</a></b></p>
 			<div class="autohide">
-				<p><b>Global Reminder</b>: The Valentine Event will be starting on Apr 2nd 2021, 12.01 PM UTC and will end on Apr 9th 2021, 6.59 PM UTC.</p>
+				<p><b>Global Reminder</b>: The Easter Event will be starting on Apr 2nd 2021, 12.01 PM UTC and will end on Apr 9th 2021, 6.59 PM UTC.</p>
 				<p>ADDED A NEW EASTER FEAT, unlocking a new upgrade.</p>
 				<p>Fixed Unrequitedness not targeting neutral buildings only.</p>
 				<p>Changed Ancient Egg to reduce the base cost for excavations instead of their cost multiplier.</p>
