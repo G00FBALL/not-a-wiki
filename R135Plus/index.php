@@ -49,7 +49,7 @@
 				<p><b>Note</b>: At R154+, swap A3400 with A400 at 1e45 (1 Qad) Gems+</p>
 			</div>
 		</div>
-		<div class="shelementwhole">
+		<!-- <div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Goblin (R140-R153) 1e50 (100 Qid) - 1e53 (100 1 Sxd)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Wolfsblood</p>
@@ -122,45 +122,37 @@
 				<p><b>Note</b>: At R140+ and Goblin L40+, swap E320 with E290 and S215 with S400 (50,000+).</p>
 				<p><b>Note</b>: At R150+, swap W180 with W3150.</p>
 			</div>
-		</div>
+		</div> -->
+    <div class="shelementwhole">
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Angels (R140+) 1e50 (100 Qid) - 1e86 (100 Tg)</a></b></p>
+      <div class="autohide">
+        <p><b>Author</b>: Ximane</p>
+        <p><b>Requirement</b>: Archon Challenge 1</p>
+        <p><b>Range</b>: 1e50 (100 Qid) - 1e95 (100 Tg) Gems</p>
+        <p><b>Faction</b>: Angel</p>
+        <p><b>Bloodline</b>: Faceless</p>
+        <p><b>Artifact Set</b>: Dwarf</p>
+        <p>
+          <button onclick="myFunction($(this))">Copy Build</button>
+          <input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E145,E410,A50,A400,A495,W225,W560,W1375,S200,C340,D1375,E135,A120,W180">
+        </p>
+        <p>S10,S3200,</p>
+        <p>C25,C400,C405,C520,</p>
+        <p>D1,D175,D290,D435,D590,</p>
+        <p>E145,E410,</p>
+        <p>A50,A400,A495,</p>
+        <p>W225,W560,W1375</p>
+        <p><b>After Archon treaty</b>: S200,C340,D1375,E135,A120,W180 (reimport build).</p>
+        <p><b>Note</b>: At e63+ gems, swap W1375 with W400</p>
+      </div>
+    </div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e69 (1 Dvg) - 1e95 (100 Tg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e86 (100 Spvg) - 1e95 (100 Tg)</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Sad, Pent</p>
+				<p><b>Author</b>: Wolfsblood, Pent</p>
 				<p><b>Requirement</b>: Archon Challenge 1</p>
-				<p><b>Range</b>: 1e69 (1 Dvg) - 1e95 (100 Tg) Gems</p>
-				<p><b>Range (R154+, All Challenges Completed)</b>: 1e66 (1 Uvg) - 1e115 (10 Sptg) Gems</p>
-				<p><b>Faction</b>: Angel</p>
-				<p><b>Bloodline</b>: Dragon</p>
-				<p><b>Artifact Set</b>: Dwarf</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E145,E410,A50,A400,A495,W225,W400,W560,S330,C340,D1375,E135,A120,W180">
-				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E145,E410,A50,A400,A495,W225,W400,W560,S330,C340,D1375,E135,A120,W3150">
-					<b>R150+</b>
-				</p>
-				<p>S10,S3200,</p>
-				<p>C25,C400,C405,C520,</p>
-				<p>D1,D175,D290,D435,D590,</p>
-				<p>E145,E410,</p>
-				<p>A50,A400,A495,</p>
-				<p>W225,W400,W560</p>
-				<p><b>After Archon treaty</b>: S330,C340,D1375,E135,A120,W180 (reimport build).</p>
-				<p><b>Note</b>: First run might need 5-10 minutes to afford Archon Treaty.</p>
-				<p><b>Note</b>: Buff AR1, Excavations & Resets.</p>
-				<p><b>Note</b>: Swap W180 with W3150 at R150+.</p>
-				<p><b>Note</b>: Build is oriented for production and is not meant to buy Archon Union.</p>
-			</div>
-		</div>
-		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (R135-R138) 1e95 (100 Tg) - 1e102 (1 Ttg)</a></b></p>
-			<div class="autohide">
-				<p><b>Author</b>: Sad, Pent</p>
-				<p><b>Requirement</b>: Archon Challenge 1</p>
-				<p><b>Range</b>: 1e95 (100 Tg) - 1e102 (1 Ttg) Gems</p>
+				<p><b>Range</b>: 1e86 (100 Spvg) - 1e95 (100 Tg) Gems</p>
+        <p><b>Range (R154+, All Challenges Completed)</b>: 1e86 (100 Spvg) - 1e115 (10 Sptg) Gems</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Dragon</p>
 				<p><b>Artifact Set</b>: Dwarf</p>
@@ -407,7 +399,7 @@
 						<p>E350,E1225,E1325,</p>
 						<p>A300,A400,A1200,</p>
 						<p>W275,W1375,W1400</p>
-						<p><b>Note</b>: Buff Max Assistants (3e14 (300 T)+) with Dragonline Undead (Max Assistants) build first.</p>
+						<p><b>Note</b>: Buff Max Assistants (3e15 (300 T)+) with Dragonline Undead (Max Assistants) build first.</p>
 						<p><b>Note</b>: Buff S400 (200,000+) with Angelline Goblin (Spell Casts) build first.</p>
 						<p><b>Note</b>: Longest Session this Reincarnation needs to be at least 3 hours for FC3 or you need a better buffed Faceless set.</p>
 					</div>
@@ -442,7 +434,7 @@
 					<div class="autohide">
 						<p><b>Author</b>: Kiluh</p>
 						<p><b>Requirement</b>: Faceless Lineage 40</p>
-						<p><b>Range</b>: 1e110 (100 Qitg) Gems+</p>
+						<p><b>Range</b>: 1e95 (100 Tg) Gems+</p>
 						<p><b>Faction</b>: Titan</p>
 						<p><b>Bloodline</b>: Faceless</p>
 						<p><b>Artifact Set</b>: Dragon</p>
@@ -458,7 +450,6 @@
 						<p>W260,W1375,W1400</p>
 						<p><b>After Archon treaty</b>: S200,C250,D330,E1325,A270,W1275 (Reimport Build)</p>
 						<p><b>Note</b>: Buff S400 (400,000+) with Angelline Goblin (Spell Casts) build first.</p>
-						<p><b>Note</b>: Estimated time to completion is 2 hours.</p>
 					</div>
 				</div>
 				<div class="shelementwhole">
@@ -484,7 +475,7 @@
 						<p><b>Note</b>: Set Maelstrom to hit Inns based on Faction Coins found.</p>
 						<p><b>Note</b>: Regularly update your spell durations (either via export/import or Reverse Autocasting) to benefit from DN9 and Druid AH.</p>
 						<p><b>Note</b>: <b>Once Brainwave is at 225 days, the spell must be recasted to complete the challenge</b>.</p>
-						<p><b>Note</b>: Estimated time to completion is 1 hour.</p>
+						<p><b>Note</b>: Estimated time to completion is 15 minutes.</p>
 					</div>
 				</div>
 				<div class="shelementwhole">
@@ -494,7 +485,7 @@
 						<p><b>Range</b>: 1e120 (1 Notg) Gems+</p>
 						<p><b>Faction</b>: Elf</p>
 						<p><b>Artifact Set</b>: Faceless</p>
-						<p><b>Note</b>: Buff Max assistants (1e16 (10 Qa)+) with regular Angelline Demons (needs DJC4) runs.</p>
+						<p><b>Note</b>: Buff Max assistants (1e17 (10 Qa)+) with regular Angelline Demons (needs DJC4) runs.</p>
 						<p><b>Note</b>: Buff Excavations this Reincarnation (1e6 (1 M)+) & Excavation Resets (50+) with Makerline Angel (Max Excavations).</p>
 						<p><b>Note</b>: Estimated time to completion is 1-2 hours (dependent on manual clicking).</p>
 					</div>
@@ -1017,6 +1008,30 @@
 				<p>W25,W205,W405,W520</p>
 				<p><b>Note</b>: Swap Stoneheart set to Faceless if buffed (Max Assistants 1e14 (100 T)+).</p>
 				<p><b>Note</b>: Swap A120 with A400 if Makers Challenge 4 is completed.</p>
+			</div>
+		</div>
+    <div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Titan (Max Royal Exchanges, AR1)</a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: YBGnome</p>
+				<p><b>Range</b>: 1e77 (1 Dvg) Gems+</p>
+				<p><b>Faction</b>: Titan</p>
+				<p><b>Bloodline</b>: Goblin</p>
+				<p><b>Artifact Set</b>: Faceless</p>
+				<p><b>Stoneheart Set (R148+, MKC4)</b>: Dwarf, Faceless if buffed</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S300,S1450,S3200,C251,C375,C400,C1300,C1500,D290,D350,D1125,E275,E1225,E1425,A400,A1200,W260,W1375,W1400,S200,C250,D200,E1325,A3400,W1275">
+				</p>
+				<p>S300,S1450,S3200,</p>
+				<p>C251,C375,C400,C1300,C1500,</p>
+				<p>D290,D350,D1125,</p>
+				<p>E275,E1225,E1425,</p>
+				<p>A4o0,A1200,</p>
+				<p>W260,W1375,W1400</p>
+        <p><b>After Archon Treaty</b>: S200,C250,D200,E1325,A3400,W1275 (reimport Build)</p>
+				<p><b>Note</b>: Buff faceless set with dragonline undead (e12+ assistants).</p>
+				<p><b>Note</b>: Buff excavations and resets.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
