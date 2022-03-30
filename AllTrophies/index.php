@@ -589,7 +589,7 @@
 					<p><b>Requirement</b>: A2, Reach lineage level 30 and purchase all Angel Upgrades.</p>
 					<hr>
 					<p><img src="http://musicfamily.org/realm/Factions/picks/GoblinMasterTrophy.png" align="middle"><b> Goblin Master</b></p>
-					<p><b>Requirement</b>: A2, Reach lineage level 30 and purchase all Golbin Upgrades.</p>
+					<p><b>Requirement</b>: A2, Reach lineage level 30 and purchase all Goblin Upgrades.</p>
 					<hr>
 					<p><img src="http://musicfamily.org/realm/Factions/picks/UndeadMasterTrophy.png" align="middle"><b> Undead Master</b></p>
 					<p><b>Requirement</b>: A2, Reach lineage level 30 and purchase all Undead Upgrades.</p>

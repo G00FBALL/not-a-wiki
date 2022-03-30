@@ -528,7 +528,7 @@
 	<p><b>Requirements</b>: A2, Reach lineage level 30 and purchase all Angel Upgrades</p>
 	" coords="183,283,237,337" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/GoblinMasterTrophy.png align=middle> </b>Goblin Master</b>
-	<p><b>Requirements</b>: A2, Reach lineage level 30 and purchase all Golbin Upgrades</p>
+	<p><b>Requirements</b>: A2, Reach lineage level 30 and purchase all Goblin Upgrades</p>
 	" coords="243,283,297,337" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/UndeadMasterTrophy.png align=middle> </b>Undead Master</b>
 	<p><b>Requirements</b>: A2, Reach lineage level 30 and purchase all Undead Upgrades</p>

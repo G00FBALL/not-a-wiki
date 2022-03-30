@@ -5,9 +5,16 @@
 	<p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 	<div class="shlisting">
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.2, Feb 7, 2021, Valentine Event</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.3, Mar 30, 2022, Valentine Event</a></b></p>
 			<div class="autohide">
-				<p><b>Global Reminder</b>: The Valentine Event will be starting on Feb 12th 2022, 1.01 PM UTC and will end on Feb 16th 2021, 7.59 PM UTC.</p>
+				<p><b>Global Reminder</b>: The Easter Event will be starting on Apr 14th 2022, 12.01 PM UTC and will end on Apr 21st 2021, 6.59 PM UTC.</p>
+				<p>ADDED A NEW EASTER FEAT, unlocking a new cosmetic option.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.2, Feb 7, 2022, Valentine Event</a></b></p>
+			<div class="autohide">
+				<p><b>Global Reminder</b>: The Valentine Event will be starting on Feb 12th 2022, 1.01 PM UTC and will end on Feb 16th 2022, 7.59 PM UTC.</p>
 				<p>ADDED A NEW VALENTINE FEAT, unlocking a new cosmetic option.</p>
 			</div>
 		</div>

@@ -103,21 +103,21 @@
 		<p><b><img src=http://musicfamily.org/realm/Factions/picks/ArchonLineage.png align=middle> Archon Lineage</b></p>
 		<p><b>Requirements</b>: R130+</p>
 		<p><b>Base Effect</b>: Multiplicatively increase Faction Coin find chance by 20% for every level.</p>
-		<p><b>Cost</b>: 400 Angel, Undead Royal Exchanges</p>
+		<p><b>Cost</b>: 400 Angel and Undead Royal Exchanges</p>
 		<p>Pointing to this ingame will tell you what level it is at.</p>
 		" coords="10,250,64,304" shape="rect">
 		<area href="#Djinn" target="" research="
 		<p><b><img src=http://musicfamily.org/realm/Factions/picks/DjinnLineage.png align=middle> Djinn Lineage</b></p>
 		<p><b>Requirements</b>: R130+</p>
 		<p><b>Base Effect</b>: Increase production bonus from gems by a multiplicative 8% for every level.</p>
-		<p><b>Cost</b>: 400 Fairy, Demon Royal Exchanges</p>
+		<p><b>Cost</b>: 400 Fairy and Demon Royal Exchanges</p>
 		<p>Pointing to this ingame will tell you what level it is at.</p>
 		" coords="70,250,124,304" shape="rect">
 		<area href="#Makers" target="" research="
 		<p><b><img src=http://musicfamily.org/realm/Factions/picks/MakersLineage.png align=middle> Makers Lineage</b></p>
 		<p><b>Requirements</b>: R130+</p>
 		<p><b>Base Effect</b>: Increase Royal Exchange bonus by a multiplicative 8% for every level.</p>
-		<p><b>Cost</b>: 400 Elven, Goblin Royal Exchanges</p>
+		<p><b>Cost</b>: 400 Elven and Goblin Royal Exchanges</p>
 		<p>Pointing to this ingame will tell you what level it is at.</p>
 		" coords="130,250,184,304" shape="rect">
 	</map>
