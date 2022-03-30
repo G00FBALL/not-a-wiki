@@ -494,7 +494,7 @@
 		<area href="#LightningStrike" research="
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/ThunderstormChallengeReward.png' align='middle'> Thunderstorm</b></p>
 	<p><b>Effect</b>: Further increase Faction Coin find chance from Lightning Strike based on building tiers it hits.</p>
-	<p><b>Formula</b>: (10 + log10(1 + x) ^ 2 * (1 + 0.2 * sum(T)))%%, where x is your current amount of gems and T the Building Tier Lightning Strike hits.</p></p>
+	<p><b>Formula</b>: (10 + log10(1 + x) ^ 2 * (1 + 0.2 * sum(T)))%, where x is your current amount of gems and T the Building Tier Lightning Strike hits.</p></p>
 	<p><b>Note</b>: Lightning Strike can hit multiple tiers at once if you have C375 and/or Titan Perk 4.</p>
 		" coords="10,130,64,184" shape="rect">
 		<area href="#GrandBalance" research="
@@ -1072,7 +1072,7 @@
 <p><b>Cost</b>: 10 Dd (1e40), A1+ Free</p>
 <p><b>Challenge Upgrade</b>: <b><img src="http://musicfamily.org/realm/Factions/picks/ThunderstormChallengeReward.png" align="middle"> Thunderstorm</b> (R25+)</p>
 <p><b>Effect</b>: Further increase Faction Coin find chance from Lightning Strike based on building tiers it hits.</p>
-<p><b>Formula</b>: (10 + log10(1 + x) ^ 2 * (1 + 0.2 * sum(T)))%%, where x is your current amount of gems and T the Building Tier Lightning Strike hits.</p></p>
+<p><b>Formula</b>: (10 + log10(1 + x) ^ 2 * (1 + 0.2 * sum(T)))%, where x is your current amount of gems and T the Building Tier Lightning Strike hits.</p></p>
 <p><b>Note</b>: Lightning Strike can hit multiple tiers at once if you have C375 and/or Titan Perk 4.</p>
 <div class="shlisting">
 	<div class="shelementwhole">

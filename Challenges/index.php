@@ -211,7 +211,7 @@
 	<p>&quot;The goblin king wants a castle made of jewels all to himself.&quot;</p>
 	<p><b>Requirements</b>: Goblin as Base Faction, Reincarnation 18+, Goblin Unique Building.</p>
 	<p><b>Note</b>: Drow can <b>NOT</b> be used unless you can get Drow's Unique Building at R28+.</p>
-	<p><b>Challenge</b>: Have at least 1 B (1e9) gems in the abdication treasury while using Goblin Bloodline (post Ascension: 1 B (1e9) gems).</p>
+	<p><b>Challenge</b>: Have at least 1 Qavg (1e75) gems in the abdication treasury while using Goblin Bloodline (post Ascension: 1 B (1e9) gems).</p>
 	<p><b>Effect</b>: Increase production bonus from Gems by +0.01% for each upgrade purchased.</p>
 	<p><b>Upgrade</b>: Works with All</p>
 		" coords="184,338,238,392" shape="rect">
