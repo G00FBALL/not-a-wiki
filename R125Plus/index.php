@@ -4,8 +4,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
-<p style="color:red"><b>All Builds are outdated as of v4.0. Use the <a target="_blank" href="https://discord.gg/cq6zmQX"><b>Realm Grinder Discord</a> for build testing and crafting.</b></p>
-<br/>
 <div class="shlisting">
 	<br/>
 	<p><b>Production Builds R125-R130</b></p>
