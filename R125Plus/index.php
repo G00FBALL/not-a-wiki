@@ -4,6 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
+<br/>
 <div class="shlisting">
 	<br/>
 	<p><b>Production Builds R125-R130</b></p>
@@ -79,8 +80,31 @@
 				<p>E145,E410,</p>
 				<p>A50,A250,A495,</p>
 				<p>W225,W400,W560</p>
-				<p><b>Note</b>: Swap  Angelset with Dwarfset 1e65 (100 Vg) Gems+</p>
+				<p><b>Note</b>: Swap Angelset with Dwarfset 1e65 (100 Vg) Gems+</p>
 				<p><b>Note</b>: Swap C400 with C340 at 1e67 (10 Uvg) Gems or above.</p>
+			</div>
+		</div>
+    <div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Demons 1e72+ (1 Tvg)</a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: NecroXD</p>
+				<p><b>Range</b>: 1e72 (1 Tvg) Gems+</p>
+				<p><b>Requirement</b>: All Masks, LW Spell Trophy</p>
+				<p><b>Faction</b>: Demon</p>
+				<p><b>Bloodline</b>: Faceless/p>
+				<p><b>Artifact Set</b>: Demon</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S200,S435,C50,C400,D10,D560,D1375,E145,E230,E495,A25,A270,A410,W1,W175,W400,W405,W520,W590">
+				</p>
+				<p>S200,S435,</p>
+				<p>C50,C400,</p>
+				<p>D10,D560,D1375,</p>
+				<p>E145,E230,E495,</p>
+				<p>A25,A270,A410,</p>
+				<p>W1,W175,W400,W405,W520,W590</p>
+				<p><b>Note</b>: This build gets stronger the higher your evil time this R</p>
+				<p><b>Note</b>: If your DJ8 is targetting Hell portal you should not buy Infernal Realm</p>
 			</div>
 		</div>
 	</div>
@@ -500,7 +524,7 @@
 				<p><b>After Archon Treaty</b>: S3200,C340,D3350,E135,A545,W1275 (Reimport Build)</p>
 			</div>
 		</div>
-		<div class="shelementwhole">
+		<!--div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Goblin (AR1)</a></b> Need testing</p>
 			<div class="autohide">
 				<p><b>Author</b>: SomeoneLucas</p>
@@ -525,7 +549,7 @@
 				<p>W25,W205,W405,W520</p>
 				<p><b>Note</b>: Swap D1375 with D290 at 1e73 (10 Tvg) Gems+.</p>
 			</div>
-		</div>
+		</div-->
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin R130+ (AR1)</a></b></p>
 			<div class="autohide">
