@@ -104,7 +104,7 @@
 				<p>A25,A270,A410,</p>
 				<p>W1,W175,W400,W405,W520,W590</p>
 				<p><b>Note</b>: This build gets stronger the higher your evil time this R</p>
-				<p><b>Note</b>: If your DJ8 is targetting Hell portal you should not buy Infernal Realm</p>
+				<p><b>Note</b>: If your DJ8 is targeting Hell portal you should not buy Infernal Realm</p>
 			</div>
 		</div>
 	</div>
