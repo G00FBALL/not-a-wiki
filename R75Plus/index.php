@@ -416,6 +416,32 @@
 				<p><b>Note</b>: Benefits greatly from buffing TTC4, DM2 and FC3.</p>
 			</div>
 		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonflight (R95+)<font color="Blue"> Good</font></a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: kuerti</p>
+				<p><b>Requirement</b>: Veteran Figurine artifact, Primal Balance +10</p>
+				<p><b>Range</b>: 1e128 (100 Uqag) Gems - 1e138 (1 Qiqag) Gems</p>
+				<p><b>Faction</b>: Good Mercenary</p>
+				<p><b>Bloodline</b>: Dragon</p>
+				<p><b>A2950</b>: Elf</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL5,AN5,GB3,UD7,TT2,TT7,FC3,DN2,DN4,DW7,DG6,DG8,MA:EL7,SP:Grand Balance,SP:God's Hand,S305,S330,S1275,S1450,S1500,C225,C340,C590,C1300,C3000,D25,D525,D1275,D1375,D2775,E275,E350,E410,E1225,E3300,A105,A175,A1500,A2950,A3400,W10,W150,W1400,W3050,W3150">
+				</p>
+				<p>EL5,AN5,GB3,UD7,TT2,TT7,FC3,DN2,DN4,DW7,DG6,DG8,MA:EL7,</p>
+				<p>SP:Grand Balance,SP:God's Hand,</p>
+				<p>S305,S330,S1275,S1450,S1500,</p>
+				<p>C225,C340,C590,C1300,C3000,</p>
+				<p>D25,D525,D1275,D1375,D2775,</p>
+				<p>E275,E350,E410,E1225,E3300,</p>
+				<p>A105,A175,A1500,A2950,A3400,</p>
+				<p>W10,W150,W1400,W3050,W3150</p>
+				<p><b>Note</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Note</b>: C225, E410 and W10 requires E3300 purchased to become available.</p>
+				<p><b>Note</b>: Grower build, starts off slower than Toward the Unknown but becomes stronger over time.</p>
+			</div>
+		</div>
 	</div>
 	<br/>
 	<p><b>Special Builds</b></p>
@@ -539,6 +565,36 @@
 				<p><b>Note</b>: Estimated 2-3 (?) hours for Primal Balance +10.</p>
 			</div>
 		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Relics of Amanalgamation (Primal Balance & TTC4 Buff) (R82+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: Lapare</p>
+				<p><b>Range</b>: ?</p>
+				<p><b>Faction</b>: Neutral Mercenary</p>
+				<p><b>Bloodline</b>: Dwarf</p>
+				<p><b>A2950</b>: Dragon</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL7,GB3,UD7,DD4,DD6,FC2,FC3,DN2,DN4,DW7,DG6,DG7,SP:Lightning Strike,SP:Dragon's Breath,S400,S500,S1450,S1500,C400,C590,C1300,C3000,D275,D290,D1125,D3350,E135,E320,E1225,E3300,A120,A1500,A2950,A3400,W275,W400,W1400,W3150">
+				</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL7,GB3,UD7,DD4,DD6,FC2,FC3,DN2,DN4,DW7,DG6,DG7,SP:Lightning Strike,SP:Dragon's Breath,S305,S400,S500,S1450,S1500,C340,C400,C590,C1300,C3000,D275,D290,D1125,D2775,D3350,E135,E320,E1225,E1425,E3300,A120,A305,A1500,A2950,A3400,W275,W400,W1400,W3050,W3150">
+					<b>R90+</b>
+				</p>
+				<p>EL7,GB3,UD7,DD4,DD6,FC2,FC3,DN2,DN4,DW7,DG6,DG7,</p>
+				<p>SP:Lightning Strike,SP:Dragon's Breath,</p>
+				<p>S400,S500,S1450,S1500,</p>
+				<p>C400,C590,C1300,C3000,</p>
+				<p>D275,D290,D1125,D3350,</p>
+				<p>E135,E320,E1225,E3300,</p>
+				<p>A120,A1500,A2950,A3400,</p>
+				<p>W275,W400,W1400,W3150</p>
+				<p><b>Note</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Note</b>: For R90+ add S305,C340,D2775,E1425,A305,W3050.</p>
+				<p><b>Note</b>: Estimated 10 minutes for Primal Balance +10 at R90+.</p>
+			</div>
+		</div>
 	</div>
 	<br/>
 	<p><b>Lineage Builds</b></p>
@@ -625,6 +681,30 @@
 				<p><b>Note</b>: Always select the same lineage as your Bloodline, not A2950.</p>
 				<p><b>Note</b>: Level Fairy Lineage up to at least L30 first before running this build.</p>
 				<p><b>Note</b>: For Dragon Lineage swap Dragon's Breath->God's Hand and pick A2950: Elf instead.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Echoes of the Past (Lineages L34) (R90+)<font color="DarkRed"> Evil</font></a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: Lapare</p>
+				<p><b>Range</b>: ? Gems</p>
+				<p><b>Faction</b>: Evil Mercenary</p>
+				<p><b>Bloodline</b>: Any (Titan first)</p>
+				<p><b>A2950</b>: Elf</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL1,EL4,EL7,AN5,GB3,UD7,TT7,DD3,FC3,DG6,DG7,DN4,MA:DW7,SP:Fairy Chanting,SP:Dragon's Breath,S50,S200,S305,S1450,S1500,C250,C375,C400,C590,C1300,D200,D290,D330,D2775,D3350,E135,E320,E1225,E3250,E3300,A120,A270,A1500,A2950,A3400,W205,W275,W400,W1375,W1400">
+				</p>
+				<p>EL1,EL4,EL7,AN5,GB3,UD7,TT7,DD3,FC3,DG6,DG7,DN4,MA:DW7,</p>
+				<p>SP:Fairy Chanting,SP:Dragon's Breath,</p>
+				<p>S50,S200,S305,S1450,S1500,</p>
+				<p>C250,C375,C400,C590,C1300,</p>
+				<p>D200,D290,D330,D2775,D3350,</p>
+				<p>E135,E320,E1225,E3250,E3300,</p>
+				<p>A120,A270,A1500,A2950,A3400,</p>
+				<p>W205,W275,W400,W1375,W1400</p>
+				<p><b>Note</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Note</b>: For Elf lineage use Dragon A2950.</p>
 			</div>
 		</div>
 	</div>
