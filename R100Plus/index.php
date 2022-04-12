@@ -179,7 +179,7 @@
 			</div>
 		</div>
 		<br/>
-		<p style="color:blue"><b>All Builds below have not been updated since 3.8, most of them still work, but be aware.</b></p>
+		<p style="color:blue"><b>All Builds below have not been updated since 3.8, most of them still work, but be aware. Anything without a build is either easy to get, or is an artifact that just requires a tiny sv.</b></p>
 		<p><b>Unique Building 2 Quest Unlock</b></p>
 		<div class="category">
 			<div class="shelementwhole">

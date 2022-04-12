@@ -31,10 +31,10 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e33 (1 Dc) - 1e69 (1 Dvg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e33 (1 Dc) - 1e50 (100 Qid)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Enstaffahn, Rellikrellik</p>
-				<p><b>Range</b>: 1e33 (1 Dc) 1e33 (1 Dc) - 1e69 (1 Dvg) Gems</p>
+				<p><b>Range</b>: 1e33 (1 Dc) 1e33 (1 Dc) - 1e50 (100 Qid) Gems</p>
 				<p><b>Requirements:</b> All Masks</p>
 				<p><b>Faction</b>: Elf</p>
 				<p><b>Bloodline</b>: Faceless</p>
@@ -58,22 +58,22 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels 1e69 (1 Dvg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e50 (100 Qid) - 1e72 (1 Tvg)</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Rellikrellik, liminal.shadow</p>
-				<p><b>Range</b>: 1e69 (1 Dvg) Gems+</p>
-				<p><b>Requirement</b>: All Masks, Primal Balance +10</p>
+				<p><b>Author</b>: ensteffahn, Chris</p>
+				<p><b>Range</b>: 1e50 (100 Qid) - 1e72 (1 Tvg) Gems</p>
+				<p><b>Requirement</b>: All Masks</p>
 				<p><b>Faction</b>: Angel</p>
-				<p><b>Bloodline</b>: Druid</p>
-				<p><b>Artifact Set</b>: Elf</p>
+				<p><b>Bloodline</b>: Dragon</p>
+				<p><b>Artifact Set</b>: Angel, Dwarf (1e65 (100 Vg) Gems+)</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E145,E410,A50,A250,A495,W225,W400,W560">
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E145,E410,A50,A120,A495,W225,W400,W560">
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C340,C405,C520,D1,D175,D435,D590,D1375,E320,E410,A50,A250,A495,W225,W400,W560">
-					<b>1e72 (1 Tvg) Gems+</b>
+					<input type="text" value="S10,S3200,C25,C340,C405,C520,D1,D175,D435,D590,D1375,E145,E410,A50,A120,A495,W225,W400,W560">
+					<b>1e67 (10 Uvg) Gems+</b>
 				</p>
 				<p>S10,S3200,</p>
 				<p>C25,C400,C405,C520,</p>
@@ -81,8 +81,8 @@
 				<p>E145,E410,</p>
 				<p>A50,A250,A495,</p>
 				<p>W225,W400,W560</p>
-				<p><b>Note</b>: Takes estimated time of 15-25 minutes to buy Spiritual Surge 7 and set up the build at first few runs of an R.</p>
-				<p><b>Note</b>: Swap E145 with E320 and C400 with C340 at 1e72 (1 Tvg) Gems or above.</p>
+				<p><b>Note</b>: Swap  Angelset with Dwarfset 1e65 (100 Vg) Gems+</p>
+				<p><b>Note</b>: Swap C400 with C340 at 1e67 (10 Uvg) Gems or above.</p>
 			</div>
 		</div>
 	</div>
@@ -356,10 +356,10 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e33 (1 Dc) - 1e69 (1 Dvg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e33 (1 Dc) - 1e50 (100 Qid)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Enstaffahn, Rellikrellik</p>
-				<p><b>Range</b>: 1e33 (1 Dc) Gems - 1e69 (1 Dvg) Gems</p>
+				<p><b>Range</b>: 1e33 (1 Dc) Gems - 1e50 (100 Qid) Gems</p>
 				<p><b>Faction</b>: Elf</p>
 				<p><b>Bloodline</b>: Faceless</p>
 				<p><b>Artifact Set</b>: Elf</p>
@@ -382,72 +382,32 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels 1e69 (1 Dvg) - 1e83 (100 Sxvg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e50+ (1 Dvg) </a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Sad</p>
-				<p><b>Range</b>: 1e69 (1 Dvg) Gems - 1e83 (100 Sxvg) Gems</p>
+				<p><b>Author</b>: Pent</p>
+				<p><b>Range</b>: 1e50 (100 Qid) Gems+</p>
 				<p><b>Faction</b>: Angel</p>
-				<p><b>Bloodline</b>: Druid</p>
-				<p><b>Artifact Set</b>: Elf</p>
+				<p><b>Bloodline</b>: Dragon</p>
+				<p><b>Artifact Set</b>: Angel, Dwarf(1e65 (100 Vg) Gems+</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D290,E145,E410,A50,A400,A495,W225,W560,W1375,S305,C340,D1375,E135,A250,W400">
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D290,E135,E410,A50,A400,A495,W225,W560,W180,S330,C340,D1375,E145,A120,W400">
+				</p>
+        <p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D290,E320,E410,A50,A400,A495,W225,W560,W1375,S200,C340,D1375,E145,A120,W180">
+          <b>1e86 (100 Spvg) gems+</b>
 				</p>
 				<p>S10,S3200,</p>
 				<p>C25,C400,C405,C520,</p>
 				<p>D1,D175,D435,D590,D290,</p>
-				<p>E145,E410,</p>
-				<p>A50,A400,A495,</p>
-				<p>W225,W560,W1375</p>
-				<p><b>After Archon treaty</b>: S305,C340,D1375,E135,A250,W400 (Reimport build)</p>
-				<p><b>Note</b>: Recommended buffing Excavations/Excavation Resets.</p>
-				<p><b>Note</b>: Build is not able to buy Archon Union.</p>
-			</div>
-		</div>
-		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e83 (100 Sxvg) - 1e90 (1 Novg) Gems</a></b></p>
-			<div class="autohide">
-				<p><b>Author</b>: Ensteffahn, Wolfsblood</p>
-				<p><b>Range</b>: 1e83 (100 Sxvg) Gems - 1e90 (1 Novg) Gems</p>
-				<p><b>Faction</b>: Angel</p>
-				<p><b>Bloodline</b>: Dragon</p>
-				<p><b>Artifact Set</b>: Elf</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E135,E410,A50,A400,A495,W225,W400,W560,S330,C340,D1375,E400,A120,W180">
-				</p>
-				<p>S10,S3200,</p>
-				<p>C25,C400,C405,C520,</p>
-				<p>D1,D175,D290,D435,D590,</p>
 				<p>E135,E410,</p>
 				<p>A50,A400,A495,</p>
-				<p>W225,W400,W560</p>
-				<p><b>After Archon treaty</b>: S330,C340,D1375,E400,A120,W180 (Reimport build)</p>
-				<p><b>Note</b>: Recommended buffing Elf set (2000%+) and Excavations/Excavation Resets.</p>
-				<p><b>Note</b>: Build is oriented for production and is not meant to buy Archon Union.</p>
-			</div>
-		</div>
-		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e90 (1 Novg) Gems+</a></b></p>
-			<div class="autohide">
-				<p><b>Author</b>: Ensteffahn, Wolfsblood</p>
-				<p><b>Range</b>: 1e90 (1 Novg) Gems+</p>
-				<p><b>Faction</b>: Angel</p>
-				<p><b>Bloodline</b>: Dragon</p>
-				<p><b>Artifact Set</b>: Dwarf</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E145,E410,A50,A400,A495,W225,W400,W560,S330,C340,D1375,E400,A120,W1375">
-				</p>
-				<p>S10,S3200,</p>
-				<p>C25,C400,C405,C520,</p>
-				<p>D1,D175,D290,D435,D590,</p>
-				<p>E145,E410,</p>
-				<p>A50,A400,A495,</p>
-				<p>W225,W400,W560</p>
-				<p><b>After Archon treaty</b>: S330,C340,D1375,E400,A120,W1375 (Reimport build)</p>
-				<p><b>Note</b>: Recommended buffing Excavations/Excavation Resets.</p>
-				<p><b>Note</b>: Build is oriented around buying Archon Union.</p>
+				<p>W180,W225,W560</p>
+				<p><b>After Archon treaty</b>: S305,C340,D1375,E145,A120,W400 (Reimport build)</p>
+				<p><b>Note</b>: Buff Excavations/Excavation resets (20 Resets at e68,Buff again at e77 to 30 Resets) Buffing AR1 to at least 8000% is recommended.</p>
+				<p><b>Note</b>: Swap E135 with E320, W180 with W1375, W400 with W180, and S330 with S200 at e86 (100 Spvg) gems+ to buy union.</p>
+        <p><b>Note</b>: The first run of the R will be slower and archon treaty will take around 5-10 minutes to purchase. Subsequent runs won't suffer this problem.</p>
 			</div>
 		</div>
 	</div>
@@ -650,29 +610,24 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Undead R130+ (Excavations/Excavation Resets)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Makersline Angel R130+ (Excavations/Excavation Resets)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Wolfsblood</p>
-				<p><b>Range</b>: 1e85 (10 Spvg) Gems+</p>
-				<p><b>Faction</b>: Undead</p>
+				<p><b>Range</b>: 1e68 (100 Uvg) Gems+</p>
+				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Makers</p>
-				<p><b>Artifact Set</b>: Undead</p>
+				<p><b>Artifact Set</b>: Dwarf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S225,S435,S3200,S305,C400,C340,D25,D560,D290,D1375,E10,E495,E400,E290,A1,A175,A410,A590,A400,A120,W50,W405,W520,W205,W525">
+					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D290,D435,D590,E135,E410,A50,A400,A495,W225,W560,W1375,S200,C340,D1375,E290,A120,W180">
 				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S225,S435,S3200,S305,C400,C340,D25,D560,D290,D1375,E10,E495,E400,E290,A1,A175,A410,A590,A400,A120,W50,W405,W520,W205,W180">
-					<b>1e88 (10 Ocvg) Gems+</b>
-				</p>
-				<p>S225,S435,S3200,S305,</p>
-				<p>C400,C340,</p>
-				<p>D25,D560,D290,D1375,</p>
-				<p>E10,E495,E400,E290,</p>
-				<p>A1,A175,A410,A590,A400,A120,</p>
-				<p>W50,W405,W520,W205,W525</p>
-				<p><b>Note</b>: Swap W525 with W180 at 1e88 (10 Ocvg) Gems+.</p>
+				<p>S10,S3200,</p>
+				<p>C25,C400,C405,C520,</p>
+				<p>D1,D175,D290,D435,D590,</p>
+				<p>E135,E410,</p>
+				<p>A50,A400,A495,</p>
+				<p>W225,W560,W1375</p>
+        <p><b>After Archon treaty</b>: S200,C340,D1375,E290,A120,W180 (Reimport build)</p>
 			</div>
 		</div>
 	</div>

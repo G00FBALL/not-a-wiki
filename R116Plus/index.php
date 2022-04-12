@@ -30,32 +30,25 @@
 					<p><b>Note</b>: Profits from manual clicking.</p>
 				</div>
 			</div>
-			<br/>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Goblinline Elves 1e36 (1 Ud) - 1e50 (100 Qid)</a></b></p>
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Facelessline Elves 1e36 (1 Ud) - 1e50 (100 Qid)</a></b></p>
 				<div class="autohide">
-					<p><b>Author</b>: Sad, Wolfsblood</p>
+					<p><b>Author</b>: Ensteffahn and RellikRellik, minorly adjusted by Pent</p>
 					<p><b>Range</b>: 1e36 (1 Ud) Gems - 1e50 (100 Qid) Gems</p>
 					<p><b>Faction</b>: Elf</p>
-					<p><b>Bloodline</b>: Goblin</p>
+					<p><b>Bloodline</b>: Faceless</p>
 					<p><b>Artifact Set</b>: Dwarf</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D290,E25,E410,E3250,A495,A3400,W10,W560,W1375">
-					</p>
-					<p>
-						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="S175,S400,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E400,E410,A495,A3400,W10,W560,W1375">
-						<b>1e45 gems+</b>
+						<input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A495,A3400,W10,W560,W1375">
 					</p>
 					<p>S175,S3200,</p>
 					<p>C1,C225,C340,C405,C520,C590,</p>
-					<p>D50,D435,D290,</p>
-					<p>E25,E410,E3250,</p>
+					<p>D50,D435,D1375,</p>
+					<p>E25,E145,E410,</p>
 					<p>A495,A3400,</p>
 					<p>W10,W560,W1375</p>
 					<p><b>Note</b>: Profits from manual clicking.</p>
-					<p><b>Note</b>: At 1e45 (1 Qad) Gems and S400 of ~25000+, swap to S400, D1375 and E400.</p>  
 				</div>
 			</div>
 			<div class="shelementwhole">
@@ -71,58 +64,7 @@
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E145,E410,A50,A120,A495,W180,W225,W560">
 				</p>
-				<p>S10,S3200,</p>
-				<p>C25,C400,C405,C520,</p>
-				<p>D1,D175,D435,D590,D1375,</p>
-				<p>E145,E410,</p>
-				<p>A50,A120,A495,</p>
-				<p>W180,W225,W560</p>
-				<p><b>Note</b>: Can take a little to build up. Runs can take ~2h close to reincarnation amount of gems</p>
-			</div>
-		</div>
-		<br/>
-		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R121+ Facelessline Elves 1e33 (1 Dc) - 1e60 (1 Nod)</a></b></p>
-			<div class="autohide">
-				<p><b>Author</b>: ensteffahn, rellikrellik</p>
-				<p><b>Range</b>: 1e33 (1 Dc) 1e33 (1 Dc) - 1e60 (1 Nod) Gems</p>
-				<p><b>Requirement</b>: All Advanced Heritages</p>
-				<p><b>Faction</b>: Elf</p>
-				<p><b>Bloodline</b>: Faceless</p>
-				<p><b>Artifact Set</b>: Dwarf</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E400,E410,A495,A3400,W10,W560,W1375">
-				</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A495,A3400,W10,W560,W1375">
-					<b>long run</b>
-				</p>
-				<p>S175,S3200,</p>
-				<p>C1,C225,C340,C405,C520,C590,</p>
-				<p>D50,D435,D1375,</p>
-				<p>E25,E400,E410,</p>
-				<p>A495,A3400,</p>
-				<p>W10,W560,W1375</p>
-				<p><b>Note</b>: Profits from manual clicking.</p>
-				<p><b>Note</b>: At longer runs (1 hour +), swap to E145.</p>
-			</div>
-		</div>
-		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R121+ Dragonline Angel 1e60 (1 Nod)+</a></b></p>
-			<div class="autohide">
-				<p><b>Author</b>: ensteffahn</p>
-				<p><b>Range</b>: 1e60 (1 Nod) Gems+</p>
-				<p><b>Recomendation</b>: Uniformity and TTC4 buffs (100%+ and 400%+ at least)</p>
-				<p><b>Faction</b>: Angel</p>
-				<p><b>Bloodline</b>: Dragon</p>
-				<p><b>Artifact Set</b>: Angel</p>
-				<p>
-					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E145,E410,A50,A120,A495,W180,W225,W560">
-				</p>
-				<p>
+        <p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="S10,S3200,C25,C340,C405,C520,D1,D175,D435,D590,D1375,E145,E410,A50,A120,A495,W180,W225,W560">
 					<b>1e67 (10 Uvg)+</b>
@@ -133,12 +75,11 @@
 				<p>E145,E410,</p>
 				<p>A50,A120,A495,</p>
 				<p>W180,W225,W560</p>
-				<p><b>Note</b>: 1e65 (100 Vg) switch from Angel set to Dwarf set</p>
+				<p><b>Note</b>: Can take a little to build up. Runs can take ~2h close to reincarnation amount of gems</p>
+        <p><b>Note</b>: 1e65 (100 Vg) switch from Angel set to Dwarf set</p>
 				<p><b>Note</b>: 1e67 (10 Uvg) switch C400 to C340</p>
 			</div>
 		</div>
-	</div>
-	<br/>
 	<p><b>Artifact Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
@@ -298,6 +239,31 @@
 	<p><b>Lineage level 30 Builds R120+</b></p>
 	<p><b>Note</b>: Start with Dragonline and go from there</p>
 	<div class="category">
+    <div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless lineage leveler (L30) (for all but Facelessline and Dragonline)</a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: Xantcha</p>
+				<p><b>Range</b>: 7e61+ (10 Nod) Gems+</p>
+				<p><b>Requirements</b>: Future Linkin, Ancestral Hourglass, Any L30 Lineage,</p>
+				<p><b>Faction</b>: Faceless</p>
+				<p><b>Bloodline</b>: Any except for Faceless and Dragons</p>
+				<p><b>Artifact Set</b>: Matching bloodline set for FC bonus</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S251,S375,S1450,S1500,S3200,C400,C1300,D260,D1125,D1375,E320,E350,E1225,A300,A1200,A3400,W275,W1375,W1400">
+				</p>
+				<p>S251,S375,S1450,S1500,S3200,</p>
+				<p>C400,C1300,</p>
+				<p>D260,D1125,D1375,</p>
+				<p>E320,E350,E1125,</p>
+				<p>A300,A1200,A3400,</p>
+				<p>W275,W1375,W1400</p>
+        <p><b>Note</b>: Requires a L30 lineage, use dragonline Goblin (will take a while).</p>
+				<p><b>Note</b>: Run Dragonline Undead build to buff Max Assistants, takes around 20m to afford DW12.</p>
+        <p><b>Note</b>: Performs well for Elven and Drow (less than 30min); Dwarven (~40min); Fairy, Goblin (both 10m); Undead, Titan (~5min). Might be faster depending on your stats.</p>
+        <p><b>Note</b>: Compared to other two builds, this one is faster for leveling DN and EL. If you're using an autoclicker, then DW is faster with the Elven build. Unsure about AN, DM, DD.</p>
+			</div>
+		</div>
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblin lineage leveler (L30) (for all but goblin and drowline)</a></b></p>
 			<div class="autohide">
