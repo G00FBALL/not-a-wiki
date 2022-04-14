@@ -402,7 +402,7 @@
 			" coords="183,183,237,237" shape="rect">
 			<area research="
 			<p><b>Easter 2022</b></p>
-			<p><b><img src='/realm/Factions/picks/Colorful.png' align='middle'> Colorful</b></p>
+			<p><b><img src='/realm/Factions/picks/Colorfull.png' align='middle'> Colorfull</b></p>
 			<p><b>Type</b>: Feat</p>					
 			<p><b>Requirement</b>: Collect a stack of at least 720 Eggs while Fairy Chanting is active.</p>
 			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new icon option for the spell.</p>
@@ -1010,7 +1010,7 @@
 					<p><b>Effect</b>: Increase offline production by 100%.</p></p>
 					<p><b>Note</b>: Upgrade only available during seasonal events.</p>
 					<br/>
-					<p><b><img src='/realm/Factions/picks/Colorful.png' align='middle'> Colorful</b></p>
+					<p><b><img src='/realm/Factions/picks/Colorfull.png' align='middle'> Colorfull</b></p>
 					<p><b>Kind</b>: Feat</p>					
 					<p><b>Requirement</b>: Collect a stack of at least 720 Eggs while Fairy Chanting is active.</p>
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new icon option for the spell.</p>
