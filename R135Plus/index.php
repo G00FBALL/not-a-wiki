@@ -124,11 +124,11 @@
 			</div>
 		</div> -->
     <div class="shelementwhole">
-      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Angels (R140+) 1e50 (100 Qid) - 1e86 (100 Tg)</a></b></p>
+      <p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Angels (R140+) 1e50 (100 Qid) - 1e67 (10 Uvg)</a></b></p>
       <div class="autohide">
         <p><b>Author</b>: Ximane</p>
         <p><b>Requirement</b>: Archon Challenge 1</p>
-        <p><b>Range</b>: 1e50 (100 Qid) - 1e95 (100 Tg) Gems</p>
+        <p><b>Range</b>: 1e50 (100 Qid) - 1e67 (10 Uvg) Gems</p>
         <p><b>Faction</b>: Angel</p>
         <p><b>Bloodline</b>: Faceless</p>
         <p><b>Artifact Set</b>: Dwarf</p>
@@ -147,11 +147,11 @@
       </div>
     </div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e86 (100 Spvg) - 1e95 (100 Tg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels 1e67 (10 Uvg) - 1e95 (100 Tg)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Wolfsblood, Pent</p>
 				<p><b>Requirement</b>: Archon Challenge 1</p>
-				<p><b>Range</b>: 1e86 (100 Spvg) - 1e95 (100 Tg) Gems</p>
+				<p><b>Range</b>: 1e67 (10 Uvg) - 1e95 (100 Tg) Gems</p>
         <p><b>Range (R154+, All Challenges Completed)</b>: 1e86 (100 Spvg) - 1e115 (10 Sptg) Gems</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Dragon</p>

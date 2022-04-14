@@ -80,6 +80,7 @@
 				<p><b>Note</b>: 1e67 (10 Uvg) switch C400 to C340</p>
 			</div>
 		</div>
+	</div>
 	<p><b>Artifact Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">
