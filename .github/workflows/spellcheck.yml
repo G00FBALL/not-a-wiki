@@ -13,4 +13,4 @@ jobs:
         with:
           check_filenames: true
           skip: "./WallofShame/index.php"
-          ignore_words_list: "sting,fanatism,restauration,ded,rade,gud,nd,calss"
+          ignore_words_list: "colorfull,sting,fanatism,restauration,ded,rade,gud,nd,calss"
