@@ -78,7 +78,7 @@
 				<p>C25,C400,C405,C520,</p>
 				<p>D1,D175,D435,D590,D1375,</p>
 				<p>E145,E410,</p>
-				<p>A50,A250,A495,</p>
+				<p>A50,A120,A495,</p>
 				<p>W225,W400,W560</p>
 				<p><b>Note</b>: Swap Angelset with Dwarfset 1e65 (100 Vg) Gems+</p>
 				<p><b>Note</b>: Swap C400 with C340 at 1e67 (10 Uvg) Gems or above.</p>
@@ -91,7 +91,7 @@
 				<p><b>Range</b>: 1e72 (1 Tvg) Gems+</p>
 				<p><b>Requirement</b>: All Masks, LW Spell Trophy</p>
 				<p><b>Faction</b>: Demon</p>
-				<p><b>Bloodline</b>: Faceless/p>
+				<p><b>Bloodline</b>: Faceless</p>
 				<p><b>Artifact Set</b>: Demon</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
@@ -103,8 +103,8 @@
 				<p>E145,E230,E495,</p>
 				<p>A25,A270,A410,</p>
 				<p>W1,W175,W400,W405,W520,W590</p>
-				<p><b>Note</b>: This build gets stronger the higher your evil time this R</p>
-				<p><b>Note</b>: If your DJ8 is targeting Hell portal you should not buy Infernal Realm</p>
+				<p><b>Note</b>: This build gets stronger the higher your evil time this R.</p>
+				<p><b>Note</b>: If your DJ8 is targeting Hell portal you should not buy Infernal Realm.</p>
 			</div>
 		</div>
 	</div>
