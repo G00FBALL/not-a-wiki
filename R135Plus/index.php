@@ -1014,11 +1014,11 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Titan (Max Royal Exchanges, AR1)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: YBGnome</p>
+        <p><b>Requirement</b>: Archon Challenge 3</p>
 				<p><b>Range</b>: 1e77 (1 Dvg) Gems+</p>
 				<p><b>Faction</b>: Titan</p>
 				<p><b>Bloodline</b>: Goblin</p>
-				<p><b>Artifact Set</b>: Faceless</p>
-				<p><b>Stoneheart Set (R148+, MKC4)</b>: Dwarf, Faceless if buffed</p>
+				<p><b>Artifact Set</b>: Dwarf, Faceless if buffed</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
 					<input type="text" value="S300,S1450,S3200,C251,C375,C400,C1300,C1500,D290,D350,D1125,E275,E1225,E1425,A400,A1200,W260,W1375,W1400,S200,C250,D200,E1325,A3400,W1275">
