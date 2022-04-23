@@ -139,7 +139,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">DGC2 unlock (R55+)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Cyden</p>
-				<p><b>Requriement</b>: Research A400</p>
+				<p><b>Requirement</b>: Research A400</p>
 				<p><b>Range</b>: 1e44+ gems</p>
 				<p><b>Faction</b>: Druid/Dragon</p>
 				<p><b>Bloodline</b>: Dragon</p>
