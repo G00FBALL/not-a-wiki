@@ -426,7 +426,7 @@
 				<p>E135,E410,</p>
 				<p>A50,A400,A495,</p>
 				<p>W180,W225,W560</p>
-				<p><b>After Archon treaty</b>: S305,C340,D1375,E145,A120,W400 (Reimport build)</p>
+				<p><b>After Archon treaty</b>: S330,C340,D1375,E145,A120,W400 (Reimport build)</p>
 				<p><b>Note</b>: Buff Excavations/Excavation resets (20 Resets at e68,Buff again at e77 to 30 Resets) Buffing AR1 to at least 8000% is recommended.</p>
 				<p><b>Note</b>: Swap E135 with E320, W180 with W1375, W400 with W180, and S330 with S200 at e86 (100 Spvg) gems+ to buy union.</p>
         <p><b>Note</b>: The first run of the R will be slower and archon treaty will take around 5-10 minutes to purchase. Subsequent runs won't suffer this problem.</p>
