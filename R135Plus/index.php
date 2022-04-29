@@ -349,7 +349,7 @@
 						<p>E1,E225,E320,E495,E590,</p>
 						<p>A10,A410,A3400,</p>
 						<p>W25,W205,W405,W520</p>
-						<p><b>Note</b>: Buff Max Assistants (3e14 (300 T)+) with Dragonline Undead (Max Assistants) build first with Archon Challenge 2 unlocked.</p>
+						<p><b>Note</b>: Buff Max Assistants (2.5e15 (2.5 Qa)+) with Dragonline Undead (Max Assistants) build first with Archon Challenge 2 unlocked.</p>
 						<p><b>Note</b>: Buff S400 (200,000+) with Dragonline Goblins (Spell Casts) build.</p>
 						<p><b>Note</b>: Buff Clicks (1e7 (10 M)+) with Djinnline Elves (Clicks) build.</p>
 						<p><b>Note</b>: Estimated time to completion is 2 hours.</p>
