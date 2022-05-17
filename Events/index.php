@@ -61,7 +61,7 @@
 				<tr>
 					<th>Rubies</th>
 					<th colspan="1">Event</th>
-					<th colspan="8">Total Cumulative Bonus: 454%</th>
+					<th colspan="8">Total Cumulative Bonus: 462%</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -119,6 +119,7 @@
 						<td>Anniversary</td>
 						<td></td>
 						<td></td>
+						<td>8%</td>
 						<td>8%</td>
 						<td>8%</td>
 						<td>8%</td>
@@ -592,32 +593,39 @@
 			" coords="3,423,57,477" shape="rect">
 			<area research="
 			<p><b>Anniversary - Blood War</b></p>
+			<p><b><img src='/realm/Factions/picks/PlanarTax.png' align='middle'> Planar Tax</b></p>
+			<p><b>Type</b>: Feat</p>					
+			<p><b>Requirement</b>: Collect a stack of at least 720 of any resource in a game with at least 1000 Tax Collection casts.</p>
+			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new icon option for the spell.</p>
+			" coords="63,423,117,477" shape="rect">
+			<area research="
+			<p><b>Anniversary - Blood War</b></p>
 			<p><b><img src='/realm/Factions/picks/EternalBattle.png' align='middle'> Eternal Battle</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Collect a stack of at least 720 of any resource while having 3 upgrades of any Blood War faction.</p>
 			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
-			" coords="63,423,117,477" shape="rect">
+			" coords="123,423,177,477" shape="rect">
 			<area research="
 			<p><b>Goblin Invasion</b></p>
 			<p><b><img src='/realm/Factions/picks/GoblinsBane2017.png' align='middle'> Goblins Bane</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Fight the Goblin Army 100 times.</p>
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-			" coords="123,423,177,477" shape="rect">
+			" coords="183,423,237,477" shape="rect">
 			<area research="
 			<p><b>Goblin Invasion</b></p>
 			<p><b><img src='/realm/Factions/picks/GoblinsCommander2017.png' align='middle'> Goblin's Commander</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Support the Goblin Army 100 times.</p>
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-			" coords="183,423,237,477" shape="rect">
+			" coords="243,423,297,477" shape="rect">
 			<area research="
 			<p><b>Goblin Invasion</b></p>
 			<p><b><img src='/realm/Factions/picks/GoblinsEverywhere!2017.png' align='middle'> Goblins Everywhere!</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.</p>
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-			" coords="243,423,297,477" shape="rect">
+			" coords="303,423,357,477" shape="rect">
 			<area research="
 			<p><b>Goblin Invasion</b></p>
 			<p><b><img src='/realm/Factions/picks/GoldHunt2018.png' align='middle'> Gold Hunt</b></p>
@@ -625,7 +633,7 @@
 			<p><b>Requirement</b>: Collect at least 480 Goblin Crowns with a single click while affiliated with Goblins.</p>
 			<p><b>Note</b>: As prestige, only prestige will count. For example, Angel/Dwarven counts as Dwarven for feat purposes.</p>
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-			" coords="303,423,357,477" shape="rect">
+			" coords="363,423,417,477" shape="rect">
 			<area research="
 			<p><b>Goblin Invasion</b></p>
 			<p><b><img src='/realm/Factions/picks/TheUndecidedArmada.png' align='middle'> The Undecided Armada</b></p>
@@ -635,14 +643,14 @@
 			<p><b>Effect</b>: Increase assistants based on the amount of buildings you own (multiplicative).</p>
 			<p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is the amount of buildings you own.</p>
 			<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
-			" coords="363,423,417,477" shape="rect">
+			" coords="3,483,57,537" shape="rect">
 			<area research="
 			<p><b>Goblin Invasion</b></p>
 			<p><b><img src='/realm/Factions/picks/PlatinumTrophy.png' align='middle'> Platinum Trophy</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: While affiliated with the Goblins and having supported the Army at least 70 times, collect a stack of at least 720 Goblin Crowns.</p>
 			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
-			" coords="3,483,57,537" shape="rect">
+			" coords="63,483,117,537" shape="rect">
 			<area research="
 			<p><b>Goblin Invasion</b></p>
 			<p><b><img src='/realm/Factions/picks/BloodyCrown.png' align='middle'> Bloody Crown</b></p>
@@ -651,56 +659,56 @@
 			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 			<p><b>Effect</b>: Increase production bonus from Gems by a multiplicative 10%.</p>
 			<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
-			" coords="63,483,117,537" shape="rect">
+			" coords="123,483,177,537" shape="rect">
 			<area research="
 			<p><b>Idillium</b></p>
 			<p><b><img src='/realm/Factions/picks/GentleCollector.png' align='middle'> Gentle Collector</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Collect at least 720 Entropic Drops with a single click while affiliated with the Fairies.</p>
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-			" coords="123,483,177,537" shape="rect">
+			" coords="183,483,237,537" shape="rect">
 			<area research="
 			<p><b>Idillium</b></p>
 			<p><b><img src='/realm/Factions/picks/AggressiveCollector.png' align='middle'> Aggressive Collector</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Collect at least 720 Crystal Prisms with a single click while affiliated with the Undead.</p>
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-			" coords="183,483,237,537" shape="rect">
+			" coords="243,483,297,537" shape="rect">
 			<area research="
 			<p><b>Idillium</b></p>
 			<p><b><img src='/realm/Factions/picks/GoldenAge.png' align='middle'> Golden Age</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Cast Remnant spells at least 1000 times.</p>
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-			" coords="243,483,297,537" shape="rect">
+			" coords="303,483,357,537" shape="rect">
 			<area research="
 			<p><b>Idillium</b></p>
 			<p><b><img src='/realm/Factions/picks/OrderRestoration.png' align='middle'> Order Restoration</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Upgrade Order Remnant to Level 15.</p>
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-			" coords="303,483,357,537" shape="rect">
+			" coords="363,483,417,537" shape="rect">
 			<area research="
 			<p><b>Idillium</b></p>
 			<p><b><img src='/realm/Factions/picks/ChaosRestoration.png' align='middle'> Chaos Restoration</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Upgrade Chaos Remnant to Level 15.</p>
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-			" coords="363,483,417,537" shape="rect">
+			" coords="3,543,57,597" shape="rect">
 			<area research="
 			<p><b>Idillium</b></p>
 			<p><b><img src='/realm/Factions/picks/BalanceRestoration.png' align='middle'> Balance Restoration</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Upgrade Balance Remnant to Level 15.</p>
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-			" coords="3,543,57,597" shape="rect">
+			" coords="63,543,117,597" shape="rect">
 			<area research="
 			<p><b>Idillium</b></p>
 			<p><b><img src='/realm/Factions/picks/BalancedCollector.png' align='middle'> Balanced Collector</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: While affiliated with the Druids, collect a stack of at least 720 Equilibrium Fragments.</p>
 			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
-			" coords="63,543,117,597" shape="rect">
+			" coords="123,543,177,597" shape="rect">
 			<area research="
 			<p><b>Idillium</b></p>
 			<p><b><img src='/realm/Factions/picks/IdilliumExplorer.png' align='middle'> Idillium Explorer</b></p>
@@ -709,9 +717,9 @@
 			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 			<p><b>Effect</b>: Reduce the cost of all spells by 10%.</p>
 			<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
-			" coords="123,543,177,597" shape="rect">
+			" coords="183,543,237,597" shape="rect">
 		</map>
-		</p>
+	</p>
 	</center>
 	<hr>
 	<br style="clear: both" />
@@ -890,6 +898,153 @@
 	<div class="shlisting">
 		<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2022 Events</a></b></p>
 		<div class="category autohide">
+			<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">7th Anniversary - Blood War (May 17 - May 21, 2022)</a></b></p>
+				<div class="autohide">
+					<p>The Blood War event will be starting on <b>May 17th 2022, 12:01 PM UTC</b> and will end on <b>May 21st 2022, 6:59 PM UTC</b>.</p>
+					<p><b><img src="/realm/Factions/picks/NephilimGlory2017.png" alt="Nephilim Glory" align="middle"> Nephilim Glory</b></p>
+					<p><b>Cost</b>: Free</p>
+					<p><b>Effect</b>: Increase the production of all buildings based on the total amount of Holy Symbols and Lava Stones collected.</p>
+					<p><b>Note</b>: Persist through Abdication and Reincarnation. Will Disappear at the end of the event.</p>
+					<style>
+						div#images {
+							width: 100%;
+							text-align: left;
+						}
+
+						div#images div {
+							display: inline-block;
+						}
+					</style>
+					<p><b><center>Event Resources</center></b></p>
+					<div id="images">
+						<center>
+							<div>
+								<center><img src="/realm/Factions/picks/HolySymbolCurrency.png" width="54%" height="54%" /></center>
+								<center><b>Holy Symbols</b></center>
+							</div>
+							<div>
+								<center><img src="/realm/Factions/picks/LavaStoneCurrency.png" width="64%" height="64%" /></center>
+								<center><b>Lava Stones</b></center>
+							</div>
+						</center>
+					</div>
+					<br>
+					<p>Holy Symbols and Lava Stones will appear on a random location of the game screen and you simply have to click to collect them, then wait for more Resources to appear. Or you can let them grow bigger over time (at a rate of 1 Resource per Minute) if you are idle or offline, up to a maximum size of 720 Holy Symbols or Lava Stones! Be careful though, you can only collect one stack of Holy Symbols or Lava Stones - by doing so, the other will disappear.</p>
+					<p><b>Note</b>: You need 2350 of each resource to get all the upgrades.</p>
+					<p><b>Note</b>: All upgrades has a 1 time cost but needs selected every Abdication and Reincarnation.</p>
+					<hr>
+					<p><b><img src="/realm/Factions/picks/SeraphimAlliance2017.png" alt="Seraphim Alliance" align="middle"> Seraphim Alliance</b></p>
+					<p><b>Cost</b>: 200 Holy Symbols</p>
+					<p><b>Description</b>: The highest Angelic ranks carry wings blazing with pure light, whose every feather is infused with enough magical power to revive a dead soul or purify the hearts of a thousand sinners. Affiliating with the Seraphim will increase your magical abilities to the extreme, but you can only do so when playing as Good or Neutral.</p>
+					<br/>
+					<p><b>Seraphim Quest</b></p>
+					<p><b>Seraphim Champion 1</b></p>
+					<p><b><img src="/realm/Factions/picks/HeavenlyFeathers2017.png" alt="Heavenly Feathers" align="middle"> Heavenly Feathers</b></p>
+					<p><b>Cost</b>: 400 Holy Symbols.</p>
+					<p><b>Effect</b>: All buildings also increase your mana regeneration.</p>
+					<p><b>Formula</b>: (2 * x ^ 0.2)</p>
+					<p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus.</p>
+					<br/>
+					<p><b>Seraphim Champion 2</b></p>
+					<p><b><img src="/realm/Factions/picks/God'sChamber2017.png" alt="God's Chamber" align="middle"> God's Chamber</b></p>
+					<p><b>Cost</b>: 750 Holy Symbols.</p>
+					<p><b>Effect</b>: Increase maximum mana by 1 for every 10 buildings you own.</p>
+					<p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus.</p>
+					<br/>
+					<p><b>Seraphim Champion 3</b></p>
+					<p><b><img src="/realm/Factions/picks/BoonofRadiance2017.png" alt="Boon of Radiance" align="middle"> Boon of Radiance</b></p>
+					<p><b>Cost</b>: 1000 Holy Symbols.</p>
+					<p><b>Effect</b>: Increase the production of all buildings based on mana regeneration.</p>
+					<p><b>Formula</b>: (0.2 * (x * 30) ^ 0.85), where x is current mana regeneration.</p>
+					<p><b>Effect</b>: Adds 2% cumulative bonus to you total Event bonus.</p>
+					<p><b>Effect</b>: Also completes Seraphim Champion Feat.</p>
+					<hr>
+					<p><b><img src="/realm/Factions/picks/AsmondeanAlliance2017.png" alt="Asmodean Alliance" align="middle"> Asmodean Alliance</b></p>
+					<p><b>Cost</b>: 200 Lava Stones</p>
+					<p><b>Description</b>: The most cruel of Demons also happen to be the biggest and most deformed abyssal creatures, featuring all kinds of unnatural flesh and bone appendages. Their very existence is a pain to see and hear driving all but the most strong souls to madness. Affiliating with the Asmodeans will bolster your assistant army unbelievably, but you can only do so when playing as Evil or Neutral.</p>
+					<br/>
+					<p><b>Asmodean Quest</b></p>
+					<p><b>Asmodean Champion 1</b></p>
+					<p><b><img src="/realm/Factions/picks/Broodmothers2017.png" alt="Broodmothers" align="middle"> Broodmothers</b></p>
+					<p><b>Cost</b>: 400 Lava Stones</p>
+					<p><b>Effect</b>: Gain additional assistants based on time spent affiliated with the Asmodeans.</p>
+					<p><b>Formula</b>: (0.25 * x * (x + 1)), where x is hours</p>
+					<p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus</p>
+					<br/>
+					<p><b>Asmodean Champion 2</b></p>
+					<p><b><img src="/realm/Factions/picks/AbyssalGaze2017.png" alt="Abyssal Gaze" align="middle"> Abyssal Gaze</b></p>
+					<p><b>Cost</b>: 750 Lava Stones</p>
+					<p><b>Effect</b>: Increase assistant production based on time spent as Evil (This R).</p>
+					<p><b>Formula</b>: (2 * x ^ 0.7)</p>
+					<p><b>Effect</b>: Adds 1% cumulative bonus to you total Event bonus</p>
+					<br/>
+					<p><b>Asmodean Champion 3</b></p>
+					<p><b><img src="/realm/Factions/picks/Legion'sLimbs2017.png" alt="Legion's Limbs" align="middle"> Legion's Limbs</b></p>
+					<p><b>Cost</b>: 1000 Lava Stones</p>
+					<p><b>Effect</b>: Increase clicking rewards based on the amount of assistants you own.</p>
+					<p><b>Formula</b>: (x ^ 0.85)</p>
+					<p><b>Effect</b>: Adds 2% cumulative bonus to you total Event bonus</p>
+					<p><b>Effect</b>: Also completes Asmodean Champion Feat.</p>
+					<hr>
+					<p><b>Event Feats</b></p>
+					<p>If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
+					<p><b><img src="/realm/Factions/picks/SeraphimChampion2017.png" alt="Seraphim Champion" align="middle"> Seraphim Champion</b></p>
+					<p><b>Requirement</b>: Purchase all Seraphim Upgrades.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/AsmondeanChampion2017.png" alt="Asmodean Champion" align="middle"> Asmodean Champion</b></p>
+					<p><b>Requirement</b>: Purchase all Asmodean Upgrades</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/SacredHoliness2017.png" alt="Sacred Holiness" align="middle"> Sacred Holiness</b></p>
+					<p><b>Requirement</b>: Collect at least 480 Holy Symbols with a single click while affiliated with the Angels.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/DarkestHeresy2017.png" alt="Darkest Heresy" align="middle"> Darkest Heresy</b></p>
+					<p><b>Requirement</b>: Collect at least 480 Lava Stones with a single click while affiliated with the Demons</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/Indifference2018.png" alt="Indifference" align="middle"> Indifference</b></p>
+					<p><b>Requirement</b>: Collect at least 480 Lava Stones with a single click or Holy Symbols while affiliated with a Neutral faction</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/WorldRestoration.png" alt="World Restoration" align="middle"> World Restoration</b></p>
+					<p><b>Requirement</b>: Have the same amount of Holy Symbols and Lava Stone at any given time, while having at least 1400.(Total)</p>
+					<p><b>Cost</b>: Free</p>
+					<p><b>Effect</b>: Increase the production of aligned buildings based on time spent as your least used alignment in this Reincarnation.</p>
+					<p><b>Formula</b>: (25 + 0.5 * x ^ 0.5)%, where x is your least used alignment in this Reincarnation (in seconds).</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/FrenziedArmy2021.png" alt="Frenzied Army" align="middle"> Frenzied Army</b></p>
+					<p><b>Requirement</b>: Collect a stack of at least 720 of any resource while Blood Frenzy and Call to Arms are active simultaneously.</p>
+					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
+					<p><b>Effect</b>: Increase assistants by 10%.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/PlanarTax.png" align="middle"> Planar Tax</b></p>
+					<p><b>Requirement</b>: Collect a stack of at least 720 of any resource in a game with at least 1000 Tax Collection casts.</p>
+					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new icon option for the spell.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/EternalBattle.png" align="middle"> Eternal Battle</b></p>
+					<p><b>Requirement</b>: Collect a stack of at least 720 of any resource while having 3 upgrades of any Blood War faction.</p>
+					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+					<hr>
+					<p><b>Shop Item</b></p>
+					<p><b><img src="/realm/Factions/picks/40HolySymbolsandLavaStones2017.png" alt="40 Holy Symbols and Lava Stones" align="middle"> 40 Holy Symbols and Lava Stones</b></p>
+					<p>A hooded shady merchant wants to sell you 40 Holy Symbols and Lava Stones for 5 Rubies.</p>
+					<p>He will offer you a new deal if you accept.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/150HolySymbolsandLavaStones2017.png" alt="150 Holy Symbols and Lava Stones" align="middle"> 150 Holy Symbols and Lava Stones</b></p>
+					<p>A hooded shady merchant wants to sell you 150 Holy Symbols and Lava Stones for 15 Rubies.</p>
+					<p>He will offer you a new deal if you accept.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/650HolySymbolsandLavaStones2017.png" alt="650 Holy Symbols and Lava Stones" align="middle"> 650 Holy Symbols and Lava Stones</b></p>
+					<p>A hooded shady merchant wants to sell you 650 Holy Symbols and Lava Stones for 45 Rubies.</p>
+					<p>He will offer you a new deal if you accept.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/1800HolySymbolsandLavaStones2017.png" alt="1800 Holy Symbols and Lava Stones" align="middle"> 1800 Holy Symbols and Lava Stones</b></p>
+					<p>A hooded shady merchant wants to sell you 1800 Holy Symbols and Lava Stones for 100 Rubies.</p>
+					<p>These are all the resources he could gather.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/Valentine2017Scry.png" align="middle"> Scrying</b></p>
+					<p><b>Effect</b>: Produces 1 Lave Stone and 1 Holy Synbol every 10 minutes for 4 hours.</p>
+					<hr>
+				</div>
+			</div>
 			<div class="shelementwhole">
 				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Easter (Apr 14 - Apr 21, 2022)</a></b></p>
 				<div class="autohide">
