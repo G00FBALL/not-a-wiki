@@ -97,14 +97,14 @@
         <p><b>Faction Name +line</b>: Faction names may be shortened</p>
         <p><b>Fairyline</b>: Fairy Bloodline</p>
         <p><b>Angeline</b>: Angel Bloodline</p>
-        <p><b>Elfline</b>: Elf Bloodline</p>
+        <p><b>Elvenline</b>: Elven Bloodline</p>
         <p><b>Gobline</b>: Goblin Bloodline</p>
         <p><b>Undeadline</b>: Undead Bloodline</p>
         <p><b>Demonline</b>: Demon Bloodline</p>
         <p><b>Titanline</b>: Titan Bloodline</p>
         <p><b>Druidline</b>: Druid Bloodline</p>
         <p><b>Faceline</b>: Faceless Bloodline</p>
-        <p><b>Dwarfline</b>: Dwarf Bloodline</p>
+        <p><b>Dwarfline</b>: Dwarven Bloodline</p>
         <p><b>Drowline</b>: Drow Bloodline</p>
         <p><b>Dragonline</b>: Dragon Bloodline</p>
         <p><b>Archonline</b>: Archon Bloodline</p>
@@ -124,17 +124,17 @@
         <center><b>Factions</b></center>
         <p><b>Fairy (3,2)</b>: Simplifies notation of Faction upgrades. The first number represents the tier, and the second the position.</p>
         <p>For combined Faction names, the prestiges' precede and is shortened to whatever sounds best.</p>
-        <p><b>Dwangels</b>: Dwarf+Angel</p>
-        <p><b>Dwaries</b>: Dwarf+Fairy</p>
-        <p><b>Dwelf</b>: Dwarf+Elf</p>
+        <p><b>Dwangels</b>: Dwarven+Angel</p>
+        <p><b>Dwaries</b>: Dwarven+Fairy</p>
+        <p><b>Dwelf</b>: Dwarven+Elven</p>
         <p><b>Dromon</b>: Drow+Demon</p>
         <p><b>Droblins</b>: Drow+Goblin</p>
         <p><b>Draguid</b>: Dragon+Druid</p>
         <hr>
         <center><b>Mercenary Template & Faction Abbreviations</b></center>
-        <p>Faction abbreviations used in Merc Build templates to identify faction upgrades. These are followed by the numbers 1-12 reflecting their overall position. (eg: Dwarf(3,1) Battlehammers = DN7)</p>
+        <p>Faction abbreviations used in Merc Build templates to identify faction upgrades. These are followed by the numbers 1-12 reflecting their overall position. (eg: Dwarven(3,1) Battlehammers = DN7)</p>
         <p><b>FR</b>: Fairy</p>
-        <p><b>EL</b>: Elf</p>
+        <p><b>EL</b>: Elven</p>
         <p><b>AN</b>: Angel</p>
         <p><b>GB</b>: Goblin</p>
         <p><b>UD</b>: Undead</p>
@@ -142,7 +142,7 @@
         <p><b>TT</b>: Titan</p>
         <p><b>DD</b>: Druid</p>
         <p><b>FC</b>: Faceless</p>
-        <p><b>DN</b>: Dwarf</p>
+        <p><b>DN</b>: Dwarven</p>
         <p><b>DW</b>: Drow</p>
         <p><b>MC</b>: Mercenary</p>
         <p><b>DG</b>: Dragon</p>

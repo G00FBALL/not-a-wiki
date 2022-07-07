@@ -18,8 +18,8 @@
 	</p>
 	<script>
 		var currentTime = new Date().getTime();
-		var countDownDate1 = new Date("May 17, 2022 12:01:00 UTC").getTime();
-		var countDownDate2 = new Date("May 21, 2022 18:59:00 UTC").getTime();
+		var countDownDate1 = new Date("Jul 11, 2022 12:01:00 UTC").getTime();
+		var countDownDate2 = new Date("Jul 15, 2022 18:59:00 UTC").getTime();
 		var x = setInterval(function() {
 			var now = new Date().getTime();
 			var distance = countDownDate1 - now;
@@ -61,7 +61,7 @@
 				<tr>
 					<th>Rubies</th>
 					<th colspan="1">Event</th>
-					<th colspan="8">Total Cumulative Bonus: 462%</th>
+					<th colspan="8">Total Cumulative Bonus: 470%</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -131,6 +131,7 @@
 						<td>Goblin Invasion</td>
 						<td></td>
 						<td></td>
+						<td>8%</td>
 						<td>8%</td>
 						<td>8%</td>
 						<td>8%</td>
@@ -898,6 +899,133 @@
 	<div class="shlisting">
 		<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2022 Events</a></b></p>
 		<div class="category autohide">
+			<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion (Jul 11 - Jul 15, 2022)</a></b></p>
+				<div class="autohide">
+					<p>The Goblin Invasion event will be starting on <b>Jul 11th 2022, 12:01 PM UTC</b> and will end on <b>Jul 15th 2022, 6:59 PM UTC</b>.</p>
+					<p><b><img src="/realm/Factions/picks/TheGreatestArmy2017.png" alt="The Greatest Army" align="middle"> The Greatest Army</b></p>
+					<p><b>Cost</b>: Free</p>
+					<p><b>Effect</b>: Increase the production of all buildings based on the total amount of Goblin Crowns collected.</p>
+					<p><b>Formula</b>: (x / 20 - 0.005 * (x / 20) ^ 2 + 0.00045 * (x / 20) ^ 3)%, where x is amount of collected Goblin Crowns. Capped at 100000%.</p>
+					<p><b>Note</b>: Persist through Abdication and Reincarnation. Will Disappear at the end of the event.</p>
+					<br/>
+					<p><b>Event Resources</b></p>
+					<p><b><img src="/realm/Factions/picks/GobinCrown2017.png" alt="Goblin Crowns" align="middle"> Goblin Crowns</b></p>
+					<p>During the Goblin Invasion Event you will be able to collect Goblin Crowns, appearing in a random location of your screen at a rate of 1 per minute, stacking up to 720 units (12 hours). These Resources will be used to either fight or support the invading Goblin Army: both choices will grant you new bonuses and unlock new unique upgrades. You can also complete Quests and Feats, also found in the Event panel. Aside for completion purposes, completed quests will also grant a small permanent production bonus. Remember that all Goblin Invasion upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements.</p>
+					<p>The Formula for the cost needed to level a faction is floor((level + 1) ^ 0.85) Goblin Crowns</p>
+					<p>You need 203 Goblin Crowns (total) to level a faction to level 25, 740 to level 50, and 2685 to level 100.</p>
+					<p>You need 5370 Goblin Crowns to complete all quest by leveling both factions to level 100, Total time 3 days 17 hours 30 minutes without scrying.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/FighttheGoblinArmy2017.png" alt="Goblin Crowns" align="middle"> Fight the Goblin Army</b></p>
+					<p><b>Requirement</b>: Good or Neutral alignment</p>
+					<p><b>Effect</b>: Increase maximum mana and mana regeneration by 1% per level.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/SupporttheGoblinArmy2017.png" alt="Goblin Crowns" align="middle"> Support the Goblin Army</b></p>
+					<p><b>Requirement</b>: Evil or Neutral alignment</p>
+					<p><b>Effect</b>: Increase your assistants by 1% per level.</p>
+					<hr>
+					<p><b>Event Quest</b></p>
+					<p><b>Goblin's Bane Quest</b>: Fight the Goblin Army</p>
+					<p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 1 of 3</b></p>
+					<p><b>Requirement</b>: Fight the Goblin Army level 25.</p>
+					<p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
+					<p><b>Reward</b></p>
+					<p><b><img src="/realm/Factions/picks/Goblin'sBane12017.png" alt="Goblin's Bane" align="middle"> Magical Clicks</b></p>
+					<p><b>Effect</b>: Active spells generate additional automatic clicks. Higher spell tiers provide higher bonuses.</p>
+					<p><b>Formula</b>: (floor(0.6 * ln(1 + x) ^ 4 + 1)), where x is the amount of active spells.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 2 of 3</b></p>
+					<p><b>Requirement</b>: Fight the Goblin Army level 50.</p>
+					<p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
+					<p><b>Reward</b></p>
+					<p><b><img src="/realm/Factions/picks/Goblin'sBane22017.png" alt="Goblin's Bane" align="middle"> Eye of the King</b></p>
+					<p><b>Effect</b>: Increase the production of Neutral buildings based on the amount of clicks made in this Reincarnation.</p>
+					<p><b>Formula</b>: ((log10(1 + x)) ^ 3.5)%, where x is the amount of clicks made in this reincarnation.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Goblin's Bane 3 of 3</b></p>
+					<p><b>Requirement</b>: Fight the Goblin Army level 100.</p>
+					<p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
+					<p><b>Reward</b></p>
+					<p><b><img src="/realm/Factions/picks/Goblin'sBane32017.png" alt="Goblin's Bane" align="middle"> Spare Green Hands</b></p>
+					<p><b>Effect</b>: Each manual click counts as 1000 clicks for all purposes.</p>
+					<hr>
+					<p><b>Goblin's Commander Quest</b>: Support the Goblin Army</p>
+					<p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 1 of 3</b></p>
+					<p><b>Requirement</b>: Support the Goblin Army level 25.</p>
+					<p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
+					<p><b>Reward</b></p>
+					<p><b><img src="/realm/Factions/picks/Goblin'sCommander12017.png" alt="Goblin's Bane" align="middle"> Elite Goblins</b></p>
+					<p><b>Effect</b>: All spells activity time counts more based on Evil spells cast in this Reincarnation.</p>
+					<p><b>Formula</b>: (24 + 12 * ln(1 + x))%, where x is Evil spells cast in this Reincarnation.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 2 of 3</b></p>
+					<p><b>Requirement</b>: Support the Goblin Army level 50.</p>
+					<p><b>Effect</b>: Adds 1% cumulative bonus to your total Event bonus.</p>
+					<p><b>Reward</b></p>
+					<p><b><img src="/realm/Factions/picks/Goblin'sCommander22017.png" alt="Goblin's Bane" align="middle"> Goblin Commandos</b></p>
+					<p><b>Effect</b>: Increases the production of Neutral Buildings based on the amount of assistants you own.</p>
+					<p><b>Formula</b>: (150 * x ^ 0.25)%, where x is amount of assistants you own.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> Goblin's Commander 3 of 3</b></p>
+					<p><b>Requirement</b>: Support the Goblin Army level 100.</p>
+					<p><b>Effect</b>: Adds 2% cumulative bonus to your total Event bonus.</p>
+					<p><b>Reward</b></p>
+					<p><b><img src="/realm/Factions/picks/Goblin'sCommander32017.png" alt="Goblin's Bane" align="middle"> The Slack King</b></p>
+					<p><b>Effect</b>: Increase the production of all buildings based on time spent in this Reincarnation. Also further increase Offline production by the same amount.</p>
+					<p><b>Formula</b>: (0.01 * x ^ 0.7)%, where x is time spent in this Reincarnation.</p>
+					<hr>
+					<p><b>Event Feat</b></p>
+					<p><b><img src="/realm/Factions/picks/GoblinsBane2017.png" alt="Seraphim Champion" align="middle"> Goblins Bane</b></p>
+					<p><b>Requirement</b>: Fight the Goblin Army 100 times.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/GoblinsCommander2017.png" alt="Seraphim Champion" align="middle"> Goblin's Commander</b></p>
+					<p><b>Requirement</b>: Support the Goblin Army 100 times.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/GoblinsEverywhere!2017.png" alt="Seraphim Champion" align="middle"> Goblins Everywhere!</b></p>
+					<p><b>Requirement</b>: Collect at least 10 Goblin Crowns in a single click while affiliated with any 6 different factions.</p>
+					<p><b>Note</b>: Prestige Factions count as 1 for Good, Evil, and Neutral alignment (Example Angel/Dwarven is 1, any other Good/Dwarven is not counted)</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/GoldHunt2018.png" align="middle"> Gold Hunt</b></p>
+					<p><b>Requirement</b>: Collect at least 480 Goblin Crowns with a single click while affiliated with Goblins.</p>
+					<p><b>Note</b>: As prestige, only prestige will count. For example, Angel/Dwarven counts as Dwarven for feat purposes.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/TheUndecidedArmada.png" align="middle"> The Undecided Armada</b></p>
+					<p><b>Requirement</b>: Collect a stack of at least 480 Goblin Crowns while having no faction.</p>
+					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
+					<p><b>Effect</b>: Increase assistants based on the amount of buildings you own (multiplicative).</p>
+					<p><b>Formula</b>: (0.65 * x ^ 0.35)%, where x is the amount of buildings you own.</p>
+					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/PlatinumTrophy.png" align="middle"> Platinum Trophy</b></p>
+					<p><b>Requirement</b>: While affiliated with the Goblins and having supported the Army at least 70 times, collect a stack of at least 720 Goblin Crowns.</p>
+					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
+					<p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/BloodyCrown.png" align="middle"> Bloody Crown</b></p>
+					<p><b>Requirement</b>: Collect a stack of at least 720 Goblin Crowns while Blood Frenzy and Call to Arms are active simultaneously.</p>
+					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
+					<p><b>Effect</b>: Increase production bonus from Gems by a multiplicative 10%.</p>
+					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+					<hr>
+					<p><b>Shop Item</b></p>
+					<p><b><img src="/realm/Factions/picks/75GoblinCrowns2017.png" align="middle"> 75 Goblin Crowns</b></p>
+					<p>A greedy shady merchant wants to exchange 75 Goblin Crowns for 5 Rubies.</p>
+					<p>He will offer you a new deal if you accept.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/300GoblinCrowns2017.png" align="middle"> 300 Goblin Crowns</b></p>
+					<p>A greedy shady merchant wants to exchange 300 Goblin Crowns 15 Rubies.</p>
+					<p>He will offer you a new deal if you accept.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/1250GoblinCrowns2017.png" align="middle"> 1250 Goblin Crowns</b></p>
+					<p>A greedy shady merchant wants to exchange 1250 Goblin Crowns for 45 Rubies.</p>
+					<p>He will offer you a new deal if you accept.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/3500GoblinCrowns2017.png" align="middle"> 3500 Goblin Crowns</b></p>
+					<p>A greedy shady merchant wants to exchange 3500 Goblin Crowns for 100 Rubies.</p>
+					<p>These are all the crowns he could gather.</p>
+					<hr>
+				</div>
+			</div>
 			<div class="shelementwhole">
 				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">7th Anniversary - Blood War (May 17 - May 21, 2022)</a></b></p>
 				<div class="autohide">
@@ -2106,7 +2234,7 @@
 					<p><b><img src="/realm/Factions/picks/TheGreatestArmy2017.png" alt="The Greatest Army" align="middle"> The Greatest Army</b></p>
 					<p><b>Cost</b>: Free</p>
 					<p><b>Effect</b>: Increase the production of all buildings based on the total amount of Goblin Crowns collected.</p>
-					<p><b>Formula</b>: (x/20-0.005 *(x/20) ^ 2+0.00045 *(x/20) ^ 3)%, where x is amount of collected Goblin Crowns. Capped at 100000%.</p>
+					<p><b>Formula</b>: (x / 20 - 0.005 * (x / 20) ^ 2 + 0.00045 * (x / 20) ^ 3)%, where x is amount of collected Goblin Crowns. Capped at 100000%.</p>
 					<p><b>Note</b>: Persist through Abdication and Reincarnation. Will Disappear at the end of the event.</p>
 					<br/>
 					<p><b>Event Resources</b></p>
@@ -3393,7 +3521,7 @@
 					<p><b><img src="/realm/Factions/picks/TheGreatestArmy2017.png" alt="The Greatest Army" align="middle"> The Greatest Army</b></p>
 					<p><b>Cost</b>: Free</p>
 					<p><b>Effect</b>: Increase the production of all buildings based on the total amount of Goblin Crowns collected.</p>
-					<p><b>Formula</b>: (x/20-0.005 *(x/20) ^ 2+0.00045 *(x/20) ^ 3)%, where x is amount of collected Goblin Crowns. Capped at 100000%.</p>
+					<p><b>Formula</b>: (x / 20 - 0.005 * (x / 20) ^ 2 + 0.00045 * (x / 20) ^ 3)%, where x is amount of collected Goblin Crowns. Capped at 100000%.</p>
 					<p><b>Note</b>: Persist through Abdication and Reincarnation. Will Disappear at the end of the event.</p>
 					<br/>
 					<p><b>Event Resources</b></p>
@@ -4634,7 +4762,7 @@
 					<p><b><img src="/realm/Factions/picks/TheGreatestArmy2017.png" alt="The Greatest Army" align="middle"> The Greatest Army</b></p>
 					<p><b>Cost</b>: Free</p>
 					<p><b>Effect</b>: Increase the production of all buildings based on the total amount of Goblin Crowns collected.</p>
-					<p><b>Formula</b>: (x/20-0.005 *(x/20) ^ 2+0.00045 *(x/20) ^ 3)%, where x is amount of collected Goblin Crowns. Capped at 100000%.</p>
+					<p><b>Formula</b>: (x / 20 - 0.005 * (x / 20) ^ 2 + 0.00045 * (x / 20) ^ 3)%, where x is amount of collected Goblin Crowns. Capped at 100000%.</p>
 					<p><b>Note</b>: Persist through Abdication and Reincarnation. Will Disappear at the end of the event.</p>
 					<br/>
 					<p><b>Event Resources</b></p>
@@ -5650,7 +5778,7 @@
 					<p><b><img src="/realm/Factions/picks/TheGreatestArmy2017.png" alt="The Greatest Army" align="middle"> The Greatest Army</b></p>
 					<p><b>Cost</b>: Free</p>
 					<p><b>Effect</b>: Increase the production of all buildings based on the total amount of Goblin Crowns collected.</p>
-					<p><b>Formula</b>: (x/20-0.005 *(x/20) ^ 2+0.00045 *(x/20) ^ 3)%, where x is amount of collected Goblin Crowns. Capped at 100000%.</p>
+					<p><b>Formula</b>: (x / 20 - 0.005 * (x / 20) ^ 2 + 0.00045 * (x / 20) ^ 3)%, where x is amount of collected Goblin Crowns. Capped at 100000%.</p>
 					<p><b>Note</b>: Persist through Abdication and Reincarnation. Will Disappear at the end of the event.</p>
 					<p><b>Event Resources</b></p>
 					<p><b><img src="/realm/Factions/picks/GobinCrown2017.png" alt="Goblin Crowns" align="middle"> Goblin Crowns</b></p>
@@ -6522,7 +6650,7 @@
 					<p><b><img src="/realm/Factions/picks/TheGreatestArmy2017.png" alt="The Greatest Army" align="middle"> The Greatest Army</b></p>
 					<p><b>Cost</b>: Free</p>
 					<p><b>Effect</b>: Increase the production of all buildings based on the total amount of Goblin Crowns collected.</p>
-					<p><b>Formula</b>: (x/20-0.005*(x/20)^2+0.00045*(x/20)^3)%, where x is amount of collected Goblin Crowns. Capped at 100000%.</p>
+					<p><b>Formula</b>: (x / 20 - 0.005 * (x / 20) ^ 2 + 0.00045 * (x / 20) ^ 3)%, where x is amount of collected Goblin Crowns. Capped at 100000%.</p>
 					<p><b>Note</b>: Persist through Abdication and Reincarnation. Will Disappear at the end of the event.</p>
 					<p><b>Event Resources</b></p>
 					<p><b><img src="/realm/Factions/picks/GobinCrown2017.png" alt="Goblin Crowns" align="middle"> Goblin Crowns</b></p>
