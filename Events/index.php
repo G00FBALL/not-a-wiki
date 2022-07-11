@@ -18,8 +18,8 @@
 	</p>
 	<script>
 		var currentTime = new Date().getTime();
-		var countDownDate1 = new Date("Jul 11, 2022 12:01:00 UTC").getTime();
-		var countDownDate2 = new Date("Jul 15, 2022 18:59:00 UTC").getTime();
+		var countDownDate1 = new Date("Jul 13, 2022 12:01:00 UTC").getTime();
+		var countDownDate2 = new Date("Jul 17, 2022 18:59:00 UTC").getTime();
 		var x = setInterval(function() {
 			var now = new Date().getTime();
 			var distance = countDownDate1 - now;
