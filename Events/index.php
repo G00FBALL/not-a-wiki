@@ -221,7 +221,7 @@
 			" coords="3,3,57,57" shape="rect">
 			<area research="
 			<p><b><img src='/realm/Factions/picks/RubyShineUpgrade.png' align='middle'> Ruby Shine</b></p>
-			<p><b>Type</b>: Feat</p>					
+			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Play during the Ruby Shine event.</p>
 			<p><b>Effect</b>: Increase the production of all buildings based on the amount of Rubies you own for the duration of the Ruby Shine event.</p>
 			<p><b>Formula</b>: (x ^ 1.15)%, where x is Rubies owned.</p>
@@ -299,7 +299,7 @@
 			<p><b>Requirement</b>: Cast Call to Love at least once with 6 different factions.</p>
 			" coords="243,63,297,117" shape="rect">
 			<area research="
-			<p><b>Valentines 2018</b></p>
+			<p><b>Valentines</b></p>
 			<p><b><img src='/realm/Factions/picks/AssistantLove2018.png' align='middle'> Assistant Love</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Reach 50 assistants with Heart Upgrades only.</p>
@@ -307,7 +307,7 @@
 			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new color option for the mana bar.</p>
 			" coords="303,63,357,117" shape="rect">
 			<area research="
-			<p><b>Valentines 2019</b></p>
+			<p><b>Valentines</b></p>
 			<p><b><img src='/realm/Factions/picks/ChocolateBoxFeat2019.png' align='middle'> Chocolate Box</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Have at least 72 hours of Call to Love activity time during the Valentine event.</p>
@@ -317,7 +317,7 @@
 			<p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
 			" coords="363,63,417,117" shape="rect">
 				<area research="
-			<p><b>Valentines 2021</b></p>
+			<p><b>Valentines</b></p>
 			<p><b><img src='/realm/Factions/picks/UnrequitednessFeat2021.png' align='middle'> Unrequitedness</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Cast Call to Love while being affiliated with a Neutral Faction and with at least 2 hours of activity time with the spell during the Valentine event.</p>
@@ -327,16 +327,16 @@
 			<p><b>Note</b>: This Feat is not needed to unlock new mana color.</p>
 			" coords="3,123,57,177" shape="rect">
 			<area research="
-			<p><b>Valentines 2020</b></p>
+			<p><b>Valentines</b></p>
 			<p><b><img src='/realm/Factions/picks/FairyLove.png' align='middle'> Fairy Love</b></p>
-			<p><b>Type</b>: Feat</p>					
+			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: While affiliated with the fairies, click 1000 times during the Valentine event.</p>
 			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
 			" coords="63,123,117,177" shape="rect">
 			<area research="
-			<p><b>Valentines 2022</b></p>
+			<p><b>Valentines</b></p>
 			<p><b><img src='/realm/Factions/picks/BurningPassion.png' align='middle'> Burning Passion</b></p>
-			<p><b>Type</b>: Feat</p>					
+			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Have at least 2 hour of Hellfire Blast activity time during the Valentine event.</p>
 			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new icon option for the spell.</p>
 			" coords="123,123,177,177" shape="rect">
@@ -370,14 +370,14 @@
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
 			" coords="363,123,417,177" shape="rect">
 			<area research="
-			<p><b>Easter 2018</b></p>
+			<p><b>Easter</b></p>
 			<p><b><img src='/realm/Factions/picks/BunnyHelpers2018.png' align='middle'> Bunny Helpers</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Collect at least 480 Eggs with a single click while having exactly 480 assistants.</p>
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
 			" coords="3,183,57,237" shape="rect">
 			<area research="
-			<p><b>Easter 2019</b></p>
+			<p><b>Easter</b></p>
 			<p><b><img src='/realm/Factions/picks/ChocolateEgg2019.png' align='middle'> Chocolate Egg</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Collect at least 480 Eggs with a single click while having at least 3 active spells.</p>
@@ -387,14 +387,14 @@
 			<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 			" coords="63,183,117,237" shape="rect">
 			<area research="
-			<p><b>Easter 2020</b></p>
+			<p><b>Easter</b></p>
 			<p><b><img src='/realm/Factions/picks/Eggsceptional.png' align='middle'> Eggsceptional</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Collect a full stack of 720 Eggs at any time during the Easter event.</p>
 			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
 			" coords="123,183,177,237" shape="rect">
 			<area research="
-			<p><b>Easter 2021</b></p>
+			<p><b>Easter</b></p>
 			<p><b><img src='/realm/Factions/picks/RottenEgg2021.png' align='middle'> Rotten Egg</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Collect a full stack of 720 Eggs while being affiliated with the Undead.</p>
@@ -403,12 +403,12 @@
 			<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 			" coords="183,183,237,237" shape="rect">
 			<area research="
-			<p><b>Easter 2022</b></p>
+			<p><b>Easter</b></p>
 			<p><b><img src='/realm/Factions/picks/Colorfull.png' align='middle'> Colorfull</b></p>
-			<p><b>Type</b>: Feat</p>					
+			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Collect a stack of at least 720 Eggs while Fairy Chanting is active.</p>
 			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new icon option for the spell.</p>
-			" coords="243,183,297,237" shape="rect">			
+			" coords="243,183,297,237" shape="rect">
 			<area research="
 			<p><b>Summer Festival</b></p>
 			<p><b><img src='/realm/Factions/picks/ChillOut.png' align='middle'> Chill Out</b></p>
@@ -595,7 +595,7 @@
 			<area research="
 			<p><b>Anniversary - Blood War</b></p>
 			<p><b><img src='/realm/Factions/picks/PlanarTax.png' align='middle'> Planar Tax</b></p>
-			<p><b>Type</b>: Feat</p>					
+			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Collect a stack of at least 720 of any resource in a game with at least 1000 Tax Collection casts.</p>
 			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new icon option for the spell.</p>
 			" coords="63,423,117,477" shape="rect">
@@ -662,54 +662,61 @@
 			<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
 			" coords="123,483,177,537" shape="rect">
 			<area research="
+			<p><b>Goblin Invasion</b></p>
+			<p><b><img src='/realm/Factions/picks/UnderaGreenSun.png' align='middle'> Under a Green Sun</b></p>
+			<p><b>Type</b>: Feat</p>
+			<p><b>Requirement</b>: Collect a stack of at least 720 Goblin Crowns while having at least 2 hours of Goblin's Greed activity time in this Reincarnation (BUGGED: check is 2 hours this game).</p>
+			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new icon option for the spell.</p>
+			" coords="183,483,237,537" shape="rect">
+			<area research="
 			<p><b>Idillium</b></p>
 			<p><b><img src='/realm/Factions/picks/GentleCollector.png' align='middle'> Gentle Collector</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Collect at least 720 Entropic Drops with a single click while affiliated with the Fairies.</p>
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-			" coords="183,483,237,537" shape="rect">
+			" coords="243,483,297,537" shape="rect">
 			<area research="
 			<p><b>Idillium</b></p>
 			<p><b><img src='/realm/Factions/picks/AggressiveCollector.png' align='middle'> Aggressive Collector</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Collect at least 720 Crystal Prisms with a single click while affiliated with the Undead.</p>
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-			" coords="243,483,297,537" shape="rect">
+			" coords="303,483,357,537" shape="rect">
 			<area research="
 			<p><b>Idillium</b></p>
 			<p><b><img src='/realm/Factions/picks/GoldenAge.png' align='middle'> Golden Age</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Cast Remnant spells at least 1000 times.</p>
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-			" coords="303,483,357,537" shape="rect">
+			" coords="363,483,417,537" shape="rect">
 			<area research="
 			<p><b>Idillium</b></p>
 			<p><b><img src='/realm/Factions/picks/OrderRestoration.png' align='middle'> Order Restoration</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Upgrade Order Remnant to Level 15.</p>
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-			" coords="363,483,417,537" shape="rect">
+			" coords="3,543,57,597" shape="rect">
 			<area research="
 			<p><b>Idillium</b></p>
 			<p><b><img src='/realm/Factions/picks/ChaosRestoration.png' align='middle'> Chaos Restoration</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Upgrade Chaos Remnant to Level 15.</p>
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-			" coords="3,543,57,597" shape="rect">
+			" coords="63,543,117,597" shape="rect">
 			<area research="
 			<p><b>Idillium</b></p>
 			<p><b><img src='/realm/Factions/picks/BalanceRestoration.png' align='middle'> Balance Restoration</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: Upgrade Balance Remnant to Level 15.</p>
 			<p><b>Note</b>: If you unlock all of this event's feats, you will permanently unlock a new color option for the mana bar.</p>
-			" coords="63,543,117,597" shape="rect">
+			" coords="123,543,177,597" shape="rect">
 			<area research="
 			<p><b>Idillium</b></p>
 			<p><b><img src='/realm/Factions/picks/BalancedCollector.png' align='middle'> Balanced Collector</b></p>
 			<p><b>Type</b>: Feat</p>
 			<p><b>Requirement</b>: While affiliated with the Druids, collect a stack of at least 720 Equilibrium Fragments.</p>
 			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new cosmetic shape for your coin particles.</p>
-			" coords="123,543,177,597" shape="rect">
+			" coords="183,543,237,597" shape="rect">
 			<area research="
 			<p><b>Idillium</b></p>
 			<p><b><img src='/realm/Factions/picks/IdilliumExplorer.png' align='middle'> Idillium Explorer</b></p>
@@ -718,7 +725,7 @@
 			<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 			<p><b>Effect</b>: Reduce the cost of all spells by 10%.</p>
 			<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
-			" coords="183,543,237,597" shape="rect">
+			" coords="243,543,297,597" shape="rect">
 		</map>
 	</p>
 	</center>
@@ -900,9 +907,9 @@
 		<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2022 Events</a></b></p>
 		<div class="category autohide">
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion (Jul 11 - Jul 15, 2022)</a></b></p>
+				<p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Goblin Invasion (Jul 13 - Jul 17, 2022)</a></b></p>
 				<div class="autohide">
-					<p>The Goblin Invasion event will be starting on <b>Jul 11th 2022, 12:01 PM UTC</b> and will end on <b>Jul 15th 2022, 6:59 PM UTC</b>.</p>
+					<p>The Goblin Invasion event will be starting on <b>Jul 13th 2022, 12:01 PM UTC</b> and will end on <b>Jul 17th 2022, 6:59 PM UTC</b>.</p>
 					<p><b><img src="/realm/Factions/picks/TheGreatestArmy2017.png" alt="The Greatest Army" align="middle"> The Greatest Army</b></p>
 					<p><b>Cost</b>: Free</p>
 					<p><b>Effect</b>: Increase the production of all buildings based on the total amount of Goblin Crowns collected.</p>
@@ -1006,6 +1013,10 @@
 					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new upgrade with the same name.</p>
 					<p><b>Effect</b>: Increase production bonus from Gems by a multiplicative 10%.</p>
 					<p><b>Note</b>: Once unlocked, it is available during any Seasonal Event.</p>
+					<br/>
+					<p><b><img src="/realm/Factions/picks/UnderaGreenSun.png" align="middle"> Under a Green Sun</b></p>
+					<p><b>Requirement</b>: Collect a stack of at least 720 Goblin Crowns while having at least 2 hours of Goblin's Greed activity time in this Reincarnation (BUGGED: check is 2 hours this game).</p>
+					<p><b>Note</b>: If you unlock this feat, you will permanently unlock a new icon option for the spell.</p>
 					<hr>
 					<p><b>Shop Item</b></p>
 					<p><b><img src="/realm/Factions/picks/75GoblinCrowns2017.png" align="middle"> 75 Goblin Crowns</b></p>
@@ -1039,7 +1050,6 @@
 							width: 100%;
 							text-align: left;
 						}
-
 						div#images div {
 							display: inline-block;
 						}
@@ -1643,13 +1653,11 @@
 					<p>As usual, there will be Quests and Feats to unlock: you will be able to find every information you need in the Events panel in game!</p>
 					<p>Remember that all Halloween upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements.</p>
 					<hr>
-
 					<style>
 						div#images {
 							width: 100%;
 							text-align: left;
 						}
-
 						div#images div {
 							display: inline-block;
 						}
@@ -1891,7 +1899,6 @@
 							width: 100%;
 							text-align: left;
 						}
-
 						div#images div {
 							display: inline-block;
 						}
@@ -2367,7 +2374,6 @@
 							width: 100%;
 							text-align: left;
 						}
-
 						div#images div {
 							display: inline-block;
 						}
@@ -2951,13 +2957,11 @@
 					<p>As usual, there will be Quests and Feats to unlock: you will be able to find every information you need in the Events panel in game!</p>
 					<p>Remember that all Halloween upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements.</p>
 					<hr>
-
 					<style>
 						div#images {
 							width: 100%;
 							text-align: left;
 						}
-
 						div#images div {
 							display: inline-block;
 						}
@@ -3192,7 +3196,6 @@
 							width: 100%;
 							text-align: left;
 						}
-
 						div#images div {
 							display: inline-block;
 						}
@@ -3649,7 +3652,6 @@
 							width: 100%;
 							text-align: left;
 						}
-
 						div#images div {
 							display: inline-block;
 						}
@@ -4211,13 +4213,11 @@
 					<p>As usual, there will be Quests and Feats to unlock: you will be able to find every information you need in the Events panel in game!</p>
 					<p>Remember that all Halloween upgrades and their bonuses will disappear after the event is over, with the exception of Quest bonuses and Feat achievements.</p>
 					<hr>
-
 					<style>
 						div#images {
 							width: 100%;
 							text-align: left;
 						}
-
 						div#images div {
 							display: inline-block;
 						}
@@ -4446,7 +4446,6 @@
 							width: 100%;
 							text-align: left;
 						}
-
 						div#images div {
 							display: inline-block;
 						}
@@ -4883,7 +4882,6 @@
 							width: 100%;
 							text-align: left;
 						}
-
 						div#images div {
 							display: inline-block;
 						}
@@ -5517,7 +5515,6 @@
 							width: 100%;
 							text-align: left;
 						}
-
 						div#images div {
 							display: inline-block;
 						}
