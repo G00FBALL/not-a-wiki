@@ -121,7 +121,7 @@
 	<p><b>Effect</b>: Grants access to Unique Building.</p>
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowersUniqueBuildingUpgrade.png" alt="Swarming Towers" align="middle"> Unique Building Upgrade</b></p>
-	<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
+	<p><b>Cost</b>: 1 Td (1e42) Emerald Coins</p>
 	<p><b>Requirement</b>: Swarming Towers Quest</p>
 	<p><b>Effect</b>: Gives Swarming Towers Unique Building.</p>
 	<br/>

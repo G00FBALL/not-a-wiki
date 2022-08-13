@@ -83,7 +83,7 @@
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinUpgrade9.png" align="middle"> Green Fingers Discount</b></p>
 	<p><b>Cost</b>: 500 Qa (5e17)</p>
 	<p><b>Effect</b>: Gain coins randomly every 10 minutes. Also works while being offline.</p>
-	<p><b>New Formula</b>: (randRange(1 , 2500) * x), where x is your total (buildings + assistants) coin production per second, <b>including spells</b>.</p>
+	<p><b>Formula</b>: (randRange(1 , 2500) * x), where x is your total (buildings + assistants) coin production per second, <b>including spells</b>.</p>
 	<hr>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinHeritage.png" alt="Goblin Heritage" align="middle"> Goblin Heritage</b></p>
 	<p><b>Requirements</b>: Goblin Champion Trophy</p>
@@ -126,7 +126,7 @@
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/SlaveMarketUniqueBuildingUpgrade.png" alt="Slave Market" align="middle"> Unique Building Upgrade</b></p>
 	<p><b>Requirement</b>: Slave Market Quest</p>
-	<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
+	<p><b>Cost</b>: 1 Td (1e42) Emerald Coins</p>
 	<p><b>Effect</b>: Gives Slave Market Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>

@@ -229,7 +229,7 @@
 	<p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available also tells you your total research points.</p>
 	" coords="4,1053,83,1132" shape="rect">
 		<area research="<p><center>Forbidden Research Facility</center></p>
-	<p>Take advantage of the most ancient and secret arts to empower your production beyonds known limits.</p>
+	<p>Take advantage of the most ancient and secret arts to empower your production beyond known limits.</p>
 	<p>Increases: Mercenary production</p>
 	<p>Pointing to this ingame will tell you how many Slots (R16-R159) / Points (R160+) are available also tells you your total research points.</p>
 	" coords="4,1263,83,1342" shape="rect">
