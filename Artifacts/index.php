@@ -164,14 +164,14 @@
 	<p><b>Hint</b>: Are Faction Coins attracted to glass?</p>
 	<p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
 	<p><b>Requirement</b>: R125+, Faceless Faction, 12,500+ Excavations</p>
-	<p><b>Chance</b>: (log10(1 + x) ^ 3 / 2,500,000 (2.5 M))%, where x is Faction Coins this game.</p>
+	<p><b>Chance</b>: (log10(1 + x) ^ 3 / 2,500,000 (2.5 M))%, where x is Faction Coins found this game.</p>
 	" coords="183,163,236,216" shape="rect">
 		<area research="
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/ThirdCrystalFragment.png' align='middle'> Third Crystal Fragment</b></p>
 	<p><b>Hint</b>: Also acts as a spell catalyst.</p>
 	<p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
 	<p><b>Requirement</b>: R125+, Demon Faction, 12,500+ Excavations</p>
-	<p><b>Chance</b>: (x / 50,000,000 (50 M))%, where x is evil spells this Reincarnation.</p>
+	<p><b>Chance</b>: (x / 50,000,000 (50 M))%, where x is evil spells cast this Reincarnation.</p>
 	" coords="243,163,296,216" shape="rect">
 		<area research="
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/FirstStoneFragment.png' align='middle'> First Stone Fragment</b></p>

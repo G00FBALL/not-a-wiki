@@ -158,7 +158,7 @@
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuildingUpgrade.png" alt="Forbidden Library" align="middle"> Unique Building Upgrade</b></p>
 	<p><b>Requirement</b>: Forbidden Library Quest</p>
-	<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
+	<p><b>Cost</b>: 1 Td (1e42) Emerald Coins</p>
 	<p><b>Effect</b>: Gives Forbidden Library Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>

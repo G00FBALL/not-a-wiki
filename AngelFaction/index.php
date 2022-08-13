@@ -123,7 +123,7 @@
 	<p><b>Effect</b>: Grants access to Unique Building.</p>
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/HolySiteUniqueBuildingUpgrade.png" alt="Holy Site" align="middle"> Unique Building Upgrade</b></p>
-	<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
+	<p><b>Cost</b>: 1 Td (1e42) Emerald Coins</p>
 	<p><b>Requirement</b>: Holy Site Quest</p>
 	<p><b>Effect</b>: Gives Holy Site Unique Building.</p>
 	<br/>

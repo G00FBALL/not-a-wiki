@@ -158,7 +158,7 @@
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceUniqueBuildingUpgrade.png" alt="Mountain Palace" align="middle"> Unique Building Upgrade</b></p>
 	<p><b>Requirement</b>: Mountain Palace Quest</p>
-	<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
+	<p><b>Cost</b>: 1 Td (1e42) Emerald Coins</p>
 	<p><b>Effect</b>: Gives Mountain Palace Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>

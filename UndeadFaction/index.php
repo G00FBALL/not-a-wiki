@@ -121,7 +121,7 @@
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FleshWorkshopUniqueBuildingUpgrade.png" alt="Flesh Workshop" align="middle"> Unique Building Upgrade</b></p>
 	<p><b>Requirement</b>: Flesh Workshop Quest</p>
-	<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
+	<p><b>Cost</b>: 1 Td (1e42) Emerald Coins</p>
 	<p><b>Effect</b>: Gives Flesh Workshop Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>
