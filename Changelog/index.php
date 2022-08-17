@@ -5,6 +5,13 @@
 	<p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 	<div class="shlisting">
 		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.6, Aug 9, 2022, Summer Event</a></b></p>
+			<div class="autohide">
+				<p><b>Global Reminder</b>: The Summer Event will be starting on Aug 17th 2022, 12.01 PM UTC and will end on Aug 24th 2022, 6.59 PM UTC.</p>
+				<p>ADDED A NEW MIDSUMMER FEAT, unlocking a new cosmetic option.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.5, Jul 6, 2022, Goblin Invasion Event</a></b></p>
 			<div class="autohide">
 				<p><b>Global Reminder</b>: Goblin Invasion Event will be starting on Jul 11th 2021, 12.01 PM UTC and will end on Jul 15th 2021, 6.59 PM UTC.</p>
