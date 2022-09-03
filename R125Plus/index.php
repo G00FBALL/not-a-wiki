@@ -105,6 +105,10 @@
 				<p>W1,W175,W400,W405,W520,W590</p>
 				<p><b>Note</b>: This build gets stronger the higher your evil time this R.</p>
 				<p><b>Note</b>: If your DJ8 is targeting Hell portal you should not buy Infernal Realm.</p>
+				<p><b>Optimal Manual Setup</b>:</p>
+				<p>- Drow Union -> Main production tier (Evil Fortresses or Hell Portals>
+				<p>- Maelstrom -> Main production tier (Evil Fortresses or Hell Portals) based on trophies</p>
+				<p>- Limited Wish -> Trophy count (LW's strength is also random, check Realm Weather Service in Advance - should be a 90% or better hit)</p>
 			</div>
 		</div>
 	</div>
