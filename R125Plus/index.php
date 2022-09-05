@@ -682,24 +682,24 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elf R130+ (Makers UB unlock)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Druid R130+ (Makers UB unlock)</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Ensteffahn</p>
-				<p><b>Requirements</b>: 1e86 (100 Spvg) Gems</p>
-				<p><b>Faction</b>: Elf</p>
-				<p><b>Bloodline</b>: Druid</p>
-				<p><b>Artifact Set</b>: Elf</p>
+				<p><b>Author</b>: earth, based on old build by EIJay</p>
+				<p><b>Requirements</b>: 1e86+ (100 Spvg) Gems</p>
+				<p><b>Faction</b>: Druid</p>
+				<p><b>Bloodline</b>: Titan</p>
+				<p><b>Artifact Set</b>: Dwarf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A250,A495,W10,W560,W1375">
+					<input type="text" value="S1450,S3200,C300,C400,C1300,D275,D330,D1125,E145,E260,E1225,A251,A270,A375,A1200,A1500,W350,W1375,W1400">
 				</p>
-				<p>S175,S3200,</p>
-				<p>C1,C225,C340,C405,C520,C590,</p>
-				<p>D50,D435,D1375,</p>
-				<p>E25,E145,E410,</p>
-				<p>A250,A495,</p>
-				<p>W10,W560,W1375</p>
-				<p><b>Note</b>: Estimated time to unlock is 10 minutes.</p>
+				<p>S1450,S3200,</p>
+				<p>C300,C400,C1300,</p>
+				<p>D330, D1125,</p>
+				<p>E145,E260,E1225</p>
+				<p>A251,A270,A375,A1200,A1500,</p>
+				<p>W350,W1375,W1400</p>
+				<p><b>Note</b>: Takes at most 10 minutes, but usually less.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">
