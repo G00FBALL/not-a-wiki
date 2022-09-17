@@ -350,7 +350,7 @@
 					<p><b>Requirement</b>: A2+, Have no less than 3 days of playtime with at least 24 hours each Order, Chaos and Balance and have less than 1 minute of playtime between them. (This R)</p>
 					<p><b>Cost</b>: 100 Qid (1e50)</p>
 					<p><b>Effect</b>: Increases the production of all buildings based on time spent as least used alignment (this Reincarnation).</p>
-					<p><b>Formula</b>: (0.75 * x ^ 0.75)%, where x is the time spent with your least used alignment (primary or secondary) in seconds.</p>
+					<p><b>Formula</b>: (x ^ 0.75)%, where x is the time spent with your least used alignment (primary or secondary) in seconds.</p>
 					<hr>
 					<p><img src="http://musicfamily.org/realm/Factions/picks/ArtoftheCrowTrophy.png" align="middle"><b> Art of the Crow</b></p>
 					<p><b>Requirement</b>: Have any 6 complete Faction Artifact Sets.</p>
