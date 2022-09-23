@@ -98,7 +98,7 @@
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanUpgrade8.png" alt="Heavy Coins" align="middle"> Heavy Coins</b></p>
 	<p><b>Cost</b>: 500 Oc (5e29)</p>
-	<p><b>Effect</b>: Increases Royal Exchanges production bonus by an additional 100% each, and reduces Royal Exchange cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.09 isntead of 1.1.</p>
+	<p><b>Effect</b>: Increases Royal Exchanges production bonus by an additional 100% each, and reduces Royal Exchange cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.09 instead of 1.1.</p>
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanUpgrade9.png" alt="Oversized Legends" align="middle"> Oversized Legends</b></p>
 	<p><b>Cost</b>: 5 No (5e30)</p>

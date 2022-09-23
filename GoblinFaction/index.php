@@ -27,7 +27,7 @@
 	<hr>
 	<p><b>Tier 1 Upgrades</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinTradeTreaty.png" align="middle"> Goblins Trade Treaty</b></p>
-	<p><b>Cost</b>: Free at R0 with 0 gems, 20 Goblin Coins afterwords.</p>
+	<p><b>Cost</b>: Free at R0 with 0 gems, 20 Goblin Coins afterwards.</p>
 	<p><b>Effect</b>: Unlocks Goblin Upgrades.</p>
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/GoblinUpgrade1.png" align="middle"> Strong Currency</b></p>
