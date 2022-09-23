@@ -1334,7 +1334,7 @@
 	<p><b>Requirement</b>: 18000 Unique Buildings</p>
 	<p><b>Cost</b>: 144.9 Tvg (1.449e74)</p>
 	<p><b>Effect</b>: Reduce Royal Exchange cost multiplier.</p>
-	<p><b>Formula</b>: Reduces multiplier by 0.025; with no other reductions applying, the multiplier will be 1.075 isntead of 1.1.</p>
+	<p><b>Formula</b>: Reduces multiplier by 0.025; with no other reductions applying, the multiplier will be 1.075 instead of 1.1.</p>
 	" coords="2,758,42,798" shape="rect">
 		<area research="<p><b>E1425</b> - For All Neutral Factions</p>
 	<p><b>Research Name</b>: Rarity</p>
