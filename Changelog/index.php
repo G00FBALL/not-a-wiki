@@ -5,6 +5,12 @@
 	<p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 	<div class="shlisting">
 		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.8, Oct 24, 2022, Halloween Event</a></b></p>
+			<div class="autohide">
+				<p><b>Global Reminder</b>: The Halloween Event will be starting on Oct 28th 2022, 12.01 PM UTC and will end on Nov 4th 2022, 7.59 PM UTC.</p>
+				<p>ADDED A NEW HALLOWEEN FEAT, unlocking a new cosmetic option.</p>
+			</div>
+		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.7, Sep 16, 2022, Idillium Event</a></b></p>
 			<div class="autohide">
 				<p><b>Global Reminder</b>: The Idillium Event will be starting on Sep 23rd 2022, 12.01 PM UTC and will end on Sep 30th 2022, 6.59 PM UTC.</p>
