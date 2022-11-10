@@ -391,6 +391,33 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Relics of Prosperity (R90+)<font color="DarkGoldenRod"> Neutral</font></a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: krobbi</p>
+				<p><b>Requirement</b>: Veteran Figurine artifact</p>
+				<p><b>Range</b>: 1e75 (1 Qavg) Gems - 1e128 (100 Uqag) Gems</p>
+				<p><b>Faction</b>: Neutral Mercenary</p>
+				<p><b>Bloodline</b>: Dwarf</p>
+				<p><b>A2950</b>: Dragon</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="EL5,GB3,UD7,TT7,DD6,FC2,FC3,DN4,DW7,DG2,DG5,DG7,SP:Dragon's Breath,SP:Lightning Strike,S215,S305,S330,S1450,S1500,C340,C400,C590,C1300,C3000,D25,D290,D1125,D1275,D2775,E135,E320,E1225,E1425,E3300,A120,A270,A1500,A2950,A3400,W180,W400,W1375,W3050,W3150">
+				</p>
+				<p>EL5,GB3,UD7,TT7,DD6,FC2,FC3,DN4,DW7,DG2,DG5,DG7,</p>
+				<p>SP:Dragon's Breath,SP:Lightning Strike,</p>
+				<p>S215,S305,S330,S1450,S1500,</p>
+				<p>C340,C400,C590,C1300,C3000,</p>
+				<p>D25,D290,D1125,D1275,D2775,</p>
+				<p>E135,E320,E1225,E1425,E3300,</p>
+				<p>A120,A270,A1500,A2950,A3400,</p>
+				<p>W180,W400,W1375,W3050,W3150</p>
+				<p><b>Note</b>: Always select the same lineage as your Bloodline, not A2950.</p>
+				<p><b>Note</b>: D1125 requires E3300 purchased to become available.</p>
+				<p><b>Note</b>: As well as producing gems, this build also gets Primal Balance +10 in around 20 minutes.</p>
+				<p><b>Note</b>: Can potentially push further, but it's better to switch to Dragonflight at e128.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Toward the Unknown (R90+)<font color="DarkRed"> Evil</font></a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Ensteffahn</p>
