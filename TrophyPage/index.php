@@ -1297,7 +1297,7 @@
 	<p><b>Effect</b>: While offline, increases mana produced amount by an additional 10% of your mana regen per second and spell cast amount by 2 per minute.</p>
 	" coords="63,343,117,397" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/ReverseAutocasting.png align=middle> </b>Reverse Autocasting</b>
-	<p><b>Requirement</b>: 150 M (1.5e8) Mana Produced (Total this R)</p>
+	<p><b>Requirement</b>: R40+, 150 M (1.5e8) Mana Produced (Total this R)</p>
 	<p><b>Cost</b>: 3.2 Dc (3.2e33), A2+: Free</p>
 	<p><b>Effect</b>: Allows you to manually reset spells with a 2 second cooldown per spell.</p>
 	<p><b>Note</b>: Can not reset spells with a fixed duration.</p>
@@ -1417,7 +1417,7 @@
 	<p><b>Cost</b>: 10 Octg (1e118), A3+ Free</p>
 	<p><b>Effect</b>: A fraction of Precognition duration is added to time spent in this game.</p>
 	<p><b>Effect</b>: Scale off invisible spell duration modifiers.</p>
-	<p><b>Formula</b>: (3600 + 60 * x ^ 0.4), where x is Precognition duration.(seconds)</p>
+	<p><b>Formula</b>: (100 * ln(1 + x / 60) ^ 2.5), where x is its duration.</p>
 	<p><b>Note</b>: Precognition raises regen itself. Make sure that you have 1e17 with it not active.</p>
 	" coords="123,523,177,577" shape="rect">
 		<area research="<img src=http://musicfamily.org/realm/Factions/picks/PersistentEntropySpellUpgrade.png align=middle> Persistent Entropy</b>

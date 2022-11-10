@@ -5,9 +5,43 @@
 	<p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 	<div class="shlisting">
 		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.8, Oct 24, 2022, Halloween Event</a></b></p>
+			<div class="autohide">
+				<p><b>Global Reminder</b>: The Halloween Event will be starting on Oct 28th 2022, 12.01 PM UTC and will end on Nov 4th 2022, 7.59 PM UTC.</p>
+				<p>ADDED A NEW HALLOWEEN FEAT, unlocking a new cosmetic option.</p>
+			</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.7, Sep 16, 2022, Idillium Event</a></b></p>
+			<div class="autohide">
+				<p><b>Global Reminder</b>: The Idillium Event will be starting on Sep 23rd 2022, 12.01 PM UTC and will end on Sep 30th 2022, 6.59 PM UTC.</p>
+				<p>ADDED A NEW IDILLIUM FEAT, unlocking a new cosmetic option.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.6, Aug 9, 2022, Summer Event</a></b></p>
+			<div class="autohide">
+				<p><b>Global Reminder</b>: The Summer Event will be starting on Aug 17th 2022, 12.01 PM UTC and will end on Aug 24th 2022, 6.59 PM UTC.</p>
+				<p>ADDED A NEW MIDSUMMER FEAT, unlocking a new cosmetic option.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.5, Jul 6, 2022, Goblin Invasion Event</a></b></p>
+			<div class="autohide">
+				<p><b>Global Reminder</b>: Goblin Invasion Event will be starting on Jul 11th 2021, 12.01 PM UTC and will end on Jul 15th 2021, 6.59 PM UTC.</p>
+				<p>ADDED A NEW GOBLIN INVASION FEAT, unlocking a new cosmetic option.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.4, May 11, 2022, Blood War Event</a></b></p>
+			<div class="autohide">
+				<p><b>Global Reminder</b>: The Blood War Event will be starting on Apr 14th 2022, 12.01 PM UTC and will end on Apr 21st 2022, 6.59 PM UTC.</p>
+				<p>ADDED A NEW BLOOD WAR FEAT, unlocking a new cosmetic option.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.3, Mar 30, 2022, Easter Event</a></b></p>
 			<div class="autohide">
-				<p><b>Global Reminder</b>: The Easter Event will be starting on Apr 14th 2022, 12.01 PM UTC and will end on Apr 21st 2021, 6.59 PM UTC.</p>
+				<p><b>Global Reminder</b>: The Easter Event will be starting on Apr 14th 2022, 12.01 PM UTC and will end on Apr 21st 2022, 6.59 PM UTC.</p>
 				<p>ADDED A NEW EASTER FEAT, unlocking a new cosmetic option.</p>
 			</div>
 		</div>

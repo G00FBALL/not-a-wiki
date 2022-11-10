@@ -23,12 +23,12 @@
 	<hr>
 	<p><b>Excavations</b></p>
 	<p>The first excavation costs 1 Oc (1e27) coins, and each subsequent excavation costs without any cost multiplier reduction 20% more than the one before.</p>
-	<p><b>Cost Formula for the x-th excavation</b>: (1e27 ^ (0.75 ^ A) * (1 + M ^ (x - 1)), where A is the number of times you have ascended and M the excavation cost multiplier.</p>
+	<p><b>Cost Formula for the x-th excavation</b>: (1e27 ^ (0.75 ^ A) * M ^ (x - 1)), where A is the number of times you have ascended and M the excavation cost multiplier.</p>
 	<p>The <b>excavation cost multiplier</b> is equal to:<br/>
 	   - A0: (1 + 0.2 - C), where C is the sum of your flat cost reduction upgrades (such as DN8 or E290).<br/>
 	   - A1+: (1 + (0.2 - C) / (5 * A)), where C is the sum of your flat cost reduction upgrades and A is the number of times you have ascended.</p>
 	<p>Every time you excavate, you have a 35% (40% with 'That Excavated Quickly' upgrade) chance per excavation to find a certain amount of Faction Coins as reward.</p>
-	<p><b>Faction Coin Reward Formula</b>: (1500 + 0.05 * (x-1) ^ 2.75), where x is the number of excavations you have.</p>
+	<p><b>Faction Coin Reward Formula</b>: (1500 + 0.05 * (x - 1) ^ 2.75), where x is the number of excavations you have.</p>
 	<p><b>Note</b>: Every time you reincarnate or ascend, your excavation counter will be set back to zero.</p>
 	<hr>
 	<p><b>Excavation Reset</b></p>
@@ -164,14 +164,14 @@
 	<p><b>Hint</b>: Are Faction Coins attracted to glass?</p>
 	<p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
 	<p><b>Requirement</b>: R125+, Faceless Faction, 12,500+ Excavations</p>
-	<p><b>Chance</b>: (log10(1 + x) ^ 3 / 2,500,000 (2.5 M))%, where x is Faction Coins this game.</p>
+	<p><b>Chance</b>: (log10(1 + x) ^ 3 / 2,500,000 (2.5 M))%, where x is Faction Coins found this game.</p>
 	" coords="183,163,236,216" shape="rect">
 		<area research="
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/ThirdCrystalFragment.png' align='middle'> Third Crystal Fragment</b></p>
 	<p><b>Hint</b>: Also acts as a spell catalyst.</p>
 	<p><b>Description</b>: A strange, glass-like material that appears to have been shattered into three pieces.</p>
-	<p><b>Requirement</b>: R125+, Demon Faction, 12,500+ Excavations/p>
-	<p><b>Chance</b>: (x / 50,000,000 (50 M))%, where x is evil spells this Reincarnation.</p>
+	<p><b>Requirement</b>: R125+, Demon Faction, 12,500+ Excavations</p>
+	<p><b>Chance</b>: (x / 50,000,000 (50 M))%, where x is evil spells cast this Reincarnation.</p>
 	" coords="243,163,296,216" shape="rect">
 		<area research="
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/FirstStoneFragment.png' align='middle'> First Stone Fragment</b></p>

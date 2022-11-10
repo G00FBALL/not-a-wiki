@@ -534,7 +534,7 @@
 	<p><b>Level 20</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FacelessPerk3.png" align="middle"> Faceless Perk 3</b></p>
 	<p><b>Requirement</b>: Reach Lineage Level 20.</p>
-	<p><b>Effect</b>: Increase assistants prodcution based on the amount of Unique Buildings you own. Does not suffer from Ascension penalties.</p>
+	<p><b>Effect</b>: Increase assistants production based on the amount of Unique Buildings you own. Does not suffer from Ascension penalties.</p>
 	<p><b>Formula</b>: (x ^ 0.5)%, where x is the amount of Unique Buildings you own.</p>
 	<br/>
 	<p><b>Level 30</b></p>

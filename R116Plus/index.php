@@ -56,7 +56,7 @@
 				<div class="autohide">
 				<p><b>Author</b>: ensteffahn</p>
 				<p><b>Range</b>: 1e50 (100 Qid) Gems+</p>
-				<p><b>Recomendation</b>: Uniformity and TTC4 buffs (100%+ and 400%+ at least)</p>
+				<p><b>Recommendation</b>: Uniformity and TTC4 buffs (100%+ and 400%+ at least)</p>
 				<p><b>Faction</b>: Angel</p>
 				<p><b>Bloodline</b>: Dragon</p>
 				<p><b>Artifact Set</b>: Angel</p>
@@ -80,6 +80,7 @@
 				<p><b>Note</b>: 1e67 (10 Uvg) switch C400 to C340</p>
 			</div>
 		</div>
+	</div>
 	<p><b>Artifact Builds</b></p>
 	<div class="category">
 		<div class="shelementwhole">

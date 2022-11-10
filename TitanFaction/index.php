@@ -98,7 +98,7 @@
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanUpgrade8.png" alt="Heavy Coins" align="middle"> Heavy Coins</b></p>
 	<p><b>Cost</b>: 500 Oc (5e29)</p>
-	<p><b>Effect</b>: Increases Royal Exchanges production bonus by an additional 100% each, and reduces Royal Exchange cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.09 isntead of 1.1.</p>
+	<p><b>Effect</b>: Increases Royal Exchanges production bonus by an additional 100% each, and reduces Royal Exchange cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.09 instead of 1.1.</p>
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/TitanUpgrade9.png" alt="Oversized Legends" align="middle"> Oversized Legends</b></p>
 	<p><b>Cost</b>: 5 No (5e30)</p>
@@ -130,7 +130,7 @@
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheAncientsFactionUpgrade.png" align="middle"> Secrets of the Ancients</b></p>
 	<p><b>Requirement</b>: Key To The Lost City artifact, Any Neutral Unique Building.</p>
-	<p><b>Cost</b>: 1 Noqag (1e151) Coins, 1 M (1e6) Fairy, Elven, Angel, Goblin, Undead, Demon coins</p>
+	<p><b>Cost</b>: 10 Noqag (1e151) Coins, 1 M (1e6) Fairy, Elven, Angel, Goblin, Undead, Demon coins</p>
 	<p><b>Effect</b>: Unlocks research for Titan, Druids and Faceless and increases production by 100,000%, plus an additional bonus based on Economics research points.</p>
 	<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
 	<br/>
@@ -158,7 +158,7 @@
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/MountainPalaceUniqueBuildingUpgrade.png" alt="Mountain Palace" align="middle"> Unique Building Upgrade</b></p>
 	<p><b>Requirement</b>: Mountain Palace Quest</p>
-	<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
+	<p><b>Cost</b>: 1 Td (1e42) Emerald Coins</p>
 	<p><b>Effect</b>: Gives Mountain Palace Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>

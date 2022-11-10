@@ -4,6 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <?php include "../scripts/header.html"; ?>
 <h6><img src="http://musicfamily.org/realm/Factions/picks/TopPageResearch.png" alt="Spellcraft" align="middle"></h6>
+<br/>
 <div class="shlisting">
 	<br/>
 	<p><b>Production Builds R125-R130</b></p>
@@ -77,10 +78,37 @@
 				<p>C25,C400,C405,C520,</p>
 				<p>D1,D175,D435,D590,D1375,</p>
 				<p>E145,E410,</p>
-				<p>A50,A250,A495,</p>
+				<p>A50,A120,A495,</p>
 				<p>W225,W400,W560</p>
-				<p><b>Note</b>: Swap  Angelset with Dwarfset 1e65 (100 Vg) Gems+</p>
+				<p><b>Note</b>: Swap Angelset with Dwarfset 1e65 (100 Vg) Gems+</p>
 				<p><b>Note</b>: Swap C400 with C340 at 1e67 (10 Uvg) Gems or above.</p>
+			</div>
+		</div>
+    <div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Demons 1e72+ (1 Tvg)</a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: NecroXD</p>
+				<p><b>Range</b>: 1e72 (1 Tvg) Gems+</p>
+				<p><b>Requirement</b>: All Masks, LW Spell Trophy</p>
+				<p><b>Faction</b>: Demon</p>
+				<p><b>Bloodline</b>: Faceless</p>
+				<p><b>Artifact Set</b>: Demon</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S200,S435,C50,C400,D10,D560,D1375,E145,E230,E495,A25,A270,A410,W1,W175,W400,W405,W520,W590">
+				</p>
+				<p>S200,S435,</p>
+				<p>C50,C400,</p>
+				<p>D10,D560,D1375,</p>
+				<p>E145,E230,E495,</p>
+				<p>A25,A270,A410,</p>
+				<p>W1,W175,W400,W405,W520,W590</p>
+				<p><b>Note</b>: This build gets stronger the higher your evil time this R.</p>
+				<p><b>Note</b>: If your DJ8 is targeting Hell portal you should not buy Infernal Realm.</p>
+				<p><b>Optimal Manual Setup</b>:</p>
+				<p>- Drow Union -> Main production tier (Evil Fortresses or Hell Portals>
+				<p>- Maelstrom -> Main production tier (Evil Fortresses or Hell Portals) based on trophies</p>
+				<p>- Limited Wish -> Trophy count (LW's strength is also random, check Realm Weather Service in Advance - should be a 90% or better hit)</p>
 			</div>
 		</div>
 	</div>
@@ -402,7 +430,7 @@
 				<p>E135,E410,</p>
 				<p>A50,A400,A495,</p>
 				<p>W180,W225,W560</p>
-				<p><b>After Archon treaty</b>: S305,C340,D1375,E145,A120,W400 (Reimport build)</p>
+				<p><b>After Archon treaty</b>: S330,C340,D1375,E145,A120,W400 (Reimport build)</p>
 				<p><b>Note</b>: Buff Excavations/Excavation resets (20 Resets at e68,Buff again at e77 to 30 Resets) Buffing AR1 to at least 8000% is recommended.</p>
 				<p><b>Note</b>: Swap E135 with E320, W180 with W1375, W400 with W180, and S330 with S200 at e86 (100 Spvg) gems+ to buy union.</p>
         <p><b>Note</b>: The first run of the R will be slower and archon treaty will take around 5-10 minutes to purchase. Subsequent runs won't suffer this problem.</p>
@@ -500,7 +528,7 @@
 				<p><b>After Archon Treaty</b>: S3200,C340,D3350,E135,A545,W1275 (Reimport Build)</p>
 			</div>
 		</div>
-		<div class="shelementwhole">
+		<!--div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Undeadline Goblin (AR1)</a></b> Need testing</p>
 			<div class="autohide">
 				<p><b>Author</b>: SomeoneLucas</p>
@@ -525,7 +553,7 @@
 				<p>W25,W205,W405,W520</p>
 				<p><b>Note</b>: Swap D1375 with D290 at 1e73 (10 Tvg) Gems+.</p>
 			</div>
-		</div>
+		</div-->
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Fairyline Goblin R130+ (AR1)</a></b></p>
 			<div class="autohide">
@@ -654,24 +682,24 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Elf R130+ (Makers UB unlock)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Druid R130+ (Makers UB unlock)</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Ensteffahn</p>
-				<p><b>Requirements</b>: 1e86 (100 Spvg) Gems</p>
-				<p><b>Faction</b>: Elf</p>
-				<p><b>Bloodline</b>: Druid</p>
-				<p><b>Artifact Set</b>: Elf</p>
+				<p><b>Author</b>: earth, based on old build by EIJay</p>
+				<p><b>Requirements</b>: 1e86+ (100 Spvg) Gems</p>
+				<p><b>Faction</b>: Druid</p>
+				<p><b>Bloodline</b>: Titan</p>
+				<p><b>Artifact Set</b>: Dwarf</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S175,S3200,C1,C225,C340,C405,C520,C590,D50,D435,D1375,E25,E145,E410,A250,A495,W10,W560,W1375">
+					<input type="text" value="S1450,S3200,C300,C400,C1300,D275,D330,D1125,E145,E260,E1225,A251,A270,A375,A1200,A1500,W350,W1375,W1400">
 				</p>
-				<p>S175,S3200,</p>
-				<p>C1,C225,C340,C405,C520,C590,</p>
-				<p>D50,D435,D1375,</p>
-				<p>E25,E145,E410,</p>
-				<p>A250,A495,</p>
-				<p>W10,W560,W1375</p>
-				<p><b>Note</b>: Estimated time to unlock is 10 minutes.</p>
+				<p>S1450,S3200,</p>
+				<p>C300,C400,C1300,</p>
+				<p>D330, D1125,</p>
+				<p>E145,E260,E1225</p>
+				<p>A251,A270,A375,A1200,A1500,</p>
+				<p>W350,W1375,W1400</p>
+				<p><b>Note</b>: Takes at most 10 minutes, but usually less.</p>
 			</div>
 		</div>
 		<div class="shelementwhole">

@@ -492,7 +492,7 @@
 	<p><b>Effect</b>: Assistants count 200% more, and increase their production by 200%.</p>
 	<p></p>
 	<p><b>Heavy Coins</b></p>
-	<p><b>Effect</b>: Increases Royal Exchanges production bonus by an additional 100% each, and reduces Royal Exchange cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.09 isntead of 1.1.</p>
+	<p><b>Effect</b>: Increases Royal Exchanges production bonus by an additional 100% each, and reduces Royal Exchange cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.09 instead of 1.1.</p>
 	<p></p>
 	<p><b>Oversized Legends</b></p>
 	<p><b>Effect</b>: Reduce Hall of Legends building cost multiplier by 0.01; with no other reductions applying, the multiplier will be 1.14 instead of 1.15.</p>

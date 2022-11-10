@@ -121,7 +121,7 @@
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/BurningAbyssUniqueBuildingUpgrade.png" alt="Burning Abyss" align="middle"> Burning Abyss Unique Building Upgrade</b></p>
 	<p><b>Requirement</b>: Burning Abyss Quest</p>
-	<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
+	<p><b>Cost</b>: 1 Td (1e42) Emerald Coins</p>
 	<p><b>Effect</b>: Gives Burning Abyss Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>

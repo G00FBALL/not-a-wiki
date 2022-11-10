@@ -129,7 +129,7 @@
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/SecretsoftheAncientsFactionUpgrade.png" align="middle"> Secrets of the Ancients</b></p>
 	<p><b>Requirement</b>: Key To The Lost City artifact, Any Neutral Unique Building.</p>
-	<p><b>Cost</b>: 1 Noqag (1e151) Coins, 1 M (1e6) Fairy, Elven, Angel, Goblin, Undead, Demon coins</p>
+	<p><b>Cost</b>: 10 Noqag (1e151) Coins, 1 M (1e6) Fairy, Elven, Angel, Goblin, Undead, Demon coins</p>
 	<p><b>Effect</b>: Unlocks research for Titan, Druids and Faceless and increases production by 100,000%, plus an additional bonus based on Economics research points.</p>
 	<p><b>Note</b>: Required once throughout the entire game play and does not count towards the bought upgrade stat.</p>
 	<br/>
@@ -158,7 +158,7 @@
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/ForbiddenLibraryUniqueBuildingUpgrade.png" alt="Forbidden Library" align="middle"> Unique Building Upgrade</b></p>
 	<p><b>Requirement</b>: Forbidden Library Quest</p>
-	<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
+	<p><b>Cost</b>: 1 Td (1e42) Emerald Coins</p>
 	<p><b>Effect</b>: Gives Forbidden Library Unique Building.</p>
 	<br/>
 	<p><b>Unique Building</b></p>

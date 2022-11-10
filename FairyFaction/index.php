@@ -24,7 +24,7 @@
 	<hr>
 	<p><b>Tier 1 Upgrades</b></p>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyTradeTreaty.png" alt="Fairy" align="middle"> Fairies Trade Treaty</b></p>
-	<p><b>Cost</b>: Free at R0 with 0 gems, 20 Fairy Coins afterwords.</p>
+	<p><b>Cost</b>: Free at R0 with 0 gems, 20 Fairy Coins afterwards.</p>
 	<p><b>Effect</b>: Fairies focus on the small and common things and make them magically powerful. Affiliating yourself with the Fairy faction will hugely improve the output of lower tier buildings.</p>
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyUpgrade1.png" align="middle"> Pixie Dust Fertilizer</b></p>
@@ -121,7 +121,7 @@
 	<p><b>Effect</b>: Grants access to Unique Building.</p>
 	<br/>
 	<p><b><img src="http://musicfamily.org/realm/Factions/picks/SwarmingTowersUniqueBuildingUpgrade.png" alt="Swarming Towers" align="middle"> Unique Building Upgrade</b></p>
-	<p><b>Cost</b>: 1 Td (1e42) Emerald Coin</p>
+	<p><b>Cost</b>: 1 Td (1e42) Emerald Coins</p>
 	<p><b>Requirement</b>: Swarming Towers Quest</p>
 	<p><b>Effect</b>: Gives Swarming Towers Unique Building.</p>
 	<br/>
