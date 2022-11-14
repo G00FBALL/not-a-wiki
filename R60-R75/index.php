@@ -155,7 +155,6 @@
 				<p>E135,E145,E260,E290,E1225,E1425,</p>
 				<p>A120,A305,A400,A545,A1325,A1500,</p>
 				<p>W150,W180,W350,W400,W1375</p>
-				<p><b>Note</b>: Do <b>NOT</b> buy dragon treaty until you have met the mana generated requirement.</p>
 				<p><b>Note</b>: Takes estimated 6-7 hours for mana requirement. The hardest requirement is the 90k building requirement. Requires free excavations to excavate Spiritual Surge 6 and Dragon's Breath 5. Grand Balance tiers or amount of targets is irrelevant for this build.</p>
 			</div>
 		</div>
