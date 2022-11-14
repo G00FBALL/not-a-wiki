@@ -84,10 +84,10 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Elves (R111-R115), 1e36 - 1e48 (1 Ud - 1 Qid)</a></b></p>
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Goblinline Elves (R111-R115), 1e36 - 1e43 (1 Ud - 10 Td)</a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Sad</p>
-					<p><b>Range</b>: 1e36 - 1e48 (1 Ud - 1 Qid) Gems</p>
+					<p><b>Range</b>: 1e36 - 1e43 (1 Ud - 10 Td) Gems</p>
 					<p><b>Faction</b>: Elf</p>
 					<p><b>Bloodline</b>: Goblin</p>
 					<p><b>Artifact Set</b>: Angel</p>
@@ -113,10 +113,33 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Early Dragonline Angels (R112-R115), 1e43 (10 Td) - 1e48 (1 Qid)</a></b></p>
+				<div class="autohide">
+					<p><b>Author</b>: Pedro</p>
+					<p><b>Range</b>: 1e43 - 1e48 (10 Td - 1 Qid) Gems</p>
+					<p><b>Faction</b>: Angel</p>
+					<p><b>Bloodline</b>: Dragon</p>
+					<p><b>Artifact Set</b>: Angel</p>
+					<p>
+						<button onclick="myFunction($(this))">Copy Build</button>
+						<input type="text" value="S10,S3200,C25,C400,D1,D175,D1375,E320,A50,A3400,W225,W1375">
+					</p>
+					<p>S10,S3200,</p>
+					<p>C25,C400,</p>
+					<p>D1,D175,D1375,</p>
+					<p>E320,</p>
+					<p>A50,A3400,</p>
+					<p>W225,W1375</p>
+					<p><b>Note</b>: Recommended to buff Uniformity (400%+) and TTC4 (1000%+).</p>
+					<p><b>Note</b>: Build prioritises Faction Coins to buy SS7 more quickly.</p>
+					<p><b>Note</b>: Benefits from Neutral time this R through White Dragon's Breath.</p>
+				</div>
+			</div>
+			<div class="shelementwhole">
 				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dragonline Angels (R114-R115), 1e48 (1 Qid)+</a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Ensteffahn</p>
-					<p><b>Range</b>: 1e48 (1 Qid)+</p>
+					<p><b>Range</b>: 1e48 (1 Qid)+ Gems</p>
 					<p><b>Faction</b>: Angel</p>
 					<p><b>Bloodline</b>: Dragon</p>
 					<p><b>Artifact Set</b>: Angel</p>

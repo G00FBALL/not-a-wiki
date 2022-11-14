@@ -31,7 +31,7 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Facelessline Elves 1e36 (1 Ud) - 1e50 (100 Qid)</a></b></p>
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R125 Facelessline Elves 1e36 (1 Ud) - 1e50 (100 Qid)</a></b></p>
 				<div class="autohide">
 					<p><b>Author</b>: Ensteffahn and RellikRellik, minorly adjusted by Pent</p>
 					<p><b>Range</b>: 1e36 (1 Ud) Gems - 1e50 (100 Qid) Gems</p>
@@ -52,7 +52,7 @@
 				</div>
 			</div>
 			<div class="shelementwhole">
-				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R120 Dragonline Angel 1e50 (100 Qid)+</a></b></p>
+				<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">R116-R125 Dragonline Angel 1e50 (100 Qid)+</a></b></p>
 				<div class="autohide">
 				<p><b>Author</b>: ensteffahn</p>
 				<p><b>Range</b>: 1e50 (100 Qid) Gems+</p>
@@ -238,14 +238,36 @@
 	</div>
 	<br/>
 	<p><b>Lineage level 30 Builds R120+</b></p>
-	<p><b>Note</b>: Start with Dragonline and go from there</p>
+	<p><b>Note</b>: Start with Dwarfline and go from there</p>
 	<div class="category">
+		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Dwarfline Druid (Dwarf L30)</a></b></p>
+			<div class="autohide">
+				<p><b>Author</b>: kuerti</p>
+				<p><b>Range</b>: 7e61+ (70 Nod) Gems+</p>
+				<p><b>Requirements</b>: Future Linkin, Ancestral Hourglass, possibly 1-2 available excavation resets</p>
+				<p><b>Faction</b>: Druid</p>
+				<p><b>Bloodline</b>: Dwarf</p>
+				<p><b>Artifact Set</b>: Dwarf</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S1450,S3200,C300,C340,C1300,D275,D290,D1125,E260,E290,E1225,A120,A251,A375,A1200,A1500,W350,W400,W1400">
+				</p>
+				<p>S1450,S3200,</p>
+				<p>C300,C340,C1300,</p>
+				<p>D275,D290,D1125,</p>
+				<p>E260,E290,E1225,</p>
+				<p>A120,A251,A375,A1200,A1500,</p>
+				<p>W350,W400,W1400</p>
+				<p><b>Note</b>: Build is based on Dwarven Perk 3 boosting Dragon Challenge 4, allowing you to excavate for the required Faction Coins.</p>
+			</div>
+		</div>
     <div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Faceless lineage leveler (L30) (for all but Facelessline and Dragonline)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Xantcha</p>
-				<p><b>Range</b>: 7e61+ (10 Nod) Gems+</p>
-				<p><b>Requirements</b>: Future Linkin, Ancestral Hourglass, Any L30 Lineage,</p>
+				<p><b>Range</b>: 7e61+ (70 Nod) Gems+</p>
+				<p><b>Requirements</b>: Future Linkin, Ancestral Hourglass, Any L30 Lineage</p>
 				<p><b>Faction</b>: Faceless</p>
 				<p><b>Bloodline</b>: Any except for Faceless and Dragons</p>
 				<p><b>Artifact Set</b>: Matching bloodline set for FC bonus</p>
@@ -256,10 +278,10 @@
 				<p>S251,S375,S1450,S1500,S3200,</p>
 				<p>C400,C1300,</p>
 				<p>D260,D1125,D1375,</p>
-				<p>E320,E350,E1125,</p>
+				<p>E320,E350,E1225,</p>
 				<p>A300,A1200,A3400,</p>
 				<p>W275,W1375,W1400</p>
-        <p><b>Note</b>: Requires a L30 lineage, use dragonline Goblin (will take a while).</p>
+        <p><b>Note</b>: Requires a L30 lineage, use Dwarfline Druid.</p>
 				<p><b>Note</b>: Run Dragonline Undead build to buff Max Assistants, takes around 20m to afford DW12.</p>
         <p><b>Note</b>: Performs well for Elven and Drow (less than 30min); Dwarven (~40min); Fairy, Goblin (both 10m); Undead, Titan (~5min). Might be faster depending on your stats.</p>
         <p><b>Note</b>: Compared to other two builds, this one is faster for leveling DN and EL. If you're using an autoclicker, then DW is faster with the Elven build. Unsure about AN, DM, DD.</p>
