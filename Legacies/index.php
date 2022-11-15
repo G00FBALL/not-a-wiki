@@ -380,7 +380,7 @@
 		<area research="
 	<p><img src='http://musicfamily.org/realm/Factions/picks/UndeadUpgrade9.png' align='middle'><b> Undead Gold Legacy</b></p>
 	<p><b>Dead Fields</b></p>
-	<p><b>Effect</b>: Buildings count 100% more.</p>
+	<p><b>Effect</b>: Buildings count 75% more.</p>
 	<p></p>
 	<p><b>Tireless Workers</b></p>
 	<p><b>Effect</b>: Increase the production of assistants by 1500%.</p>
