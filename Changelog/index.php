@@ -5,11 +5,19 @@
 	<p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 	<div class="shlisting">
 		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.9, Dec 18, 2022, Christmas Event</a></b></p>
+			<div class="autohide">
+				<p><b>Global Reminder</b>: The Christmas Event will be starting on Dec 21st 2022, 1.01 PM UTC and will end on Jan 5th 2023, 7.59 PM UTC.</p>
+				<p>ADDED A NEW CHRISTMAS FEAT, unlocking a new cosmetic option.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.8, Oct 24, 2022, Halloween Event</a></b></p>
 			<div class="autohide">
 				<p><b>Global Reminder</b>: The Halloween Event will be starting on Oct 28th 2022, 12.01 PM UTC and will end on Nov 4th 2022, 7.59 PM UTC.</p>
 				<p>ADDED A NEW HALLOWEEN FEAT, unlocking a new cosmetic option.</p>
 			</div>
+		</div>
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.7, Sep 16, 2022, Idillium Event</a></b></p>
 			<div class="autohide">
@@ -55,7 +63,7 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.1, Dec 17, 2021, Christmas Event</a></b></p>
 			<div class="autohide">
-				<p><b>Global Reminder</b>: Christmas Event will be starting on Dec 20th 2021, 1.01 PM UTC and will end on Jan 04th 2022, 7.59 PM UTC.</p>
+				<p><b>Global Reminder</b>: The Christmas Event will be starting on Dec 20th 2021, 1.01 PM UTC and will end on Jan 4th 2022, 7.59 PM UTC.</p>
 				<p>ADDED A NEW CHRISTMAS FEAT, unlocking a new upgrade.</p>
 				<p>Prestige Artifacts can now be excavated properly.</p>
 				<p>AN1 base decreased.</p>
@@ -104,7 +112,7 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.0, Oct 27, 2021, Halloween Event</a></b></p>
 			<div class="autohide">
-				<p><b>Global Reminder</b>: the Halloween Event will be starting on Oct 29th 2021, 12.01 PM UTC and will end on Nov 5th 2021, 7.59 PM UTC.</p>
+				<p><b>Global Reminder</b>: The Halloween Event will be starting on Oct 29th 2021, 12.01 PM UTC and will end on Nov 5th 2021, 7.59 PM UTC.</p>
 				<p>ADDED A NEW HALLOWEEN FESTIVAL FEAT, unlocking a new upgrade.</p>
 				<p>PRESTIGE FACTIONS are now integrated into the Legacy System, available from Reincarnation 240.</p>
 				<p>TWO NEW RESEARCHES per branch.</p>
@@ -152,7 +160,7 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.1.3, Sep 21, 2021, Idillium Event</a></b></p>
 			<div class="autohide">
-				<p><b>Global Reminder</b>: Idillium Event will be starting on Sep 23rd 2021, 12.01 PM UTC and will end on Sep 30th 2021, 6.59 PM UTC.</p>
+				<p><b>Global Reminder</b>: The Idillium Event will be starting on Sep 23rd 2021, 12.01 PM UTC and will end on Sep 30th 2021, 6.59 PM UTC.</p>
 				<p>ADDED A NEW IDILLIUM FEAT, unlocking a new upgrade.</p>
 				<p>Added the COPY ID feature: by clicking on the ID in your Options menu, it will be copied to clipboard, then you can paste it on any text area.</p>
 				<p>Added a spell counter on the Golden Age feat.</p>
@@ -168,7 +176,7 @@
 		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.1.1, Jul 19, 2021, Goblin Invasion Event</a></b></p>
 			<div class="autohide">
-				<p><b>Global Reminder</b>: Goblin Invasion Event will be starting on Jul 26th 2021, 12.01 PM UTC and will end on Jul 30th 2021, 6.59 PM UTC.</p>
+				<p><b>Global Reminder</b>: The Goblin Invasion Event will be starting on Jul 26th 2021, 12.01 PM UTC and will end on Jul 30th 2021, 6.59 PM UTC.</p>
 				<p>ADDED A NEW GOBLIN INVASION FEAT, unlocking a new upgrade.</p>
 				<p>TT4 now also increases the production of its respective buildings by 1000%.</p>
 				<p>TT8 effect increased.</p>
