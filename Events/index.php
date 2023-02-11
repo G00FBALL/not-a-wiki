@@ -18,7 +18,7 @@
 	</p>
 	<script>
 		var currentTime = new Date().getTime();
-		var countDownDate1 = new Date("Feb 13, 2022 13:01:00 UTC").getTime();
+		var countDownDate1 = new Date("Feb 13, 2023 13:01:00 UTC").getTime();
 		var countDownDate2 = new Date("Feb 17, 2023 19:59:00 UTC").getTime();
 		var x = setInterval(function() {
 			var now = new Date().getTime();
