@@ -61,7 +61,7 @@
 				<tr>
 					<th>Rubies</th>
 					<th colspan="1">Event</th>
-					<th colspan="8">Total Cumulative Bonus: 519%</th>
+					<th colspan="9">Total Cumulative Bonus: 519%</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -103,6 +103,7 @@
 						<td>14%</td>
 						<td>14%</td>
 						<td>14%</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>0</td>
@@ -115,6 +116,7 @@
 						<td>&#10004;</td>
 						<td>&#10004;</td>
 						<td>&#10004;</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>0</td>
@@ -127,6 +129,7 @@
 						<td>8%</td>
 						<td>8%</td>
 						<td>8%</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>0</td>
@@ -139,6 +142,7 @@
 						<td>8%</td>
 						<td>8%</td>
 						<td>8%</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>0</td>
@@ -151,6 +155,7 @@
 						<td>8%</td>
 						<td>8%</td>
 						<td>8%</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>0</td>
@@ -163,6 +168,7 @@
 						<td>12%</td>
 						<td>12%</td>
 						<td>12%</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>56 (8)</td>
@@ -175,6 +181,7 @@
 						<td>11%</td>
 						<td>11%</td>
 						<td>11%</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>0</td>
@@ -187,6 +194,7 @@
 						<td>&#10004;</td>
 						<td>&#10004;</td>
 						<td>&#10004;</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>12 (12)</td>
@@ -194,6 +202,7 @@
 						<td></td>
 						<td></td>
 						<td>&#10004;</td>
+						<td></td>
 						<td></td>
 						<td></td>
 						<td></td>
@@ -211,6 +220,7 @@
 						<td>14%</td>
 						<td>14%</td>
 						<td>14%</td>
+						<td></td>
 					</tr>
 				</tbody>
 		</table>
@@ -1060,7 +1070,6 @@
 					</div>
 				</div>
 			</div>
-		</div>
 		<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">2022 Events</a></b></p>
 		<div class="category autohide">
 			<div class="shelementwhole">
