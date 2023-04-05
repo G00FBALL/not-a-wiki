@@ -5,6 +5,13 @@
 	<p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 	<div class="shlisting">
 		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.11, Apr 3, 2023, Easter Event</a></b></p>
+			<div class="autohide">
+				<p><b>Global Reminder</b>: The Easter Event will be starting on Apr 6th 2023, 1.01 PM UTC and will end on Apr 13th 2023, 7.59 PM UTC.</p>
+				<p>ADDED A NEW EASTER FEAT, unlocking a new event upgrade.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.10, Feb 8, 2023, Valentine Event</a></b></p>
 			<div class="autohide">
 				<p><b>Global Reminder</b>: The Valentine Event will be starting on Feb 13th 2023, 1.01 PM UTC and will end on Feb 17th 2023, 7.59 PM UTC.</p>
