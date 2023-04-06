@@ -1801,7 +1801,7 @@
 			<div class="autohide">
 				<p><b>1.5.44</b> Dec 2015</p>
 				<p>Fixed Grand Balance second target (from Weighting Research) not targeting buildings properly.</p>
-				<p>Added a timer for Miracle (Devine 400) on building tool tips.</p>
+				<p>Added a timer for Miracle (Divine 400) on building tool tips.</p>
 				<p>Added description of your own faction's bloodline on Bloodspring (alchemy 400) tooltip.</p>
 				<p>Changed graphics for the Buy snowballs button in Events panel.</p>
 				<p>Added additional information about Ruby tiers production bonus in their respective tooltips.</p>
