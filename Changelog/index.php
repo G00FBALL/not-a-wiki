@@ -5,9 +5,17 @@
 	<p>The patch notes, or changelogs, can also be accessed by clicking the Version Number on bottom right corner of the ingame options window.</p>
 	<div class="shlisting">
 		<div class="shelementwhole">
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.12, May 9, 2023, Blood War Event</a></b></p>
+			<div class="autohide">
+				<p><b>Global Reminder</b>: The Blood War Event will be starting on May 18th 2023, 12.01 PM UTC and will end on May 22nd 2023, 6.59 PM UTC.</p>
+				<p>ADDED A NEW BLOOD WAR FEAT, unlocking a new event upgrade.</p>
+				<p>As an apology gift, this year's Easter Feat, Eggsercise, will be unlocked for every player who logs in during the Blood War 2023 event.</p>
+			</div>
+		</div>
+		<div class="shelementwhole">
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">v4.2.11, Apr 3, 2023, Easter Event</a></b></p>
 			<div class="autohide">
-				<p><b>Global Reminder</b>: The Easter Event will be starting on Apr 6th 2023, 1.01 PM UTC and will end on Apr 13th 2023, 7.59 PM UTC.</p>
+				<p><b>Global Reminder</b>: The Easter Event will be starting on Apr 6th 2023, 12.01 PM UTC and will end on Apr 13th 2023, 6.59 PM UTC.</p>
 				<p>ADDED A NEW EASTER FEAT, unlocking a new event upgrade.</p>
 			</div>
 		</div>
