@@ -549,7 +549,7 @@
 	<p id="CalltoArms"><b><img src="http://musicfamily.org/realm/Factions/picks/CalltoArms.png" alt="All Factions" align="middle"> Call to Arms</b> (All Factions)</p>
 	<p><b>Cost</b>: 400 Mana - <b>Duration</b>: 20 seconds </p>
 	<p><b>Effect</b>: Increase the production of all buildings based on the amount of buildings you own.</p>
-	<p><b>Formula</b>: ((25 + 0.3 * x) ^ 0.975)%, where x is your Buildings Owned (This Game) stat.</p>
+	<p><b>Formula</b>: (25 + (0.3 * x) ^ 0.975)%, where x is your Buildings Owned (This Game) stat.</p>
 	<p><b><img src='http://musicfamily.org/realm/Factions/picks/WarcryChallengeReward.png' align='middle'> Warcry</b> (R206+)</p>	
 	<p>Call to Arms gains additional effects based on your alignments, scaling off your Call to Arms strength.</p>
 	<p><b>Good</b>: Grants one maximum castable Call to Arms tier per ascension and removes one ascension penalty from Call to Arms. Tax Collection casts in this game now increases Call to Arms base bonus (This bonus will boost the other Warcry effect. Stacks multiplicatively with W180, additively with C225 & R150 power).</p>
