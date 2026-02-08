@@ -114,28 +114,28 @@
 					<p><b>Range</b>: 1e132 (1 Tqag) Gems - 1e144 (1 Spqag) Gems</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="S135,S150,S215,S250,S330,C120,C135,C150,C200,C400,C500,C520,D1,D55,D245,D320,D435,D590,E145,E150,E200,E330,E410,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330">
+						<input type="text" value="S135,S150,S215,S250,S330,C120,C135,C150,C200,C400,C500,C520,D1,D55,D245,D320,D435,D590,E80,E150,E200,E330,E410,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330">
 					</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="S135,S150,S215,S250,S330,C120,C135,C150,C200,C400,C500,C520,D1,D55,D245,D320,D435,D590,E145,E150,E200,E330,E410,A105,A120,A150,A330,A495,W150,W180,W290,W320,W330">
+						<input type="text" value="S135,S150,S215,S250,S330,C120,C135,C150,C200,C400,C500,C520,D1,D55,D245,D320,D435,D590,E80,E150,E200,E330,E410,A105,A120,A150,A330,A495,W150,W180,W290,W320,W330">
 						<b>A400 not unlocked</b>
 					</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="S135,S150,S215,S250,S330,C120,C135,C150,C200,C400,C500,C520,D1,D55,D245,D320,D435,D590,E150,E200,E290,E330,E410,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330">
+						<input type="text" value="S135,S150,S215,S250,S330,C120,C135,C150,C200,C400,C500,C520,D1,D55,D245,D320,D435,D590,E80,E150,E290,E330,E410,A105,A120,A150,A330,A400,W150,W180,W290,W320,W330">
 						<b>For Max Excavations</b>
 					</p>
 					<p>S135,S150,S215,S250,S330,</p>
 					<p>C120,C135,C150,C200,C400,C500,C520,</p>
 					<p>D1,D55,D245,D320,D435,D590,</p>
-					<p>E145,E150,E200,E330,E410,</p>
+					<p>E80,E150,E200,E330,E410,</p>
 					<p>A105,A120,A150,A330,A400,</p>
 					<p>W150,W180,W290,W320,W330</p>
 					<p><b>Note</b>: This is a grower build, meaning that the build will benefit more from longer (15 minutes or more) runs instead of shorter (2-5 minutes) runs.</p>		
 					<p><b>Note</b>: It's heavily recommended that you have Dwarven Horn before running this build (and ascending).</p>
 					<p><b>Note</b>: Swap A400 with A495 if you don't have A400 (requires 2 days as Druids).</p>
-					<p><b>Note</b>: Swap E135 with E290 for maximizing excavations.</p>			
+					<p><b>Note</b>: Swap E200 with E290 for maximizing excavations.</p>			
 				</div>
 			</div>
 			<div class="shelementwhole">
@@ -149,29 +149,29 @@
 					<p><b>Range</b>: 1e132 (1 Tqag) Gems - 1e144 (1 Spqag) Gems</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="S135,S150,S215,S250,S330,C120,C135,C150,C200,C400,C500,C520,D1,D55,D175,D320,D435,D590,E145,E150,E200,E330,E410,A105,A150,A330,A400,A495,W150,W225,W290,W320,W330">
+						<input type="text" value="S135,S150,S215,S250,S330,C120,C135,C150,C200,C400,C500,C520,D1,D55,D175,D320,D435,D590,E80,E150,E200,E330,E410,A105,A150,A330,A400,A495,W150,W225,W290,W320,W330">
 					</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="S135,S150,S215,S250,S330,C120,C135,C150,C200,C400,C500,C520,D1,D55,D175,D320,D435,D590,E145,E150,E200,E330,E410,A105,A150,A330,A495,A545,W150,W225,W290,W320,W330">
+						<input type="text" value="S135,S150,S215,S250,S330,C120,C135,C150,C200,C400,C500,C520,D1,D55,D175,D320,D435,D590,E80,E150,E200,E330,E410,A105,A150,A330,A495,A545,W150,W225,W290,W320,W330">
 						<b>A400 not unlocked</b>
 					</p>
 					<p>
 						<button onclick="myFunction($(this))">Copy Build</button>
-						<input type="text" value="S135,S150,S215,S250,S330,C120,C135,C150,C200,C400,C500,C520,D1,D55,D175,D320,D435,D590,E150,E200,E290,E330,E410,A105,A150,A330,A400,A495,W150,W225,W290,W320,W330">
+						<input type="text" value="S135,S150,S215,S250,S330,C120,C135,C150,C200,C400,C500,C520,D1,D55,D175,D320,D435,D590,E80,E150,E290,E330,E410,A105,A150,A330,A400,A495,W150,W225,W290,W320,W330">
 						<b>For Max Excavations</b>
 					</p>
 					<p>S135,S150,S215,S250,S330,</p>
 					<p>C120,C135,C150,C200,C400,C500,C520,</p>
 					<p>D1,D55,D175,D320,D435,D590,</p>
-					<p>E145,E150,E200,E330,E410,</p>
+					<p>E80,E150,E200,E330,E410,</p>
 					<p>A105,A150,A330,A400,A495,</p>
 					<p>W150,W225,W290,W320,W330</p>
 					<p><b>Note</b>: The build grows stronger as you spend more time as Angel. <b>This variant only becomes better than the previous initial variant after 1 hour spent as Angel in this R.</b></p>
 					<p><b>Note</b>: This is a grower build, meaning that the build will benefit more from longer (15 minutes or more) runs instead of shorter (2-5 minutes) runs.</p>	
 					<p><b>Note</b>: It's heavily recommended that you have Dwarven Horn before running this build (and before ascending).</p>
 					<p><b>Note</b>: Swap A400 with A545 if you don't have A400 (requires 2 days as Druids).</p>
-					<p><b>Note</b>: Swap E145 with E290 for maximizing excavations.</p>			
+					<p><b>Note</b>: Swap E200 with E290 for maximizing excavations.</p>			
 				</div>
 			</div>
 		</div>
