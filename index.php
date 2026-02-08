@@ -10,7 +10,6 @@
 <p><b><a target="_blank" href="https://steamcommunity.com/sharedfiles/filedetails/?id=1118498519">In-Depth Guide to R0 Starting Realm Grinder</a></b> by RogueFireWolf</p>
 <p>If you have any suggestions or find any errors send do not a message to <a target="_blank" href="http://www.kongregate.com/accounts/Igorogi/"><b>Igorogi</b></a> or <a target="_blank" href="http://www.kongregate.com/accounts/G00FBALL/"><b>G00FBALL</b></a> and please include links to where you got the information.</p>
 
-	
 <p>A lot of the information on this site comes from the players in room 2 and the members of the <b><a target="_blank" href="https://discord.gg/cq6zmQX">Realm Grinder Chat on Discord</a></b></p>
 <p>This site contains information you need to know to help you play <a target="_blank" href="http://www.kongregate.com/games/DivineGames/realm-grinder"><b>Realm Grinder</b></a>, an incremental/idle game by <a target="_blank"target="_blank" href="http://www.divinegames.it/"><b>DivineGames</b></a> and hosted on <a target="_blank"target="_blank" href="http://www.kongregate.com/"><b>Kongregate</b>.</a>
 <p>Now available on <a target="_blank"target="_blank" href="http://store.steampowered.com/app/610080/Realm_Grinder/"><b>Steam</b></a>, <a target="_blank"target="_blank" href="https://play.google.com/store/apps/details?id=com.kongregate.mobile.realmgrinder.google&hl=en/"><b>Android</b></a>, and <a target="_blank"target="_blank" href="https://itunes.apple.com/us/app/realm-grinder/id1110149506?mt=8/"><b>iOS</b></a>.
